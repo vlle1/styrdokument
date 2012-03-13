@@ -4,14 +4,18 @@ LATEX=xelatex
 
 default: pdf
 
-pdf: stadgar.pdf
+pdf: stadgar.pdf reglemente.pdf
 
 stadgar.pdf: stadgar.tex
 	$(LATEX) stadgar
 	$(LATEX) stadgar
 
+reglemente.pdf: reglemente.tex
+	$(LATEX) reglemente
+	$(LATEX) reglemente
+
 distclean: clean
-	rm -f stadgar.pdf
+	rm -f stadgar.pdf reglemente.pdf
 
 clean:
 	rm -f *.aux *.log *.out
