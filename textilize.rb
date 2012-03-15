@@ -8,6 +8,7 @@
 # Skrivet av Peter Boström, pbos@kth.se, 2012-03-15
 
 file = ARGV.length > 0 ? File.open(ARGV[0]) : STDIN
+out = ARGV.length > 0 ? File.open(ARGV[0].sub(/\.tex$/, '') + '.textile', 'w') : STDOUT
 
 @tl_table = {
   'å' => 'a',
@@ -83,6 +84,7 @@ file.each_line do |line|
   case cmd
   when 'title'
     text_puts "h1. #{param}"
+    text_puts
   when 'section'
     @section += 1
     @subsection = 0
@@ -148,4 +150,4 @@ end
 end
 
 # Finally output :)
-puts @text.strip
+out.puts @text.strip
