@@ -7,10 +7,10 @@
 # Skrivet av Peter Boström, pbos@kth.se, 2012-03-16
 
 file = ARGV.length > 0 ? File.open(ARGV[0]) : STDIN
-out = ARGV.length > 0 ? File.open(ARGV[0].sub(/\.tex$/, '') + '.textile', 'w') : STDOUT
+out = ARGV.length > 0 ? File.open(ARGV[0].sub(/\.textile$/, '') + '.toc.textile', 'w') : STDOUT
 
 file.each_line do |line|
   if line.match /^h([1-6])\(([^)]+)\)\.\s(.*)$/
-    puts '#' * ($1.to_i - 1) + " \"#{$3}\":#{$2}"
+    out.puts '#' * ($1.to_i - 1) + " \"#{$3}\":#{$2}"
   end
 end
