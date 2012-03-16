@@ -27,18 +27,18 @@ def to_label(x)
   return text.gsub /[^a-z_]/, ''
 end
 
-@labels = {}
+tex_pars = {}
+tex_labels = {}
 
 def gen_label(x)
-  label = to_label x
-  STDERR.puts "Warning: duplicate label '#{label}'" if @labels[label]
   par = "#{@section}"
   [@subsection, @subsubsection, @paragraph, @subparagraph].each do |level|
     break if level == 0
     par += ".#{level}"
   end
-  @labels[label] = par
-  return label
+  label = par.gsub(/\./, '_') + '_' + to_label(x)
+  @last_par = par
+  @last_label = label
 end
 
 def text_puts(x = '')
@@ -65,7 +65,7 @@ last_line = ''
 file.each_line do |line|
   line.strip!
   m = line.match /^\\([a-z]+)(\[[^\]]*\])?{([^}]*)}/
-  if m.nil?
+  if m.nil? or $1 == 'ref'
     # handle regular text lines
     next if line.match /\\maketitle/
 
@@ -88,37 +88,40 @@ file.each_line do |line|
   when 'section'
     @section += 1
     @subsection = 0
-    label = gen_label param
-    text_puts "h2(##{label}). §#{@labels[label]} #{param}"
+    gen_label param
+    text_puts "h2(##{@last_label}). §#{@last_par} #{param}"
     text_puts
     last_line = ''
   when 'subsection'
     @subsection += 1
     @subsubsection = 0
-    label = gen_label param
-    text_puts "h3(##{label}). §#{@labels[label]} #{param}"
+    gen_label param
+    text_puts "h3(##{@last_label}). §#{@last_par} #{param}"
     text_puts
     last_line = ''
   when 'subsubsection'
     @subsubsection += 1
     @paragraph = 0
-    label = gen_label param
-    text_puts "h4(##{label}). §#{@labels[label]} #{param}"
+    gen_label param
+    text_puts "h4(##{@last_label}). §#{@last_par} #{param}"
     text_puts
     last_line = ''
   when 'paragraph'
     @paragraph += 1
     @subparagraph = 0
-    label = gen_label param
-    text_puts "h5(##{label}). §#{@labels[label]} #{param}"
+    gen_label param
+    text_puts "h5(##{@last_label}). §#{@last_par} #{param}"
     text_puts
     last_line = ''
   when 'subparagraph'
     @subparagraph += 1
-    label = gen_label param
-    text_puts "h6(##{label}). §#{@labels[label]} #{param}"
+    gen_label param
+    text_puts "h6(##{@last_label}). §#{@last_par} #{param}"
     text_puts
     last_line = ''
+  when 'label'
+    tex_pars[param] = @last_par
+    tex_labels[param] = @last_label
   when 'begin'
     case param
     when 'itemize'
@@ -144,9 +147,9 @@ file.each_line do |line|
 end
 
 # Replace references
-@text.gsub! /\\ref{sec:([^}]+)}/ do |match|
-  throw "Error: Undefined label '#{$1}'" if @labels[$1].nil?
-  "\"§#{@labels[$1]}\":##{$1}"
+@text.gsub! /\\ref{([^}]+)}/ do |match|
+  throw "Error: Undefined label '#{$1}'" if tex_labels[$1].nil?
+  "\"§#{tex_pars[$1]}\":##{tex_labels[$1]}"
 end
 
 # Finally output :)
