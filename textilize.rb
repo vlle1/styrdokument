@@ -149,7 +149,7 @@ end
 # Replace references
 @text.gsub! /\\ref{([^}]+)}/ do |match|
   throw "Error: Undefined label '#{$1}'" if tex_labels[$1].nil?
-  "\"§#{tex_labels[$1]}\":##{$1}"
+  "\"§#{tex_pars[$1]}\":##{tex_labels[$1]}"
 end
 
 # Finally output :)
