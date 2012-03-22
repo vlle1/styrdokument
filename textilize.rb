@@ -75,6 +75,9 @@ file.each_line do |line|
     # replace \S with §
     line.gsub! /\\S(?=\w)/, '§'
 
+    # replace latex quotations (`` and '') with regular quotes.
+    line.gsub! /``|''/, '"'
+
     text_puts line unless last_line == '' and line == ''
     last_line = line
     next
