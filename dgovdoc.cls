@@ -19,7 +19,15 @@
 \ProcessOptions\relax
 \LoadClass[a4paper,12pt]{article}
 
-\AtBeginDocument{\RequirePackage{graphicx}}
+\AtBeginDocument{
+  \RequirePackage{graphicx}
+  \RequirePackage{titlesec}
+  \titleformat{\section}{\normalfont\Large\bfseries}{\S\thesection}{1em}{}
+  \titleformat{\subsection}{\normalfont\large\bfseries}{\S\thesubsection}{1em}{}
+  \titleformat{\subsubsection}{\normalfont\normalsize\bfseries}{\S\thesubsubsection}{1em}{}
+  \titleformat{\paragraph}{\normalfont\normalsize\bfseries}{\S\theparagraph}{1em}{}
+  \titleformat{\subparagraph}{\normalfont\normalsize\bfseries}{\S\thesubparagraph}{1em}{}
+}
 
 \def\logo#1{\gdef\@logo{#1}}
 \def\organisation#1{\gdef\@organisation{#1}}
@@ -38,5 +46,7 @@
 		\vspace{0.5cm}
 	\end{minipage}
 }
+
+\setcounter{secnumdepth}{5}
 
 \endinput
