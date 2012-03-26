@@ -1,0 +1,25 @@
+% maketitle för Konglig Datasektionens dokument.
+% Detta är mest en generalisering av en befintlig copypastad kod
+% Andreas Tarandi, taran@kth.se
+% Version 0.1, 2012-03-26
+\NeedsTeXFormat{LaTeX2e}[1998/12/01]
+\ProvidesPackage{dsekthdr}[2012/03/26 v0.1 dsekthdr]
+\usepackage{graphicx}
+%\usepackage{fancyhdr}
+\def\logo#1{\gdef\@logo{#1}}
+\def\organisation#1{\gdef\@organisation{#1}}
+\def\@logo{dsekt.eps}
+\def\@organisation{Konglig Datasektionen}
+\renewcommand{\maketitle}{
+	\hspace{-2.5cm}
+	\begin{minipage}[b]{0.4\linewidth}
+		\center
+		\includegraphics[scale=0.25]{dsekt.eps}
+	\end{minipage}
+	\hspace{-1cm}
+	\begin{minipage}[b]{0.85\linewidth}
+		\huge \textbf{\@title}\\
+		\LARGE \textsc{\@organisation}
+		\vspace{0.5cm}
+	\end{minipage}
+}
