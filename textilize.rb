@@ -74,6 +74,9 @@ file.each_line do |line|
 
     # replace \S with §
     line.gsub! /\\S(?=\w)/, '§'
+    
+    # replace \& with &
+    line.gsub! /\\&/, '&'
 
     # replace latex quotations (`` and '') with regular quotes.
     line.gsub! /``|''/, '"'
