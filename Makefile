@@ -5,7 +5,7 @@ RUBY=ruby
 
 default: pdf
 
-pdf: stadgar.pdf reglemente.pdf ekonomiskt_styrdokument.pdf
+pdf: stadgar.pdf reglemente.pdf ekonomiskt_styrdokument.pdf alkoholpolicy.pdf
 
 stadgar.pdf: stadgar.tex
 	$(LATEX) stadgar
@@ -19,7 +19,11 @@ ekonomiskt_styrdokument.pdf: ekonomiskt_styrdokument.tex
 	$(LATEX) ekonomiskt_styrdokument
 	$(LATEX) ekonomiskt_styrdokument
 
-textile: stadgar.textile reglemente.textile ekonomiskt_styrdokument.textile
+alkoholpolicy.pdf: alkoholpolicy.tex
+	$(LATEX) alkoholpolicy
+	$(LATEX) alkoholpolicy
+
+textile: stadgar.textile reglemente.textile ekonomiskt_styrdokument.textile alkoholpolicy.textile
 
 stadgar.textile:
 	$(RUBY) textilize.rb stadgar.tex
@@ -30,7 +34,10 @@ reglemente.textile:
 ekonomiskt_styrdokument.textile:
 	$(RUBY) textilize.rb ekonomiskt_styrdokument.tex
 
-toc: stadgar.toc.textile reglemente.toc.textile ekonomiskt_styrdokument.toc.textile
+alkoholpolicy.textile:
+	$(RUBY) textilize.rb alkoholpolicy.tex
+
+toc: stadgar.toc.textile reglemente.toc.textile ekonomiskt_styrdokument.toc.textile alkoholpolicy.toc.textile
 
 stadgar.toc.textile: stadgar.textile
 	$(RUBY) toc_gen.rb stadgar.textile
@@ -41,8 +48,11 @@ reglemente.toc.textile: reglemente.textile
 ekonomiskt_styrdokument.toc.textile: ekonomiskt_styrdokument.textile
 	$(RUBY) toc_gen.rb ekonomiskt_styrdokument.textile
 
+alkoholpolicy.toc.textile: alkoholpolicy.textile
+	$(RUBY) toc_gen.rb alkoholpolicy.textile
+
 distclean: clean
-	rm -f stadgar.pdf reglemente.pdf ekonomiskt_styrdokument.pdf
+	rm -f stadgar.pdf reglemente.pdf ekonomiskt_styrdokument.pdf alkoholpolicy.pdf
 
 clean:
 	rm -f *.aux *.log *.out *.textile
