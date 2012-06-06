@@ -27,6 +27,14 @@
   \titleformat{\subsubsection}{\normalfont\normalsize\bfseries}{\S\thesubsubsection}{1em}{}
   \titleformat{\paragraph}{\normalfont\normalsize\bfseries}{\S\theparagraph}{1em}{}
   \titleformat{\subparagraph}{\normalfont\normalsize\bfseries}{\S\thesubparagraph}{1em}{}
+  \usepackage{fancyhdr}
+  \usepackage{lastpage}
+  \pagestyle{fancy}
+  \fancyhf{}
+  \renewcommand{\headrulewidth}{0pt}
+  \lhead{\itshape\footnotesize Konglig Datasektionen}
+  \chead{\itshape\footnotesize \@title~\today}
+  \rhead{\itshape\footnotesize \thepage~(\pageref{LastPage})}
 }
 
 \def\logo#1{\gdef\@logo{#1}}
