@@ -5,7 +5,7 @@ RUBY=ruby
 
 default: pdf
 
-pdf: stadgar.pdf reglemente.pdf
+pdf: stadgar.pdf reglemente.pdf ekonomiskt_styrdokument.pdf
 
 stadgar.pdf: stadgar.tex
 	$(LATEX) stadgar
@@ -15,7 +15,11 @@ reglemente.pdf: reglemente.tex
 	$(LATEX) reglemente
 	$(LATEX) reglemente
 
-textile: stadgar.textile reglemente.textile
+ekonomiskt_styrdokument.pdf: ekonomiskt_styrdokument.tex
+	$(LATEX) ekonomiskt_styrdokument
+	$(LATEX) ekonomiskt_styrdokument
+
+textile: stadgar.textile reglemente.textile ekonomiskt_styrdokument.textile
 
 stadgar.textile:
 	$(RUBY) textilize.rb stadgar.tex
@@ -23,7 +27,10 @@ stadgar.textile:
 reglemente.textile:
 	$(RUBY) textilize.rb reglemente.tex
 
-toc: stadgar.toc.textile reglemente.toc.textile
+ekonomiskt_styrdokument.textile:
+	$(RUBY) textilize.rb ekonomiskt_styrdokument.tex
+
+toc: stadgar.toc.textile reglemente.toc.textile ekonomiskt_styrdokument.toc.textile
 
 stadgar.toc.textile: stadgar.textile
 	$(RUBY) toc_gen.rb stadgar.textile
@@ -31,8 +38,11 @@ stadgar.toc.textile: stadgar.textile
 reglemente.toc.textile: reglemente.textile
 	$(RUBY) toc_gen.rb reglemente.textile
 
+ekonomiskt_styrdokument.toc.textile: ekonomiskt_styrdokument.textile
+	$(RUBY) toc_gen.rb ekonomiskt_styrdokument.textile
+
 distclean: clean
-	rm -f stadgar.pdf reglemente.pdf
+	rm -f stadgar.pdf reglemente.pdf ekonomiskt_styrdokument.pdf
 
 clean:
 	rm -f *.aux *.log *.out *.textile
