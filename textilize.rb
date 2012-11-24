@@ -49,6 +49,7 @@ end
 @text = ''
 
 # paragraph numbering
+@first_appendix = true
 @section = 0
 @subsection = 0
 @subsubsection = 0
@@ -69,8 +70,16 @@ file.each_line do |line|
     # handle regular text lines
     next if line.match /\\maketitle/
 
+    # switch to appendix
+    unless line.gsub!(/\\appendix/, '').nil?
+      @section = 'A'
+    end
+
     # print list
     @text += indent + ' ' if line.slice! (/^\\item /)
+
+    # item formatting for \begin{description}
+    line.gsub!(/\\item\[(.*)\]/) { "* *#{$1}*" }
 
     # replace \S with §
     line.gsub! /\\S(?=\w)/, '§'
@@ -92,7 +101,12 @@ file.each_line do |line|
     text_puts "h1. #{param}"
     text_puts
   when 'section'
-    @section += 1
+    if @section.is_a? Integer
+      @section += 1
+    else # String (appendix)
+      @section.next! unless @first_appendix
+      @first_appendix = false
+    end
     @subsection = 0
     gen_label param
     text_puts "h2(##{@last_label}). §#{@last_par} #{param}"
@@ -135,6 +149,7 @@ file.each_line do |line|
     when 'enumerate'
       indent += '#'
     when 'document'
+    when 'description'
     else
       throw "Unrecognized LaTeX environment: #{cmd}:#{param}"
     end
@@ -143,6 +158,7 @@ file.each_line do |line|
     when 'itemize', 'enumerate'
       indent.slice! /.$/
     when 'document'
+    when 'description'
     else
       throw "Unrecognized LaTeX environment: #{cmd}:#{param}"
     end
