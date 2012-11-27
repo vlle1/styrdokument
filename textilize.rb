@@ -169,9 +169,9 @@ file.each_line do |line|
 end
 
 # Replace references
-@text.gsub! /\\ref{([^}]+)}/ do |match|
-  throw "Error: Undefined label '#{$1}'" if tex_labels[$1].nil?
-  "\"§#{tex_pars[$1]}\":##{tex_labels[$1]}"
+@text.gsub! /(\\S)?\\ref{([^}]+)}/ do |match|
+  throw "Error: Undefined label '#{$2}'" if tex_labels[$2].nil?
+  "\"§#{tex_pars[$2]}\":##{tex_labels[$2]}"
 end
 
 # Finally output :)
