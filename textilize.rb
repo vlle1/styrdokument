@@ -174,5 +174,14 @@ end
   "\"§#{tex_pars[$2]}\":##{tex_labels[$2]}"
 end
 
+# Connect paragraphs.
+# Textile inserts <br/> between lines, so in order to have format which looks
+# decent, all paragraphs have to be joined with a space to form a single line.
+def connect_paragraphs(text)
+  text.lines('').map do |paragraph|
+    paragraph.strip.split("\n").join " "
+  end.join "\n\n"
+end
+
 # Finally output :)
-out.puts @text.strip
+out.puts connect_paragraphs @text.strip
