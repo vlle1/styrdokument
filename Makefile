@@ -25,16 +25,16 @@ alkoholpolicy.pdf: alkoholpolicy.tex
 
 textile: stadgar.textile reglemente.textile ekonomiskt_styrdokument.textile alkoholpolicy.textile
 
-stadgar.textile: stadgar.tex
+stadgar.textile: stadgar.tex textilize.rb
 	$(RUBY) textilize.rb stadgar.tex
 
-reglemente.textile: reglemente.tex
+reglemente.textile: reglemente.tex textilize.rb
 	$(RUBY) textilize.rb reglemente.tex
 
-ekonomiskt_styrdokument.textile: ekonomiskt_styrdokument.tex
+ekonomiskt_styrdokument.textile: ekonomiskt_styrdokument.tex textilize.rb
 	$(RUBY) textilize.rb ekonomiskt_styrdokument.tex
 
-alkoholpolicy.textile: alkoholpolicy.tex
+alkoholpolicy.textile: alkoholpolicy.tex textilize.rb
 	$(RUBY) textilize.rb alkoholpolicy.tex
 
 toc: stadgar.toc.textile reglemente.toc.textile ekonomiskt_styrdokument.toc.textile alkoholpolicy.toc.textile
