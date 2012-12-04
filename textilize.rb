@@ -179,7 +179,17 @@ end
 # decent, all paragraphs have to be joined with a space to form a single line.
 def connect_paragraphs(text)
   text.lines('').map do |paragraph|
-    paragraph.strip.split("\n").join " "
+    lines = paragraph.strip.split("\n")
+    text = ""
+    lines.each do |line|
+      line.strip!
+      # Preserve newlines for lists
+      unless text.empty?
+        text += (line =~ /^[*#] /) ? "\n" : " "
+      end
+      text += line
+    end
+    text
   end.join "\n\n"
 end
 
