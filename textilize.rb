@@ -185,7 +185,7 @@ def connect_paragraphs(text)
       line.strip!
       # Preserve newlines for lists
       unless text.empty?
-        text += (line =~ /^[*#] /) ? "\n" : " "
+        text += (line =~ /^[*#]+ /) ? "\n" : " "
       end
       text += line
     end
