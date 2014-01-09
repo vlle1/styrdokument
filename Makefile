@@ -1,4 +1,4 @@
-LATEX=xelatex
+LATEX?=pdflatex
 RUBY=ruby
 
 .PHONY: default pdf distclean clean
