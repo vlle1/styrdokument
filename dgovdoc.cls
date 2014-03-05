@@ -45,7 +45,7 @@
 	\hspace{-2.5cm}
 	\begin{minipage}[b]{0.4\linewidth}
 		\center
-		\includegraphics[scale=0.25]{dsekt.eps}
+		\includegraphics[scale=0.25]{dsekt.pdf}
 	\end{minipage}
 	\hspace{-1cm}
 	\begin{minipage}[b]{0.85\linewidth}
