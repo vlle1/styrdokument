@@ -7,7 +7,7 @@
 #
 # Skrivet av Peter Boström, pbos@kth.se, 2012-03-15
 
-file = ARGV.length > 0 ? File.open(ARGV[0]) : STDIN
+file = ARGV.length > 0 ? File.open(ARGV[0], "r:utf-8") : STDIN
 out = ARGV.length > 0 ? File.open(ARGV[0].sub(/\.tex$/, '') + '.textile', 'w') : STDOUT
 
 @tl_table = {
