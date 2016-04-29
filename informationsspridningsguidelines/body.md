@@ -1,3 +1,6 @@
+Informationsspridningsguidelines
+================================
+
 Om det här dokumentet
 ---------------------
 
