@@ -339,7 +339,7 @@ Om sektionsordförande är oförmögen att göra så, utövar vice sektionsordf�
 §4.8 Per capsulam-beslut
 -------------------
 
-Vid per capsulam beslut gäller 2/3-majoritet och att beslut prövas på näst- kommande DM. D-rektoratet ska kontakta revisorerna med information om beslutet som tagits. Vid utövande av SM:s befogenheter ska information om beslutet också anslås enligt §[sec:officiella<sub>i</sub>nformationskanaler].
+Vid per capsulam beslut gäller 2/3-majoritet och att beslut prövas på nästkommande DM. D-rektoratet ska kontakta revisorerna med information om beslutet som tagits. Vid utövande av SM:s befogenheter ska information om beslutet också anslås enligt §[sec:officiella<sub>i</sub>nformationskanaler].
 
 §4.9 D-rektiv
 --------
@@ -376,7 +376,7 @@ Valberedningen skall enligt §[sec:officiella<sub>i</sub>nformationskanaler] ans
 
 #### §5.1.4.2 Fyllnadsval
 
-Om en funktionärspost blir vakantsatt skall Valberedningen lysa fyllnadsval till näst- kommande ordinarie SM. Inför fyllnadsval skall Valberedningen enligt §[sec:officiella<sub>i</sub>nformationskanaler] anslå en nomineringslista senast 15 läsdagar före det SM då fyllnadsvalet sker. På denna lis- ta kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen. Nominering till funktionärspost måste lämnas in senast 5 läsdagar före det SM där fyllnadsvalet sker. Nominering till funktionärspost måste accepteras senast 1 läsdag före det SM där fyllnadsvalet sker för att kandidaturen ska vara giltig.
+Om en funktionärspost blir vakantsatt skall Valberedningen lysa fyllnadsval till nästkommande ordinarie SM. Inför fyllnadsval skall Valberedningen enligt §[sec:officiella<sub>i</sub>nformationskanaler] anslå en nomineringslista senast 15 läsdagar före det SM då fyllnadsvalet sker. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen. Nominering till funktionärspost måste lämnas in senast 5 läsdagar före det SM där fyllnadsvalet sker. Nominering till funktionärspost måste accepteras senast 1 läsdag före det SM där fyllnadsvalet sker för att kandidaturen ska vara giltig.
 
 #### §5.1.4.3 Val vid extra SM
 
