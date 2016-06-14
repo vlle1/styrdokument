@@ -354,7 +354,7 @@ D-rektoratet må, om det så önskar, utfärda D-rektiv, vilka utgöra rekommend
 
 ### §5.1.1 Ändamål
 
-En nämnd är ett officiellt sektionsorgan med syfte att ansvara för en viss del av sektionens verksamhet. Nämnder driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut. Nämnder är de, som upptas i reglementet.
+En nämnd är ett officiellt sektionsorgan med syfte att ansvara för en viss del av sektionens verksamhet. Nämnder driver sin verksamhet självständigt inom ramen för av SM och D-rektoratet fattade beslut. Nämnder är de som upptas i reglementet.
 
 ### §5.1.2 Sammansättning och verksamhet
 
@@ -392,7 +392,7 @@ Valberedningen skall tillfråga de nominerade och i anslutning till det SM då v
 
 Sektionsordförande och vice sektionsordförande väljs med urnval enligt reglementets §2.14.6.
 
-##### §5.1.4.5.2THS Kårfullmäktige
+##### §5.1.4.5.2 THS Kårfullmäktige
 
 Ledamöter och suppleanter till THS Kårfullmäktige väljs i enlighet med THS styrdokument.
 
@@ -442,7 +442,7 @@ Efter att projektets verksamhet är genomförd ska projektledare snarast möjlig
 
 ### §5.3.4 Projektledare
 
-För varje projekt skall det finnas en eller flera personer som är projektledare. Som projektledare kan bara räknas sektionsmedlem som tillsatts av SM. Projektledare kan formellt ha en annan titel såsom direqteur, marskalk, general eller liknande om denna titel hargodkänts av SM eller DM.
+För varje projekt skall det finnas en eller flera personer som är projektledare. Som projektledare kan bara räknas sektionsmedlem som tillsatts av SM. Projektledare kan formellt ha en annan titel såsom direqteur, marskalk, general eller liknande om denna titel har godkänts av SM eller DM.
 
 #### §5.3.4.1 Skyldigheter
 
@@ -468,7 +468,7 @@ Revisorerna har rätt
 
 -   att begära och erhålla upplysningar rörande verksamhet och förvaltning
 
--   att bevaka samtliga sektionsorgans sammanträden med yttrande och yrkanderätt
+-   att bevaka samtliga sektionsorgans sammanträden med yttrande- och yrkanderätt
 
 -   att kalla till möte med samtliga sektionsorgan.
 
