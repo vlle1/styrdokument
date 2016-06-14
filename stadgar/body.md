@@ -106,7 +106,7 @@ Sektionsmedlem är
 
 -   alumnimedlem enligt §[sec:alumnimedlem]
 
--   juniormedlem enligt §[sec:juniormedlem]
+-   juniormedlem enligt §[sec:juniormedlem].
 
 §2.1 Ordinarie sektionsmedlem
 ------------------------
@@ -137,11 +137,11 @@ Alumnimedlem är medlem som har anknytning till sektionen och antingen under sam
 
 ### §2.3.1 Rättigheter
 
-Alumnimedlem har rätt att:
+Alumnimedlem har rätt att
 
--   deltaga med närvaro-, yttrande- och yrkanderätt på SM.
+-   deltaga med närvaro-, yttrande- och yrkanderätt på SM
 
--   kandidera till samtliga förtroendeuppdrag inom sektionen.
+-   kandidera till samtliga förtroendeuppdrag inom sektionen
 
 -   närvara på DM såvida det inte beslutats om lyckta dörrar.
 
@@ -183,7 +183,7 @@ Det åligger SM
 
 -   att välja funktionärer, med undantag av de som väljs vid urnval
 
--   att genomföra fyllnadsval vid behov, även till poster som vanligen väljs vid urnval
+-   att genomföra fyllnadsval vid behov, även till poster som vanligen väljs vid urnval.
 
 §3.4 Kallelse
 --------
@@ -275,7 +275,7 @@ D-rektoratet består av
 
 -   Ledamot för studiesociala frågor
 
--   Ledamot för utbildningsfrågor
+-   Ledamot för utbildningsfrågor.
 
 Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revisorer enligt har närvaro-, yttrande- och yrkanderätt vid DM. Samtliga sektionsmedlemmar har närvaro- och yttranderätt vid DM. Därutöver äger D-rektoratet rätt att adjungera person med närvaro- eller närvaro- och yttranderätt för viss fråga eller helt möte. D-rektoratet äger vidare, om synnerliga skäl föreligger, rätt att besluta om lyckta dörrar, vilket utestänger samtliga utan yrkanderätt.
 
@@ -311,11 +311,11 @@ Det åligger D-rektoratet
 
 -   att vid behov och efter majoritetsbeslut vid DM tillförordna intresserad sektionsmedlem till vakant post inom sektionen. D-rektoratet får dock ej tillförordna D-rektoratsledamot, sektionsrevisor, ledamot eller suppleant i kårfullmäktige eller valberedare
 
--   att vid behov och efter majoritetsbeslut vid DM utöva ordförandeskap för nämnd i dess ordförandes ställe.
+-   att vid behov och efter majoritetsbeslut vid DM utöva ordförandeskap för nämnd i dess ordförandes ställe
 
 -   att svara för att verksamhetsplan, budget, verksamhetsberättelse och årsbokslut upprättas
 
--   att, om så anses nödvändigt, avsätta en av sektionen vald funktionär, dock ej styrelseledamot, revisor, kårfullmäktigesuppleant, kårfullmäktigeledamot eller valberedare. En sådan avsättning skall dock alltid prövas på nästkommande SM.
+-   att, om så anses nödvändigt, avsätta en av sektionen vald funktionär, dock ej styrelseledamot, revisor, kårfullmäktigesuppleant, kårfullmäktigeledamot eller valberedare. En sådan avsättning skall dock alltid prövas på nästkommande SM
 
 -   att besluta om uppstartade projekt ska vara bokföringspliktiga.
 
