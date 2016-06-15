@@ -53,11 +53,11 @@ Vid konflikt mellan dessa stadgar eller andra av sektionens styrdokument och THS
 
 #### §1.6.4.1 Stadgeändring
 
-Stadgarna ändras genom likalydande beslut på två på varandra följande SM, varav minst det ena måste vara ett ordinarie enligt §[sec:ordinarie<sub>s</sub>m]. D-rektoratet skall föra upp fråga om andra läsning av vilande stadgeändring på kallelse och föredragningslista till nästa SM.
+Stadgarna ändras genom likalydande beslut på två på varandra följande SM, varav minst det ena måste vara ett ordinarie enligt §[3.9.1]. D-rektoratet skall föra upp fråga om andra läsning av vilande stadgeändring på kallelse och föredragningslista till nästa SM.
 
 #### §1.6.4.2 Dispens från stadgarna
 
-Dispens från bestämmelse i dessa stadgar kan beviljas om SM enhälligt beslutar så. Dispens får dock ej medges från §[sec:namn] – §[sec:styrdokument] och ej heller om det är till nackdel för enskild sektionsmedlem. Beslut om dispens skall motiveras i mötesprotokollet.
+Dispens från bestämmelse i dessa stadgar kan beviljas om SM enhälligt beslutar så. Dispens får dock ej medges från §[1.1] – §[1.6] och ej heller om det är till nackdel för enskild sektionsmedlem. Beslut om dispens skall motiveras i mötesprotokollet.
 
 ### §1.6.5 Reglemente
 
@@ -100,13 +100,13 @@ Ordförande och kassör tecknar firman var för sig. D-rektoratet kan fatta besl
 
 Sektionsmedlem är
 
--   ordinarie sektionsmedlem enligt §[sec:ordinarie<sub>s</sub>ektionsmedlem]
+-   ordinarie sektionsmedlem enligt §[2.1]
 
--   hedersmedlem enligt §[sec:hedersmedlem]
+-   hedersmedlem enligt §[2.2]
 
--   alumnimedlem enligt §[sec:alumnimedlem]
+-   alumnimedlem enligt §[2.3]
 
--   juniormedlem enligt §[sec:juniormedlem].
+-   juniormedlem enligt §[2.4].
 
 §2.1 Ordinarie sektionsmedlem
 ------------------------
@@ -166,7 +166,7 @@ Sektionsmötet, SM, är sektionens högsta beslutande organ.
 §3.2 Sammansättning
 --------------
 
-Vid SM har samtliga ordinarie sektionsmedlemmar närvarorätt, yttranderätt, yrkanderätt och rösträtt. Sektionens revisorer enligt §[sec:revisorer] har närvaro-, yttrande- och yrkanderätt. Hedersmedlemmar, alumnimedlemmar och ledamöter i THS styrelse har närvaro- och yttranderätt. Dessutom kan SM adjungera utomstående med närvarorätt och eventuellt även yttranderätt.
+Vid SM har samtliga ordinarie sektionsmedlemmar närvarorätt, yttranderätt, yrkanderätt och rösträtt. Sektionens revisorer enligt §[6.1] har närvaro-, yttrande- och yrkanderätt. Hedersmedlemmar, alumnimedlemmar och ledamöter i THS styrelse har närvaro- och yttranderätt. Dessutom kan SM adjungera utomstående med närvarorätt och eventuellt även yttranderätt.
 
 §3.3 Uppgifter
 ---------
@@ -190,20 +190,20 @@ Det åligger SM
 
 D-rektoratet kallar till ordinarie och extra SM.
 
-Kallelse till ordinarie SM skall anslås enligt §[sec:officiella<sub>i</sub>nformationskanaler] samt tillsändas THS styrelse och THS sakrevisorer senast 15 läsdagar före mötet för att mötet skall anses vara behörigt utlyst.
+Kallelse till ordinarie SM skall anslås enligt §[1.8] samt tillsändas THS styrelse och THS sakrevisorer senast 15 läsdagar före mötet för att mötet skall anses vara behörigt utlyst.
 
-Kallelse till extra SM skall anslås enligt §[sec:officiella<sub>i</sub>nformationskanaler] samt tillsändas THS styrelse och THS sakrevisorer senast 8 läsdagar före mötet för att mötet skall anses vara behörigt utlyst.
+Kallelse till extra SM skall anslås enligt §[1.8] samt tillsändas THS styrelse och THS sakrevisorer senast 8 läsdagar före mötet för att mötet skall anses vara behörigt utlyst.
 
 Föredragningslista och övriga handlingar skall anslås jämte kallelse senast 5 läsdagar före mötet.
 
-Om minst 30 sektionsmedlemmar, sektionsrevisor enligt §[sec:revisorer] eller THS styrelse så begär hos D-rektoratet, skall extra SM hållas inom 20 läsdagar.
+Om minst 30 sektionsmedlemmar, sektionsrevisor enligt §[6.1] eller THS styrelse så begär hos D-rektoratet, skall extra SM hållas inom 20 läsdagar.
 
-Kallelse skall innehålla information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §[sec:ajournering]. Reservtiden skall vara senast fem (5) läsdagar efter den ordinarie tiden för mötet.
+Kallelse skall innehålla information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §[3.10]. Reservtiden skall vara senast fem (5) läsdagar efter den ordinarie tiden för mötet.
 
 §3.5 Beslutsmässighet
 ----------------
 
-SM är beslutsmässigt när mötet är behörigt utlyst enligt §[sec:kallelse] och minst 10 sektionsmedlemmar är närvarande.
+SM är beslutsmässigt när mötet är behörigt utlyst enligt §[3.4] och minst 10 sektionsmedlemmar är närvarande.
 
 §3.6 Beslut
 ------
@@ -219,7 +219,7 @@ Varje röstberättigad deltagare på SM kan reservera sig mot fattat beslut. Res
 §3.7 Protokoll
 ---------
 
-Vid SM skall diskussionsprotokoll föras av mötessekreterare och justeras av mötesordföranden jämte två av mötet utsedda justerare. Protokoll skall innehålla en förteckning över närvarande, röstberättigade medlemmar. Protokoll skall i justerat skick anslås enligt §[sec:officiella<sub>i</sub>nformationskanaler] samt tillsändas THS styrelse inom 14 dagar.
+Vid SM skall diskussionsprotokoll föras av mötessekreterare och justeras av mötesordföranden jämte två av mötet utsedda justerare. Protokoll skall innehålla en förteckning över närvarande, röstberättigade medlemmar. Protokoll skall i justerat skick anslås enligt §[1.8] samt tillsändas THS styrelse inom 14 dagar.
 
 §3.8 Interpellation, motion och proposition
 --------------------------------------
@@ -248,7 +248,7 @@ D-rektoratet kan, själv eller på anmodan, kalla till extra SM. Extra SM kan en
 §3.10 Ajournering
 -----------
 
-Mötets ordförande äger rätt att ajournera mötet till den, enligt §[sec:kallelse] i kallelsen angivna reservtiden.
+Mötets ordförande äger rätt att ajournera mötet till den, enligt §[3.4] i kallelsen angivna reservtiden.
 
 §4 D-rektoratet
 ============
@@ -277,24 +277,24 @@ D-rektoratet består av
 
 -   ledamot för utbildningsfrågor.
 
-Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revisorer enligt har närvaro-, yttrande- och yrkanderätt vid DM. Samtliga sektionsmedlemmar har närvaro- och yttranderätt vid DM. Därutöver äger D-rektoratet rätt att adjungera person med närvaro- eller närvaro- och yttranderätt för viss fråga eller helt möte. D-rektoratet äger vidare, om synnerliga skäl föreligger, rätt att besluta om lyckta dörrar, vilket utestänger samtliga utan yrkanderätt.
+Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revisorer enligt §[6.1] har närvaro-, yttrande- och yrkanderätt vid DM. Samtliga sektionsmedlemmar har närvaro- och yttranderätt vid DM. Därutöver äger D-rektoratet rätt att adjungera person med närvaro- eller närvaro- och yttranderätt för viss fråga eller helt möte. D-rektoratet äger vidare, om synnerliga skäl föreligger, rätt att besluta om lyckta dörrar, vilket utestänger samtliga utan yrkanderätt.
 
 §4.3 D-rektoratsmöte
 ---------------
 
 ### §4.3.1 Kallelse
 
-Styrelsen kallar till D-rektoratsmöte, DM. Kallelsen skall anslås enligt §[sec:officiella<sub>i</sub>nformationskanaler] samt skickas med e-post till D-rektoratets ledamöter och sektionens funktionärer senast 5 läsdagar före mötet.
+Styrelsen kallar till D-rektoratsmöte, DM. Kallelsen skall anslås enligt §[1.8] samt skickas med e-post till D-rektoratets ledamöter och sektionens funktionärer senast 5 läsdagar före mötet.
 
 Föredragningslista och övriga handlingar skall anslås senast 1 läsdag innan DM. Kompletterande handlingar kan skickas ut samma dag som mötet hålls.
 
 ### §4.3.2 Beslut
 
-DM är beslutsmässigt om minst hälften av dess ledamöter är närvarande, och mötet är behörigt utlyst enligt §[sec:d<sub>r</sub>ektoratsmote] Vid lika röstetal har mötesordförande utslagsröst.
+DM är beslutsmässigt om minst hälften av dess ledamöter är närvarande, och mötet är behörigt utlyst enligt §[4.3] Vid lika röstetal har mötesordförande utslagsröst.
 
 ### §4.3.3 Protokoll
 
-På DM skall protokoll föras. Protokollet skall justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet skall anslås enligt §[sec:officiella<sub>i</sub>nformationskanaler] i justerat skick senast 14 dagar efter mötet.
+På DM skall protokoll föras. Protokollet skall justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet skall anslås enligt §[1.8] i justerat skick senast 14 dagar efter mötet.
 
 §4.4 Uppgifter
 ---------
@@ -339,7 +339,7 @@ Om sektionsordförande är oförmögen att göra så, utövar vice sektionsordf�
 §4.8 Per capsulam-beslut
 -------------------
 
-Vid per capsulam beslut gäller 2/3-majoritet och att beslut prövas på nästkommande DM. D-rektoratet ska kontakta revisorerna med information om beslutet som tagits. Vid utövande av SM:s befogenheter ska information om beslutet också anslås enligt §[sec:officiella<sub>i</sub>nformationskanaler].
+Vid per capsulam beslut gäller 2/3-majoritet och att beslut prövas på nästkommande DM. D-rektoratet ska kontakta revisorerna med information om beslutet som tagits. Vid utövande av SM:s befogenheter ska information om beslutet också anslås enligt §[1.8].
 
 §4.9 D-rektiv
 --------
@@ -372,15 +372,15 @@ Nämnd är skyldig att upprätta verksamhetsberättelse, samt även annars på a
 
 #### §5.1.4.1 Ordinarie val
 
-Valberedningen skall enligt §[sec:officiella<sub>i</sub>nformationskanaler] anslå en nomineringslista senast 25 läsdagar före SM då ordinarie val sker. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen. Nominering till funktionärspost måste lämnas in senast 15 läsdagar före det SM där valet sker. Nominering till funktionärspost måste accepteras senast 10 läsdagar före det SM där valet sker för att kandidaturen ska vara giltig. Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 5 läsdagar för den specifika posten. I händelse att det inte finns några kandidater efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod på 5 läsdagar och därefter ska acceptansstoppet vara en dag innan SM. Detta gäller inte sektionsordförande och vice sektionsordförande för att möjliggöra urnval.
+Valberedningen skall enligt §[1.8] anslå en nomineringslista senast 25 läsdagar före SM då ordinarie val sker. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen. Nominering till funktionärspost måste lämnas in senast 15 läsdagar före det SM där valet sker. Nominering till funktionärspost måste accepteras senast 10 läsdagar före det SM där valet sker för att kandidaturen ska vara giltig. Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 5 läsdagar för den specifika posten. I händelse att det inte finns några kandidater efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod på 5 läsdagar och därefter ska acceptansstoppet vara en dag innan SM. Detta gäller inte sektionsordförande och vice sektionsordförande för att möjliggöra urnval.
 
 #### §5.1.4.2 Fyllnadsval
 
-Om en funktionärspost blir vakantsatt skall Valberedningen lysa fyllnadsval till nästkommande ordinarie SM. Inför fyllnadsval skall Valberedningen enligt §[sec:officiella<sub>i</sub>nformationskanaler] anslå en nomineringslista senast 15 läsdagar före det SM då fyllnadsvalet sker. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen. Nominering till funktionärspost måste lämnas in senast 5 läsdagar före det SM där fyllnadsvalet sker. Nominering till funktionärspost måste accepteras senast 1 läsdag före det SM där fyllnadsvalet sker för att kandidaturen ska vara giltig.
+Om en funktionärspost blir vakantsatt skall Valberedningen lysa fyllnadsval till nästkommande ordinarie SM. Inför fyllnadsval skall Valberedningen enligt §[1.8] anslå en nomineringslista senast 15 läsdagar före det SM då fyllnadsvalet sker. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen. Nominering till funktionärspost måste lämnas in senast 5 läsdagar före det SM där fyllnadsvalet sker. Nominering till funktionärspost måste accepteras senast 1 läsdag före det SM där fyllnadsvalet sker för att kandidaturen ska vara giltig.
 
 #### §5.1.4.3 Val vid extra SM
 
-I undantagsfall kan val på extra SM utföras. Valberedningen skall enligt §[sec:officiella<sub>i</sub>nformationskanaler] anslå en nomineringslista senast 8 läsdagar före det extra SM då ett val sker. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen. Nominering till funktionärspost måste lämnas in senast en (1) läsdag före det extra SM där valet sker. Nominering till funktionärspost måste accepteras innan öppnandet av det extra SM där valet sker för att kandidaturen ska vara giltig.
+I undantagsfall kan val på extra SM utföras. Valberedningen skall enligt §[1.8] anslå en nomineringslista senast 8 läsdagar före det extra SM då ett val sker. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen. Nominering till funktionärspost måste lämnas in senast en (1) läsdag före det extra SM där valet sker. Nominering till funktionärspost måste accepteras innan öppnandet av det extra SM där valet sker för att kandidaturen ska vara giltig.
 
 #### §5.1.4.4 Valhandlingar
 
@@ -417,7 +417,7 @@ Funktionärs mandatperiod sammanfaller med verksamhetsår om inget annat är fö
 
 ### §5.2.4 Obligatoriska funktionärer
 
-Utöver D-rektoratets ledamöter, revisorer och ordförande för de under §[sec:namnder] uppräknade nämnderna, som regleras särskilt, skall det finnas en programansvarig student och ett studerandeskyddsombud.
+Utöver D-rektoratets ledamöter, revisorer och ordförande för de under §[5.1] uppräknade nämnderna, som regleras särskilt, skall det finnas en programansvarig student och ett studerandeskyddsombud.
 
 §5.3 Projekt
 -------
@@ -478,10 +478,23 @@ Det åligger revisorerna
 
 -   att fortlöpande granska sektionens förvaltning och verksamhet
 
--   att senast 5 läsdagar före de SM vid vilka fråga om ansvarsfrihet behandlas anslå revisionberättelse enligt §[sec:officiella<sub>i</sub>nformationskanaler] samt inlämna revisionberättelse till D-rektoratet.
+-   att senast 5 läsdagar före de SM vid vilka fråga om ansvarsfrihet behandlas anslå revisionberättelse enligt §[1.8] samt inlämna revisionberättelse till D-rektoratet.
 
 §6.2 Verksamhetsberättelse och årsbokslut
 ------------------------------------
 
-Sektionens verksamhetsberättelse och årsbokslut skall överlämnas till revisorerna senast 15 läsdagar före det SM på vilka de skall granskas, samt anslås enligt §[sec:officiella<sub>i</sub>nformationskanaler] senast 10 läsdagar före samma SM.
+Sektionens verksamhetsberättelse och årsbokslut skall överlämnas till revisorerna senast 15 läsdagar före det SM på vilka de skall granskas, samt anslås enligt §[1.8] senast 10 läsdagar före samma SM.
 
+[1.1]: #1-1-namn
+[1.6]: #1-6-styrdokument
+[1.8]: #1-8-officiella-informationskanaler
+[2.1]: #2-1-ordinarie-sektionsmedlem
+[2.2]: #2-2-hedersmedlem
+[2.3]: #2-3-alumnimedlem
+[2.4]: #2-4-juniormedlem
+[3.4]: #3-4-kallelse
+[3.9.1]: #3-9-1-ordinarie-sm
+[3.10]: #3-10-ajournering
+[4.3]: #4-3-d-rektoratsmöte
+[5.1]: #5-1-nämnder
+[6.1]: #6-1-revisorer
