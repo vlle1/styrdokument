@@ -263,19 +263,19 @@ D-rektoratet är sektionens styrelse och högsta verkställande organ.
 
 D-rektoratet består av
 
--   Sektionsordförande
+-   sektionsordförande
 
--   Vice Sektionsordförande
+-   vice sektionsordförande
 
--   Kassör
+-   kassör
 
--   Sekreterare
+-   sekreterare
 
--   Ledamot för näringsliv och kommunikation
+-   ledamot för näringsliv och kommunikation
 
--   Ledamot för studiesociala frågor
+-   ledamot för studiesociala frågor
 
--   Ledamot för utbildningsfrågor.
+-   ledamot för utbildningsfrågor.
 
 Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revisorer enligt har närvaro-, yttrande- och yrkanderätt vid DM. Samtliga sektionsmedlemmar har närvaro- och yttranderätt vid DM. Därutöver äger D-rektoratet rätt att adjungera person med närvaro- eller närvaro- och yttranderätt för viss fråga eller helt möte. D-rektoratet äger vidare, om synnerliga skäl föreligger, rätt att besluta om lyckta dörrar, vilket utestänger samtliga utan yrkanderätt.
 
@@ -372,7 +372,7 @@ Nämnd är skyldig att upprätta verksamhetsberättelse, samt även annars på a
 
 #### §5.1.4.1 Ordinarie val
 
-Valberedningen skall enligt §[sec:officiella<sub>i</sub>nformationskanaler] anslå en nomineringslista senast 25 läsdagar före SM då ordinarie val sker. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen. Nominering till funktionärspost måste lämnas in senast 15 läsdagar före det SM där valet sker. Nominering till funktionärspost måste accepteras senast 10 läsdagar före det SM där valet sker för att kandidaturen ska vara giltig. Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 5 läsdagar för den specifika posten. I händelse att det inte finns några kandidater efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod på 5 läsdagar och därefter ska acceptansstoppet vara en dag innan SM. Detta gäller inte Sektionsordförande och Vice Sektionsordförande för att möjliggöra urnval.
+Valberedningen skall enligt §[sec:officiella<sub>i</sub>nformationskanaler] anslå en nomineringslista senast 25 läsdagar före SM då ordinarie val sker. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen. Nominering till funktionärspost måste lämnas in senast 15 läsdagar före det SM där valet sker. Nominering till funktionärspost måste accepteras senast 10 läsdagar före det SM där valet sker för att kandidaturen ska vara giltig. Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 5 läsdagar för den specifika posten. I händelse att det inte finns några kandidater efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod på 5 läsdagar och därefter ska acceptansstoppet vara en dag innan SM. Detta gäller inte sektionsordförande och vice sektionsordförande för att möjliggöra urnval.
 
 #### §5.1.4.2 Fyllnadsval
 
