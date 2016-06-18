@@ -382,7 +382,7 @@ Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna di
 
 Vid urnval ska valberedningen hålla valperiod under minst fem läsdagar direkt innan sektionsmötet. Resultatet av urnvalet skall redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig minst en timme per dag, i första hand under lunchtid. Dessa tider ska senast fem dagar i förväg annonseras enligt sektionens informationsspridningspolicy.
 
-Vid urnval används alternativomröstning. Väljarna rankar kandidaterna, där vakans och blankröst skall vara alternativ som kan rankas. Om ingen av kandidaterna uppnår enkel majoritet blir bottenkandidaten eliminerad, dock ej vakans, och dennes röster blir omfördelade till väljarnas nästahandsval av kandidat. Denna process upprepas tills dess att en kandidat uppnår enkel majoritet, varpå valet skall godkännas av SM enligt stadgans §1.7.
+Vid urnval används alternativomröstning. Väljarna rankar kandidaterna, där vakans och blankröst skall vara alternativ som kan rankas. Om ingen av kandidaterna uppnår enkel majoritet blir bottenkandidaten eliminerad, dock ej vakans, och dennes röster blir omfördelade till väljarnas nästahandsval av kandidat. Denna process upprepas tills dess att en kandidat uppnår enkel majoritet, varpå valet skall godkännas av SM enligt stadgans §[1.7](../stadgar#1-7-beslutsnivåer).
 
 §3.13 Datasektionens E-sports Community
 ---------------------------------
@@ -1131,7 +1131,7 @@ En medalj per person och projekt utdelas. D-rektoratet ansvarar för att utdelni
 §8 Sektionslokalen
 ===============
 
-Sektionslokalen kan endast bokas/hyras av sektionernas styrelser, nämnder och funktionärer, såväl som av organ inom THS, kårföreningar och andra sektioner. Beslut om att bevilja eller avslå bokningsbegäran fattas av sektionslokalsansvariga från fall till fall. Bokning av sektionslokalen som sträcker sig över lunchtid, 11:30 – 13:30, räknas som en stängning enligt §[sec:sektionslokal-stangning].
+Sektionslokalen kan endast bokas/hyras av sektionernas styrelser, nämnder och funktionärer, såväl som av organ inom THS, kårföreningar och andra sektioner. Beslut om att bevilja eller avslå bokningsbegäran fattas av sektionslokalsansvariga från fall till fall. Bokning av sektionslokalen som sträcker sig över lunchtid, 11:30 – 13:30, räknas som en stängning enligt §[8.5].
 
 §8.1 Prioritering
 ------------
@@ -1189,3 +1189,4 @@ Det var bättre förr.
 
 Och ju förr desto bättre.
 
+[8.5]: #8-5-stängning
