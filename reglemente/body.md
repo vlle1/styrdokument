@@ -24,7 +24,7 @@ Sektionen har utöver stadgar och reglemente även ett ekonomiskt styrdokument, 
 §3 Nämnder
 =======
 
-Det åligger samtliga nämnder, funktionärer, samt projektledare att följa de dokument som tas upp i §2. D-rektoratet ansvarar för att samtliga nämnder har en kontaktperson i D-rektoratet, samt att nämndordförande vet vem detta är.
+Det åligger samtliga nämnder, funktionärer, samt projektledare att följa de dokument som tas upp i §2. D-rektoratet ansvarar för att samtliga nämnder har en kontaktperson i D-rektoratet, samt att nämndordförande vet vem denna är.
 
 §3.1 Sektionslokalsgruppen
 ---------------------
@@ -35,7 +35,7 @@ Sektionslokalsgruppens syfte är att sköta, underhålla och utveckla sektionslo
 
 ### §3.1.2 Organisation
 
-Sektionslokalsgruppen kallas för METAdorerna och leds av sektionslokalsansvariga, en från Sektionen för Medieteknik och en från Konglig Datasektionen, som väljs av respektive sektion. Funktionären från Datateknik kallas för Konglig Lokalchef. Beslut som fattas av de sektionslokalsansvariga måste vara enhälligt, och i de fall som sektionslokalsansvariga är oense åligger det respektive sektionsordföranden att komma överens om och besluta i frågan. Sektionslokalsansvariga utser resten av gruppen efter ansökningar och efter att de ansökande en gång ha lagat middag åt nämnden, sig själva inkluderade. Sektionslokalsgruppen bestämmer internt organisation och planering.
+Sektionslokalsgruppen kallas för METAdorerna och leds av sektionslokalsansvariga, en från Sektionen för Medieteknik och en från Konglig Datasektionen, som väljs av respektive sektion. Funktionären från Datateknik kallas för Konglig Lokalchef. Beslut som fattas av de sektionslokalsansvariga måste vara enhälligt, och i de fall som sektionslokalsansvariga är oense åligger det respektive sektionsordförande att komma överens om och besluta i frågan. Sektionslokalsansvariga utser resten av gruppen efter ansökningar och efter att de ansökande en gång har lagat middag åt nämnden, sig själva inkluderade. Sektionslokalsgruppen bestämmer internt organisation och planering.
 
 ### §3.1.3 Verksamhet
 
@@ -95,7 +95,7 @@ Tag Monkeys ansvarar för sektionens grafiska utveckling och arbete. Leds av Dat
 
 ##### §3.3.2.1.3 Redaqtionen
 
-Redaqtionen ansvarar för skriverier, nyhetsutskick och att ge ut sektionstidningen dBuggen. Redaqtionen ska specifikt uppdatera och ge ut exakt en n0lledBuggen till varje mottagning. Priset för ett exemplar av dBuggen eller n0lledBuggen skall vara noll prisbasbelopp. Redaqtionen leds av Chefredaqtören, internt benämnd CheFred.
+Redaqtionen ansvarar för skriverier, nyhetsutskick och att ge ut sektionstidningen dBuggen. Redaqtionen ska specifikt uppdatera och ge ut exakt en nØlledBuggen till varje mottagning. Priset för ett exemplar av dBuggen eller nØlledBuggen skall vara noll prisbasbelopp. Redaqtionen leds av Chefredaqtören, internt benämnd CheFred.
 
 ### §3.3.3 Verksamhet
 
@@ -221,7 +221,7 @@ Näringslivsgruppen skall
 
 -   hålla och ständigt förbättra kontakten med näringslivet
 
--   sköta Näringslivsgruppen faktureringar
+-   sköta Näringslivsgruppens faktureringar
 
 -   se till att sektionen uppfyller avtal framförhandlade av Näringslivsgruppen.
 
@@ -252,7 +252,7 @@ QN bör
 
 -   tillhandahålla spel och annat kulturellt i sektionslokalen. Detta kan innefatta böcker, uråldriga tv-spel samt brädspel som inte går att finna längre.
 
--   årligen utse och Q-märka en person, ett ting, en företeelse eller något annat som man anser är ett gott exempel på god qultur. Q-märkningen skall lämpligen förevigas i form av ett tygmärke."
+-   årligen utse och Q-märka en person, ett ting, en företeelse eller något annat som man anser är ett gott exempel på god qultur. Q-märkningen skall lämpligen förevigas i form av ett tygmärke.
 
 ### §3.8.4 Budget
 
@@ -362,7 +362,7 @@ Alla de utlåtanden som Valberedningen erhåller från de kandidater som valt at
 
 ### §3.12.4 Utlåtande
 
-Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Revisorer, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig Öfverdrif samt Klubbmästare. Det bör vara 2 personer närvarade vid en intervju med en kandidat. Det ska föras anteckningar under intervjun. Med hjälp av det material som insamlats under intervjun skall Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur, dock ej bedöma kandidatens lämplighet. Detta skall innehålla:
+Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Revisorer, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig Öfverdrif samt Klubbmästare. Det bör vara 2 personer närvarande vid en intervju med en kandidat. Det ska föras anteckningar under intervjun. Med hjälp av det material som insamlats under intervjun skall Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur, dock ej bedöma kandidatens lämplighet. Detta skall innehålla:
 
 -   Redogörelse för kandidatens egenskaper i relation till posten ifråga.
 
@@ -380,9 +380,9 @@ Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna di
 
 ### §3.12.6 Urnval
 
-Vid urnval ska valberedningen hålla valperiod under minst fem läsdagar direkt innan sektionsmötet. Resultatet av urnvalet skall redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig minst en timme per dag, i första hand under lunchtid. Dessa tider ska senast fem dagar i förväg annonseras enligt sektionens informationsspridningspolicy.
+Vid urnval ska valberedningen hålla valperiod under minst fem läsdagar direkt innan sektionsmötet. Resultatet av urnvalet skall redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska senast fem dagar i förväg annonseras enligt sektionens informationsspridningspolicy.
 
-Vid urnval används alternativomröstning. Väljarna rankar kandidaterna, där vakans och blankröst skall vara alternativ som kan rankas. Om ingen av kandidaterna uppnår enkel majoritet blir bottenkandidaten eliminerad, dock ej vakans, och dennes röster blir omfördelade till väljarnas nästahandsval av kandidat. Denna process upprepas tills dess att en kandidat uppnår enkel majoritet, varpå valet skall godkännas av SM enligt stadgans §[1.7](../stadgar#1-7-beslutsnivåer).
+Vid urnval används alternativomröstning. Väljarna rankar kandidaterna, där vakans och blankröst skall vara alternativ som kan rankas. Om ingen av kandidaterna uppnår enkel majoritet blir bottenkandidaten eliminerad, dock ej vakans, och dennes röster blir omfördelade till väljarnas nästahandsval av kandidat. Denna process upprepas tills dess att en kandidat uppnår enkel majoritet, varpå valet skall godkännas av SM enligt stadgarnas §[1.7](../stadgar#1-7-beslutsnivåer).
 
 §3.13 Datasektionens E-sports Community
 ---------------------------------
@@ -399,7 +399,7 @@ DESC leds av Desctopen. Övriga medlemmar är intresserade sektionsmedlemmar.
 
 DESC bör:
 
--   Anordna ett flertal e-sportsevenemang per kalenderår, såsom hemmakommenterade barcrafts, tävlingsLAN eller nybörjarevenemang.
+-   Anordna ett flertal e-sportsevenemang per kalenderår, såsom hemmakommenterade barcrafts, tävlings-LAN eller nybörjarevenemang.
 
 -   Tillhandahålla en godtycklig mängd spelarkonton i ledande e-sporter.
 
@@ -420,7 +420,7 @@ Prylmångleriet leds av Prylmånglaren. Övriga medlemmar utses av Prylmånglare
 
 ### §3.14.3 Verksamhet
 
-Prylmångleriet skall kontinuerligt se till att det finns prylar och dylikt till hands. Om något skulle ta slut skall det, om efterfrågan finns, beställas nya.
+Prylmångleriet skall kontinuerligt se till att det finns prylar och dylikt till hands. Om något skulle ta slut skall det, om efterfrågan finns, beställas nytt.
 
 Prylmångleriet skall regelbundet ordna tillfällen där sektionens medlemmar kan köpa prylar. Sådana tillfällen skall ordnas inför större fester och evenemang.
 
@@ -660,7 +660,7 @@ Fanbärarna försvarar sektionens ära genom att bära dess fana vid olika högt
 
 Att vara Fanbärare är en mycket hedersfylld post på sektionen.
 
-Fanbärarna skall närvara på så många som möjligt av de tillställningar, till vilka de inbjuds av THS, samt i andra sammanhang efter beslut av D-rektoratet.
+Fanbärarna skall närvara på så många som möjligt av de tillställningar till vilka de inbjuds av THS, samt i andra sammanhang efter beslut av D-rektoratet.
 
 Sektionen bekostar fanbärarnas alkoholfria deltagaravgift för de evenemang där fanan bärs.
 
@@ -678,7 +678,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 #### §4.3.3.1 Ändamål
 
-Kårfullmäktigeledamöterna och -suppleanterna representerar sina väljare i THS Kårfullmäktige. Sektionen fungerar som en valkrets och såväl ordinarie ledamöter som suppleanter är valda på personligt mandat vid THS. Dessa antas även som funktionärer vid Datasektionen i syfte att föra THS Kårfullmäktiges arbete närmare den egna valkretsen
+Kårfullmäktigeledamöterna och -suppleanterna representerar sina väljare i THS Kårfullmäktige. Sektionen fungerar som en valkrets och såväl ordinarie ledamöter som suppleanter är valda på personligt mandat vid THS. Dessa antas även som funktionärer vid Datasektionen i syfte att föra THS Kårfullmäktiges arbete närmare den egna valkretsen.
 
 #### §4.3.3.2 Organisation
 
@@ -690,7 +690,7 @@ Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många s
 
 ### §4.3.4 Programansvarig student
 
-Är ansvarig för sektionens utbildningspåverkan på programnivå och arbetar från stundentsidan med utbildningsprogrammets utformning. Är ansvarig för kontakten gentemot CSC-skolan samt KTH i frågor gällande den långsiktiga utvecklingen av programmet och dess kurser i sin helhet. Bör ha ha god kunskap om programmets uppbyggnad och kurserna som ingår.
+Är ansvarig för sektionens utbildningspåverkan på programnivå och arbetar från studentsidan med utbildningsprogrammets utformning. Är ansvarig för kontakten gentemot CSC-skolan samt KTH i frågor gällande den långsiktiga utvecklingen av programmet och dess kurser i sin helhet. Bör ha god kunskap om programmets uppbyggnad och kurserna som ingår.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
@@ -756,7 +756,7 @@ Det åligger även de ekonomiskt ansvariga att på ett professionellt och strukt
 
 #### §4.3.5.4 Mandatperiod
 
-Revisorn väljs på Glögg SM till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1 januari till 30 juni nästkommande år.
+Revisorn väljs på Glögg-SM till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1 januari till 30 juni nästkommande år.
 
 ### §4.3.6 Sektionshistoriker
 
@@ -772,7 +772,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-#### §4.3.7.1 Ändåmål
+#### §4.3.7.1 Ändamål
 
 Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning.
 
@@ -808,7 +808,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 #### §4.3.10.1 Ändamål
 
-Leder Redaqtionen. Ansvarar tillsammans med Redaqtionen för skriverier och nyhetsutskick inom Informationsorganet samt för sektionstidingen dBuggen.
+Leder Redaqtionen. Ansvarar tillsammans med Redaqtionen för skriverier och nyhetsutskick inom Informationsorganet samt för sektionstidningen dBuggen.
 
 #### §4.3.10.2 Mandatperiod
 
@@ -836,7 +836,7 @@ Studerandeskyddsombudet ska:
 
 -   ta emot och behandla anmälningar rörande studiemiljön för sektionsmedlemmar
 
--   agera som informationskanal mellan sektionsmedlemmarna och KTH samt THS i arbetsmiljö frågor
+-   agera som informationskanal mellan sektionsmedlemmarna och KTH samt THS i arbetsmiljöfrågor
 
 -   närvara på skyddsronder i lokaler där sektionsmedlemmarna ofta vistas
 
@@ -870,7 +870,7 @@ ISC ska
 
 -   Fungera som kontaktperson för internationella studenter på sektionen.
 
--   Samarbeta med motsvarande post på Sektionen för Medieteknik för att verka för ökad integration mellan nationella och internationella studenter på CSC skolan.
+-   Samarbeta med motsvarande post på Sektionen för Medieteknik för att verka för ökad integration mellan nationella och internationella studenter på CSC-skolan.
 
 -   Dela information till de internationella studenterna på CSC-skolan om händelser och nämnder på datasektionen.
 
@@ -1173,7 +1173,7 @@ Sektionslokalen får stängas under en bestämd tidsperiod efter likalydande bes
 
 Cashewnötter, hasselnötter, jordnötter, makadamianötter, mandlar, paranötter, pekannöt- ter, pistagenötter och valnötter är ej tillåtna i sektionslokalen. Produkter som kan innehålla spår av nötter är tillåtna.
 
-### §8.6.2 E-cigarett-förbud
+### §8.6.2 E-cigarettförbud
 
 E-cigarett är helt förbjudet i sektionslokalen.
 
