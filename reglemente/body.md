@@ -186,9 +186,9 @@ Titelgruppen skall utlysa platserna i höstens mottagning under våren. Alla sö
 
 ### §3.6.4 Sektionsordförandes roll
 
-Sektionsordförande är genom KTH:s och THS regler för Mottagningen ytterst ansvarig för denna. Presidiet skall därför löpande hålla sektionsordförande informerad om verksamheten och samråda med denne i frågor av principiell vikt. Sektionsordförande skall å sin sida fungera som stöd åt presidiet och bistå dem i deras ledningsfunktion.
+Sektionsordförande är genom KTH:s och THS regler för Mottagningen ytterst ansvarig för denna. Presidiet skall därför löpande hålla sektionsordförande informerad om verksamheten och samråda med denne i frågor av principiell vikt. Sektionsordförande skall å sin sida fungera som stöd åt Presidiet och bistå dem i deras ledningsfunktion.
 
-Sektionsordförande äger alltid rätt att fatta de beslut och vidta de åtgärder som denne finner vara nödvändiga för att KTH:s och THS regler för Mottagningen skall upprätthållas. I den mån det är möjligt skall dock samråd alltid ske med presidiet inför ett sådant beslut eller åtgärd.
+Sektionsordförande äger alltid rätt att fatta de beslut och vidta de åtgärder som denne finner vara nödvändiga för att KTH:s och THS regler för Mottagningen skall upprätthållas. I den mån det är möjligt skall dock samråd alltid ske med Presidiet inför ett sådant beslut eller åtgärd.
 
 Sektionsordförande bör inte inneha något annat uppdrag inom Mottagningen än det som följer av ordförandeskapet.
 
@@ -209,7 +209,7 @@ Näringslivsgruppen har till uppgift att informera näringslivet om sektionen oc
 
 ### §3.7.2 Organisation
 
-Näringslivsgruppen leds av Näringslivsansvarig. Inom näringslivsgruppen är D-Dagenansvarig ytterst ansvarig för sektionens arbetsmarknadsdag. Övriga medlemmar är samtliga in- tresserade sektionsmedlemmar.
+Näringslivsgruppen leds av Näringslivsansvarig. Inom Näringslivsgruppen är D-Dagenansvarig ytterst ansvarig för sektionens arbetsmarknadsdag. Övriga medlemmar är samtliga in- tresserade sektionsmedlemmar.
 
 ### §3.7.3 Verksamhet
 
@@ -316,7 +316,7 @@ Ordförande för Konglig Östrogennämnden är Öfvermatronan, som väljs på SM
 
 ### §3.10.3 Verksamhet
 
-Konglig Östrogennämnden ska verka för att ge tjejer på datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna middag för alla tjejer två gånger per termin samt anordna en tjejgasque en gång per år. Nämnden ska medverka under mottagningen för att få fler tjejer att känna sig välkomna och även anordna företags/inspirations-events under året. Nämnden ska varje år dessutom utse en hedersdam.
+Konglig Östrogennämnden ska verka för att ge tjejer på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna middag för alla tjejer två gånger per termin samt anordna en tjejgasque en gång per år. Nämnden ska medverka under mottagningen för att få fler tjejer att känna sig välkomna och även anordna företags/inspirations-events under året. Nämnden ska varje år dessutom utse en hedersdam.
 
 §3.11 DEMON - Datas Eminenta MusikOrganisationsNämnd
 ----------------------------------------------
@@ -376,15 +376,15 @@ I de fall där kandidaten inte intervjuas skall Valberedningen tillhandahålla e
 
 ### §3.12.5 Sekretess
 
-Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som Valberedningen har inför formulerandet av skriftliga utlåtanden skall beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom de närvarande och revisorerna. Ingen annan får ta del av detta, exempelvis D-Rektoratet och framtida valberedare.
+Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som Valberedningen har inför formulerandet av skriftliga utlåtanden skall beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i Valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom de närvarande och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
 
 ### §3.12.6 Urnval
 
-Vid urnval ska valberedningen hålla valperiod under minst fem läsdagar direkt innan sektionsmötet. Resultatet av urnvalet skall redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska senast fem dagar i förväg annonseras enligt sektionens informationsspridningspolicy.
+Vid urnval ska Valberedningen hålla valperiod under minst fem läsdagar direkt innan sektionsmötet. Resultatet av urnvalet skall redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska senast fem dagar i förväg annonseras enligt sektionens informationsspridningspolicy.
 
 Vid urnval används alternativomröstning. Väljarna rankar kandidaterna, där vakans och blankröst skall vara alternativ som kan rankas. Om ingen av kandidaterna uppnår enkel majoritet blir bottenkandidaten eliminerad, dock ej vakans, och dennes röster blir omfördelade till väljarnas nästahandsval av kandidat. Denna process upprepas tills dess att en kandidat uppnår enkel majoritet, varpå valet skall godkännas av SM enligt stadgarnas §[1.7](../stadgar#1-7-beslutsnivåer).
 
-§3.13 Datasektionens E-sports Community
+§3.13 Datasektionens E-Sports Community
 ---------------------------------
 
 ### §3.13.1 Ändamål
@@ -573,7 +573,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §4.2.4 Konglig Lokalchef
 
-Konglig lokalchef är sektionslokalsansvarig och leder sektionslokalsgruppen tillsammmans med motsvarande post vid Sektionen för Medieteknik.
+Konglig Lokalchef är sektionslokalsansvarig och leder sektionslokalsgruppen tillsammmans med motsvarande post vid Sektionen för Medieteknik.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -585,7 +585,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §4.2.6 Näringslivsansvarig
 
-Är ordförande för Näringslivsgruppen. Ansvarar för kontakter med näringslivet. I händelsen att posten som D-Dagenansvarig är vakantsatt ansvarar Näringslivsansvarig även för D-dagen tills dess att posten som D-Dagenansvarig kan fyllnadsväljas.
+Är ordförande för Näringslivsgruppen. Ansvarar för kontakter med näringslivet. I händelsen att posten som D-Dagenansvarig är vakantsatt ansvarar Näringslivsansvarig även för D-Dagen tills dess att posten som D-Dagenansvarig kan fyllnadsväljas.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -617,7 +617,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   verka för att alla sektionsmedlemmar känner till Studienämnden, dess syfte och hur man kan påverka sin utbildning genom den
 
--   studienämndens arbete bevaras och dokumenteras för uppföljning av framtida medlemmar
+-   Studienämndens arbete bevaras och dokumenteras för uppföljning av framtida medlemmar
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -635,7 +635,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §4.2.13 Valberedningens ordförande
 
-Är ordförande för valberedningen.
+Är ordförande för Valberedningen.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -872,7 +872,7 @@ ISC ska
 
 -   Samarbeta med motsvarande post på Sektionen för Medieteknik för att verka för ökad integration mellan nationella och internationella studenter på CSC-skolan.
 
--   Dela information till de internationella studenterna på CSC-skolan om händelser och nämnder på datasektionen.
+-   Dela information till de internationella studenterna på CSC-skolan om händelser och nämnder på Datasektionen.
 
 -   Hålla sektionsmedlemmarna informerade om internationell verksamhet på sektionen.
 
@@ -884,7 +884,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §4.3.14 D-Dagenansvarig
 
-Ansvarar för sektionens arbetsmarknadsdag D-Dagen. Ingår i näringslivsgruppen och samarbetar med näringslivsansvarig. I händelsen att posten som Näringslivsansvarig är vakantsatt ansvarar D-Dagenansvarig även för näringslivsgruppen tills dess att posten som Näringslivsansvarig kan fyllnadsväljas.
+Ansvarar för sektionens arbetsmarknadsdag D-Dagen. Ingår i Näringslivsgruppen och samarbetar med näringslivsansvarig. I händelsen att posten som Näringslivsansvarig är vakantsatt ansvarar D-Dagenansvarig även för Näringslivsgruppen tills dess att posten som Näringslivsansvarig kan fyllnadsväljas.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
@@ -1164,7 +1164,7 @@ Sektionslokalsansvariga kan besluta om undantag från dessa regler, i den mån d
 §8.5 Stängning
 ---------
 
-Sektionslokalen får stängas under en bestämd tidsperiod efter likalydande beslut av respektive Sektionsordförande. Stängning måste dock annonseras i sektionernas officiella informationskanaler senast 4 läsdagar i förväg och beslut om stängning skall alltid prövas på nästföljande styrelsemöte.
+Sektionslokalen får stängas under en bestämd tidsperiod efter likalydande beslut av respektive sektionsordförande. Stängning måste dock annonseras i sektionernas officiella informationskanaler senast 4 läsdagar i förväg och beslut om stängning skall alltid prövas på nästföljande styrelsemöte.
 
 §8.6 Förbud
 ------
