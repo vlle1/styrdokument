@@ -39,7 +39,7 @@ Sektionslokalsgruppen kallas för METAdorerna och leds av sektionslokalsansvarig
 
 ### §3.1.3 Verksamhet
 
-Sektionslokalsgruppen ansvarar för:
+Sektionslokalsgruppen ansvarar för
 
 -   administration av bokning och uthyrning av sektionslokalen samt dess olika rum
 
@@ -101,11 +101,11 @@ Redaqtionen ansvarar för skriverier, nyhetsutskick och att ge ut sektionstidnin
 
 Ior skall
 
--   Hjälpa D-rektoratet och övriga nämnder med informationsspridning
+-   hjälpa D-rektoratet och övriga nämnder med informationsspridning
 
--   Underhålla och utveckla sektionens webbplats
+-   underhålla och utveckla sektionens webbplats
 
--   Ansvara för drift och underhåll av sektionens datorresurser.
+-   ansvara för drift och underhåll av sektionens datorresurser.
 
 §3.4 Jämlikhetsnämnden
 -----------------
@@ -248,9 +248,9 @@ Qulturnämnden benämns vanligtvis QN. QN leds av Qulturattachén tillsammans me
 
 QN bör
 
--   anordna regelbundna aktiviteter som höjer den kulturella nivån på sektionen, såsom filmvisningar, spelkvällar och andra underhållande aktiviteter.
+-   anordna regelbundna aktiviteter som höjer den kulturella nivån på sektionen, såsom filmvisningar, spelkvällar och andra underhållande aktiviteter
 
--   tillhandahålla spel och annat kulturellt i sektionslokalen. Detta kan innefatta böcker, uråldriga tv-spel samt brädspel som inte går att finna längre.
+-   tillhandahålla spel och annat kulturellt i sektionslokalen. Detta kan innefatta böcker, uråldriga tv-spel samt brädspel som inte går att finna längre
 
 -   årligen utse och Q-märka en person, ett ting, en företeelse eller något annat som man anser är ett gott exempel på god qultur. Q-märkningen skall lämpligen förevigas i form av ett tygmärke.
 
@@ -271,15 +271,15 @@ Studienämnden leds av Studienämndens ordförande. Övriga medlemmar är
 
 -   Programansvarig student
 
--   Studerandeskyddsombud
+-   studerandeskyddsombud
 
--   Ledamot för utbildningsfrågor
+-   ledamot för utbildningsfrågor
 
--   Årskursrepresentanter för de tre första årskurserna
+-   årskursrepresentanter för de tre första årskurserna
 
--   Kursansvariga studenter för alla aktuella kurser
+-   kursansvariga studenter för alla aktuella kurser
 
--   Övriga intresserade THS-medlemmar
+-   övriga intresserade THS-medlemmar.
 
 #### §3.9.2.1 Årskursrepresentant
 
@@ -331,15 +331,15 @@ Ordförande för DEMON är ÄrkeDEMON som väljs på Val-SM, har läsår som man
 
 ### §3.11.3 Verksamhet
 
-DEMON verkar för att främja musikintresset på sektionen genom att anordna regelbunda träffar där man bland annat kan få:
+DEMON verkar för att främja musikintresset på sektionen genom att anordna regelbunda träffar där man bland annat kan få
 
--   Repa i sektionslokalen.
+-   repa i sektionslokalen
 
--   Dela med sig av musik.
+-   dela med sig av musik
 
--   Gå på DJ-kurs.
+-   gå på DJ-kurs
 
--   Umgås med likasinnade människor.
+-   umgås med likasinnade människor.
 
 DEMON förespråkar även att man tillsammans ska gå på konserter/festivaler/spelningar.
 
@@ -362,13 +362,13 @@ Alla de utlåtanden som Valberedningen erhåller från de kandidater som valt at
 
 ### §3.12.4 Utlåtande
 
-Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Revisorer, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig Öfverdrif samt Klubbmästare. Det bör vara 2 personer närvarande vid en intervju med en kandidat. Det ska föras anteckningar under intervjun. Med hjälp av det material som insamlats under intervjun skall Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur, dock ej bedöma kandidatens lämplighet. Detta skall innehålla:
+Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Revisorer, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig Öfverdrif samt Klubbmästare. Det bör vara 2 personer närvarande vid en intervju med en kandidat. Det ska föras anteckningar under intervjun. Med hjälp av det material som insamlats under intervjun skall Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur, dock ej bedöma kandidatens lämplighet. Detta skall innehålla
 
--   Redogörelse för kandidatens egenskaper i relation till posten ifråga.
+-   redogörelse för kandidatens egenskaper i relation till posten ifråga
 
--   Tidigare erfarenheter som bedöms vara av relevans till posten ifråga.
+-   tidigare erfarenheter som bedöms vara av relevans till posten ifråga
 
--   Annan information som bedöms vara relevant för SM:s beslutsfattande.
+-   annan information som bedöms vara relevant för SM:s beslutsfattande.
 
 När detta utlåtandet är formulerat skall den kandidat som utlåtandet gäller få ta del av utlåtandet och tillfrågas om godkännande av publicering. Utlåtandet får inte publiceras utan detta godkännande.
 
@@ -397,15 +397,15 @@ DESC leds av Desctopen. Övriga medlemmar är intresserade sektionsmedlemmar.
 
 ### §3.13.3 Verksamhet
 
-DESC bör:
+DESC bör
 
--   Anordna ett flertal e-sportsevenemang per kalenderår, såsom hemmakommenterade barcrafts, tävlings-LAN eller nybörjarevenemang.
+-   anordna ett flertal e-sportsevenemang per kalenderår, såsom hemmakommenterade barcrafts, tävlings-LAN eller nybörjarevenemang
 
--   Tillhandahålla en godtycklig mängd spelarkonton i ledande e-sporter.
+-   tillhandahålla en godtycklig mängd spelarkonton i ledande e-sporter
 
--   Samarbeta med utomstående företag och/eller organisationer i syfte att sektionens medlemmar ska få utöva e-sport på en högre nivå.
+-   samarbeta med utomstående företag och/eller organisationer i syfte att sektionens medlemmar ska få utöva e-sport på en högre nivå
 
--   Skapa en tillhörighet i sektionens e-sportsutövande så att även nybörjare vill engagera sig.
+-   skapa en tillhörighet i sektionens e-sportsutövande så att även nybörjare vill engagera sig.
 
 §3.14 Prylmångleriet
 --------------
@@ -440,7 +440,7 @@ Prylmångleriet är bokföringspliktigt.
 
 ### §4.1.1 Sektionsordförande
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Dessa ansvarsområden inkluderar att:
+Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Dessa ansvarsområden inkluderar att
 
 -   förmedla kontakt utifrån till delar av organisationen och verka för givande samarbeten
 
@@ -450,13 +450,13 @@ Prylmångleriet är bokföringspliktigt.
 
 -   fånga upp ansvar som inte direkt faller på någon annan funktionär på sektionen
 
--   stödja kassören i det ekonomiska arbetet och ha en god överblick av sektionens ekonomi
+-   stödja kassören i det ekonomiska arbetet och ha en god överblick av sektionens ekonomi.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §4.1.2 Vice sektionsordförande
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Har kontakten med funktionärerna som huvudsakligt ansvarsområde. Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära ordförande. Dessa ansvarsområden inkluderar att:
+Är ledamot i sektionsstyrelsen, D-rektoratet. Har kontakten med funktionärerna som huvudsakligt ansvarsområde. Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära ordförande. Dessa ansvarsområden inkluderar att
 
 -   arbetsleda ledamöterna i deras arbete och kommunikation med funktionärerna
 
@@ -464,13 +464,13 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   kunna företräda organisationen tillsammans med ordförande
 
--   se efter avtal som upprättas inom sektionen, såsom nyckelavtal och accesser
+-   se efter avtal som upprättas inom sektionen, såsom nyckelavtal och accesser.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §4.1.3 Sekreterare
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Sekreteraren arbetar med formalia och styrdokument som huvudsakliga ansvarsområden. I detta ingår även arbete med kommunikation och kunskapsbevarande gällande dessa gentemot alla sektionens medlemmar. Dessa ansvarsområden inkluderar att:
+Är ledamot i sektionsstyrelsen, D-rektoratet. Sekreteraren arbetar med formalia och styrdokument som huvudsakliga ansvarsområden. I detta ingår även arbete med kommunikation och kunskapsbevarande gällande dessa gentemot alla sektionens medlemmar. Dessa ansvarsområden inkluderar att
 
 -   protokoll från DM och SM anslås i enlighet med stadgarna
 
@@ -482,13 +482,13 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   verka för goda överlämningsrutiner i sektionens verksamhet
 
--   tidigt vara med i arbetet att ta fram utkast till verksamhetsplan och verksamhetsberättelse för sektionen
+-   tidigt vara med i arbetet att ta fram utkast till verksamhetsplan och verksamhetsberättelse för sektionen.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §4.1.4 Kassör
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Är firmatecknare tillsammans med ordfö- rande och har det övergripande ansvaret för sektionens ekonomi. Detta innebär ansvar för budget och sektionens likvida medel, främst bankkonton och handkassor. Dessa ansvarsområden inkluderar även att:
+Är ledamot i sektionsstyrelsen, D-rektoratet. Är firmatecknare tillsammans med ordfö- rande och har det övergripande ansvaret för sektionens ekonomi. Detta innebär ansvar för budget och sektionens likvida medel, främst bankkonton och handkassor. Dessa ansvarsområden inkluderar även att
 
 -   arbeta strategiskt med sektionens ekonomiska frågor
 
@@ -500,15 +500,15 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   arbeta strategiskt för att uppnå de ekonomiska målen satta av sektionen
 
--   ansvarig för sektionens bokföring
+-   vara ansvarig för sektionens bokföring
 
--   se efter att rutinerna för sektionens likvida medel följs
+-   se efter att rutinerna för sektionens likvida medel följs.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §4.1.5 Ledamot för näringsliv och kommunikation
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikation, samt är kontaktperson för sektionens verksamhet som avser dessa områden. Dessa ansvarsområden inkluderar att:
+Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikation, samt är kontaktperson för sektionens verksamhet som avser dessa områden. Dessa ansvarsområden inkluderar att
 
 -   överblicka och verka för stärkandet av varumärket Datasektionen
 
@@ -516,13 +516,13 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   strategiskt arbeta med utvecklingen av sektionens näringslivsverksamhet
 
--   bistå Näringslivsgruppen i samordnandet av näringslivsfrågor på sektionen
+-   bistå Näringslivsgruppen i samordnandet av näringslivsfrågor på sektionen.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §4.1.6 Ledamot för studiesociala frågor
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Har frågor som rör medlemmarnas psykiska och fysiska miljö som ansvarsområde. Arbetar med att utveckla medlemmarnas studentliv. Dessa ansvarsområden inkluderar att:
+Är ledamot i sektionsstyrelsen, D-rektoratet. Har frågor som rör medlemmarnas psykiska och fysiska miljö som ansvarsområde. Arbetar med att utveckla medlemmarnas studentliv. Dessa ansvarsområden inkluderar att
 
 -   strategiskt arbeta med utvecklingen av sektionens studiesociala verksamhet
 
@@ -532,21 +532,21 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 -   verka för en god sammanhållning mellan sektionens engagerade medlemmar
 
--   från styrelsen arbeta med frågor som berör jämlikhet, mångfald och likabehandling på sektionen
+-   från styrelsen arbeta med frågor som berör jämlikhet, mångfald och likabehandling på sektionen.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §4.1.7 Ledamot för utbildningsfrågor
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för sektionens studentinflytande gentemot CSC och för sektionens utbildningspåverkan. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att:
+Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för sektionens studentinflytande gentemot CSC och för sektionens utbildningspåverkan. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
--   verka för att upprätthålla en god kontakt med ansvariga på andra sektioner om hur dessa arbetar med studentinflytande och utbildningspåverkan.
+-   verka för att upprätthålla en god kontakt med ansvariga på andra sektioner om hur dessa arbetar med studentinflytande och utbildningspåverkan
 
--   ha en samordnade roll för de som arbetar med studentinflytande gentemot CSC på sektionen.
+-   ha en samordnade roll för de som arbetar med studentinflytande gentemot CSC på sektionen
 
--   strategiskt arbeta med utvecklingen av sektionens utbildningspåverkan.
+-   strategiskt arbeta med utvecklingen av sektionens utbildningspåverkan
 
--   från styrelsen samordna sektionen i frågor som rör utbildningspåverkan
+-   från styrelsen samordna sektionen i frågor som rör utbildningspåverkan.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -609,7 +609,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §4.2.10 Studienämndens ordförande
 
-Är ordförande för Studienämnden. Arbetsleder Studienämnden och är sammankallande för dess möten. Har det övergripande ansvaret för nämndens verksamhet. Dessa ansvarsområden inkluderar att:
+Är ordförande för Studienämnden. Arbetsleder Studienämnden och är sammankallande för dess möten. Har det övergripande ansvaret för nämndens verksamhet. Dessa ansvarsområden inkluderar att
 
 -   verka för att alla sektionsmedlemmar är representerade i Studienämnden
 
@@ -617,7 +617,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   verka för att alla sektionsmedlemmar känner till Studienämnden, dess syfte och hur man kan påverka sin utbildning genom den
 
--   Studienämndens arbete bevaras och dokumenteras för uppföljning av framtida medlemmar
+-   Studienämndens arbete bevaras och dokumenteras för uppföljning av framtida medlemmar.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -704,13 +704,13 @@ Revisorernas uppgift är att övervaka D-rektoratet och nämndernas arbete.
 
 Enligt sektionens stadgar finns två revisorer, utsedda av SM. De skall
 
--   övervaka D-rektoratet och nämndernas arbete i sektionens namn,
+-   övervaka D-rektoratet och nämndernas arbete i sektionens namn
 
--   övervaka den löpande bokföringen och, om så anses behövas, kräva att en delårsrapport presenteras,
+-   övervaka den löpande bokföringen och, om så anses behövas, kräva att en delårsrapport presenteras
 
--   revidera ekonomisk bokföring från sektionens organ,
+-   revidera ekonomisk bokföring från sektionens organ
 
--   övervaka upprättandet av verksamhetsberättelsen för sektionen, samt
+-   övervaka upprättandet av verksamhetsberättelsen för sektionen
 
 -   vara skiljemän vid tvister inom sektionen där parterna inte behöver använda sig av SM eller THS styrelse, revisorsgrupp eller Kårfullmäktige.
 
@@ -832,7 +832,7 @@ Har till uppgift att agera som studerandeskyddsombud för sektionen. Funktionär
 
 #### §4.3.12.2 Verksamhet
 
-Studerandeskyddsombudet ska:
+Studerandeskyddsombudet ska
 
 -   ta emot och behandla anmälningar rörande studiemiljön för sektionsmedlemmar
 
@@ -842,7 +842,7 @@ Studerandeskyddsombudet ska:
 
 -   se till att det finns en sjukvårdslåda med lämpligt innehåll i sektionslokalen
 
--   regelbundet kontrollera de brandsläckare som finns i sektionslokalen
+-   regelbundet kontrollera de brandsläckare som finns i sektionslokalen.
 
 #### §4.3.12.3 Organisation
 
@@ -866,17 +866,17 @@ Samtliga intresserade sektionsmedlemmar får hjälpa till med den internationell
 
 ISC ska
 
--   Samordna sektionens internationella verksamhet. Detta inkluderar att hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på CSC:s kansli och institutionerna.
+-   samordna sektionens internationella verksamhet. Detta inkluderar att hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på CSC:s kansli och institutionerna
 
--   Fungera som kontaktperson för internationella studenter på sektionen.
+-   fungera som kontaktperson för internationella studenter på sektionen
 
--   Samarbeta med motsvarande post på Sektionen för Medieteknik för att verka för ökad integration mellan nationella och internationella studenter på CSC-skolan.
+-   samarbeta med motsvarande post på Sektionen för Medieteknik för att verka för ökad integration mellan nationella och internationella studenter på CSC-skolan
 
--   Dela information till de internationella studenterna på CSC-skolan om händelser och nämnder på Datasektionen.
+-   dela information till de internationella studenterna på CSC-skolan om händelser och nämnder på Datasektionen
 
--   Hålla sektionsmedlemmarna informerade om internationell verksamhet på sektionen.
+-   hålla sektionsmedlemmarna informerade om internationell verksamhet på sektionen
 
--   Främja informationsspridning på engelska inom sektionen.
+-   främja informationsspridning på engelska inom sektionen.
 
 #### §4.3.13.4 Mandatperiod
 
@@ -1140,11 +1140,11 @@ Vid krockande bokningar gäller följande prioritetslista i fallande ordning. Do
 
 1.  D-rektoratet/Medietekniks styrelse
 
-2.  Sektionsnämnd eller -funktionär
+2.  sektionsnämnd eller -funktionär
 
 3.  THS-organ
 
-4.  Kårförening eller annan sektion vid THS.
+4.  kårförening eller annan sektion vid THS
 
 §8.2 Alkohol
 -------
