@@ -209,7 +209,7 @@ Näringslivsgruppen har till uppgift att informera näringslivet om sektionen oc
 
 ### §3.7.2 Organisation
 
-Näringslivsgruppen leds av Näringslivsansvarig. Inom Näringslivsgruppen är D-Dagenansvarig ytterst ansvarig för sektionens arbetsmarknadsdag. Övriga medlemmar är samtliga in- tresserade sektionsmedlemmar.
+Näringslivsgruppen leds av Näringslivsansvarig. Inom Näringslivsgruppen är D-Dagenansvarig ytterst ansvarig för sektionens arbetsmarknadsdag. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
 
 ### §3.7.3 Verksamhet
 
@@ -227,7 +227,7 @@ Näringslivsgruppen skall
 
 ### §3.7.4 Avtal
 
-Näringslivsansvarig och D-Dagenansvarig har rätt att förhandla fram avtal med företag och organisationer. Firmatecknare har rätt att utfärda en fullmakt till Näringslivsan- svarig samt D-Dagenansvarig för att dessa ska kunna ingå i sagda avtal
+Näringslivsansvarig och D-Dagenansvarig har rätt att förhandla fram avtal med företag och organisationer. Firmatecknare har rätt att utfärda en fullmakt till Näringslivsansvarig samt D-Dagenansvarig för att dessa ska kunna ingå i sagda avtal
 
 ### §3.7.5 Bokföringsplikt
 
@@ -488,7 +488,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §4.1.4 Kassör
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Är firmatecknare tillsammans med ordfö- rande och har det övergripande ansvaret för sektionens ekonomi. Detta innebär ansvar för budget och sektionens likvida medel, främst bankkonton och handkassor. Dessa ansvarsområden inkluderar även att
+Är ledamot i sektionsstyrelsen, D-rektoratet. Är firmatecknare tillsammans med ordförande och har det övergripande ansvaret för sektionens ekonomi. Detta innebär ansvar för budget och sektionens likvida medel, främst bankkonton och handkassor. Dessa ansvarsområden inkluderar även att
 
 -   arbeta strategiskt med sektionens ekonomiska frågor
 
@@ -1171,7 +1171,7 @@ Sektionslokalen får stängas under en bestämd tidsperiod efter likalydande bes
 
 ### §8.6.1 Nötförbud
 
-Cashewnötter, hasselnötter, jordnötter, makadamianötter, mandlar, paranötter, pekannöt- ter, pistagenötter och valnötter är ej tillåtna i sektionslokalen. Produkter som kan innehålla spår av nötter är tillåtna.
+Cashewnötter, hasselnötter, jordnötter, makadamianötter, mandlar, paranötter, pekannötter, pistagenötter och valnötter är ej tillåtna i sektionslokalen. Produkter som kan innehålla spår av nötter är tillåtna.
 
 ### §8.6.2 E-cigarettförbud
 
