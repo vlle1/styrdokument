@@ -896,11 +896,11 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 Samtliga ordinarie ledamöter skall om möjligt delta på varje möte. Ordinarie ledamots kontaktperson i D-rektoratet träder in som suppleant om ingen ordinarie ledamot kan närvara, och ingen annan överenskommelse skett mellan de bägge. I råd med öppet medlemskap får dock suppleanter naturligtvis delta på alla möten.
 
-### §5.1.1 Arbetsmarknadsrådet
+### §5.1.1 Näringslivsrådet
 
 #### §5.1.1.1 Ordinarie
 
-Näringslivsansvarig
+Näringslivsansvarig och D-Dagenansvarig
 
 ### §5.1.2 Idrottsrådet
 
