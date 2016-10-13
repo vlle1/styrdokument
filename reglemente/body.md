@@ -16,6 +16,11 @@ Sektionens symbol är den grekiska bokstaven lilla delta. Deltat får icke glöm
 
 Sektionens grafiska profil regleras av Informationsorganet i samråd med D-rektoratet.
 
+§1.4 Sektionsklädsel
+--------------
+
+Sektionsplagget är studentoverall i samma färg som sektionsfärgen. Sektionsmedlemmar uppmanas att smycka sin overall för att uttrycka sin personlighet och sina erfarenheter. Sektionsmärket bör vara fastsytt närmast hjärtat.
+
 §2 Andra styrande dokument
 =======================
 
