@@ -1159,9 +1159,7 @@ Sektionslokalsansvariga kan besluta om undantag från dessa regler, i den mån d
 ---------
 
 Sektionslokalen får stängas under en bestämd tidsperiod efter likalydande beslut av respektive
-sektionsstyrelse och skall då prövas på nästföljande styrelsemöte. Stängning måste dock annonseras i
-sektionernas officiella informationskanaler senast 4 läsdagar i förväg och beslut om stängning skall alltid
-prövas på nästföljande styrelsemöte.
+sektionsstyrelse. Stängning måste dock annonseras i sektionernas officiella informationskanaler senast 4 läsdagar i förväg och beslut om stängning skall alltid prövas på nästföljande styrelsemöte.
 
 
 §8.6 Förbud
