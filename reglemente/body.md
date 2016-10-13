@@ -846,7 +846,7 @@ I det fall att posten är vakantsatt är Ledamot för studiesociala frågor stä
 
 #### §4.3.12.4 Mandatperiod
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §4.3.13 Internationell Studentkoordinator
 
