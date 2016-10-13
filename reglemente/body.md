@@ -16,6 +16,11 @@ Sektionens symbol är den grekiska bokstaven lilla delta. Deltat får icke glöm
 
 Sektionens grafiska profil regleras av Informationsorganet i samråd med D-rektoratet.
 
+§1.4 Sektionsklädsel
+--------------
+
+Sektionsplagget är studentoverall i samma färg som sektionsfärgen. Sektionsmedlemmar uppmanas att smycka sin overall för att uttrycka sin personlighet och sina erfarenheter. Sektionsmärket bör vara fastsytt närmast hjärtat.
+
 §2 Andra styrande dokument
 =======================
 
@@ -1049,7 +1054,7 @@ Ett SM skall hållas på våren senast 31 mars och benämnas Revisions-SM. Revis
 
 ### §6.1.4 Val-SM
 
-Ett SM skall hållas efter Revisions-SM senast 15 maj och benämnas Val-SM.
+Ett SM skall hållas efter Revisions-SM senast 31 maj och benämnas Val-SM.
 
 §7 Förtjänsttecken och ordnar
 ==========================
