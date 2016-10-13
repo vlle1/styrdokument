@@ -1049,7 +1049,7 @@ Ett SM skall hållas på våren senast 31 mars och benämnas Revisions-SM. Revis
 
 ### §6.1.4 Val-SM
 
-Ett SM skall hållas efter Revisions-SM senast 15 maj och benämnas Val-SM.
+Ett SM skall hållas efter Revisions-SM senast 31 maj och benämnas Val-SM.
 
 §7 Förtjänsttecken och ordnar
 ==========================
