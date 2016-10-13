@@ -51,10 +51,6 @@ Sektionslokalsgruppen ansvarar för
 
 -   att upprätta och underhålla ett dokument med gällande regler för sektionslokalen.
 
-### §3.1.4 Budget
-
-Sektionslokalsgruppen har en gemensam budget, som fastställs av respektive sektionsmöte. Kostnader och intäkter ska delas lika mellan sektionerna. Om enighet råder mellan sektionerna kan undantag göras från denna regel.
-
 §3.2 Idrottsnämnden
 --------------
 
@@ -1138,13 +1134,11 @@ Sektionslokalen kan endast bokas/hyras av sektionernas styrelser, nämnder och f
 
 Vid krockande bokningar gäller följande prioritetslista i fallande ordning. Dock kan ingen tvingas att ändra sin bokning med mindre än två veckors varsel. Inom en prioritetsnivå gäller först till kvarn.
 
-1.  D-rektoratet/Medietekniks styrelse
+1.  D-rektoratet/Medietekniks styrelse, sektionsnämnd eller -funktionär
 
-2.  sektionsnämnd eller -funktionär
+2.  THS-organ
 
-3.  THS-organ
-
-4.  kårförening eller annan sektion vid THS
+3.  Kårförening eller annan sektion vid THS
 
 §8.2 Alkohol
 -------
@@ -1164,7 +1158,11 @@ Sektionslokalsansvariga kan besluta om undantag från dessa regler, i den mån d
 §8.5 Stängning
 ---------
 
-Sektionslokalen får stängas under en bestämd tidsperiod efter likalydande beslut av respektive sektionsordförande. Stängning måste dock annonseras i sektionernas officiella informationskanaler senast 4 läsdagar i förväg och beslut om stängning skall alltid prövas på nästföljande styrelsemöte.
+Sektionslokalen får stängas under en bestämd tidsperiod efter likalydande beslut av respektive
+sektionsstyrelse och skall då prövas på nästföljande styrelsemöte. Stängning måste dock annonseras i
+sektionernas officiella informationskanaler senast 4 läsdagar i förväg och beslut om stängning skall alltid
+prövas på nästföljande styrelsemöte.
+
 
 §8.6 Förbud
 ------
@@ -1176,6 +1174,14 @@ Cashewnötter, hasselnötter, jordnötter, makadamianötter, mandlar, paranötte
 ### §8.6.2 E-cigarettförbud
 
 E-cigarett är helt förbjudet i sektionslokalen.
+
+### §8.7 Samboendeavtal
+
+Samboendeavtalet beskriver vilka regler som gäller för sektionslokalen samt förtydligar
+hur verksamheten i lokalen ska hanteras. Avtalet skrivs för att stärka samarbetet mellan
+Konglig Datasektionen och Sektionen för Medieteknik. Samboendeavtalet revideras
+årligen av respektive sektions styrelser i samråd med de sektionslokalsansvariga och
+med synpunkter från de båda sektionernas engagerade.
 
 §9 Övrigt
 ======
