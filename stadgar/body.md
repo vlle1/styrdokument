@@ -390,7 +390,7 @@ Valberedningen skall tillfråga de nominerade och i anslutning till det SM då v
 
 ##### §5.1.4.5.1 Presidiet
 
-Sektionsordförande och vice sektionsordförande väljs med urnval enligt reglementets §2.14.6.
+Sektionsordförande och vice sektionsordförande väljs med urnval enligt reglementets §3.12.6.
 
 ##### §5.1.4.5.2 THS Kårfullmäktige
 
