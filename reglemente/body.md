@@ -371,7 +371,7 @@ Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet,
 
 -   annan information som bedöms vara relevant för SM:s beslutsfattande.
 
-När detta utlåtandet är formulerat skall den kandidat som utlåtandet gäller få ta del av utlåtandet och tillfrågas om godkännande av publicering. Utlåtandet får inte publiceras utan detta godkännande.
+När detta utlåtande är formulerat skall den kandidat som utlåtandet gäller få ta del av utlåtandet och tillfrågas om godkännande av publicering. Utlåtandet får inte publiceras utan detta godkännande.
 
 I de fall där kandidaten inte intervjuas skall Valberedningen tillhandahålla ett frågeformulär och resultatet av detta skall ses som Valberedningens utlåtande.
 
