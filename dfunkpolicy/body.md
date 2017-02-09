@@ -28,10 +28,10 @@ Till varje Sektionsmöte förväntas du som δfunktionär skriva en rapport om v
 
 Vi annordnar två stycken funktionärsutbildningar per år. Om du verkligen inte kan gå på den första har du ett halvår på dig att försöka kunna gå den andra. Det är din skyldighet att gå på minst en av dessa.
 
-§1.6 Utvecklingssamtal
+§1.6 D-råd
 -----------------
 
-Din kontaktperson i D­rektoratet kommer minst en gång per år att hålla ett utvecklingssamtal med dig. När det är dags, är det din skyldighet att hjälpa till att hitta en tid där ett sådant kan ägarum, och sedan att gå på det. Det är bra både för dig själv, och för sektionen i stort, att ha ett utvecklingssamtal.
+De flesta funktionärer tillhör ett av de ämnesspecifika råd som finns internt på sektionen. Målet med råden är att tillhandahålla en plattform för kommunikation och samverkan inom ett visst område såsom näringslivs-, utbildnings- och lokalfrågor som berör sektionen; och träffas cirka fyra gånger per år. Ett råd koordineras av någon i D-rektoratet och det är funktionärernas skyldighet att delta i möjligaste mån. D-rektoratet beslutar om vilka råd som finns, och deras sammansättning. Funktionärer som inte ingår i ett råd, har istället individuella utvecklingssamtal med någon i styrelsen.
 
 §1.7 Teambuilding
 ------------
