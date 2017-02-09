@@ -433,6 +433,21 @@ Vid jubileum och andra större händelser på sektionen bör Prylmångleriet i s
 
 Prylmångleriet är bokföringspliktigt.
 
+§3.15 Baknämnden
+--------------
+
+### §3.15.1 Ändamål
+
+Baknämndens syfte är att minska sektionens medlemmars sötsug samt bredda varianten av sötsaker som förtärs på sektionen.
+
+### §3.15.2 Organisation
+
+Ordförande för Baknämnden är Bakis. Övriga medlemmar är sektionsmedlemmar och utses av Bakis.
+
+### §3.15.3 Verksamhet
+
+Baknämnden skall förse sina medlemmar med möjligheter att utöva och utveckla sina färdigheter inom bakning. Nämnden skall eftersträva att under sektionsmöten kunna bjuda på fika, en tjänst som även skall vara öppen för övriga nämnder på sektionen, så att de när tillfälle ges kan beställa bakverk av Baknämnden. Vidare skall nämndens recept dokumenteras så att kommande årgångar skall kunna ta del av dem.
+
 §4 Funktionärer
 ============
 
@@ -655,6 +670,12 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 ### §4.2.16 D-Dagenansvarig
 
 Ansvarar för sektionens arbetsmarknadsdag D-Dagen. Är tillsammans med Näringslivsansvarig ordförande för Näringslivsgruppen. I händelsen att posten som Näringslivsansvarig är vakantsatt ansvarar D-Dagenansvarig även för Näringslivsgruppen tills dess att posten som Näringslivsansvarig kan fyllnadsväljas.
+
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+
+### §4.2.17 Bakis
+
+Är ordförande för Baknämnden.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
