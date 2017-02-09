@@ -586,7 +586,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §4.2.6 Näringslivsansvarig
 
-Är ordförande för Näringslivsgruppen. Ansvarar för kontakter med näringslivet. I händelsen att posten som D-Dagenansvarig är vakantsatt ansvarar Näringslivsansvarig även för D-Dagen tills dess att posten som D-Dagenansvarig kan fyllnadsväljas.
+Är ordförande för Näringslivsgruppen tillsammans med D-Dagenansvarig. Ansvarar för kontakter med näringslivet. I händelsen att posten som D-Dagenansvarig är vakantsatt ansvarar Näringslivsansvarig även för D-Dagen tills dess att posten som D-Dagenansvarig kan fyllnadsväljas.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -649,6 +649,12 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 ### §4.2.15 Prylmånglaren
 
 Är ordförande för Prylmångleriet.
+
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+
+### §4.2.16 D-Dagenansvarig
+
+Ansvarar för sektionens arbetsmarknadsdag D-Dagen. Är tillsammans med Näringslivsansvarig ordförande för Näringslivsgruppen. I händelsen att posten som Näringslivsansvarig är vakantsatt ansvarar D-Dagenansvarig även för Näringslivsgruppen tills dess att posten som Näringslivsansvarig kan fyllnadsväljas.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
@@ -880,12 +886,6 @@ ISC ska
 -   främja informationsspridning på engelska inom sektionen.
 
 #### §4.3.13.4 Mandatperiod
-
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
-
-### §4.3.14 D-Dagenansvarig
-
-Ansvarar för sektionens arbetsmarknadsdag D-Dagen. Ingår i Näringslivsgruppen och samarbetar med näringslivsansvarig. I händelsen att posten som Näringslivsansvarig är vakantsatt ansvarar D-Dagenansvarig även för Näringslivsgruppen tills dess att posten som Näringslivsansvarig kan fyllnadsväljas.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
