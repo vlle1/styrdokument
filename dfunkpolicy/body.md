@@ -1,12 +1,12 @@
 §1 Skyldigheter
 ============
 
-För de som antar ett förtroendeuppdrag som δfunktionär är det inte endast dans och lek på röda rosor. Som δfunktionär har man ett ansvartsområde och det finns ett antal skyldigheter som vi i D­rektoratet vill ska följas av alla δfunktionärer. Den här texten ska försöka ge klarhet i vilka dessa skyldigheter är och vad man kan få ut av att följa dem.
+För de som antar ett förtroendeuppdrag som δ-funktionär är det inte endast dans och lek på röda rosor. Som δ-funktionär har man ett ansvartsområde och det finns ett antal skyldigheter som vi i D-rektoratet vill ska följas av alla δ-funktionärer. Den här texten ska försöka ge klarhet i vilka dessa skyldigheter är och vad man kan få ut av att följa dem.
 
 §1.1 Mail
 ----
 
-Som δfunktionär har du en funktionsmailadress som D­rektoratet och andra som vill komma i kontakt med dig kommer att använda. Kontrollera din funktionärsmail och besvara den i alla fall minst var tredje dag.
+Som δ-funktionär har du en funktionsmailadress som D-rektoratet och andra som vill komma i kontakt med dig kommer att använda. Kontrollera din funktionärsmail och besvara den i alla fall minst var tredje dag.
 
 §1.2 Överlämning
 -----------
@@ -21,35 +21,33 @@ För att ingenting ska hamna mellan stolarna mellan dig och din efterträdare, o
 §1.4 Rapporter
 ---------
 
-Till varje Sektionsmöte förväntas du som δfunktionär skriva en rapport om vad du har gjort sedan det senaste Sektionsmötet. Detta för att sektionen ska veta vad du gör och har gjort.
+Till varje Sektionsmöte förväntas du som δ-funktionär skriva en rapport om vad du har gjort sedan det senaste Sektionsmötet. Detta för att sektionen ska veta vad du gör och har gjort.
 
 §1.5 Gå på utbildning
 ----------------
 
 Vi annordnar två stycken funktionärsutbildningar per år. Om du verkligen inte kan gå på den första har du ett halvår på dig att försöka kunna gå den andra. Det är din skyldighet att gå på minst en av dessa.
 
-§1.6 Utvecklingssamtal
+§1.6 D-råd
 -----------------
 
-Din kontaktperson i D­rektoratet kommer minst en gång per år att hålla ett utvecklingssamtal med dig. När det är dags, är det din skyldighet att hjälpa till att hitta en tid där ett sådant kan ägarum, och sedan att gå på det. Det är bra både för dig själv, och för sektionen i stort, att ha ett utvecklingssamtal.
+De flesta funktionärer tillhör ett av de ämnesspecifika råd som finns internt på sektionen. Målet med råden är att tillhandahålla en plattform för kommunikation och samverkan inom ett visst område såsom näringslivs-, utbildnings- och lokalfrågor som berör sektionen; och träffas cirka fyra gånger per år. Ett råd koordineras av någon i D-rektoratet och det är funktionärernas skyldighet att delta i möjligaste mån. D-rektoratet beslutar om vilka råd som finns, och deras sammansättning. Funktionärer som inte ingår i ett råd, har istället individuella utvecklingssamtal med någon i styrelsen.
 
 §1.7 Teambuilding
 ------------
 
-Flera gånger under året kommer D­rektoratet att bjuda in till olika sorters teambuildningevent som δfunktionärer kommer att bli bjuden till. Det är starkt rekommenderat att gå på dessa, då de kan ses både som ett utbildningstillfälle men också som ett viktigt tillfälle att förstärka relationerna bland dig och de andra δfunktionärna. Förutom att vara roliga förstås.
+Flera gånger under året kommer D­rektoratet att bjuda in till olika sorters teambuildningevent som δ-funktionärer kommer att bli bjuden till. Det är starkt rekommenderat att gå på dessa, då de kan ses både som ett utbildningstillfälle men också som ett viktigt tillfälle att förstärka relationerna bland dig och de andra δ-funktionärna. Förutom att vara roliga förstås.
 
-§1.8 Representant för datasektionen
+§1.8 Representant för Datasektionen
 ------------------------------
 
-Som δfunktionär är du en representant för Datasektionen. Det betyder att allt som du skriver via din funktionärsmail och på andra officiella informationskanaler kan tolkas som att det kommer från Datasektionen. Även i person så representerar du datasektionen och det du gör och säger kan anses komma från Datasektionen.
+Som δ-funktionär är du en representant för Datasektionen. Det betyder att allt som du skriver via din funktionärsmail och på andra officiella informationskanaler kan tolkas som att det kommer från Datasektionen. Även i person så representerar du datasektionen och det du gör och säger kan anses komma från Datasektionen.
 
 §2 Belöningar
 ==========
 
-För ett bra utfört arbete under din tid som δfunktionär, och ifall du har gjort ovan punkter med belåtenhet så finns det ett antal saker D­rektoratet gör för att visa sin uppskattning:
+För ett bra utfört arbete under din tid som δ-funktionär, och ifall du har gjort ovan punkter med belåtenhet så finns det ett antal saker D-rektoratet gör för att visa sin uppskattning:
 
--   Varje år på våren anordnar D­rektoratet en skiftesgasque som alla avgående och nyvalda δfunktionärer som utfört ett bra arbete kommer att bli bjudna till.
+-   Varje år på våren anordnar D-rektoratet en skiftesgasque som alla avgående och nyvalda δ-funktionärer som utfört ett bra arbete kommer att bli bjudna till.
 
--   En δfunktionär som gjort ett bra jobb, kommer efter dennes avgång även att få en medalj från D­rektoratet för att visa vår uppskattning till denne.
-
-
+-   En δ-funktionär som gjort ett bra jobb, kommer efter dennes avgång även att få en medalj från D-rektoratet för att visa vår uppskattning till denne.
