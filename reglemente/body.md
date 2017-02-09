@@ -210,7 +210,7 @@ Näringslivsgruppen har till uppgift att informera näringslivet om sektionen oc
 
 ### §3.7.2 Organisation
 
-Näringslivsgruppen leds av Näringslivsansvarig. Inom Näringslivsgruppen är D-Dagenansvarig ytterst ansvarig för sektionens arbetsmarknadsdag. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
+Näringslivsgruppen leds av Näringslivsansvarig. Inom Näringslivsgruppen är D-Dagenansvarig ytterst ansvarig för sektionens arbetsmarknadsdag. Övriga medlemmar utses i samråd av Näringslivsansvarig och D-Dagenansvarig.
 
 ### §3.7.3 Verksamhet
 
@@ -433,6 +433,21 @@ Vid jubileum och andra större händelser på sektionen bör Prylmångleriet i s
 
 Prylmångleriet är bokföringspliktigt.
 
+§3.15 Baknämnden
+--------------
+
+### §3.15.1 Ändamål
+
+Baknämndens syfte är att minska sektionens medlemmars sötsug samt bredda varianten av sötsaker som förtärs på sektionen.
+
+### §3.15.2 Organisation
+
+Ordförande för Baknämnden är Bakis. Övriga medlemmar är sektionsmedlemmar och utses av Bakis.
+
+### §3.15.3 Verksamhet
+
+Baknämnden skall förse sina medlemmar med möjligheter att utöva och utveckla sina färdigheter inom bakning. Nämnden skall eftersträva att under sektionsmöten kunna bjuda på fika, en tjänst som även skall vara öppen för övriga nämnder på sektionen, så att de när tillfälle ges kan beställa bakverk av Baknämnden. Vidare skall nämndens recept dokumenteras så att kommande årgångar skall kunna ta del av dem.
+
 §4 Funktionärer
 ============
 
@@ -586,7 +601,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §4.2.6 Näringslivsansvarig
 
-Är ordförande för Näringslivsgruppen. Ansvarar för kontakter med näringslivet. I händelsen att posten som D-Dagenansvarig är vakantsatt ansvarar Näringslivsansvarig även för D-Dagen tills dess att posten som D-Dagenansvarig kan fyllnadsväljas.
+Är ordförande för Näringslivsgruppen tillsammans med D-Dagenansvarig. Ansvarar för kontakter med näringslivet. I händelsen att posten som D-Dagenansvarig är vakantsatt ansvarar Näringslivsansvarig även för D-Dagen tills dess att posten som D-Dagenansvarig kan fyllnadsväljas.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -649,6 +664,18 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 ### §4.2.15 Prylmånglaren
 
 Är ordförande för Prylmångleriet.
+
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+
+### §4.2.16 D-Dagenansvarig
+
+Ansvarar för sektionens arbetsmarknadsdag D-Dagen. Är tillsammans med Näringslivsansvarig ordförande för Näringslivsgruppen. I händelsen att posten som Näringslivsansvarig är vakantsatt ansvarar D-Dagenansvarig även för Näringslivsgruppen tills dess att posten som Näringslivsansvarig kan fyllnadsväljas.
+
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+
+### §4.2.17 Bakis
+
+Är ordförande för Baknämnden.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
@@ -880,12 +907,6 @@ ISC ska
 -   främja informationsspridning på engelska inom sektionen.
 
 #### §4.3.13.4 Mandatperiod
-
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
-
-### §4.3.14 D-Dagenansvarig
-
-Ansvarar för sektionens arbetsmarknadsdag D-Dagen. Ingår i Näringslivsgruppen och samarbetar med näringslivsansvarig. I händelsen att posten som Näringslivsansvarig är vakantsatt ansvarar D-Dagenansvarig även för Näringslivsgruppen tills dess att posten som Näringslivsansvarig kan fyllnadsväljas.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
