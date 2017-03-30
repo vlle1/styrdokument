@@ -401,6 +401,10 @@ Valhandlingarna skall publiceras via officiella informationskanaler enligt Stadg
 
 Valhandlingarna skall inför ordinarie val publiceras senast 5 läsdagar före det SM där valet sker. Inför fyllnadsval och val vid extra SM skall Valhandlingarna i största möjliga mån publiceras senast en (1) läsdag före det SM där valet sker.
 
+#### §3.12.7.4 Sekretessbeläggning
+
+Valhandlingarna skall beläggas med sekretess om någon av kandidaterna, någon av Valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att Valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM där valet i fråga sker.
+
 §3.13 Datasektionens E-Sports Community
 ---------------------------------
 
