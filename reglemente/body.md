@@ -357,9 +357,7 @@ Valberedningen leds av Valberedningens Ordförande. Valberedningen består av Or
 
 ### §3.12.3 Verksamhet
 
-Valberedningen ska uppmuntra till sektionsengagemang och bistå med information och vägledning om detta bland sektionens medlemmar. Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. En kandidat är en nominerad sektionsmedlem. Om en kandidat tackar ja skall Valberedningen informera denne om valprocessen.
-
-Alla de utlåtanden som Valberedningen erhåller från de kandidater som valt att fortsätta med sin kandidatur, antingen i form av en intervju eller frågeformulär, skall samtidigt göras tillgängliga för sektionens medlemmar enligt sektionens informationsspridningspolicy i god tid, dock senast en dag innan sektionsmötet där valet avgörs.
+Valberedningen ska uppmuntra till sektionsengagemang och bistå med information och vägledning om detta bland sektionens medlemmar. Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. Om en kandidat tackar ja skall Valberedningen informera denne om valprocessen.
 
 ### §3.12.4 Utlåtande
 
@@ -373,7 +371,7 @@ Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet,
 
 När detta utlåtande är formulerat skall den kandidat som utlåtandet gäller få ta del av utlåtandet och tillfrågas om godkännande av publicering. Utlåtandet får inte publiceras utan detta godkännande.
 
-I de fall där kandidaten inte intervjuas skall Valberedningen tillhandahålla ett frågeformulär och resultatet av detta skall ses som kandidatens kandidatförklaring. Inkomna kandidatförklaringar ska publiceras i valhandlingarna på samma sätt som Valberedningens utlåtanden.
+I de fall där kandidaten inte intervjuas skall Valberedningen tillhandahålla ett frågeformulär och resultatet av detta skall ses som Valberedningens utlåtande.
 
 ### §3.12.5 Sekretess
 
@@ -384,6 +382,28 @@ Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna di
 Vid urnval ska Valberedningen hålla valperiod under minst fem läsdagar direkt innan sektionsmötet. Resultatet av urnvalet skall redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska senast fem dagar i förväg annonseras enligt sektionens informationsspridningspolicy.
 
 Vid urnval används alternativomröstning. Väljarna rankar kandidaterna, där vakans och blankröst skall vara alternativ som kan rankas. Om ingen av kandidaterna uppnår enkel majoritet blir bottenkandidaten eliminerad, dock ej vakans, och dennes röster blir omfördelade till väljarnas nästahandsval av kandidat. Denna process upprepas tills dess att en kandidat uppnår enkel majoritet, varpå valet skall godkännas av SM enligt stadgarnas §[1.7](../stadgar#1-7-beslutsnivåer).
+
+### §3.12.7 Valhandlingar
+
+Valhandlingarna är det dokument som sammanställs och publiceras av Valberedningen enligt följande paragrafer. Valhandlingarna skall destrueras efter det SM där valet sker.
+
+#### §3.12.7.1 Innehåll
+
+Valhandlingarna skall innehålla - information om hur nomineringsprocessen som ledde upp till valet i fråga gick till, - information om hur valet kommer att gå till under SM, - vilka av Valberedningens ledamöter som var med och annordnade valet, - en sammanställning av vilka poster som väljs, - en lista över alla kandidater, - alla utlåtanden från de intervjuer Valberedningen har hållit, - alla svar från de frågeformulär som kandidaterna har fått svara på.
+
+Då urnval har skett skall även information om hur urnvalets röstprocess gått till inkluderas.
+
+#### §3.12.7.2 Publiceringsplats
+
+Valhandlingarna skall publiceras via officiella informationskanaler enligt Stadgarnas §1.8.
+
+#### §3.12.7.3 Publiceringstid
+
+Valhandlingarna skall inför ordinarie val publiceras senast 5 läsdagar före det SM där valet sker. Inför fyllnadsval och val vid extra SM skall Valhandlingarna i största möjliga mån publiceras senast en (1) läsdag före det SM där valet sker.
+
+#### §3.12.7.4 Sekretessbeläggning
+
+Valhandlingarna skall beläggas med sekretess om någon av kandidaterna, någon av Valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att Valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM där valet i fråga sker.
 
 §3.13 Datasektionens E-Sports Community
 ---------------------------------
@@ -909,6 +929,30 @@ ISC ska
 #### §4.3.13.4 Mandatperiod
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+
+### §4.3.14 D-FEST
+
+#### §4.3.14.1 Ändamål
+
+D-FEST ska verka för att öka sammanhållningen bland sektionens funktionärer.
+
+#### §4.3.14.2 Organisation
+
+Funktionären ska samarbeta med D-Rektoratet kring sin verksamhet och d-Rektoratet ska bistå funktionären med arbetskraft. Vid behov kan funktionären anlita en mindre mängd sektionsmedlemmar för att bedriva verksamhet.
+
+#### §4.3.14.3 Verksamhet
+
+Till funktionärens uppgifter hör att
+
+- Anordna två skiftesgasquer per år, en efter Glögg-SM och en efter Val-SM. Syftet med skiftesgasquerna är att hedra sektionens avträdande och tillträdande funktionärer.
+
+- Anordna regelbundna teambuildings för sektionens funktionärer.
+
+- Eventuellt anordna andra sittningar och evenemang tillsammans med andra sektioner och studentkårer för att representera sektionen utåt.
+
+#### §4.3.14.4 Mandatperiod
+
+Väljs på Val-SM. Har läsår som mandatperiod.
 
 §5 Externa representanter
 ======================

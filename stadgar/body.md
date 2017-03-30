@@ -370,21 +370,29 @@ Nämnd är skyldig att upprätta verksamhetsberättelse, samt även annars på a
 
 ### §5.1.4 Valberedning
 
-#### §5.1.4.1 Ordinarie val
+#### §5.1.4.1 Nomineringar
 
-Valberedningen skall enligt §[1.8] anslå en nomineringslista senast 25 läsdagar före SM då ordinarie val sker. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen. Nominering till funktionärspost måste lämnas in senast 15 läsdagar före det SM där valet sker. Nominering till funktionärspost måste accepteras senast 10 läsdagar före det SM där valet sker för att kandidaturen ska vara giltig. Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 5 läsdagar för den specifika posten. I händelse att det inte finns några kandidater efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod på 5 läsdagar och därefter ska acceptansstoppet vara en dag innan SM. Detta gäller inte sektionsordförande och vice sektionsordförande för att möjliggöra urnval.
+Valberedningen skall i samband med val anslå en nomineringslista via officiella informationskanaler enligt §[1.8]. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen.
 
-#### §5.1.4.2 Fyllnadsval
+Valberedningen skall tillfråga de nominerade huruvida de vill acceptera nomineringen. Samtidigt som nomineringslistan anslås skall Valberedningen även anslå en lista på samtliga nominerade i valet.
 
-Om en funktionärspost blir vakantsatt skall Valberedningen lysa fyllnadsval till nästkommande ordinarie SM. Inför fyllnadsval skall Valberedningen enligt §[1.8] anslå en nomineringslista senast 15 läsdagar före det SM då fyllnadsvalet sker. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen. Nominering till funktionärspost måste lämnas in senast 5 läsdagar före det SM där fyllnadsvalet sker. Nominering till funktionärspost måste accepteras senast 1 läsdag före det SM där fyllnadsvalet sker för att kandidaturen ska vara giltig.
+#### §5.1.4.2 Ordinarie val
 
-#### §5.1.4.3 Val vid extra SM
+Nomineringslistan skall anslås enligt §[Nomineringar] senast 25 läsdagar före SM då ordinarie val sker. Nominering till funktionärspost måste lämnas in senast 15 läsdagar före det SM där valet sker. Nominering till funktionärspost måste accepteras senast 10 läsdagar före det SM där valet sker för att kandidaturen ska vara giltig.
 
-I undantagsfall kan val på extra SM utföras. Valberedningen skall enligt §[1.8] anslå en nomineringslista senast 8 läsdagar före det extra SM då ett val sker. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen. Nominering till funktionärspost måste lämnas in senast en (1) läsdag före det extra SM där valet sker. Nominering till funktionärspost måste accepteras innan öppnandet av det extra SM där valet sker för att kandidaturen ska vara giltig.
+Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 5 läsdagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nominerings- period för den givna posten på 5 läsdagar och därefter ska acceptansstoppet vara en dag innan SM. Detta gäller inte sektionsordförande och vice sektionsordförande för att möjliggöra urnval.
 
-#### §5.1.4.4 Valhandlingar
+#### §5.1.4.3 Fyllnadsval
 
-Valberedningen skall tillfråga de nominerade och i anslutning till det SM då val sker anslå en lista på samtliga nominerade som väljer att kandidera i valet. Valhandlingar skall sammanställas och göras tillgängliga för sektionens medlemmar i sektionslokalen i anslutning till det SM då val sker.
+Om en funktionärspost blir vakantsatt skall Valberedningen lysa fyllnadsval till nästkommande ordinarie SM.
+
+Inför fyllnadsval skall nomineringslistan anslås enligt §[Nomineringar] senast 15 läsdagar före det SM då fyllnadsvalet sker. Nominering till funktionärspost måste lämnas in senast 5 läsdagar före det SM där fyllnadsvalet sker. Nominering till funktionärspost måste accepteras senast 1 läsdag före det SM där fyllnadsvalet sker för att kandidaturen ska vara giltig.
+
+#### §5.1.4.4 Val vid extra SM
+
+I undantagsfall kan val på extra SM utföras.
+
+Nomineringslistan skall anslås enligt §[Nomineringar] senast 8 läsdagar före det extra SM då ett val sker. Nominering till funktionärspost måste lämnas in senast en (1) läsdag före det extra SM där valet sker. Nominering till funktionärspost måste accepteras innan öppnandet av det extra SM där valet sker för att kandidaturen ska vara giltig.
 
 #### §5.1.4.5 Urnval
 
@@ -468,7 +476,7 @@ Revisorerna har rätt
 
 -   att begära och erhålla upplysningar rörande verksamhet och förvaltning
 
--   att bevaka samtliga sektionsorgans sammanträden med yttrande- och yrkanderätt
+-   att bevaka samtliga sektionsorgans sammanträden med närvaro-, yttrande- och yrkanderätt
 
 -   att kalla till möte med samtliga sektionsorgan.
 
