@@ -1061,7 +1061,7 @@ Ett SM skall hållas på hösten senast 15 november och benämnas Budget-SM. Bud
 
 ### §6.1.2 Glögg-SM
 
-Ett SM skall hållas i december och benämnas Glögg-SM.
+Ett SM skall hållas efter Budget-SM, tidigast 15 november och senast 31 december och benämnas Glögg-SM.
 
 Mötesordföranden skall på Glögg-SM bära cerise tomteluva. Detta för att försäkra sig om att ingen sektionsmedlem blir sittande i Cerise eller motsvarande terminalinrättning på julafton.
 
