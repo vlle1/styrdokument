@@ -372,7 +372,7 @@ Nämnd är skyldig att upprätta verksamhetsberättelse, samt även annars på a
 
 #### §5.1.4.1 Nomineringar
 
-Valberedningen skall i samband med val anslå en nomineringslista via officiella informationskanaler enligt §1.8. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen.
+Valberedningen skall i samband med val anslå en nomineringslista via officiella informationskanaler enligt §[1.8]. På denna lista kan sektionsmedlemmar nomineras till funktionärsposter, dock ska det även vara möjligt att maila nomineringar till Valberedningen.
 
 Valberedningen skall tillfråga de nominerade huruvida de vill acceptera nomineringen. Samtidigt som nomineringslistan anslås skall Valberedningen även anslå en lista på samtliga nominerade i valet.
 
