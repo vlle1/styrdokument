@@ -930,6 +930,30 @@ ISC ska
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
+### §4.3.14 D-FEST
+
+#### §4.3.14.1 Ändamål
+
+D-FEST ska verka för att öka sammanhållningen bland sektionens funktionärer.
+
+#### §4.3.14.2 Organisation
+
+Funktionären ska samarbeta med D-Rektoratet kring sin verksamhet och d-Rektoratet ska bistå funktionären med arbetskraft. Vid behov kan funktionären anlita en mindre mängd sektionsmedlemmar för att bedriva verksamhet.
+
+#### §4.3.14.3 Verksamhet
+
+Till funktionärens uppgifter hör att
+
+- Anordna två skiftesgasquer per år, en efter Glögg-SM och en efter Val-SM. Syftet med skiftesgasquerna är att hedra sektionens avträdande och tillträdande funktionärer.
+
+- Anordna regelbundna teambuildings för sektionens funktionärer.
+
+- Eventuellt anordna andra sittningar och evenemang tillsammans med andra sektioner och studentkårer för att representera sektionen utåt.
+
+#### §4.3.14.4 Mandatperiod
+
+Väljs på Val-SM. Har läsår som mandatperiod.
+
 §5 Externa representanter
 ======================
 
