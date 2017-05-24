@@ -81,7 +81,7 @@ Beslut fattas med enkel majoritet om inget annat är föreskrivet.
 §1.8 Officiella informationskanaler
 -----------------------------------
 
-Information som anslås skall sättas upp i minst A4-format på väl synlig plats i sektionslokalen, samt göras tillgänglig för samtliga sektionsmedlemmar på sektionens officiella webbplats.
+Information som kan intressera sektionens medlemmar i stort ska göras tillgänglig för samtliga sektionsmedlemmar på det sätt som beskrivs i sektionens informationsspridningspolicy.
 
 §1.9 Definitioner
 -----------------
