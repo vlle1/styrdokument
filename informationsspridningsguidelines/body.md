@@ -9,7 +9,7 @@ Detta dokument innehåller riktlinjer för hur informationsspridning inom sektio
 §2 Officiella informationskanaler
 ------------------------------
 
-Hemsidan och sektionslokalen är de officiella informationskanalerna. Därför ska information som kan intressera sektionens medlemmar i stort, först publiceras där.
+Sektionens webbplats är dess officiella informationskanal. Därför ska information som kan intressera sektionens medlemmar i stort publiceras där först. Vidare ska dokument såsom kallelser, handlingar, protokoll och avtal som kan intressera sektionens medlemmar i stort fysiskt sättas upp i sektionslokalen i pappersformat, då minst i A4-format. Sådan information som kan presenteras väl i storbildsformat bör även publiceras på TV-skärmarna i sektionslokalen, om sådana finns.
 
 §3 Inofficiella informationskanaler
 --------------------------------
