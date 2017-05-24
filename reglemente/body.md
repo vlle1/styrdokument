@@ -832,7 +832,9 @@ Har till uppgift att ansvara över sektionens bil och tillhörande ekonomi.
 
 #### §4.3.8.2 Verksamhet
 
-Hanterar bokning, regler för bilen, reparation/underhåll, parkeringstillstånd, försäkringar och annat som hör bilen till.
+Hanterar bokning, regler för bilen, reparation/underhåll, parkeringstillstånd, försäkringar och annat som hör bilen till. 
+
+Kan besluta att utdela medaljer, kallade Crashmedaljer, till de personer som orsakat bilen skada. Crashmedaljer får inte utdelas vid allvarlig skada på bilen, olovlig körning, rattfylleri eller personskada.
 
 #### §4.3.8.3 Organisation
 
@@ -930,11 +932,11 @@ ISC ska
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §4.3.14 D-FEST
+### §4.3.14 D-Fest
 
 #### §4.3.14.1 Ändamål
 
-D-FEST ska verka för att öka sammanhållningen bland sektionens funktionärer.
+D-Fest ska verka för att öka sammanhållningen bland sektionens funktionärer.
 
 #### §4.3.14.2 Organisation
 
@@ -968,17 +970,25 @@ Samtliga ordinarie ledamöter skall om möjligt delta på varje möte. Ordinarie
 
 Näringslivsansvarig och D-Dagenansvarig
 
+#### §5.1.1.2 Suppleant
+
+Styrelseledamot för Näringsliv och Kommunikation
+
 ### §5.1.2 Idrottsrådet
 
 #### §5.1.2.1 Ordinarie
 
 Sektionsidrottsledare
 
-### §5.1.3 Informationsrådet
+### §5.1.3 Kommunikationsrådet
 
 #### §5.1.3.1 Ordinarie
 
-Informationsansvarig
+Kommunikatör
+
+#### §5.1.3.2 Suppleant
+
+Styrelseledamot för Näringsliv och Kommunikation
 
 ### §5.1.4 Internationella rådet
 
@@ -986,13 +996,21 @@ Informationsansvarig
 
 Internationell Studentkoordinator
 
+#### §5.1.4.2 Suppleant
+
+Styrelseledamot för Utbildningsfrågor
+
 ### §5.1.5 Jämlikhetsrådet
 
 #### §5.1.5.1 Ordinarie
 
 Jämlikhetsnämndens ordförande
 
-### §5.1.6 Pubmästarrådet
+#### §5.1.5.2 Suppleant
+
+Styrelseledamot för Studiesociala frågor
+
+### §5.1.6 Pubrådet
 
 #### §5.1.6.1 Ordinarie
 
@@ -1018,35 +1036,35 @@ Sektionsordförande
 
 Vice sektionsordförande
 
-### §5.1.9 Redaktionsrådet
+### §5.1.9 Utbildningsrådet
 
 #### §5.1.9.1 Ordinarie
 
-Chefredaqtör
+Studienämndens ordförande, Programansvarig student
 
 #### §5.1.9.2 Suppleant
 
-Sekreterare
+Styrelseledamot för utbildningsfrågor
 
-### §5.1.10 Studiemiljörådet
+### §5.1.10 Ekonomirådet
 
 #### §5.1.10.1 Ordinarie
 
-Styrelseledamot för studiesociala frågor
+Kassör
 
 #### §5.1.10.2 Suppleant
 
-Styrelseledamot för utbildningsfrågor
+Sektionsordförande
 
-### §5.1.11 Utbildningsrådet
+### §5.1.11 Lokalrådet
 
 #### §5.1.11.1 Ordinarie
 
-Studienämndens ordförande, Programansvarig student
+Konglig Lokalchef
 
 #### §5.1.11.2 Suppleant
 
-Styrelseledamot för utbildningsfrågor
+Sektionsordförande
 
 §5.2 Representation inom organ på KTH
 --------------------------------
