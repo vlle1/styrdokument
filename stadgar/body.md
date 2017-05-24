@@ -81,7 +81,7 @@ Beslut fattas med enkel majoritet om inget annat är föreskrivet.
 §1.8 Officiella informationskanaler
 -----------------------------------
 
-Information som anslås skall sättas upp i minst A4-format på väl synlig plats i sektionslokalen, samt göras tillgänglig för samtliga sektionsmedlemmar på sektionens officiella webbplats.
+Information som kan intressera sektionens medlemmar i stort ska göras tillgänglig för samtliga sektionsmedlemmar på det sätt som beskrivs i sektionens informationsspridningspolicy.
 
 §1.9 Definitioner
 -----------------
@@ -384,13 +384,11 @@ Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens or
 
 #### §5.1.4.3 Fyllnadsval
 
-Om en funktionärspost blir vakantsatt skall Valberedningen lysa fyllnadsval till nästkommande ordinarie SM.
+Om en funktionärspost blir vakantsatt skall Valberedningen lysa fyllnadsval till nästkommande SM.
 
 Inför fyllnadsval skall nomineringslistan anslås enligt §[Nomineringar] senast 15 läsdagar före det SM då fyllnadsvalet sker. Nominering till funktionärspost måste lämnas in senast 5 läsdagar före det SM där fyllnadsvalet sker. Nominering till funktionärspost måste accepteras senast 1 läsdag före det SM där fyllnadsvalet sker för att kandidaturen ska vara giltig.
 
 #### §5.1.4.4 Val vid extra SM
-
-I undantagsfall kan val på extra SM utföras.
 
 Nomineringslistan skall anslås enligt §[Nomineringar] senast 8 läsdagar före det extra SM då ett val sker. Nominering till funktionärspost måste lämnas in senast en (1) läsdag före det extra SM där valet sker. Nominering till funktionärspost måste accepteras innan öppnandet av det extra SM där valet sker för att kandidaturen ska vara giltig.
 
