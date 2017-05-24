@@ -932,11 +932,11 @@ ISC ska
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §4.3.14 D-FEST
+### §4.3.14 D-Fest
 
 #### §4.3.14.1 Ändamål
 
-D-FEST ska verka för att öka sammanhållningen bland sektionens funktionärer.
+D-Fest ska verka för att öka sammanhållningen bland sektionens funktionärer.
 
 #### §4.3.14.2 Organisation
 
