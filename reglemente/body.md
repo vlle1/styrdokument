@@ -970,17 +970,25 @@ Samtliga ordinarie ledamöter skall om möjligt delta på varje möte. Ordinarie
 
 Näringslivsansvarig och D-Dagenansvarig
 
+#### §5.1.1.2 Suppleant
+
+Styrelseledamot för Näringsliv och Kommunikation
+
 ### §5.1.2 Idrottsrådet
 
 #### §5.1.2.1 Ordinarie
 
 Sektionsidrottsledare
 
-### §5.1.3 Informationsrådet
+### §5.1.3 Kommunikationsrådet
 
 #### §5.1.3.1 Ordinarie
 
-Informationsansvarig
+Kommunikatör
+
+#### §5.1.3.2 Suppleant
+
+Styrelseledamot för Näringsliv och Kommunikation
 
 ### §5.1.4 Internationella rådet
 
@@ -988,13 +996,21 @@ Informationsansvarig
 
 Internationell Studentkoordinator
 
+#### §5.1.4.2 Suppleant
+
+Styrelseledamot för Utbildningsfrågor
+
 ### §5.1.5 Jämlikhetsrådet
 
 #### §5.1.5.1 Ordinarie
 
 Jämlikhetsnämndens ordförande
 
-### §5.1.6 Pubmästarrådet
+#### §5.1.5.2 Suppleant
+
+Styrelseledamot för Studiesociala frågor
+
+### §5.1.6 Pubrådet
 
 #### §5.1.6.1 Ordinarie
 
@@ -1020,35 +1036,35 @@ Sektionsordförande
 
 Vice sektionsordförande
 
-### §5.1.9 Redaktionsrådet
+### §5.1.9 Utbildningsrådet
 
 #### §5.1.9.1 Ordinarie
 
-Chefredaqtör
+Studienämndens ordförande, Programansvarig student
 
 #### §5.1.9.2 Suppleant
 
-Sekreterare
+Styrelseledamot för utbildningsfrågor
 
-### §5.1.10 Studiemiljörådet
+### §5.1.10 Ekonomirådet
 
 #### §5.1.10.1 Ordinarie
 
-Styrelseledamot för studiesociala frågor
+Kassör
 
 #### §5.1.10.2 Suppleant
 
-Styrelseledamot för utbildningsfrågor
+Sektionsordförande
 
-### §5.1.11 Utbildningsrådet
+### §5.1.11 Lokalrådet
 
 #### §5.1.11.1 Ordinarie
 
-Studienämndens ordförande, Programansvarig student
+Konglig Lokalchef
 
 #### §5.1.11.2 Suppleant
 
-Styrelseledamot för utbildningsfrågor
+Sektionsordförande
 
 §5.2 Representation inom organ på KTH
 --------------------------------
