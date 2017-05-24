@@ -832,7 +832,9 @@ Har till uppgift att ansvara över sektionens bil och tillhörande ekonomi.
 
 #### §4.3.8.2 Verksamhet
 
-Hanterar bokning, regler för bilen, reparation/underhåll, parkeringstillstånd, försäkringar och annat som hör bilen till.
+Hanterar bokning, regler för bilen, reparation/underhåll, parkeringstillstånd, försäkringar och annat som hör bilen till. 
+
+Kan besluta att utdela medaljer, kallade Crashmedaljer, till de personer som orsakat bilen skada. Crashmedaljer får inte utdelas vid allvarlig skada på bilen, olovlig körning, rattfylleri eller personskada.
 
 #### §4.3.8.3 Organisation
 
