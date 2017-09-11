@@ -1,4 +1,4 @@
-Informationsspridningsguidelines
+Informationsspridningspolicy
 ================================
 
 §1 Om det här dokumentet
