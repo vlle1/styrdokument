@@ -96,7 +96,7 @@ Tag Monkeys ansvarar för sektionens grafiska utveckling och arbete. Leds av Dat
 
 ##### §3.3.2.1.3 Redaqtionen
 
-Redaqtionen ansvarar för skriverier, nyhetsutskick och att ge ut sektionstidningen dBuggen. Redaqtionen ska specifikt uppdatera och ge ut exakt en nØlledBuggen till varje mottagning. Priset för ett exemplar av dBuggen eller nØlledBuggen skall vara noll prisbasbelopp. Redaqtionen leds av Chefredaqtören, internt benämnd CheFred.
+Redaqtionen ansvarar för skriverier, nyhetsutskick och att ge ut sektionstidningen dbuggen. Redaqtionen ska specifikt uppdatera och ge ut exakt en nØlledbuggen till varje mottagning. Priset för ett exemplar av dbuggen eller nØlledbuggen skall vara noll prisbasbelopp. Redaqtionen leds av Chefredaqtören, internt benämnd CheFred.
 
 ### §3.3.3 Verksamhet
 
