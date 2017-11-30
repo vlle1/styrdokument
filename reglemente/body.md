@@ -96,7 +96,7 @@ Tag Monkeys ansvarar för sektionens grafiska utveckling och arbete. Leds av Dat
 
 ##### §3.3.2.1.3 Redaqtionen
 
-Redaqtionen ansvarar för skriverier, nyhetsutskick och att ge ut sektionstidningen dBuggen. Redaqtionen ska specifikt uppdatera och ge ut exakt en nØlledBuggen till varje mottagning. Priset för ett exemplar av dBuggen eller nØlledBuggen skall vara noll prisbasbelopp. Redaqtionen leds av Chefredaqtören, internt benämnd CheFred.
+Redaqtionen ansvarar för skriverier, nyhetsutskick och att ge ut sektionstidningen dbuggen. Redaqtionen ska specifikt uppdatera och ge ut exakt en nØlledbuggen till varje mottagning. Priset för ett exemplar av dbuggen eller nØlledbuggen skall vara noll prisbasbelopp. Redaqtionen leds av Chefredaqtören, internt benämnd Chefred.
 
 ### §3.3.3 Verksamhet
 
@@ -832,7 +832,7 @@ Har till uppgift att ansvara över sektionens bil och tillhörande ekonomi.
 
 #### §4.3.8.2 Verksamhet
 
-Hanterar bokning, regler för bilen, reparation/underhåll, parkeringstillstånd, försäkringar och annat som hör bilen till. 
+Hanterar bokning, regler för bilen, reparation/underhåll, parkeringstillstånd, försäkringar och annat som hör bilen till.
 
 Kan besluta att utdela medaljer, kallade Crashmedaljer, till de personer som orsakat bilen skada. Crashmedaljer får inte utdelas vid allvarlig skada på bilen, olovlig körning, rattfylleri eller personskada.
 
@@ -858,7 +858,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 #### §4.3.10.1 Ändamål
 
-Leder Redaqtionen. Ansvarar tillsammans med Redaqtionen för skriverier och nyhetsutskick inom Informationsorganet samt för sektionstidningen dBuggen.
+Leder Redaqtionen. Ansvarar tillsammans med Redaqtionen för skriverier och nyhetsutskick inom Informationsorganet samt för sektionstidningen dbuggen.
 
 #### §4.3.10.2 Mandatperiod
 
