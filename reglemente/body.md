@@ -468,6 +468,23 @@ Ordförande för Baknämnden är Bakis. Övriga medlemmar är sektionsmedlemmar 
 
 Baknämnden skall förse sina medlemmar med möjligheter att utöva och utveckla sina färdigheter inom bakning. Nämnden skall eftersträva att under sektionsmöten kunna bjuda på fika, en tjänst som även skall vara öppen för övriga nämnder på sektionen, så att de när tillfälle ges kan beställa bakverk av Baknämnden. Vidare skall nämndens recept dokumenteras så att kommande årgångar skall kunna ta del av dem.
 
+§3.16 Internationella Nämnden
+--------------
+
+### §3.16.1 Ändamål
+Den Internationella Nämnden, på engelska the International Group, skall verka för att främja internationellt utbyte på sektionen och ansvarar för mottagningen av utländska studenter.
+
+### §3.16.2 Organisation
+Internationella Nämnden leds av den Internationella Studentkoordinatorn. Övriga medlemmar är alla intresserade medlemmar.
+
+### §3.16.3 Verksamhet
+Internationella Nämnden skall
+
+- Samordna sektionens internationella verksamhet. Detta inkluderar att hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på CSC:s kansli och institutionerna. utbytesstudier på CSC:s kansli och institutionerna
+- Hålla sektionsmedlemmarna informerade om internationell verksamhet på sektionen
+- Genomföra mottagningsverksamhet för utländska studenter. Detta inkluderar att rekrytera faddrar och koordinera fadderverksamheten
+- Fungera som kontaktperson för utländska studenter på sektionen.
+
 §4 Funktionärer
 ============
 
@@ -699,6 +716,38 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
+### §4.2.18 Internationell Studentkoordinator
+
+#### §4.2.18.1 Ändamål
+
+Internationella Studentkoordinatorn, på engelska "International Student Coordinator" (ISC), är ordförande för den Internationella nämnden.
+
+ISC ska tillsammans med motsvarande post på Sektionen för Medieteknik verka för ökad integration mellan nationella och internationella studenter på CSC-skolan.
+
+#### §4.2.18.2 Organisation
+
+Samtliga intresserade sektionsmedlemmar får hjälpa till med den internationella verksamheten på sektionen.
+
+#### §4.2.18.3 Verksamhet
+
+ISC ska
+
+-   samordna sektionens internationella verksamhet. Detta inkluderar att hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på CSC:s kansli och institutionerna
+
+-   fungera som kontaktperson för internationella studenter på sektionen
+
+-   samarbeta med motsvarande post på Sektionen för Medieteknik för att verka för ökad integration mellan nationella och internationella studenter på CSC-skolan
+
+-   dela information till de internationella studenterna på CSC-skolan om händelser och nämnder på Datasektionen
+
+-   hålla sektionsmedlemmarna informerade om internationell verksamhet på sektionen
+
+-   främja informationsspridning på engelska inom sektionen.
+
+#### §4.2.18.4 Mandatperiod
+
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+
 §4.3 Övriga funktionärer
 -------------------
 
@@ -902,47 +951,18 @@ I det fall att posten är vakantsatt är Ledamot för studiesociala frågor stä
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §4.3.13 Internationell Studentkoordinator
+
+### §4.3.13 D-Fest
 
 #### §4.3.13.1 Ändamål
 
-Internationella Studentkoordinatorn, på engelska kallad ”International Student Coordinator”, ISC, ska tillsammans med motsvarande post på Sektionen för Medieteknik verka för ökad integration mellan nationella och internationella studenter på CSC-skolan.
+D-Fest ska verka för att öka sammanhållningen bland sektionens funktionärer.
 
 #### §4.3.13.2 Organisation
 
-Samtliga intresserade sektionsmedlemmar får hjälpa till med den internationella verksamheten på sektionen.
-
-#### §4.3.13.3 Verksamhet
-
-ISC ska
-
--   samordna sektionens internationella verksamhet. Detta inkluderar att hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på CSC:s kansli och institutionerna
-
--   fungera som kontaktperson för internationella studenter på sektionen
-
--   samarbeta med motsvarande post på Sektionen för Medieteknik för att verka för ökad integration mellan nationella och internationella studenter på CSC-skolan
-
--   dela information till de internationella studenterna på CSC-skolan om händelser och nämnder på Datasektionen
-
--   hålla sektionsmedlemmarna informerade om internationell verksamhet på sektionen
-
--   främja informationsspridning på engelska inom sektionen.
-
-#### §4.3.13.4 Mandatperiod
-
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
-
-### §4.3.14 D-Fest
-
-#### §4.3.14.1 Ändamål
-
-D-Fest ska verka för att öka sammanhållningen bland sektionens funktionärer.
-
-#### §4.3.14.2 Organisation
-
 Funktionären ska samarbeta med D-Rektoratet kring sin verksamhet och d-Rektoratet ska bistå funktionären med arbetskraft. Vid behov kan funktionären anlita en mindre mängd sektionsmedlemmar för att bedriva verksamhet.
 
-#### §4.3.14.3 Verksamhet
+#### §4.3.13.3 Verksamhet
 
 Till funktionärens uppgifter hör att
 
@@ -952,7 +972,7 @@ Till funktionärens uppgifter hör att
 
 - Eventuellt anordna andra sittningar och evenemang tillsammans med andra sektioner och studentkårer för att representera sektionen utåt.
 
-#### §4.3.14.4 Mandatperiod
+#### §4.3.13.4 Mandatperiod
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
