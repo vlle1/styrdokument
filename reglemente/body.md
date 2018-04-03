@@ -133,7 +133,7 @@ Jämlikhetsnämnden skall
 
 -   assistera D-rektoratet med att ta fram, följa upp och vid behov revidera en handlingsplan mot trakasserier
 
--   ha löpande samarbete med KTH, CSC och THS om jämlikhetsarbeten.
+-   ha löpande samarbete med KTH, EECS och THS om jämlikhetsarbeten.
 
 §3.5 Klubbmästeriet
 --------------
@@ -480,7 +480,7 @@ Internationella Nämnden leds av den Internationella Studentkoordinatorn. Övrig
 ### §3.16.3 Verksamhet
 Internationella Nämnden skall
 
-- Samordna sektionens internationella verksamhet. Detta inkluderar att hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på CSC:s kansli och institutionerna. utbytesstudier på CSC:s kansli och institutionerna
+- Samordna sektionens internationella verksamhet. Detta inkluderar att hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna. utbytesstudier på EECS:s kansli och institutionerna
 - Hålla sektionsmedlemmarna informerade om internationell verksamhet på sektionen
 - Genomföra mottagningsverksamhet för utländska studenter. Detta inkluderar att rekrytera faddrar och koordinera fadderverksamheten
 - Fungera som kontaktperson för utländska studenter på sektionen.
@@ -591,11 +591,11 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §4.1.7 Ledamot för utbildningsfrågor
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för sektionens studentinflytande gentemot CSC och för sektionens utbildningspåverkan. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
+Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för sektionens studentinflytande gentemot EECS och för sektionens utbildningspåverkan. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
 -   verka för att upprätthålla en god kontakt med ansvariga på andra sektioner om hur dessa arbetar med studentinflytande och utbildningspåverkan
 
--   ha en samordnade roll för de som arbetar med studentinflytande gentemot CSC på sektionen
+-   ha en samordnade roll för de som arbetar med studentinflytande gentemot EECS på sektionen
 
 -   strategiskt arbeta med utvecklingen av sektionens utbildningspåverkan
 
@@ -722,7 +722,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 Internationella Studentkoordinatorn, på engelska "International Student Coordinator" (ISC), är ordförande för den Internationella nämnden.
 
-ISC ska tillsammans med motsvarande post på Sektionen för Medieteknik verka för ökad integration mellan nationella och internationella studenter på CSC-skolan.
+ISC ska tillsammans med motsvarande post på Sektionen för Medieteknik verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
 
 #### §4.2.18.2 Organisation
 
@@ -732,13 +732,13 @@ Samtliga intresserade sektionsmedlemmar får hjälpa till med den internationell
 
 ISC ska
 
--   samordna sektionens internationella verksamhet. Detta inkluderar att hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på CSC:s kansli och institutionerna
+-   samordna sektionens internationella verksamhet. Detta inkluderar att hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna
 
 -   fungera som kontaktperson för internationella studenter på sektionen
 
--   samarbeta med motsvarande post på Sektionen för Medieteknik för att verka för ökad integration mellan nationella och internationella studenter på CSC-skolan
+-   samarbeta med motsvarande post på Sektionen för Medieteknik för att verka för ökad integration mellan nationella och internationella studenter på EECS-skolan
 
--   dela information till de internationella studenterna på CSC-skolan om händelser och nämnder på Datasektionen
+-   dela information till de internationella studenterna på EECS-skolan om händelser och nämnder på Datasektionen
 
 -   hålla sektionsmedlemmarna informerade om internationell verksamhet på sektionen
 
@@ -787,7 +787,7 @@ Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många s
 
 ### §4.3.4 Programansvarig student
 
-Är ansvarig för sektionens utbildningspåverkan på programnivå och arbetar från studentsidan med utbildningsprogrammets utformning. Är ansvarig för kontakten gentemot CSC-skolan samt KTH i frågor gällande den långsiktiga utvecklingen av programmet och dess kurser i sin helhet. Bör ha god kunskap om programmets uppbyggnad och kurserna som ingår.
+Är ansvarig för sektionens utbildningspåverkan på programnivå och arbetar från studentsidan med utbildningsprogrammets utformning. Är ansvarig för kontakten gentemot EECS-skolan samt KTH i frågor gällande den långsiktiga utvecklingen av programmet och dess kurser i sin helhet. Bör ha god kunskap om programmets uppbyggnad och kurserna som ingår.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
