@@ -472,18 +472,18 @@ Baknämnden skall förse sina medlemmar med möjligheter att utöva och utveckla
 --------------
 
 ### §3.16.1 Ändamål
-Den Internationella Nämnden, på engelska the International Group, skall verka för att främja internationellt utbyte på sektionen och ansvarar för mottagningen av utländska studenter.
+Den Internationella Nämnden, på engelska the International Group, är en delad nämnd mellan Datasektionen och Sektionen för Medieteknik och skall verka för att främja internationellt utbyte på sektionerna och ansvarar för mottagningen av utländska studenter.
 
 ### §3.16.2 Organisation
-Internationella Nämnden leds av den Internationella Studentkoordinatorn. Övriga medlemmar är alla intresserade medlemmar.
+Internationella Nämnden leds tillsammans av Internationell Studentkoordinator och motsvarande på Sektionen för Medieteknik. Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektionsordförande att komma överens om och besluta i frågan. Övriga medlemmar är alla intresserade medlemmar.
 
 ### §3.16.3 Verksamhet
 Internationella Nämnden skall
 
-- Samordna sektionens internationella verksamhet. Detta inkluderar att hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna. utbytesstudier på EECS:s kansli och institutionerna
-- Hålla sektionsmedlemmarna informerade om internationell verksamhet på sektionen
+- Samordna sektionens internationella verksamhet. Detta inkluderar att hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna.
+- Hålla sektionsmedlemmarna informerade om internationell verksamhet på sektionerna
 - Genomföra mottagningsverksamhet för utländska studenter. Detta inkluderar att rekrytera faddrar och koordinera fadderverksamheten
-- Fungera som kontaktperson för utländska studenter på sektionen.
+- Fungera som kontaktperson för utländska studenter på sektionerna.
 
 §4 Funktionärer
 ============
