@@ -1129,8 +1129,6 @@ Tjänsteförslagsnämnden har till uppgift att bereda och avge förslag beträff
 
 Skolrådet är öppet för alla studenter på Data och Media. Skolrådet väljer representanter till andra råd.
 
-Representanter i skolrådet utses av styrelsen.
-
 §6 Ordinarie SM
 ============
 
