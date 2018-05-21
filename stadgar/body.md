@@ -392,13 +392,17 @@ Inför fyllnadsval skall nomineringslistan anslås enligt §[Nomineringar] senas
 
 Nomineringslistan skall anslås enligt §[Nomineringar] senast 8 läsdagar före det extra SM då ett val sker. Nominering till funktionärspost måste lämnas in senast en (1) läsdag före det extra SM där valet sker. Nominering till funktionärspost måste accepteras innan öppnandet av det extra SM där valet sker för att kandidaturen ska vara giltig.
 
-#### §5.1.4.5 Urnval
+#### §5.1.4.5 Kandidatur under SM
 
-##### §5.1.4.5.1 Presidiet
+Då ingen kandidat finns till en post under sektionsmöte vartill val till posten lysts, kan SM besluta att öppna för fri kandidatur. Vid val av kandidat under ovanstående omständigheter krävs ett enhälligt beslut av SM.
+
+#### §5.1.4.6 Urnval
+
+##### §5.1.4.6.1 Presidiet
 
 Sektionsordförande och vice sektionsordförande väljs med urnval enligt reglementets §3.12.6.
 
-##### §5.1.4.5.2 THS Kårfullmäktige
+##### §5.1.4.6.2 THS Kårfullmäktige
 
 Ledamöter och suppleanter till THS Kårfullmäktige väljs i enlighet med THS styrdokument.
 
