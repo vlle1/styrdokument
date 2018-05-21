@@ -1316,5 +1316,3 @@ Det var bättre förr.
 ### §10.1.1 Mer visdomsord
 
 Och ju förr desto bättre.
-
-[8.5]: #8-5-stängning
