@@ -219,7 +219,8 @@ Varje röstberättigad deltagare på SM kan reservera sig mot fattat beslut. Res
 §3.7 Protokoll
 ---------
 
-Vid SM skall diskussionsprotokoll föras av mötessekreterare och justeras av mötesordföranden jämte två av mötet utsedda justerare. Protokoll skall innehålla en förteckning över närvarande, röstberättigade medlemmar. Protokoll skall i justerat skick anslås enligt §[1.8] samt tillsändas THS styrelse inom 14 dagar.
+Vid SM skall diskussionsprotokoll föras av mötessekreterare och justeras av mötesordföranden jämte två av mötet utsedda justerare. Protokoll skall i justerat skick anslås enligt §1.8 inom 14 dagar, samt på begäran
+tillsändas THS styrelse.
 
 §3.8 Interpellation, motion och proposition
 --------------------------------------
@@ -444,7 +445,7 @@ Nya projekt startas genom SM-beslut. I förslag till beslut ska projektnamn, syf
 
 #### §5.3.2.2 Återkommande projekt
 
-Projekt som D-rektoratet anser är regelbundet återkommande kan startas utan SM-beslut. De startas då istället genom beslut på DM med en kort motivering innehållande referens till minst ett väldigt likartat tidigare projekt samt en uppskattning av de uppgifter, bortsett från budget, som krävs för att starta ett nytt projekt. Val av projektledare ska ske på nästkommande SM enligt samma procedur som för övriga funktionärsposter. Vald projektledare åläggs att inkomma med motion innehållandes budget samt verksamhetsplan för projektet till första möjliga SM efter valet, såvida SM inte redan beslutat om dessa för denna projektomgång. Om projektledarposten vakantsätts läggs aktuell projektomgång automatiskt ned. D-rektoratet ansvarar för att en förteckning över återkommande projekt finns tillgänglig för alla sektionens medlemmar på dess hemsida.
+Projekt som D-rektoratet anser är regelbundet återkommande kan startas utan SM-beslut. De startas då istället genom beslut på DM med en kort motivering innehållande referens till minst ett väldigt likartat tidigare projekt samt en uppskattning av de uppgifter, bortsett från budget, som krävs för att starta ett nytt projekt. Val av projektledare ska ske på nästkommande SM enligt samma procedur som för övriga funktionärsposter. Vald projektledare åläggs att inkomma med motion innehållandes budget samt verksamhetsplan för projektet till första möjliga SM efter valet, såvida SM inte redan beslutat om dessa för denna projektomgång. D-rektoratet ansvarar för att en förteckning över återkommande projekt finns tillgänglig för alla sektionens medlemmar på dess hemsida.
 
 ### §5.3.3 Avslutning
 
@@ -461,6 +462,9 @@ Projektledare är ansvarig för projektets verksamhet, ekonomi samt val av proje
 #### §5.3.4.2 Rättigheter
 
 D-rektoratet ansvarar för att projektledare i aktiva projekt får ta del av samma information som sektionens funktionärer samt att även dessa bjuds in till funktionärsmiddagar och liknande tillställningar. D-rektoratet äger rätt att fritt bedöma vilka projekt som anses vara aktiva.
+
+#### §5.3.5 Delade Projekt
+Ett delat projekt är ett projekt som delas mellan sektionen och en eller flera andra sektioner. Ett delat projekt startas på samma sätt som ett vanligt projekt med tillägget att efter att projektledare valts ska ett avtal upprättas mellan sektionen och de sektioner som projektet delas med som beskriver hur projektet ska drivas, hur dess ekonomi ska skötas samt hur resultatet ska delas upp. Detta avtal beslutas om av D-rektoratet. Den del av projektets budget som tillhör sektionen förfogas över enligt sektionens ekonomiska styrdokument.
 
 §6 Revision
 ========

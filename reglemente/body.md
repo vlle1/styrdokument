@@ -304,7 +304,7 @@ Studienämnden skall hålla möte minst en gång per månad under terminstid. M�
 
 Studienämndens dokument skall i så stor utsträckning som möjligt finnas tillgängliga i elektronisk form.
 
-§3.10 Konglig Östrogennämnden
+§3.10 GEEK - Girls: Empowered, Encouraged, Knowledgable
 -----------------------
 
 ### §3.10.1 Ändamål
@@ -313,11 +313,11 @@ Nämndens syfte är att främja tjejers intressen på Datasektionen.
 
 ### §3.10.2 Organisation
 
-Ordförande för Konglig Östrogennämnden är Öfvermatronan, som väljs på SM.
+Ordförande för GEEK är Öfvermatronan, som väljs på SM.
 
 ### §3.10.3 Verksamhet
 
-Konglig Östrogennämnden ska verka för att ge tjejer på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna middag för alla tjejer två gånger per termin samt anordna en tjejgasque en gång per år. Nämnden ska medverka under mottagningen för att få fler tjejer att känna sig välkomna och även anordna företags/inspirations-events under året. Nämnden ska varje år dessutom utse en hedersdam.
+GEEK ska verka för att ge tjejer på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna middag för alla tjejer två gånger per termin samt anordna en tjejgasque en gång per år. Nämnden ska medverka under mottagningen för att få fler tjejer att känna sig välkomna och även anordna företags/inspirations-events under året. Nämnden ska varje år dessutom utse en hedersdam.
 
 §3.11 DEMON - Datas Eminenta MusikOrganisationsNämnd
 ----------------------------------------------
@@ -676,7 +676,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §4.2.11 Öfvermatrona
 
-Är ordförande för Konglig Östrogennämnden.
+Är ordförande för GEEK.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
