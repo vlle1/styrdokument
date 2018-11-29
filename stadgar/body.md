@@ -202,7 +202,7 @@ Beslut kan endast fattas i fråga som antingen enligt stadgarna ska behandlas el
 Ingen får delta i beslut eller leda sammanträdet när frågan om ansvarsfrihet för honom/henne själv behandlas.
 
 §3.6 Reservation
- --------------
+--------------
 
 Varje röstberättigad deltagare på SM kan reservera sig mot fattat beslut. Reservation anmäls i samband med beslutet, och lämnas in skriftligen till mötessekreteraren senast 24 timmar efter mötets avslutande. Reservationer ska föras in i protokollet.
 
