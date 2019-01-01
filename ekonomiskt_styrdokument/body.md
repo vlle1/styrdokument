@@ -54,7 +54,7 @@ Lokalfonden bör vara av sådan storlek att sektionen kan bekosta en lokalflytt 
 
 Jubileumsfondens syfte är undvika att ett enskilt års budget belastas onödigt hårt de år då Datasektionen firar ett jubileum. Dessa pengar får tas i anspråk till jubileumsfirande efter Styrelsebeslut. Då fondens pengar inte är ämnade att användas varje år är det lämpligt att pengarna placeras med detta i åtanke.
 
-Avsättningar till jubileumsfonden bör vara av sådan storlek så att fonden uppnår en summa på 5 prisbasbelopp när ett jubileum infaller.
+Avsättningar till jubileumsfonden bör vara av sådan storlek så att fonden uppnår en summa på 10 prisbasbelopp när ett jubileum infaller.
 
 ##§10 Subventionering av profilkläder##
 Kläder som tillfaller medlemmen, t.ex. hoodies med personligt tryck eller mottagningströjorna, delas in i två grupper, uniform och profilkläder. Vad som faller in under uniform bedöms av DM och ska motiveras med externa bestämmelser från till exempel Tillståndsenheten eller THS.
