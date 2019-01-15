@@ -485,6 +485,19 @@ Internationella Nämnden skall
 - Genomföra mottagningsverksamhet för utländska studenter. Detta inkluderar att rekrytera faddrar och koordinera fadderverksamheten
 - Fungera som kontaktperson för utländska studenter på sektionerna.
 
+§3.17 Stack Overbowl
+--------------
+
+### §3.17.1 Ändamål
+Stack Overbowl ska verka för att sektionsmedlemmarna får tillfälle att bowla tillsammans.
+
+### §3.17.2 Organisation
+Stack Overbowl leds av Kingping. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
+
+### §3.17.3 Verksamhet
+Nämndens verksamhet planeras i början av varje verksamhetsår av Kingpin, i samråd med medlemmarna.
+
+
 §4 Funktionärer
 ============
 
@@ -745,6 +758,11 @@ ISC ska
 -   främja informationsspridning på engelska inom sektionen.
 
 #### §4.2.18.4 Mandatperiod
+
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+
+### §4.2.19 Kingpin
+Är ordförande för Stack Overbowl.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
