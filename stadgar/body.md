@@ -274,7 +274,7 @@ Då ingen kandidat finns till en post under sektionsmöte vartill val till poste
 
 ### §3.13.6 Urnval
 
-Sektionsordförande och vice sektionsordförande väljs med urnval enligt reglementets §3.12.6.
+Sektionsordförande, vice sektionsordförande och kassör väljs med urnval enligt reglementets §3.12.6.
 
 Ledamöter och suppleanter till THS Kårfullmäktige väljs i enlighet med THS styrdokument.
 
