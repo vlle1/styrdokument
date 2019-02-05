@@ -170,7 +170,7 @@ Det åligger SM
 
 -   att om sektionsmedlem så önskar granska protokoll från DM
 
--   att välja funktionärer, med undantag av de som väljs vid urnval
+-   att välja funktionärer, med undantag av de som har avvikande valprocesser enligt §3.13.6
 
 -   att genomföra fyllnadsval vid behov, även till poster som vanligen väljs vid urnval.
 
@@ -396,7 +396,7 @@ Det ska finnas en valberedning, en studienämnd, en sektionslokalnämnd samt en 
 §6 Funktionärer
 ============
 
-Funktionär är den som av SM eller vid urnval har valts till ett förtroendeuppdrag. En funktionärs verksamhet och uppdrag regleras i reglementet.
+Funktionär är den som av SM eller genom avvikande valprocess har valts till ett förtroendeuppdrag. En funktionärs verksamhet och uppdrag regleras i reglementet.
 
 §6.1 Skyldigheter
 -------
