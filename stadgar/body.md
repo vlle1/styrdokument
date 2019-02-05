@@ -272,7 +272,7 @@ Nomineringslistan ska anslås enligt §[Nomineringar] senast 8 läsdagar före d
 
 Då ingen kandidat finns till en post under sektionsmöte vartill val till posten lysts, kan SM besluta att öppna för fri kandidatur. Vid val av kandidat under ovanstående omständigheter krävs ett enhälligt beslut av SM.
 
-### §3.13.6 Urnval
+### §3.13.6 Avvikande valprocesser
 
 Sektionsordförande och vice sektionsordförande väljs med urnval enligt reglementets §3.12.6.
 
