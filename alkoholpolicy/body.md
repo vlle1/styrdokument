@@ -31,7 +31,7 @@ Det är inte tillåtet att medföra sektionens alkohol ut från serveringsytan, 
 
 Personal som arbetar på sektionens arrangemang ska alltid vara nykter, oavsett sammanhang. Serverings- samt festansvarig ska alltid vara helt alkoholfri under arrangemang.
 
-§8 Alkohol under sittningar
+§7 Alkohol under sittningar
 ========================================================
 
 Vid sittningar som nyttjar sektionens alkoholtillstånd ansvarar serveringsansvarig föra tt notera och rapportera serverad sittningsdricka enligt de rutiner som anvisas av Kassör.
