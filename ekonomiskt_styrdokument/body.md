@@ -2,14 +2,14 @@
 ##§1 Bakgrund##
 Detta dokument ska fylla två funktioner. Dels ska det ange de för sektionen gällande regler för hur ekonomin sköts. Dokumentet ska även fungera som en snabb utbildning i hur funktionärer och nämnder ska sköta sin ekonomi och ekonomiska redovisning.
 ##§2 Bokföringsplikt##
-Bokföringspliktiga nämnder såsom DKM, Mottagningen och Prylmångleriet samt vissa projekt sköter sin egen bokföring. Bokföring skall skötas löpande med målsättningen att vara färdig senast nästföljande månadsskifte då det ej är sommarferie. Utöver denna målsättning kan kassören sätta krav på bokföringsdeadlines. Om en nämnd eller ett projekt inte håller utsatta deadlines äger D-rektoratet rätten att applicera restriktioner på dess verksamhet såsom att förbjuda bruk av sektionens alkoholtillstånd. 
+Bokföringspliktiga nämnder såsom DKM, Mottagningen och Prylmångleriet samt vissa projekt sköter sin egen bokföring. Bokföring skall skötas löpande med målsättningen att vara färdig senast nästföljande månadsskifte då det ej är sommarferie. Utöver denna målsättning kan kassören sätta krav på bokföringsdeadlines. Om en nämnd eller ett projekt inte håller utsatta deadlines äger D-rektoratet rätten att applicera restriktioner på dess verksamhet såsom att förbjuda bruk av sektionens alkoholtillstånd.
 Om en nämnd eller ett projekt bokför kontinuerligt och arbetar mot tidsmålet ovan så kan nämnden/projektet belönas. Man kan få extra pengar till bokförings-MUTA/fika/teambuilding från en för ändamålet reserverad budgetpost. Bedömning av detta och utdelning av dessa pengar sker av kassör.
 
 ##§3 Skulder till engagerade##
 Kvitton för inköp åt sektionen skall senast lämnas in 30 dagar efter då inköpet gjordes för att skulden ska betalas tillbaka, därefter kan den nekas. Skulder ska betalas tillbaka till engagerade inom 5 veckor (ej under ferie) under förutsättning att alla uppgifter är rätt registrerade och det framgår i vilket syfte inköpet är gjort.
 
 ##§4 Hantering av kontanter##
-Sektionen har en handkassa benämnd centralt, denna används av Mottagningen, DKM och sektionen i stort. Överföringar mellan handkassor bokförs av källan för överföringen. 
+Sektionen har en handkassa benämnd centralt, denna används av Mottagningen, DKM och sektionen i stort. Överföringar mellan handkassor bokförs av källan för överföringen.
 Summor över 1000 kronor får inte förvaras i sektionslokalen längre än över natten och då endast i låst utrymme. Undantaget från detta är pengar som förvaras i depositionsskåpet.
 ##§5 Lager##
 
@@ -25,13 +25,13 @@ Kvitto alternativt faktura ska erbjudas i någon form för all försäljning.
 
 ##§7 Fakturor##
 ###§7.1 Inköp via faktura###
-Inköp på faktura betyder för det mesta att man nyttjar ett av sektionens kreditavtal. Detta får göras av sektionens funktionärer, både direkt (att funktionären nyttjar kreditavtalet) eller indirekt (att annan person nyttjar kreditavtalet på order av funktionär). Det är funktionärens ansvar att se till att det finns utrymme i budget för kostnaderna. Det går i regel bra att nyttja kreditavtal skrivna av andra organ inom sektionen än det man handlar för, men personen som gör inköpet ansvarar själv för att vara informerad om kreditavtalets gränser. 
+Inköp på faktura betyder för det mesta att man nyttjar ett av sektionens kreditavtal. Detta får göras av sektionens funktionärer, både direkt (att funktionären nyttjar kreditavtalet) eller indirekt (att annan person nyttjar kreditavtalet på order av funktionär). Det är funktionärens ansvar att se till att det finns utrymme i budget för kostnaderna. Det går i regel bra att nyttja kreditavtal skrivna av andra organ inom sektionen än det man handlar för, men personen som gör inköpet ansvarar själv för att vara informerad om kreditavtalets gränser.
 Stora inköp på över 50000 kr som kan komma att påverka sektionens ekonomi i stort ska meddelas kassören så fort det blir känt. Alla fakturor i sektionens namn ska skickas till sektionens gällande fakturaadress.
 ###§7.2 Försäljning via faktura###
 Fakturor utställda av sektionen ska skapas genom av kassör anvisad metod. Nämnder ansvarar själva för att kontinuerligt kontrollera att utskickade fakturor betalas i tid. En kopia av fakturan ska omgående komma bokföringsansvarig tillhanda.
 
 ##§8 Budget##
-Budgeten är ett instrument för att försöka planera och förutspå hur verksamhetsårets ekonomi kommer se ut. Budgeten ska följas i den mån som går, men om verkligheten inte tillåter detta så kan man behöva bortse från budgeten, om så sker är det bra att informera kassör omgående. 
+Budgeten är ett instrument för att försöka planera och förutspå hur verksamhetsårets ekonomi kommer se ut. Budgeten ska följas i den mån som går, men om verkligheten inte tillåter detta så kan man behöva bortse från budgeten, om så sker är det bra att informera kassör omgående.
 I den rambudget som beslutas om på SM finns posterna: Intäkter, Utgifter, Extern balans och Intern balans. Utöver detta krävs det att det för varje nämnd på SM uppvisas en detaljbudget som överensstämmer med rambudgeten. Funktionärer som handhar en detaljbudget kan i samråd med sektionsstyrelse revidera denna under eller inför ett verksamhetsår. Sådana ändringar skall redovisas på styrelsemöte (DM).
 ###§8.1 Förklaring###
 Intäkter är nämndens totala intäkter under året. Utgifter är nämndens totala utgifter under året. Extern balans är balansen för de event och budgetposter som gagnar hela sektionen. Exempel på detta är sittningar hela sektionen är bjuden till, inventarier till META, pubar mm. Intern balans är balansen på event och budgetposter som gagnar en liten grupp inom sektionen, såsom styrelsen, DKM, andra nämnder med evenemang där alla inte är inbjudna. Exempel på denna typ av event och budgetposter är mat vid arbete (MUTA), teambuilding, fika, fest, bungyjump, paintball, kryssning, thailandsresa mm. Det är särskilt viktigt att denna kostnad inte överstiger budgeten. Vad som är externt och internt bedöms av instanserna i §A.
@@ -46,7 +46,7 @@ Datasektionen har utöver de fonder som regleras i stadgarna två andra fonder, 
 
 Lokalfondens medel är avsedda för att köpa in större inventarier till lokalen och att se till att sektionen har en buffert utifall att vi plötsligt skulle behöva flytta.
 
-Ianspråktagande av lokalfondens medel beslutas av D-rektoratet på DM (styrelsemöte). Fondens medel får endast användas för att bekosta inventarier och ombyggnationer i sektionslokalen. 
+Ianspråktagande av lokalfondens medel beslutas av D-rektoratet på DM (styrelsemöte). Fondens medel får endast användas för att bekosta inventarier och ombyggnationer i sektionslokalen.
 
 Lokalfonden bör vara av sådan storlek att sektionen kan bekosta en lokalflytt med fondens medel.
 
@@ -55,6 +55,10 @@ Lokalfonden bör vara av sådan storlek att sektionen kan bekosta en lokalflytt 
 Jubileumsfondens syfte är undvika att ett enskilt års budget belastas onödigt hårt de år då Datasektionen firar ett jubileum. Dessa pengar får tas i anspråk till jubileumsfirande efter Styrelsebeslut. Då fondens pengar inte är ämnade att användas varje år är det lämpligt att pengarna placeras med detta i åtanke.
 
 Avsättningar till jubileumsfonden bör vara av sådan storlek så att fonden uppnår en summa på 10 prisbasbelopp när ett jubileum infaller.
+
+###§9.3 Jubileumsfonden###
+
+50 års jubileumsfondens syfte är att möjliggöra ett större evenemang vid Datasektionens 50 års Jubileum. Denna fond är tänkt att användas tillsammans med Jubileumsfonden (se §9.2 Jubileumsfonden) och utgör därför extra resurser som tillgängliggörs för att fira Datasektionens 50 års jubileum. Dessa pengar får tas i anspråk till jubileumsfirande efter Styrelsebeslut. Då fondens pengar inte är ämnade att användas varje år är det lämpligt att pengarna placeras med detta i åtanke. Avsättningar till 50 års jubileumsfonden bör vara av sådan storlek så att fonden uppnår en summa av 5 prisbasbelopp när 50 års jubileet infaller.
 
 ##§10 Subventionering av profilkläder##
 Kläder som tillfaller medlemmen, t.ex. hoodies med personligt tryck eller mottagningströjorna, delas in i två grupper, uniform och profilkläder. Vad som faller in under uniform bedöms av DM och ska motiveras med externa bestämmelser från till exempel Tillståndsenheten eller THS.
