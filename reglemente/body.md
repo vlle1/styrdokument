@@ -369,7 +369,8 @@ Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet,
 
 -   annan information som bedöms vara relevant för SM:s beslutsfattande.
 
-När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska denne även få ta del av materialet som samlats in under intervjun. Överklaganden kan riktas till sektionens revisorer eller högre instanser.
+När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska denne även få ta del av materialet som samlats in under intervjun. Överklaganden kan riktas till sektionens revisorer eller
+ högre instanser.
 
 I de fall där kandidaten inte intervjuas ska Valberedningen tillhandahålla ett frågeformulär och resultatet av detta ska ses som Valberedningens utlåtande. Om kandidaten ger sitt godkännande får intervjun även spelas in.
 
