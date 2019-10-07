@@ -369,13 +369,14 @@ Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet,
 
 -   annan information som bedöms vara relevant för SM:s beslutsfattande.
 
-När detta utlåtande är formulerat skall den kandidat som utlåtandet gäller få ta del av utlåtandet och tillfrågas om godkännande av publicering. Utlåtandet får inte publiceras utan detta godkännande.
+När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska denne även få ta del av materialet som samlats in under intervjun. Överklaganden kan riktas till sektionens revisorer eller
+ högre instanser.
 
-I de fall där kandidaten inte intervjuas skall Valberedningen tillhandahålla ett frågeformulär och resultatet av detta skall ses som Valberedningens utlåtande.
+I de fall där kandidaten inte intervjuas ska Valberedningen tillhandahålla ett frågeformulär och resultatet av detta ska ses som Valberedningens utlåtande. Om kandidaten ger sitt godkännande får intervjun även spelas in.
 
 ### §3.12.5 Sekretess
 
-Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som Valberedningen har inför formulerandet av skriftliga utlåtanden skall beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i Valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom de närvarande och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
+Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som Valberedningen har inför formulerandet av skriftliga utlåtanden skall beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i Valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom den valberedning som är inblandad i valprocessen, den intervjuade kandidaten och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
 
 ### §3.12.6 Urnval
 
