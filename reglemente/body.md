@@ -1252,53 +1252,10 @@ En medalj per person och projekt utdelas. D-rektoratet ansvarar för att utdelni
 §8 Sektionslokalen
 ===============
 
-Sektionslokalen kan endast bokas/hyras av sektionernas styrelser, nämnder och funktionärer, såväl som av organ inom THS, kårföreningar och andra sektioner. Beslut om att bevilja eller avslå bokningsbegäran fattas av sektionslokalsansvariga från fall till fall. Bokning av sektionslokalen som sträcker sig över lunchtid, 11:30 – 13:30, räknas som en stängning enligt §[8.5].
+Sektionslokalen kan endast bokas/hyras av sektionernas styrelser, nämnder och funktionärer, såväl som av organ inom THS, kårföreningar och andra sektioner. Beslut om att bevilja eller avslå bokningsbegäran fattas av sektionslokalsansvariga från fall till fall.
 
-§8.1 Prioritering
-------------
-
-Vid krockande bokningar gäller följande prioritetslista i fallande ordning. Dock kan ingen tvingas att ändra sin bokning med mindre än två veckors varsel. Inom en prioritetsnivå gäller först till kvarn.
-
-1.  D-rektoratet/Medietekniks styrelse, sektionsnämnd eller -funktionär
-
-2.  THS-organ
-
-3.  Kårförening eller annan sektion vid THS
-
-§8.2 Alkohol
+§8.1 Samboendeavtal
 -------
-
-Det är inte tillåtet att medföra egen alkohol till lokalen, vare sig för försäljning eller enskilt bruk. Om alkoholservering önskas måste en behörig ansvarig från sektionerna närvara. Sektionen förbehåller sig alltid rätten att neka alkoholservering.
-
-§8.3 Övriga regler
--------------
-
-Det får max befinna sig 150 personer i lokalen. Ingen sektionsmedlem kan vägras tillträde till lokalen, även om den är bokad. Dock skall medlemmar alltid visa största möjliga hänsyn mot den/de som bokat lokalen. Den person som hyr sektionslokalen är personligen ansvarig för de aktiviteter som förekommer där under uthyrningen. I övrigt gäller KTH-handbokens regler för fester och sammankomster i KTH:s lokaler.
-
-§8.4 Undantag
---------
-
-Sektionslokalsansvariga kan besluta om undantag från dessa regler, i den mån det är förenligt med THS och KTH:s regler samt svensk lagstiftning, om särskilda skäl föreligger.
-
-§8.5 Stängning
----------
-
-Sektionslokalen får stängas under en bestämd tidsperiod efter likalydande beslut av respektive
-sektionsstyrelse. Stängning måste dock annonseras i sektionernas officiella informationskanaler senast 4 läsdagar i förväg och beslut om stängning skall alltid prövas på nästföljande styrelsemöte.
-
-
-§8.6 Förbud
-------
-
-### §8.6.1 Nötförbud
-
-Cashewnötter, hasselnötter, jordnötter, makadamianötter, mandlar, paranötter, pekannötter, pistagenötter och valnötter är ej tillåtna i sektionslokalen. Produkter som kan innehålla spår av nötter är tillåtna.
-
-### §8.6.2 E-cigarettförbud
-
-E-cigarett är helt förbjudet i sektionslokalen.
-
-### §8.7 Samboendeavtal
 
 Samboendeavtalet beskriver vilka regler som gäller för sektionslokalen samt förtydligar
 hur verksamheten i lokalen ska hanteras. Avtalet skrivs för att stärka samarbetet mellan

@@ -26,32 +26,37 @@ För att få öppna baren krävs godkännande av Sektionsordförande eller Klubb
 
 Det är inte tillåtet att medföra sektionens alkohol ut från serveringsytan, även om baren är stängd, i annat ändamål än att flytta alkoholen till ett av sektionen genomfört arrangemang eller för att lämna tillbaka alkoholen till återförsäljare.
 
-§6 Nykter personal
+§6 Alkohol i sektionslokalen
+==========================
+
+Det är inte tillåtet att medföra egen alkohol till lokalen, vare sig för försäljning eller enskilt bruk. Om alkoholservering önskas måste en behörig ansvarig från sektionerna närvara. Sektionen förbehåller sig alltid rätten att neka alkoholservering.
+
+§7 Nykter personal
 ===============
 
 Personal som arbetar på sektionens arrangemang ska alltid vara nykter, oavsett sammanhang. Serverings- samt festansvarig ska alltid vara helt alkoholfri under arrangemang.
 
-§7 Alkohol under sittningar
+§8 Alkohol under sittningar
 ========================================================
 
 Vid sittningar som nyttjar sektionens alkoholtillstånd ansvarar serveringsansvarig föra tt notera och rapportera serverad sittningsdricka enligt de rutiner som anvisas av Kassör.
 
-§8 Arrangemang utanför det permanenta serveringstillståndet
+§9 Arrangemang utanför det permanenta serveringstillståndet
 ========================================================
 
 Vid arrangemang utanför sektionens permanenta serveringstillstånd ska nödvändiga tillstånd skaffas. Om tillfälligt alkoholtillstånd ej erhållits ska alkoholservering likväl endast ske i enlighet med alkohollagen. Detta innebär exempelvis att alkoholförsäljning med vinstintresse på Osqvik endast får ske om tillstånd erhållits. All alkohol som serveras utanför sektionens alkoholtillstånd måste köpas från Systembolaget och får inte tas från sektionens alkohollager.
 
-§9 Alkohol bakom bardisk
+§10 Alkohol bakom bardisk
 =====================
 
 Alkohol får inte förtäras bakom baren.
 
-§10 Självservering
+§11 Självservering
 ==============
 
 Ingen får sälja och servera alkohol till sig själv.
 
-§11 Alkohol bekostad av sektionen
+§12 Alkohol bekostad av sektionen
 =============================
 
 Högst 1/3 av pengarna spenderade vid ett tillfälle med en intern grupp får användas för att bekosta alkohol. Med detta menas att pengar under t.ex. en teambuilding läggs för att subventionera alkohol.
