@@ -39,7 +39,7 @@ Personal som arbetar på sektionens arrangemang ska alltid vara nykter, oavsett 
 §8 Alkohol under sittningar
 ========================================================
 
-Vid sittningar som nyttjar sektionens alkoholtillstånd ansvarar serveringsansvarig föra tt notera och rapportera serverad sittningsdricka enligt de rutiner som anvisas av Kassör.
+Vid sittningar som nyttjar sektionens alkoholtillstånd ansvarar serveringsansvarig föra att notera och rapportera serverad sittningsdricka enligt de rutiner som anvisas av Kassör.
 
 §9 Arrangemang utanför det permanenta serveringstillståndet
 ========================================================
