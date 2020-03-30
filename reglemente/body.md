@@ -770,6 +770,14 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
+### §4.2.20 Datas Art Director
+
+#### §4.2.20.1 Ändamål
+Leder Tag Monkeys. Ansvarar tillsammans med Tag Monkeys för sektionens grafiska utveckling och arbete.
+
+#### §4.2.20.2 Mandatperiod
+Väljs på Val-SM. Har läsår som mandatperiod. 
+
 §4.3 Övriga funktionärer
 -------------------
 
