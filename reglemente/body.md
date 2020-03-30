@@ -786,6 +786,13 @@ Leder Redaqtionen. Ansvarar tillsammans med Redaqtionen för skriverier och nyhe
 #### §4.2.21.2 Mandatperiod
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
+### §4.2.22 Systemansvarig
+
+#### §4.2.22.1 Ändamål
+Leder Informationsorganet. Ansvarar tillsammans med Informationsorganet över sektionens datasystem.
+
+#### §4.2.22.2 Mandatperiod
+Väljs på Val-SM. Har läsår som mandatperiod.
 
 §4.3 Övriga funktionärer
 -------------------
