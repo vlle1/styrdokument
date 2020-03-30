@@ -478,6 +478,17 @@ Stack Overbowl leds av Kingping. Övriga medlemmar är samtliga intresserade sek
 ### §3.17.3 Verksamhet
 Nämndens verksamhet planeras i början av varje verksamhetsår av Kingpin, i samråd med medlemmarna.
 
+§3.18 Tag Monkeys
+--------------
+
+### §3.18.1 Ändamål
+Tag Monkeys ansvarar för sektionens grafiska utveckling och arbete.
+
+### §3.18.2 Organisation
+Tag Monkeys leds av Datas Art Director. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
+
+### §3.18.3 Verksamhet
+Tag Monkeys ska fortlöpande arbeta med sektionens grafisk profil och bistå annan sektionsverksamhet som kräver grafiska resurser såsom logotyper eller märken. Tag Monkeys ska även engagera sektionens medlemmar kring grafisk utveckling.
 
 §4 Funktionärer
 ============
