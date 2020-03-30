@@ -915,43 +915,13 @@ I det fall att posten är vakantsatt har Konglig Öfverdrif ansvar för bilen.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §4.3.9 Datas Art Director
+### §4.3.9 Studerandeskyddsombud
 
 #### §4.3.9.1 Ändamål
 
-Leder Tag Monkeys. Ansvarar tillsammans med Tag Monkeys för sektionens grafiska utveckling och arbete.
-
-#### §4.3.9.2 Mandatperiod
-
-Väljs på Val-SM. Har läsår som mandatperiod.
-
-### §4.3.10 Chefredaqtör
-
-#### §4.3.10.1 Ändamål
-
-Leder Redaqtionen. Ansvarar tillsammans med Redaqtionen för skriverier och nyhetsutskick inom Informationsorganet samt för sektionstidningen dbuggen.
-
-#### §4.3.10.2 Mandatperiod
-
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
-
-### §4.3.11 Systemansvarig
-
-#### §4.3.11.1 Ändamål
-
-Leder Crash & Bränn. Ansvarar tillsammans med Crash & Bränn över sektionens datasystem.
-
-#### §4.3.11.2 Mandatperiod
-
-Väljs på Val-SM. Har läsår som mandatperiod.
-
-### §4.3.12 Studerandeskyddsombud
-
-#### §4.3.12.1 Ändamål
-
 Har till uppgift att agera som studerandeskyddsombud för sektionen. Funktionären skall såväl proaktivt som reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
 
-#### §4.3.12.2 Verksamhet
+#### §4.3.9.2 Verksamhet
 
 Studerandeskyddsombudet ska
 
@@ -965,26 +935,26 @@ Studerandeskyddsombudet ska
 
 -   regelbundet kontrollera de brandsläckare som finns i sektionslokalen.
 
-#### §4.3.12.3 Organisation
+#### §4.3.9.3 Organisation
 
 I det fall att posten är vakantsatt är Ledamot för studiesociala frågor ställföreträdande studerandeskyddsombud.
 
-#### §4.3.12.4 Mandatperiod
+#### §4.3.9.4 Mandatperiod
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 
-### §4.3.13 D-Fest
+### §4.3.10 D-Fest
 
-#### §4.3.13.1 Ändamål
+#### §4.3.10.1 Ändamål
 
 D-Fest ska verka för att öka sammanhållningen bland sektionens funktionärer.
 
-#### §4.3.13.2 Organisation
+#### §4.3.10.2 Organisation
 
 Funktionären ska samarbeta med D-Rektoratet kring sin verksamhet och d-Rektoratet ska bistå funktionären med arbetskraft. Vid behov kan funktionären anlita en mindre mängd sektionsmedlemmar för att bedriva verksamhet.
 
-#### §4.3.13.3 Verksamhet
+#### §4.3.10.3 Verksamhet
 
 Till funktionärens uppgifter hör att
 
@@ -994,7 +964,7 @@ Till funktionärens uppgifter hör att
 
 - Eventuellt anordna andra sittningar och evenemang tillsammans med andra sektioner och studentkårer för att representera sektionen utåt.
 
-#### §4.3.13.4 Mandatperiod
+#### §4.3.10.4 Mandatperiod
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
