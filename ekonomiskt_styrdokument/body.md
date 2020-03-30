@@ -38,7 +38,7 @@ Intäkter är nämndens totala intäkter under året. Utgifter är nämndens tot
 ###§8.2 Skyldighet###
 Denna frihet som ges att få forma sin egen budget kräver fortfarande att pengar läggs på rätt saker och de med rätt att betala ut utgifter har rätt att neka utbetalningen om det bryter mot detta dokument. Beslutet kan överklagas enligt nämnda ordning i §A.
 ###§8.3 Användande av fikabudget###
-Fikabudget ska gå till inköp av ﬁka på möten eller andra aktiviteter. Det är inte nödvändigt att erbjuda ﬁka på alla aktiviteter, men i de fall då ﬁka erbjuds ska den vara tillgänglig för samtliga deltagare på aktiviteten. Minst två personer ska förväntasnärvarapåenaktivitetförattpengarskafåtasfrånﬁkabudgeten.Fika ska ej ersätta måltid.
+Fikabudget ska gå till inköp av ﬁka på möten eller andra aktiviteter. Det är inte nödvändigt att erbjuda ﬁka på alla aktiviteter, men i de fall då ﬁka erbjuds ska den vara tillgänglig för samtliga deltagare på aktiviteten. Minst två personer ska förväntas närvara på en aktivitet för att pengar ska få tas från ﬁka budgeten. Fika ska ej ersätta måltid.
 
 ##§9 Fonder##
 
