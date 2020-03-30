@@ -15,9 +15,9 @@ Med **inval** menas att en medlem av Datasektionen väljs in till en nämnd elle
 Inval
 =====
 
-Inval sker till nämnd eller projekt ska tydligt marknadsföras till sektionens medlemmar i sektionens officiella informationskanaler. En medlem ska därefter kunna förvänta sig att beslut som tas vid inval är välgrundade och fattade efter att ha tagit samtliga kandidater i beaktning.
+Inval som sker till nämnd eller projekt ska tydligt marknadsföras till sektionens medlemmar i sektionens officiella informationskanaler. En medlem ska därefter kunna förvänta sig att beslut som tas vid inval är välgrundade och fattade efter att ha tagit samtliga kandidater i beaktning.
 
-Den som är ansvarig för nämnden eller projektet ska sträva efter att ge alla som söker samma förutsättningar i processen. Detta kan göras genom att samla in informationen som ligger till grund för invalsbeslutet på ett likvärdigt sätt för samtliga kandidater. Till exempel kan frågeformulär eller intervjuer som tar i beaktande såväl kandidaters personliga egenskaper som tidigare erfarenheter användas.
+Den som är ansvarig för nämnden eller projektet ska inom rimliga gränser säkerställa att alla som söker ges samma förutsättningar i processen. Detta kan göras genom att samla in informationen som ligger till grund för invalsbeslutet på ett likvärdigt sätt för samtliga kandidater. Till exempel kan frågeformulär eller intervjuer som tar i beaktande såväl kandidaters personliga egenskaper som tidigare erfarenheter användas.
 
 Rekrytering
 ===========
