@@ -986,6 +986,11 @@ Till funktionärens uppgifter hör att
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
+### §4.3.11 Kommunikatör
+Kommunikatören är ansvarig för sektionens kommunikation utåt och inåt. Kommunikatören ansvarar för sektionens övergripande kommunikationsstrategi och bistår andra nämnder, funktionärer och projekt med deras kommunikation.
+
+Väljs på Val-SM. Har läsår som mandatperiod.
+
 §5 Externa representanter
 ======================
 
