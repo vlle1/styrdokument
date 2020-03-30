@@ -37,6 +37,8 @@ I den rambudget som beslutas om på SM finns posterna: Intäkter, Utgifter, Exte
 Intäkter är nämndens totala intäkter under året. Utgifter är nämndens totala utgifter under året. Extern balans är balansen för de event och budgetposter som gagnar hela sektionen. Exempel på detta är sittningar hela sektionen är bjuden till, inventarier till META, pubar mm. Intern balans är balansen på event och budgetposter som gagnar en liten grupp inom sektionen, såsom styrelsen, DKM, andra nämnder med evenemang där alla inte är inbjudna. Exempel på denna typ av event och budgetposter är mat vid arbete (MUTA), teambuilding, fika, fest, bungyjump, paintball, kryssning, thailandsresa mm. Det är särskilt viktigt att denna kostnad inte överstiger budgeten. Vad som är externt och internt bedöms av instanserna i §A.
 ###§8.2 Skyldighet###
 Denna frihet som ges att få forma sin egen budget kräver fortfarande att pengar läggs på rätt saker och de med rätt att betala ut utgifter har rätt att neka utbetalningen om det bryter mot detta dokument. Beslutet kan överklagas enligt nämnda ordning i §A.
+###§8.3 Användande av fikabudget###
+Fikabudget ska gå till inköp av ﬁka på möten eller andra aktiviteter. Det är inte nödvändigt att erbjuda ﬁka på alla aktiviteter, men i de fall då ﬁka erbjuds ska den vara tillgänglig för samtliga deltagare på aktiviteten. Minst två personer ska förväntasnärvarapåenaktivitetförattpengarskafåtasfrånﬁkabudgeten.Fika ska ej ersätta måltid.
 
 ##§9 Fonder##
 
