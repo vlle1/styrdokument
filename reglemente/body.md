@@ -623,61 +623,55 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 §4.2 Nämndordförande
 ---------------
 
-### §4.2.1 Kommunikatör
-
-Är ordförande för Informationsorganet.
-
-Väljs på Val-SM. Har läsår som mandatperiod.
-
-### §4.2.2 Jämlikhetsnämndens ordförande
+### §4.2.1 Jämlikhetsnämndens ordförande
 
 Är ordförande för Jämlikhetsnämnden.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §4.2.3 Klubbmästare
+### §4.2.2 Klubbmästare
 
 Är ordförande för Klubbmästeriet.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §4.2.4 Konglig Lokalchef
+### §4.2.3 Konglig Lokalchef
 
 Konglig Lokalchef är sektionslokalsansvarig och leder sektionslokalsgruppen tillsammmans med motsvarande post vid Sektionen för Medieteknik.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §4.2.5 Konglig Öfverdrif
+### §4.2.4 Konglig Öfverdrif
 
 Är tillsammans med Storasyskon ansvarig för Mottagningen.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §4.2.6 Näringslivsansvarig
+### §4.2.5 Näringslivsansvarig
 
 Är ordförande för Näringslivsgruppen tillsammans med D-Dagenansvarig. Ansvarar för kontakter med näringslivet. I händelsen att posten som D-Dagenansvarig är vakantsatt ansvarar Näringslivsansvarig även för D-Dagen tills dess att posten som D-Dagenansvarig kan fyllnadsväljas.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §4.2.7 Qulturattaché
+### §4.2.6 Qulturattaché
 
 Är ordförande för Qulturnämnden.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §4.2.8 Sektionsidrottsledare
+### §4.2.7 Sektionsidrottsledare
 
 Är ordförande för Idrottsnämnden.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §4.2.9 Storasyskon
+### §4.2.8 Storasyskon
 
 Är tillsammans med Konglig Öfverdrif ansvarig för Mottagningen.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §4.2.10 Studienämndens ordförande
+### §4.2.9 Studienämndens ordförande
 
 Är ordförande för Studienämnden. Arbetsleder Studienämnden och är sammankallande för dess möten. Har det övergripande ansvaret för nämndens verksamhet. Dessa ansvarsområden inkluderar att
 
@@ -691,61 +685,61 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §4.2.11 Öfvermatrona
+### §4.2.10 Öfvermatrona
 
 Är ordförande för GEEK.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §4.2.12 ÄrkeDEMON
+### §4.2.11 ÄrkeDEMON
 
 Är ordförande för DEMON.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §4.2.13 Valberedningens ordförande
+### §4.2.12 Valberedningens ordförande
 
 Är ordförande för Valberedningen.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §4.2.14 Desctop
+### §4.2.13 Desctop
 
 Är ordförande för Datasektionens E-Sports Community.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §4.2.15 Prylmånglaren
+### §4.2.14 Prylmånglaren
 
 Är ordförande för Prylmångleriet.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §4.2.16 D-Dagenansvarig
+### §4.2.15 D-Dagenansvarig
 
 Ansvarar för sektionens arbetsmarknadsdag D-Dagen. Är tillsammans med Näringslivsansvarig ordförande för Näringslivsgruppen. I händelsen att posten som Näringslivsansvarig är vakantsatt ansvarar D-Dagenansvarig även för Näringslivsgruppen tills dess att posten som Näringslivsansvarig kan fyllnadsväljas.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §4.2.17 Bakis
+### §4.2.16 Bakis
 
 Är ordförande för Baknämnden.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §4.2.18 Internationell Studentkoordinator
+### §4.2.17 Internationell Studentkoordinator
 
-#### §4.2.18.1 Ändamål
+#### §4.2.17.1 Ändamål
 
 Internationella Studentkoordinatorn, på engelska "International Student Coordinator" (ISC), är ordförande för den Internationella nämnden.
 
 ISC ska tillsammans med motsvarande post på Sektionen för Medieteknik verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
 
-#### §4.2.18.2 Organisation
+#### §4.2.17.2 Organisation
 
 Samtliga intresserade sektionsmedlemmar får hjälpa till med den internationella verksamheten på sektionen.
 
-#### §4.2.18.3 Verksamhet
+#### §4.2.17.3 Verksamhet
 
 ISC ska
 
@@ -761,37 +755,37 @@ ISC ska
 
 -   främja informationsspridning på engelska inom sektionen.
 
-#### §4.2.18.4 Mandatperiod
+#### §4.2.17.4 Mandatperiod
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §4.2.19 Kingpin
+### §4.2.18 Kingpin
 Är ordförande för Stack Overbowl.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §4.2.20 Datas Art Director
+### §4.2.19 Datas Art Director
 
-#### §4.2.20.1 Ändamål
+#### §4.2.19.1 Ändamål
 Leder Tag Monkeys. Ansvarar tillsammans med Tag Monkeys för sektionens grafiska utveckling och arbete.
 
-#### §4.2.20.2 Mandatperiod
+#### §4.2.19.2 Mandatperiod
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §4.2.21 Chefredaqtör
+### §4.2.20 Chefredaqtör
 
-#### §4.2.21.1 Ändamål
+#### §4.2.20.1 Ändamål
 Leder Redaqtionen. Ansvarar tillsammans med Redaqtionen för skriverier och nyhetsutskick inom Informationsorganet samt för sektionstidningen dbuggen.
 
-#### §4.2.21.2 Mandatperiod
+#### §4.2.20.2 Mandatperiod
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §4.2.22 Systemansvarig
+### §4.2.21 Systemansvarig
 
-#### §4.2.22.1 Ändamål
+#### §4.2.21.1 Ändamål
 Leder Informationsorganet. Ansvarar tillsammans med Informationsorganet över sektionens datasystem.
 
-#### §4.2.22.2 Mandatperiod
+#### §4.2.21.2 Mandatperiod
 Väljs på Val-SM. Har läsår som mandatperiod.
 
 §4.3 Övriga funktionärer
