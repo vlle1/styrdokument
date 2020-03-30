@@ -76,37 +76,17 @@ Nämndens verksamhet planeras i början av varje verksamhetsår av Sektionsidrot
 
 ### §3.3.1 Ändamål
 
-Informationsorganet, Ior, ansvarar för informationsspridning på sektionen och skall verka för att förbättra informationsflödet till, från och mellan sektionens medlemmar.
+Informationsorganet (förkortat Ior) ansvarar för alla
+sektionens datasystem, inklusive servrar som drivs för sektionens räkning.
 
 ### §3.3.2 Organisation
 
-Ior leds av Kommunikatören, internt benämnd Chefsåsnan. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
-
-#### §3.3.2.1 Undergrupper
-
-Informationsorganets undergrupper är delmängder av Informationsorganet med särskilda ansvar och uppgifter. Undergrupperna förfogar över sina eventuella respektive delar av informationsorganets budget och leds av sina respektive funktionärer i samråd med Kommunikatören. Samtliga undergrupper delar informationsorganets övergripande ansvar och uppgifter samt ska vara Informationsorganet och andra nämnder behjälpliga inom sina särskilda arbetsområden.
-
-##### §3.3.2.1.1 Crash & Bränn
-
-Crash & Bränn ansvarar för alla sektionens datasystem, inklusive servrar som drivs för sektionens räkning. De leds av Systemansvarig.
-
-##### §3.3.2.1.2 Tag Monkeys
-
-Tag Monkeys ansvarar för sektionens grafiska utveckling och arbete. Leds av Datas Art Director.
-
-##### §3.3.2.1.3 Redaqtionen
-
-Redaqtionen ansvarar för skriverier, nyhetsutskick och att ge ut sektionstidningen dbuggen. Redaqtionen ska specifikt uppdatera och ge ut exakt en nØlledbuggen till varje mottagning. Priset för ett exemplar av dbuggen eller nØlledbuggen skall vara noll prisbasbelopp. Redaqtionen leds av Chefredaqtören, internt benämnd Chefred.
+Informationsorganet leds av Systemansvarig, internt
+benämnd Chefsåsnan. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
 
 ### §3.3.3 Verksamhet
 
-Ior skall
-
--   hjälpa D-rektoratet och övriga nämnder med informationsspridning
-
--   underhålla och utveckla sektionens webbplats
-
--   ansvara för drift och underhåll av sektionens datorresurser.
+Informationsorganet ska underhålla och utveckla sektionens webbplats samt ansvara för drift och underhåll av sektionens datorresurser.
 
 §3.4 Jämlikhetsnämnden
 -----------------
