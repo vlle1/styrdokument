@@ -490,6 +490,18 @@ Tag Monkeys leds av Datas Art Director. Övriga medlemmar är samtliga intresser
 ### §3.18.3 Verksamhet
 Tag Monkeys ska fortlöpande arbeta med sektionens grafisk profil och bistå annan sektionsverksamhet som kräver grafiska resurser såsom logotyper eller märken. Tag Monkeys ska även engagera sektionens medlemmar kring grafisk utveckling.
 
+§3.19 Redaqtionen
+--------------
+
+### §3.19.1 Ändamål
+Redaqtionen ansvarar för skriverier, nyhetsutskick och att ge ut sektionstidningen dbuggen.
+
+### §3.19.2 Organisation
+Redaqtionen leds av Chefredaqtören, internt benämnd Chefred. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
+
+### §3.19.3 Verksamhet
+Redaqtionen ska ge ut sektionstidningen dbuggen fysiskt och/eller digitalt. De ska även ska specifikt uppdatera och ge ut exakt en nØlledbuggen till varje mottagning. Priset för ett exemplar av dbuggen eller nØlledbuggen ska vara noll prisbasbelopp.
+
 §4 Funktionärer
 ============
 
