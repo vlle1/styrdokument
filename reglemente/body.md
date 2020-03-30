@@ -776,7 +776,16 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 Leder Tag Monkeys. Ansvarar tillsammans med Tag Monkeys för sektionens grafiska utveckling och arbete.
 
 #### §4.2.20.2 Mandatperiod
-Väljs på Val-SM. Har läsår som mandatperiod. 
+Väljs på Val-SM. Har läsår som mandatperiod.
+
+### §4.2.21 Chefredaqtör
+
+#### §4.2.21.1 Ändamål
+Leder Redaqtionen. Ansvarar tillsammans med Redaqtionen för skriverier och nyhetsutskick inom Informationsorganet samt för sektionstidningen dbuggen.
+
+#### §4.2.21.2 Mandatperiod
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+
 
 §4.3 Övriga funktionärer
 -------------------
