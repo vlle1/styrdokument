@@ -155,7 +155,7 @@ Mottagningen har som syfte att ta hand om och roa de nyantagna på till sektione
 
 Mottagningen som helhet leds gemensamt av Konglig Öfverdrif och Storasyskon, hädanefter benämnda Presidiet. Presidiet ansvarar inför D-rektoratet för Mottagningens verksamhet och ekonomi.
 
-Mottagningen består av fem huvudsakliga grenar: Det Kongliga Dadderiet, Det Kongliga Drifveriet, Det Kongliga Doqumenteriet, Det Kongliga Mammeriet och Det Kongliga Ekonomeriet.
+Mottagningen består av fem huvudsakliga grenar: Det Kongliga Dadderiet, Det Kongliga Drifveriet, Det Kongliga Doqumenteriet, Det Kongliga Quisineriet och Det Kongliga Ekonomeriet.
 
 Presidiet väljer ut resten av mottagningens ledningsgrupp, Titel. Presidiet är en del av Titel och ansvariga för att sammankalla och leda Titels arbete. Titel arbetar både strategiskt och operativt. Under mottagningens gång fungerar Titel som gruppchefer för respektive gren.
 
