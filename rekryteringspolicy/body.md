@@ -23,3 +23,6 @@ Hur sektionsmedlemmar kan deltaga i nämnd eller projekt bör vara öppet och ty
 ##Intern rekrytering##
 Inom nämnder och projekt kan det finnas interna ansvarsområden som fördelas mellan de engagerade medlemmarna. Exempel på interna ansvarsområden kan vara städskri i METAdorerna och barmästare i DKM. Möjligheten för en medlem att ansvara för ett internt ansvarsområde ska i dessa fall kommuniceras öppet inom nämnden eller projektet.
 
+##Transparens##
+För att bidra till ökad transparens vid inval och rekrytering ska nämndordförande och projektledare varje SM presentera det underlag som legat till grund för inval och rekryteringar som gjorts sedan föregående SM ifall inval eller rekrytering till nämnden eller projektet skett. Underlaget ska styrka att gjorda rekryteringar och inval gjorts på ett jämlikt och meritbaserat sätt. Detta innebär inte att rekryteringar eller inval ska rättfärdigas på individnivå utan kan i praktiken betyda att man till exempel presenterar vilken erfarenhet och/eller vilka personliga egenskaper man generellt premierat hos kandidater.
+
