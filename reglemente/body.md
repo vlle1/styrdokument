@@ -353,7 +353,7 @@ Valberedningen har till uppgift att opartiskt administrera och bereda de val som
 
 ### §3.12.2 Organisation
 
-Valberedningen leds av Valberedningens Ordförande. Valberedningen består av Ordförande som valts på SM samt de ledamöter som utses av DM. Det bör sammanlagt vara mellan 3 till 9 ledamöter. Samtliga sektionsmedlemmar har rätt att bli nominerade och kandidera till ledamot i Valberedningen.
+Valberedningen leds av Valberedningens Ordförande. Valberedningen består av Ordförande och ledamöter som valts på SM. Valberedningen bör sammanlagt bestå av mellan 3 till 7 medlemmar. Samtliga sektionsmedlemmar har rätt att bli nominerade och kandidera till ledamot i Valberedningen.
 
 ### §3.12.3 Verksamhet
 
@@ -361,7 +361,8 @@ Valberedningen ska uppmuntra till sektionsengagemang och bistå med information 
 
 ### §3.12.4 Utlåtande
 
-Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Revisorer, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig Öfverdrif samt Klubbmästare. Det bör vara 2 personer närvarande vid en intervju med en kandidat. Det ska föras anteckningar under intervjun. Med hjälp av det material som insamlats under intervjun skall Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur, dock ej bedöma kandidatens lämplighet. Detta skall innehålla
+Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Valberedningen,
+Revisorer, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig Öfverdrif samt Klubbmästare. Det bör vara 2 personer närvarande vid en intervju med en kandidat. Det ska föras anteckningar under intervjun. Med hjälp av det material som insamlats under intervjun skall Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur, dock ej bedöma kandidatens lämplighet. Detta skall innehålla
 
 -   redogörelse för kandidatens egenskaper i relation till posten ifråga
 
@@ -994,6 +995,17 @@ Till funktionärens uppgifter hör att
 #### §4.3.13.4 Mandatperiod
 
 Väljs på Val-SM. Har läsår som mandatperiod.
+
+### §4.3.14 Valberedningsledamöter
+
+#### §4.3.14.1 Ändamål
+
+Valberedningens ledamöter bereder val tillsammans med Valberedningens Ordförande.
+
+#### §4.3.14.2 Mandatperiod
+
+Tre ledamöter väljs på Val-SM och har läsår som mandatperiod. Ytterligare tre ledamöter
+väljs på Glögg-SM och har kalenderår som mandatperiod.
 
 §5 Externa representanter
 ======================
