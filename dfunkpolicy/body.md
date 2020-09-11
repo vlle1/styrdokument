@@ -1,7 +1,7 @@
 §1 Skyldigheter
 ============
 
-För de som antar ett förtroendeuppdrag som δ-funktionär är det inte endast dans och lek på röda rosor. Som δ-funktionär har man ett ansvartsområde och det finns ett antal skyldigheter som vi i D-rektoratet vill ska följas av alla δ-funktionärer. Den här texten ska försöka ge klarhet i vilka dessa skyldigheter är och vad man kan få ut av att följa dem.
+För de som antar ett förtroendeuppdrag som δ-funktionär är det inte endast dans och lek på röda rosor. Som δ-funktionär har man ett ansvarsområde och det finns ett antal skyldigheter som vi i D-rektoratet vill ska följas av alla δ-funktionärer. Den här texten ska försöka ge klarhet i vilka dessa skyldigheter är och vad man kan få ut av att följa dem.
 
 §1.1 Mail
 ----
@@ -11,7 +11,7 @@ Som δ-funktionär har du en funktionsmailadress som D-rektoratet och andra som 
 §1.2 Överlämning
 -----------
 
-När din mandatperiod tar slut tar någon annan över. Det är din skyldighet att finnas tillgänglig och kunna svara på frågor och hjälpa din efterträfare på posten, så att ingen behöver börja om från början. Det är också rekomenderat att du och din efterträdare håller kontakten även efter överlämningen så att frågor som dyker upp kan ställas och besvaras. På samma sätt bör du känna till att du kan kontakta den du tar över efter.
+När din mandatperiod tar slut tar någon annan över. Det är din skyldighet att finnas tillgänglig och kunna svara på frågor och hjälpa din efterträdare på posten, så att ingen behöver börja om från början. Det är också rekommenderat att du och din efterträdare håller kontakten även efter överlämningen så att frågor som dyker upp kan ställas och besvaras. På samma sätt bör du känna till att du kan kontakta den du tar över efter.
 
 §1.3 Testamente
 ----------
@@ -26,7 +26,7 @@ Till varje Sektionsmöte förväntas du som δ-funktionär skriva en rapport om 
 §1.5 Gå på utbildning
 ----------------
 
-Vi annordnar två stycken funktionärsutbildningar per år. Om du verkligen inte kan gå på den första har du ett halvår på dig att försöka kunna gå den andra. Det är din skyldighet att gå på minst en av dessa.
+Vi anordnar två stycken funktionärsutbildningar per år. Om du verkligen inte kan gå på den första har du ett halvår på dig att försöka kunna gå den andra. Det är din skyldighet att gå på minst en av dessa.
 
 §1.6 D-råd
 -----------------
@@ -36,7 +36,7 @@ De flesta funktionärer tillhör ett av de ämnesspecifika råd som finns intern
 §1.7 Teambuilding
 ------------
 
-Flera gånger under året kommer D­rektoratet att bjuda in till olika sorters teambuildningevent som δ-funktionärer kommer att bli bjuden till. Det är starkt rekommenderat att gå på dessa, då de kan ses både som ett utbildningstillfälle men också som ett viktigt tillfälle att förstärka relationerna bland dig och de andra δ-funktionärna. Förutom att vara roliga förstås.
+Flera gånger under året kommer D-rektoratet att bjuda in till olika sorters teambuildningevent som δ-funktionärer kommer att bli bjuden till. Det är starkt rekommenderat att gå på dessa, då de kan ses både som ett utbildningstillfälle men också som ett viktigt tillfälle att förstärka relationerna bland dig och de andra δ-funktionärerna. Förutom att vara roliga förstås.
 
 §1.8 Representant för Datasektionen
 ------------------------------
