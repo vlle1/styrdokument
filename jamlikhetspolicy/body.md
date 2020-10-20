@@ -22,7 +22,7 @@ Inom THS ska alla behandlas på lika villkor och ha samma möjlighet att ta del 
 De tillställningar som Konglig Datasektionen anordnar ska arbeta för alla deltagare ska kunna delta under samma villkor, oavsett förutsättningar för enskild deltagare.
 
 ### §3.2 ###
-Förtursbiljetter till evengemang ska enbart tillämpas enligt §5 Anmälningar till arrangemang i Informationsspridningspolicyn.
+Förtursbiljetter till evengemang ska enbart tillämpas enligt §5 Anmälningar till arrangemang i [Informationsspridningspolicyn](https://styrdokument.datasektionen.se/informationsspridningspolicy).
 
 ## §4 Diskriminering och trakasserier ##
 THS ska ha nolltolerans mot diskriminering och trakasserier.
@@ -40,7 +40,7 @@ Vi uppmuntrar att eventuella händelser anmäls till rätt instans och sektionen
 THS ska vara aktivt normkritisk och självgranskande.
 
 ### §5.1 ###
-Vid varje rekrytering ska en självutvärdering göras av ansvarig funktionär för att se så att inga bias påverkat beslutet som specificerat i Rekryteringspolicyn.
+Vid varje rekrytering ska en självutvärdering göras av ansvarig funktionär för att se så att inga bias påverkat beslutet som specificerat i [Rekryteringspolicyn](https://styrdokument.datasektionen.se/rekryteringspolicy).
 
 ### §5.2 ###
 Förtroendevalda ska utföra kontinuerliga självutvärderingar under hela förloppet av sina mandatperioder.
@@ -49,7 +49,7 @@ Förtroendevalda ska utföra kontinuerliga självutvärderingar under hela förl
 THS ska vara en transparent organisation som kommunicerar på ett tillgängligt sätt.
 
 ### §6.1 ###
-Sluten rekrytering ska vara transparent och presenteras som specificerat i §6 av Rekryteringspolicyn.
+Sluten rekrytering ska vara transparent och presenteras som specificerat i §6 av (Rekryteringspolicyn)[https://styrdokument.datasektionen.se/rekryteringspolicy].
 
 ### §6.2 ###
 Material ska göras tillgängligt på de språk och i den utsträckning som specificerat i Informationsspridningpolicyn.
