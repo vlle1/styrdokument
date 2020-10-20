@@ -82,7 +82,7 @@ sektionens datasystem, inklusive servrar som drivs för sektionens räkning.
 ### §3.3.2 Organisation
 
 Informationsorganet leds av Systemansvarig, internt
-benämnd Chefsåsnan. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
+benämnd Chefsåsnan. Internfunktionärer utses av Systemansvarig. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
 
 ### §3.3.3 Verksamhet
 
