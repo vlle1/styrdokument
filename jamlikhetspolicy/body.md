@@ -49,10 +49,10 @@ Förtroendevalda ska utföra kontinuerliga självutvärderingar under hela förl
 THS ska vara en transparent organisation som kommunicerar på ett tillgängligt sätt.
 
 ### §6.1 ###
-Sluten rekrytering ska vara transparent och presenteras som specificerat i §6 av (Rekryteringspolicyn)[https://styrdokument.datasektionen.se/rekryteringspolicy].
+Sluten rekrytering ska vara transparent och presenteras som specificerat i §6 av [Rekryteringspolicyn](https://styrdokument.datasektionen.se/rekryteringspolicy).
 
 ### §6.2 ###
-Material ska göras tillgängligt på de språk och i den utsträckning som specificerat i Informationsspridningpolicyn.
+Material ska göras tillgängligt på de språk och i den utsträckning som specificerat i [Informationsspridningpolicyn](https://styrdokument.datasektionen.se/informationsspridningspolicy).
 
 
 ## Ansvar ###
