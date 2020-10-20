@@ -59,17 +59,16 @@ Material ska göras tillgängligt på de språk och i den utsträckning som spec
 Det yttersta ansvaret för att policyn efterlevs har Sektionsordförande, Jämlikhetsnämndens Ordförande, Studerandeskyddsombud och styrelsen.
 
 ## Andra dokument ##
-[THS JML-policy](http://mit-kth.se/wp-content/uploads/2017/01/THS-JML-policy_reviderad.pdf)
-[THS Sångpolicy](https://cdn.thskth.se/wp-content/uploads/2016/07/THS_Policy-sang_161215.pdf)
-[KTHs uppförandekod för studenter](https://www.kth.se/student/studentliv/studentratt/uppforandekod-for-studenter-1.796562)
+* [THS JML-policy](http://mit-kth.se/wp-content/uploads/2017/01/THS-JML-policy_reviderad.pdf)
+* [THS Sångpolicy](https://cdn.thskth.se/wp-content/uploads/2016/07/THS_Policy-sang_161215.pdf)
+* [KTHs uppförandekod för studenter](https://www.kth.se/student/studentliv/studentratt/uppforandekod-for-studenter-1.796562)
 
 ## Kontakt ##
-Sektionsordförande [ordf@d.kth.se](mailto:ordf@d.kth.se)
-Jämlikhetsnämndens ordförande [jamlikordf@d.kth.se](mailto:jamlikordf@d.kth.se)
-D-rektoratet (Konglig Datasektionens styrelse) [drek@d.kth.se](mailto:drek@d.kth.se)
-Studerandeskyddsombud [sso@d.kth.se](mailto:sso@d.kth.se)
-THS Studiesocialt [studiesocialt@ths.kth.se](mailto:studiesocialt@ths.kth.se)
-EECS Kanslichef [marianlu@kth.se](mailto:marianlu@kth.se)
-KTH Equality Office [equalityoffice@kth.se](mailto:qualityoffice@kth.se)
-Studievägledare [svl-data@kth.se](mailto:svl-data@kth.se)
-
+* Sektionsordförande [ordf@d.kth.se](mailto:ordf@d.kth.se)
+* Jämlikhetsnämndens ordförande [jamlikordf@d.kth.se](mailto:jamlikordf@d.kth.se)
+* D-rektoratet (Konglig Datasektionens styrelse) [drek@d.kth.se](mailto:drek@d.kth.se)
+* Studerandeskyddsombud [sso@d.kth.se](mailto:sso@d.kth.se)
+* THS Studiesocialt [studiesocialt@ths.kth.se](mailto:studiesocialt@ths.kth.se)
+* EECS Kanslichef [marianlu@kth.se](mailto:marianlu@kth.se)
+* KTH Equality Office [equalityoffice@kth.se](mailto:qualityoffice@kth.se)
+* Studievägledare [svl-data@kth.se](mailto:svl-data@kth.se)
