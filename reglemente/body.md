@@ -190,7 +190,7 @@ Näringslivsgruppen har till uppgift att informera näringslivet om sektionen oc
 
 ### §3.7.2 Organisation
 
-Näringslivsgruppen leds av Näringslivsansvarig och D-Dagenansvarig. Inom Näringslivsgruppen är D-Dagenansvarig ytterst ansvarig för sektionens arbetsmarknadsdag och Näringslivsansvarig är ytterst ansvarig för all annan verksamhet. D-Dagens projektgrupps sammansättning utses av D-Dagenansvarig och övriga medlemmar utses av Näringslivsansvarig. Näringslivsgruppen utom D-Dagen och D-Dagen budgeteras separat. Näringslivsansvarig och D-Dagenansvarig har båda attesträtt för verksamheten i hela nämnden
+Näringslivsgruppen leds av Näringslivsansvarig och D-Dagenansvariga. Inom Näringslivsgruppen är D-Dagenansvariga ytterst ansvarig för sektionens arbetsmarknadsdag och Näringslivsansvarig är ytterst ansvarig för all annan verksamhet. D-Dagens projektgrupps sammansättning utses av D-Dagenansvariga och övriga medlemmar utses av Näringslivsansvarig. Näringslivsgruppen utom D-Dagen och D-Dagen budgeteras separat. Näringslivsansvarig och D-Dagenansvariga har båda attesträtt för verksamheten i hela nämnden
 Näringslivsgruppen.
 
 ### §3.7.3 Verksamhet
@@ -209,7 +209,7 @@ Näringslivsgruppen skall
 
 ### §3.7.4 Avtal
 
-Näringslivsansvarig och D-Dagenansvarig har rätt att förhandla fram avtal med företag och organisationer. Firmatecknare har rätt att utfärda en fullmakt till Näringslivsansvarig samt D-Dagenansvarig för att dessa ska kunna ingå i sagda avtal
+Näringslivsansvarig och D-Dagenansvariga har rätt att förhandla fram avtal med företag och organisationer. Firmatecknare har rätt att utfärda en fullmakt till Näringslivsansvarig samt D-Dagenansvariga för att dessa ska kunna ingå i sagda avtal
 
 ### §3.7.5 Bokföringsplikt
 
@@ -343,7 +343,7 @@ Valberedningen ska uppmuntra till sektionsengagemang och bistå med information 
 ### §3.12.4 Utlåtande
 
 Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Valberedningen,
-Revisorer, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig Öfverdrif samt Klubbmästare. Det bör vara 2 personer närvarande vid en intervju med en kandidat. Det ska föras anteckningar under intervjun. Med hjälp av det material som insamlats under intervjun skall Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur, dock ej bedöma kandidatens lämplighet. Detta skall innehålla
+Revisorer, Näringslivsansvarig, D-Dagenansvariga, Storasyskon, Konglig Öfverdrif samt Klubbmästare. Det bör vara 2 personer närvarande vid en intervju med en kandidat. Det ska föras anteckningar under intervjun. Med hjälp av det material som insamlats under intervjun skall Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur, dock ej bedöma kandidatens lämplighet. Detta skall innehålla
 
 -   redogörelse för kandidatens egenskaper i relation till posten ifråga
 
@@ -651,7 +651,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §4.2.5 Näringslivsansvarig
 
-Är ordförande för Näringslivsgruppen tillsammans med D-Dagenansvarig. Ansvarar för kontakter med näringslivet. I händelsen att posten som D-Dagenansvarig är vakantsatt ansvarar Näringslivsansvarig även för D-Dagen tills dess att posten som D-Dagenansvarig kan fyllnadsväljas.
+Är ordförande för Näringslivsgruppen tillsammans med D-Dagenansvariga. Ansvarar för kontakter med näringslivet. I händelsen att posten som D-Dagenansvariga är vakantsatt ansvarar Näringslivsansvarig även för D-Dagen tills dess att posten som D-Dagenansvariga kan fyllnadsväljas.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -717,9 +717,9 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §4.2.15 D-Dagenansvarig
+### §4.2.15 D-Dagenansvariga
 
-Ansvarar för sektionens arbetsmarknadsdag D-Dagen. Är tillsammans med Näringslivsansvarig ordförande för Näringslivsgruppen. I händelsen att posten som Näringslivsansvarig är vakantsatt ansvarar D-Dagenansvarig även för Näringslivsgruppen tills dess att posten som Näringslivsansvarig kan fyllnadsväljas.
+SM ska välja två D-Dagenansvariga. Ansvarar för sektionens arbetsmarknadsdag D-Dagen. Är tillsammans med Näringslivsansvarig ordförande för Näringslivsgruppen. I händelsen att posten som Näringslivsansvarig är vakantsatt ansvarar D-Dagenansvariga även för Näringslivsgruppen tills dess att posten som Näringslivsansvarig kan fyllnadsväljas.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
@@ -1016,7 +1016,7 @@ Samtliga ordinarie ledamöter skall om möjligt delta på varje möte. Ordinarie
 
 #### §5.1.1.1 Ordinarie
 
-Näringslivsansvarig och D-Dagenansvarig
+Näringslivsansvarig och D-Dagenansvariga
 
 #### §5.1.1.2 Suppleant
 
