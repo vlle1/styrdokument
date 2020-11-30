@@ -43,6 +43,11 @@ Flera gånger under året kommer D-rektoratet att bjuda in till olika sorters te
 
 Som δ-funktionär är du en representant för Datasektionen. Det betyder att allt som du skriver via din funktionärsmail och på andra officiella informationskanaler kan tolkas som att det kommer från Datasektionen. Även i person så representerar du datasektionen och det du gör och säger kan anses komma från Datasektionen.
 
+§1.9
+------------------------------
+
+Under sin mandatperiod ska en funktionär planera och efter bästa förmåga genom-föra arbete för att uppfylla sina verksamhetsmål. Arbetsprocessen ska dokumenteras isektionens system för verksamhetsplanen
+
 §2 Belöningar
 ==========
 
