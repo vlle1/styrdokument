@@ -881,7 +881,7 @@ Vid ett SM där en revisionsberättelse skall läsas, kan revisorerna, enligt f�
 
 Innan fråga angående ansvarsfrihet tas upp på SM skall revisorerna ansvara för att de berörda ekonomiskt ansvariga inbjuds till SM.
 
-ill varje SM ska Revisorerna ha upprättat en förvaltningsrevisionsrapport som de redogör för under mötet.
+Till varje SM ska Revisorerna ha upprättat en förvaltningsrevisionsrapport som de redogör för under mötet.
 
 ##### §4.3.5.3.3 Normativa rekommendationer
 
@@ -909,7 +909,7 @@ Sektionshistorikern ansvarar även för sektionens alumniverksamhet.
 
 Sektionshistorikern avgör själv hur hen bäst uppfyller ändamålet. Sektionshistorikern har som kunskapskälla tillgång till GUDAR-gruppen, Gamla Uvar på Data med Anrika Redogörelser.
 
-ektionshistorikern ansvarar för att varje år upprätta en årskrönika.
+Sektionshistorikern ansvarar för att varje år upprätta en årskrönika.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -961,7 +961,7 @@ Studerandeskyddsombudet ska
 
 -   regelbundet kontrollera de brandsläckare som finns i sektionslokalen
 
--   nventera sjukvårdslådan en gång per period.
+-   inventera sjukvårdslådan en gång per period.
 
 #### §4.3.9.3 Organisation
 
