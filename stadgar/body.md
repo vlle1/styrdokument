@@ -270,13 +270,14 @@ Nomineringslistan ska anslås enligt §[Nomineringar] senast 8 läsdagar före d
 
 ### §3.13.5 Kandidatur under SM
 
-Då ingen kandidat finns till en post under sektionsmöte vartill val till posten lysts, kan SM besluta att öppna för fri kandidatur. Vid val av kandidat under ovanstående omständigheter krävs ett enhälligt beslut av SM.
-
+Då ingen kandidat finns till en post under sektionsmöte vartill val till posten lysts, kan SM besluta att öppna för fri kandidatur. Vid val av kandidat under ovanstående omständigheter krävs ett beslut med 3/4-majoritet av SM.
 ### §3.13.6 Avvikande valprocesser
 
 Sektionsordförande, vice sektionsordförande och kassör väljs med urnval enligt reglementets §3.12.6.
 
 Ledamöter och suppleanter till THS Kårfullmäktige väljs i enlighet med THS styrdokument.
+
+I det fall två eller fler personer kandiderar till en post tillsammans på SM ska processen gå till enligt följande: Kandidaterna ska få presentera sin kandidatur tillsammans och eventuella andra kandidater ska få presentera sina kandidaturer. SM ska få tillfälle att ställa frågor till kandidaterna tillsammans. Därefter ska SM besluta om kandidaterna får kandidera tillsammans. Ifall kandidaterna inte får kandidera tillsammans ska den eller de av kandidaterna som eventuellt fortsätter kandidera var för sig eller i annan grupp få tillfälle att presentera sig och besvara frågor från SM igen.
 
 §4 D-rektoratet
 ============
