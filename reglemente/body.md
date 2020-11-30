@@ -190,8 +190,7 @@ Näringslivsgruppen har till uppgift att informera näringslivet om sektionen oc
 
 ### §3.7.2 Organisation
 
-Näringslivsgruppen leds av Näringslivsansvarig och D-Dagenansvariga. Inom Näringslivsgruppen är D-Dagenansvariga ytterst ansvarig för sektionens arbetsmarknadsdag och Näringslivsansvarig är ytterst ansvarig för all annan verksamhet. D-Dagens projektgrupps sammansättning utses av D-Dagenansvariga och övriga medlemmar utses av Näringslivsansvarig. Näringslivsgruppen utom D-Dagen och D-Dagen budgeteras separat. Näringslivsansvarig och D-Dagenansvariga har båda attesträtt för verksamheten i hela nämnden
-Näringslivsgruppen.
+Näringslivsgruppen leds av Näringslivsansvarig och D-Dagenansvariga. Inom Näringslivsgruppen är D-Dagenansvariga ytterst ansvarig för sektionens arbetsmarknadsdag och Näringslivsansvarig är ytterst ansvarig för all annan verksamhet. D-Dagens projektgrupps sammansättning utses av D-Dagenansvariga och övriga medlemmar utses av Näringslivsansvarig. Näringslivsgruppen utom D-Dagen och D-Dagen budgeteras separat. Näringslivsansvarig och D-Dagenansvariga har båda attesträtt för verksamheten i hela nämnden Näringslivsgruppen.
 
 ### §3.7.3 Verksamhet
 
