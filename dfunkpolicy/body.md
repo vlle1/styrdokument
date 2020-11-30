@@ -46,7 +46,7 @@ Som δ-funktionär är du en representant för Datasektionen. Det betyder att al
 §1.9
 ------------------------------
 
-Under sin mandatperiod ska en funktionär planera och efter bästa förmåga genom-föra arbete för att uppfylla sina verksamhetsmål. Arbetsprocessen ska dokumenteras isektionens system för verksamhetsplanen
+Under sin mandatperiod ska en funktionär planera och efter bästa förmåga genomföra arbete för att uppfylla sina verksamhetsmål. Arbetsprocessen ska dokumenteras i sektionens system för verksamhetsplanen.
 
 §2 Belöningar
 ==========
