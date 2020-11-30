@@ -362,35 +362,61 @@ riktas till sektionens revisorer eller högre instanser.
 
 I de fall där kandidaten inte intervjuas ska Valberedningen tillhandahålla ett frågeformulär. Om kandidaten ger sitt godkännande får intervjun även spelas in.
 
-### §3.12.5 Sekretess
+### §3.12.5 Lämplighetsbedömning
+
+I de fall där en kandidat intervjuats ska Valberedningen utföra en lämplighetsbedömning. Lämplighetsbedömningen ska utföras på ett av Valberedningens möten och fastslås med enkel majoritet. För att detta möte ska vara beslutsmässigt ska 2/3 av Valberedningens sittande ledamöter närvara, avrundat nedåt. Samtliga medlemmar i Valberedningen ska erbjudas chansen att delta på detta möte. Lämplighetsbedömningen ska
+publiceras i samband med Valberedningens utlåtande om kandidaten.
+
+I de fall då en kandidat för en intervjupost inte har deltagit på en intervju utan istället
+svarat på ett frågeformulär ska en lämplighetsbedömning utföras ifall Valberedningen
+anser sig ha tillräckligt med underlag för att utföra en sådan. Om så inte är fallet ska
+anledningen till detta noteras i valhandlingarna.
+
+### §3.12.6 Sekretess
 
 Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som Valberedningen har inför formulerandet av skriftliga utlåtanden skall beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i Valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom den valberedning som är inblandad i valprocessen, den intervjuade kandidaten och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
 
-### §3.12.6 Urnval
+### §3.12.7 Urnval
 
 Vid urnval ska Valberedningen hålla valperiod under minst fem läsdagar direkt innan sektionsmötet. Resultatet av urnvalet skall redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska senast fem dagar i förväg annonseras enligt sektionens informationsspridningspolicy.
 
 Vid urnval används alternativomröstning. Väljarna rankar kandidaterna, där vakans och blankröst skall vara alternativ som kan rankas. Om ingen av kandidaterna uppnår enkel majoritet blir bottenkandidaten eliminerad, dock ej vakans, och dennes röster blir omfördelade till väljarnas nästahandsval av kandidat. Denna process upprepas tills dess att en kandidat uppnår enkel majoritet, varpå valet skall godkännas av SM enligt stadgarnas §[1.7](../stadgar#1-7-beslutsnivåer).
 
-### §3.12.7 Valhandlingar
+### §3.12.8 Valhandlingar
 
 Valhandlingarna är det dokument som sammanställs och publiceras av Valberedningen enligt följande paragrafer. Valhandlingarna skall destrueras efter det SM där valet sker.
 
-#### §3.12.7.1 Innehåll
+#### §3.12.8.1 Innehåll
 
-Valhandlingarna skall innehålla - information om hur nomineringsprocessen som ledde upp till valet i fråga gick till, - information om hur valet kommer att gå till under SM, - vilka av Valberedningens ledamöter som var med och annordnade valet, - en sammanställning av vilka poster som väljs, - en lista över alla kandidater, - alla utlåtanden från de intervjuer Valberedningen har hållit, - alla svar från de frågeformulär som kandidaterna har fått svara på.
+Valhandlingarna ska innehålla
 
-Då urnval har skett skall även information om hur urnvalets röstprocess gått till inkluderas.
+- information om hur nomineringsprocessen föregående valet i fråga gick till
 
-#### §3.12.7.2 Publiceringsplats
+- information om valprocessen under SM
+
+- vilka av Valberedningens ledamöter som varit med och anordnat valet
+
+- en sammanställning av de poster som väljs
+
+- en lista över samtliga kandidater
+
+- samtliga utlåtanden från de intervjuer Valberedningen har hållit
+
+- samtliga svar från de frågeformulär som kandidaterna har fått svara på
+
+- samtliga lämplighetsbedömningar som utförts
+
+Då urnval anordnats ska även information om hur urnvalets röstprocess gått till inkluderas. 
+
+#### §3.12.8.2 Publiceringsplats
 
 Valhandlingarna skall publiceras via officiella informationskanaler enligt Stadgarnas §1.8.
 
-#### §3.12.7.3 Publiceringstid
+#### §3.12.8.3 Publiceringstid
 
 Valhandlingarna skall inför ordinarie val publiceras senast 5 läsdagar före det SM där valet sker. Inför fyllnadsval och val vid extra SM skall Valhandlingarna i största möjliga mån publiceras senast en (1) läsdag före det SM där valet sker.
 
-#### §3.12.7.4 Sekretessbeläggning
+#### §3.12.8.4 Sekretessbeläggning
 
 Valhandlingarna skall beläggas med sekretess om någon av kandidaterna, någon av Valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att Valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM där valet i fråga sker.
 
