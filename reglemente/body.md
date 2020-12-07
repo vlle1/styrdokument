@@ -1024,7 +1024,18 @@ Till funktionärens uppgifter hör att
 Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §4.3.11 Kommunikatör
+
+#### § 4.3.11.1 Ändamål
+
 Kommunikatören är ansvarig för sektionens kommunikation utåt och inåt. Kommunikatören ansvarar för sektionens övergripande kommunikationsstrategi och bistår andra nämnder, funktionärer och projekt med deras kommunikation.
+
+Vidare har kommunikatören som ansvar att upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm i syfte att främja kulturellt utbyte och nätverkande.
+
+#### §4.3.11.2 Organisation
+
+Kommunikatören kan tillsätta kortvariga projektgrupper vars uppgift är att möjliggöra för sektionens medlemmar att delta i aktiviteter med studenter från andra universitet. Detta kan inkludera, men är inte begränsat till: marknadsföra event från andra universitet, ansvara för logistiken kring deltagande på event vid andra universitet samt ansvara för logistiken kring att bjuda in gäster från andra universitet att delta på våra event.
+
+#### §4.3.11.3 Mandatperiod
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
