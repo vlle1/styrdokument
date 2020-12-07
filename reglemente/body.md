@@ -289,7 +289,7 @@ Studienämndens dokument skall i så stor utsträckning som möjligt finnas till
 
 ### §3.10.1 Ändamål
 
-Nämndens syfte är att främja tjejers intressen på Datasektionen.
+Nämndens syfte är att främja tjejer och icke-binäras intressen på Datasektionen.
 
 ### §3.10.2 Organisation
 
@@ -297,7 +297,7 @@ Ordförande för GEEK är Öfvermatronan, som väljs på SM.
 
 ### §3.10.3 Verksamhet
 
-GEEK ska verka för att ge tjejer på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna middag för alla tjejer två gånger per termin samt anordna en tjejgasque en gång per år. Nämnden ska medverka under mottagningen för att få fler tjejer att känna sig välkomna och även anordna företags/inspirations-events under året. Nämnden ska varje år dessutom utse en hedersdam.
+GEEK ska verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna middag för alla tjejer och icke-binära två gånger per termin samt anordna en tjejgasque en gång per år. Nämnden ska medverka under mottagningen för att få fler tjejer och icke-binära att känna sig välkomna och även anordna företags/inspirations-events under året. Nämnden ska även varje termin anordna ett event där främst tjejer och icke-binära från Datateknik får chansen att nätverka under avslappnade former. Nämnden ska varje år dessutom utse en hedersdam.
 
 §3.11 DEMON - Datas Eminenta MusikOrganisationsNämnd
 ----------------------------------------------
@@ -341,49 +341,82 @@ Valberedningen ska uppmuntra till sektionsengagemang och bistå med information 
 
 ### §3.12.4 Utlåtande
 
-Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Valberedningen,
-Revisorer, Näringslivsansvarig, D-Dagenansvariga, Storasyskon, Konglig Öfverdrif samt Klubbmästare. Det bör vara 2 personer närvarande vid en intervju med en kandidat. Det ska föras anteckningar under intervjun. Med hjälp av det material som insamlats under intervjun skall Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur, dock ej bedöma kandidatens lämplighet. Detta skall innehålla
+Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Valberedningen, Revisorer, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig
+Öfverdrif samt Klubbmästare, hädanefter omnämnt som intervjuposter. Det bör
+vara 2 personer närvarande vid en intervju med en kandidat. Med hjälp av det material
+som insamlats under intervjun skall Valberedningen formulera ett skriftligt, objektivt
+utlåtande om kandidatens kandidatur.
 
--   redogörelse för kandidatens egenskaper i relation till posten ifråga
+-  redogörelse för kandidatens egenskaper i relation till posten ifråga
 
--   tidigare erfarenheter som bedöms vara av relevans till posten ifråga
+-  tidigare erfarenheter som bedöms vara av relevans till posten ifråga
 
--   annan information som bedöms vara relevant för SM:s beslutsfattande.
+-  annan information som bedöms vara relevant för SM:s beslutsfattande
 
-När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska denne även få ta del av materialet som samlats in under intervjun. Överklaganden kan riktas till sektionens revisorer eller
- högre instanser.
+När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av
+utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd.
+Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar
+tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska
+denne även få ta del av materialet som samlats in under intervjun. Överklaganden kan
+riktas till sektionens revisorer eller högre instanser.
 
-I de fall där kandidaten inte intervjuas ska Valberedningen tillhandahålla ett frågeformulär och resultatet av detta ska ses som Valberedningens utlåtande. Om kandidaten ger sitt godkännande får intervjun även spelas in.
+I de fall där kandidaten inte intervjuas ska Valberedningen tillhandahålla ett frågeformulär. Om kandidaten ger sitt godkännande får intervjun även spelas in.
 
-### §3.12.5 Sekretess
+### §3.12.5 Lämplighetsbedömning
+
+I de fall där en kandidat intervjuats ska Valberedningen utföra en lämplighetsbedömning. Lämplighetsbedömningen ska utföras på ett av Valberedningens möten och fastslås med enkel majoritet. För att detta möte ska vara beslutsmässigt ska 2/3 av Valberedningens sittande ledamöter närvara, avrundat nedåt. Samtliga medlemmar i Valberedningen ska erbjudas chansen att delta på detta möte. Lämplighetsbedömningen ska
+publiceras i samband med Valberedningens utlåtande om kandidaten.
+
+I de fall då en kandidat för en intervjupost inte har deltagit på en intervju utan istället
+svarat på ett frågeformulär ska en lämplighetsbedömning utföras ifall Valberedningen
+anser sig ha tillräckligt med underlag för att utföra en sådan. Om så inte är fallet ska
+anledningen till detta noteras i valhandlingarna.
+
+### §3.12.6 Sekretess
 
 Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som Valberedningen har inför formulerandet av skriftliga utlåtanden skall beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i Valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom den valberedning som är inblandad i valprocessen, den intervjuade kandidaten och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
 
-### §3.12.6 Urnval
+### §3.12.7 Urnval
 
 Vid urnval ska Valberedningen hålla valperiod under minst fem läsdagar direkt innan sektionsmötet. Resultatet av urnvalet skall redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska senast fem dagar i förväg annonseras enligt sektionens informationsspridningspolicy.
 
 Vid urnval används alternativomröstning. Väljarna rankar kandidaterna, där vakans och blankröst skall vara alternativ som kan rankas. Om ingen av kandidaterna uppnår enkel majoritet blir bottenkandidaten eliminerad, dock ej vakans, och dennes röster blir omfördelade till väljarnas nästahandsval av kandidat. Denna process upprepas tills dess att en kandidat uppnår enkel majoritet, varpå valet skall godkännas av SM enligt stadgarnas §[1.7](../stadgar#1-7-beslutsnivåer).
 
-### §3.12.7 Valhandlingar
+### §3.12.8 Valhandlingar
 
 Valhandlingarna är det dokument som sammanställs och publiceras av Valberedningen enligt följande paragrafer. Valhandlingarna skall destrueras efter det SM där valet sker.
 
-#### §3.12.7.1 Innehåll
+#### §3.12.8.1 Innehåll
 
-Valhandlingarna skall innehålla - information om hur nomineringsprocessen som ledde upp till valet i fråga gick till, - information om hur valet kommer att gå till under SM, - vilka av Valberedningens ledamöter som var med och annordnade valet, - en sammanställning av vilka poster som väljs, - en lista över alla kandidater, - alla utlåtanden från de intervjuer Valberedningen har hållit, - alla svar från de frågeformulär som kandidaterna har fått svara på.
+Valhandlingarna ska innehålla
 
-Då urnval har skett skall även information om hur urnvalets röstprocess gått till inkluderas.
+- information om hur nomineringsprocessen föregående valet i fråga gick till
 
-#### §3.12.7.2 Publiceringsplats
+- information om valprocessen under SM
+
+- vilka av Valberedningens ledamöter som varit med och anordnat valet
+
+- en sammanställning av de poster som väljs
+
+- en lista över samtliga kandidater
+
+- samtliga utlåtanden från de intervjuer Valberedningen har hållit
+
+- samtliga svar från de frågeformulär som kandidaterna har fått svara på
+
+- samtliga lämplighetsbedömningar som utförts
+
+Då urnval anordnats ska även information om hur urnvalets röstprocess gått till inkluderas. 
+
+#### §3.12.8.2 Publiceringsplats
 
 Valhandlingarna skall publiceras via officiella informationskanaler enligt Stadgarnas §1.8.
 
-#### §3.12.7.3 Publiceringstid
+#### §3.12.8.3 Publiceringstid
 
 Valhandlingarna skall inför ordinarie val publiceras senast 5 läsdagar före det SM där valet sker. Inför fyllnadsval och val vid extra SM skall Valhandlingarna i största möjliga mån publiceras senast en (1) läsdag före det SM där valet sker.
 
-#### §3.12.7.4 Sekretessbeläggning
+#### §3.12.8.4 Sekretessbeläggning
 
 Valhandlingarna skall beläggas med sekretess om någon av kandidaterna, någon av Valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att Valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM där valet i fråga sker.
 
@@ -465,7 +498,8 @@ Internationella Nämnden skall
 - Samordna sektionens internationella verksamhet. Detta inkluderar att hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna.
 - Hålla sektionsmedlemmarna informerade om internationell verksamhet på sektionerna
 - Genomföra mottagningsverksamhet för utländska studenter. Detta inkluderar att rekrytera faddrar och koordinera fadderverksamheten
-- Fungera som kontaktperson för utländska studenter på sektionerna.
+- Fungera som kontaktperson för utländska studenter på sektionerna
+- Genomföra minst två event per termin speciellt för internationella studenter, varav ett ska vara ett välkomstevent direkt efter THS internationella mottagning.
 
 §3.17 Stack Overbowl
 --------------
@@ -573,7 +607,9 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   vara ansvarig för sektionens bokföring
 
--   se efter att rutinerna för sektionens likvida medel följs.
+-   se efter att rutinerna för sektionens likvida medel följs
+
+-   ekonomisk lägesrapportering ska presenteras på SM.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
@@ -768,7 +804,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 ### §4.2.19 Datas Art Director
 
 #### §4.2.19.1 Ändamål
-Leder Tag Monkeys. Ansvarar tillsammans med Tag Monkeys för sektionens grafiska utveckling och arbete.
+Leder Tag Monkeys. Ansvarar tillsammans med Tag Monkeys för sektionens grafiska utveckling och arbete. Datas Art Director ansvarar även för att sätta upp en funktionärstavla i sektionslokalen efter Val- och Glögg-SM.
 
 #### §4.2.19.2 Mandatperiod
 Väljs på Val-SM. Har läsår som mandatperiod.
@@ -858,25 +894,17 @@ Tvister där sektionens revisorer inte kan vara skiljemän inkluderar, men är i
 
 Revisorerna för ett verksamhetsår är ålagda att revidera samtliga av sektionens verksamheter för det året, samt att i samråd med tidigare och senare revisorer revidera löpande verksamhet som löper över flera år. Det åligger de senast valda revisorerna att ansvara för att revisionerna genomförs.
 
-##### §4.3.5.3.1 Revisionsberättelse och -rapport
+##### §4.3.5.3.1 Revisionsberättelse
 
-Varje revision dokumenteras i två skrivelser. Av dessa två är revisionsberättelsen offentlig.
-
-Revisionsrapporten är en detaljerad beskrivning av anmärkningar i bokföring och/eller verksamhet. Den ligger till grund för kommunikationen mellan sektionens revisorer från år till år. I revisionsrapporten bör antecknas
-
--   anmärkningar på bokföringens genomförande och strukturering,
-
--   händelser i verksamheten som påverkat andra organ av sektionen, samt
-
--   revisorernas uppfattning om verksamheten givet verksamhetsberättelse och samtal med av SM utnämnda nämndansvariga.
-
-Revisionsberättelsen baseras på revisionsrapporten och är det dokument som presenteras för SM vid fråga angående ansvarsfrihet. Revisionsberättelsen är en kort sammanfattning av rapporten, med avslutande rekommendation att tillstyrka eller avstyrka beviljande av ansvarsfrihet. Rekommendationen kan utelämnas då särskilda skäl föreligger det emot.
+Revisionsberättelsen är det dokument som presenteras för SM vid fråga angående ansvarsfrihet. Revisionsberättelsen är en kort sammanfattning av revisionen, med avslutande rekommendation att tillstyrka eller avstyrka beviljande av ansvarsfrihet. Rekommendationen kan utelämnas då särskilda skäl föreligger det emot.
 
 ##### §4.3.5.3.2 SM
 
 Vid ett SM där en revisionsberättelse skall läsas, kan revisorerna, enligt föregående avsnitt, ge en rekommendation till SM angående beviljande av ansvarsfrihet. SM bör beakta revisorernas samlade arbete vid efterföljande omröstning.
 
 Innan fråga angående ansvarsfrihet tas upp på SM skall revisorerna ansvara för att de berörda ekonomiskt ansvariga inbjuds till SM.
+
+Till varje SM ska Revisorerna ha upprättat en förvaltningsrevisionsrapport som de redogör för under mötet.
 
 ##### §4.3.5.3.3 Normativa rekommendationer
 
@@ -903,6 +931,8 @@ Sektionshistorikern skall se till att sektionens ärorika historia inte faller i
 Sektionshistorikern ansvarar även för sektionens alumniverksamhet.
 
 Sektionshistorikern avgör själv hur hen bäst uppfyller ändamålet. Sektionshistorikern har som kunskapskälla tillgång till GUDAR-gruppen, Gamla Uvar på Data med Anrika Redogörelser.
+
+Sektionshistorikern ansvarar för att varje år upprätta en årskrönika.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -952,7 +982,9 @@ Studerandeskyddsombudet ska
 
 -   se till att det finns en sjukvårdslåda med lämpligt innehåll i sektionslokalen
 
--   regelbundet kontrollera de brandsläckare som finns i sektionslokalen.
+-   regelbundet kontrollera de brandsläckare som finns i sektionslokalen
+
+-   inventera sjukvårdslådan en gång per period.
 
 #### §4.3.9.3 Organisation
 
