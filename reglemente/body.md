@@ -858,19 +858,9 @@ Tvister där sektionens revisorer inte kan vara skiljemän inkluderar, men är i
 
 Revisorerna för ett verksamhetsår är ålagda att revidera samtliga av sektionens verksamheter för det året, samt att i samråd med tidigare och senare revisorer revidera löpande verksamhet som löper över flera år. Det åligger de senast valda revisorerna att ansvara för att revisionerna genomförs.
 
-##### §4.3.5.3.1 Revisionsberättelse och -rapport
+##### §4.3.5.3.1 Revisionsberättelse
 
-Varje revision dokumenteras i två skrivelser. Av dessa två är revisionsberättelsen offentlig.
-
-Revisionsrapporten är en detaljerad beskrivning av anmärkningar i bokföring och/eller verksamhet. Den ligger till grund för kommunikationen mellan sektionens revisorer från år till år. I revisionsrapporten bör antecknas
-
--   anmärkningar på bokföringens genomförande och strukturering,
-
--   händelser i verksamheten som påverkat andra organ av sektionen, samt
-
--   revisorernas uppfattning om verksamheten givet verksamhetsberättelse och samtal med av SM utnämnda nämndansvariga.
-
-Revisionsberättelsen baseras på revisionsrapporten och är det dokument som presenteras för SM vid fråga angående ansvarsfrihet. Revisionsberättelsen är en kort sammanfattning av rapporten, med avslutande rekommendation att tillstyrka eller avstyrka beviljande av ansvarsfrihet. Rekommendationen kan utelämnas då särskilda skäl föreligger det emot.
+Revisionsberättelsen är det dokument som presenteras för SM vid fråga angående ansvarsfrihet. Revisionsberättelsen är en kort sammanfattning av revisionen, med avslutande rekommendation att tillstyrka eller avstyrka beviljande av ansvarsfrihet. Rekommendationen kan utelämnas då särskilda skäl föreligger det emot.
 
 ##### §4.3.5.3.2 SM
 
