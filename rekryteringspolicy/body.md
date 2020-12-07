@@ -16,6 +16,8 @@ Inval som sker till nämnd eller projekt ska tydligt marknadsföras till sektion
 
 Den som är ansvarig för nämnden eller projektet ska inom rimliga gränser säkerställa att alla som söker ges samma förutsättningar i processen. Detta kan göras genom att samla in informationen som ligger till grund för invalsbeslutet på ett likvärdigt sätt för samtliga kandidater. Till exempel kan frågeformulär eller intervjuer som tar i beaktande såväl kandidaters personliga egenskaper som tidigare erfarenheter användas.
 
+Ansvarig funktionär ska, tillsammans med eventuell rekryterande grupp, efter varje inval göra en självutvärdering för att säkerställa att inga bias har påverkat beslutet.
+
 ##§4 Rekrytering##
 
 Hur sektionsmedlemmar kan deltaga i nämnd eller projekt bör vara öppet och tydligt annonserat i sektionens officiella informationskanaler när rekrytering pågår. För de nämnder och projekt som inte utgörs av en fast grupp medlemmar bör istället aktiviteter som tar plats annonseras.
