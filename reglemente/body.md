@@ -289,7 +289,7 @@ Studienämndens dokument skall i så stor utsträckning som möjligt finnas till
 
 ### §3.10.1 Ändamål
 
-Nämndens syfte är att främja tjejers intressen på Datasektionen.
+Nämndens syfte är att främja tjejer och icke-binäras intressen på Datasektionen.
 
 ### §3.10.2 Organisation
 
@@ -297,7 +297,7 @@ Ordförande för GEEK är Öfvermatronan, som väljs på SM.
 
 ### §3.10.3 Verksamhet
 
-GEEK ska verka för att ge tjejer på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna middag för alla tjejer två gånger per termin samt anordna en tjejgasque en gång per år. Nämnden ska medverka under mottagningen för att få fler tjejer att känna sig välkomna och även anordna företags/inspirations-events under året. Nämnden ska varje år dessutom utse en hedersdam.
+GEEK ska verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna middag för alla tjejer och icke-binära två gånger per termin samt anordna en tjejgasque en gång per år. Nämnden ska medverka under mottagningen för att få fler tjejer och icke-binära att känna sig välkomna och även anordna företags/inspirations-events under året. Nämnden ska även varje termin anordna ett event där främst tjejer och icke-binära från Datateknik får chansen att nätverka under avslappnade former. Nämnden ska varje år dessutom utse en hedersdam.
 
 §3.11 DEMON - Datas Eminenta MusikOrganisationsNämnd
 ----------------------------------------------
@@ -465,7 +465,8 @@ Internationella Nämnden skall
 - Samordna sektionens internationella verksamhet. Detta inkluderar att hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna.
 - Hålla sektionsmedlemmarna informerade om internationell verksamhet på sektionerna
 - Genomföra mottagningsverksamhet för utländska studenter. Detta inkluderar att rekrytera faddrar och koordinera fadderverksamheten
-- Fungera som kontaktperson för utländska studenter på sektionerna.
+- Fungera som kontaktperson för utländska studenter på sektionerna
+- Genomföra minst två event per termin speciellt för internationella studenter, varav ett ska vara ett välkomstevent direkt efter THS internationella mottagning.
 
 §3.17 Stack Overbowl
 --------------
@@ -573,7 +574,9 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   vara ansvarig för sektionens bokföring
 
--   se efter att rutinerna för sektionens likvida medel följs.
+-   se efter att rutinerna för sektionens likvida medel följs
+
+-   ekonomisk lägesrapportering ska presenteras på SM.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
@@ -768,7 +771,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 ### §4.2.19 Datas Art Director
 
 #### §4.2.19.1 Ändamål
-Leder Tag Monkeys. Ansvarar tillsammans med Tag Monkeys för sektionens grafiska utveckling och arbete.
+Leder Tag Monkeys. Ansvarar tillsammans med Tag Monkeys för sektionens grafiska utveckling och arbete. Datas Art Director ansvarar även för att sätta upp en funktionärstavla i sektionslokalen efter Val- och Glögg-SM.
 
 #### §4.2.19.2 Mandatperiod
 Väljs på Val-SM. Har läsår som mandatperiod.
@@ -868,6 +871,8 @@ Vid ett SM där en revisionsberättelse skall läsas, kan revisorerna, enligt f�
 
 Innan fråga angående ansvarsfrihet tas upp på SM skall revisorerna ansvara för att de berörda ekonomiskt ansvariga inbjuds till SM.
 
+Till varje SM ska Revisorerna ha upprättat en förvaltningsrevisionsrapport som de redogör för under mötet.
+
 ##### §4.3.5.3.3 Normativa rekommendationer
 
 De rekommendationer som ges nedan bör följas för att förenkla och accelerera revisionsförfarandet.
@@ -893,6 +898,8 @@ Sektionshistorikern skall se till att sektionens ärorika historia inte faller i
 Sektionshistorikern ansvarar även för sektionens alumniverksamhet.
 
 Sektionshistorikern avgör själv hur hen bäst uppfyller ändamålet. Sektionshistorikern har som kunskapskälla tillgång till GUDAR-gruppen, Gamla Uvar på Data med Anrika Redogörelser.
+
+Sektionshistorikern ansvarar för att varje år upprätta en årskrönika.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -942,7 +949,9 @@ Studerandeskyddsombudet ska
 
 -   se till att det finns en sjukvårdslåda med lämpligt innehåll i sektionslokalen
 
--   regelbundet kontrollera de brandsläckare som finns i sektionslokalen.
+-   regelbundet kontrollera de brandsläckare som finns i sektionslokalen
+
+-   inventera sjukvårdslådan en gång per period.
 
 #### §4.3.9.3 Organisation
 
