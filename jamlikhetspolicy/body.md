@@ -28,7 +28,7 @@ Förtursbiljetter till evengemang ska enbart tillämpas enligt §5 Anmälningar 
 THS ska ha nolltolerans mot diskriminering och trakasserier.
 
 ### §4.1 ###
-Alla förtroendevalda får utbildning i JML och vet hur de ska hantera om någon kommer till dem.
+Alla förtroendevalda får utbildning i JML och vet hur de ska agera om någon kommer till dem för att få hjälp med ett jämlikhetsärende.
 
 ### §4.2 ###
 Det ska finnas resurser för att jobba med JML på sektionens hemsida och alla förväntas jobba aktivt med det inom sin nämnd eller projekt.
@@ -40,7 +40,7 @@ Vi uppmuntrar att eventuella händelser anmäls till rätt instans och sektionen
 THS ska vara aktivt normkritisk och självgranskande.
 
 ### §5.1 ###
-Vid varje rekrytering ska en självutvärdering göras av ansvarig funktionär för att se så att inga bias påverkat beslutet som specificerat i [Rekryteringspolicyn](https://styrdokument.datasektionen.se/rekryteringspolicy).
+Vid varje inval ska en självutvärdering göras av ansvarig funktionär för att se så att inga bias påverkat beslutet som specificerat i [Rekryteringspolicyn](https://styrdokument.datasektionen.se/rekryteringspolicy).
 
 ### §5.2 ###
 Förtroendevalda ska utföra kontinuerliga självutvärderingar under hela förloppet av sina mandatperioder.
@@ -49,7 +49,7 @@ Förtroendevalda ska utföra kontinuerliga självutvärderingar under hela förl
 THS ska vara en transparent organisation som kommunicerar på ett tillgängligt sätt.
 
 ### §6.1 ###
-Sluten rekrytering ska vara transparent och presenteras som specificerat i §6 av [Rekryteringspolicyn](https://styrdokument.datasektionen.se/rekryteringspolicy).
+Inval ska vara transparent och presenteras som specificerat i §6 av [Rekryteringspolicyn](https://styrdokument.datasektionen.se/rekryteringspolicy).
 
 ### §6.2 ###
 Material ska göras tillgängligt på de språk och i den utsträckning som specificerat i [Informationsspridningpolicyn](https://styrdokument.datasektionen.se/informationsspridningspolicy).
