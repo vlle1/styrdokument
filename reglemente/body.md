@@ -591,7 +591,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   efter ett SM publicera ett beslutprotokoll inom 24 timmar från mötets avslutande
 
--   efter ett DM publicera ett beslutprotokoll inom 24 timmar från mötets avslutande.§
+-   efter ett DM publicera ett beslutprotokoll inom 24 timmar från mötets avslutande.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
