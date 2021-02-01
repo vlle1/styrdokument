@@ -320,7 +320,7 @@ DM är beslutsmässigt om minst hälften av dess ledamöter är närvarande, och
 
 ### §4.2.3 Protokoll
 
-På DM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet ska anslås enligt §[1.8] i justerat skick senast 14 dagar efter mötet.
+På DM ska protokoll föras. Protokollet ska justeras av mötesordföranden jämte en av mötet utsedd justerare. Protokollet ska anslås enligt §[1.8] i justerat skick senast 21 dagar efter mötet.
 
 §4.3 Uppgifter
 ---------
