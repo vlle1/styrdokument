@@ -621,7 +621,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §4.1.5 Vice kassör
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Är tillsammans med Kassör ansvarigför sektionens ekonomi. Vice kassör ansvarar för det operativa arbetet med sektionens ekonomi. Detta innebär ansvar för den löpande bokföringen samt ut- och inbetalningar. Dessa ansvarsområden inkluderar även att
+Är ledamot i sektionsstyrelsen, D-rektoratet. Är tillsammans med Kassör ansvarig för sektionens ekonomi. Vice kassör ansvarar för det operativa arbetet med sektionens ekonomi. Detta innebär ansvar för den löpande bokföringen samt ut- och inbetalningar. Dessa ansvarsområden inkluderar även att
 
 -   arbetsleda övriga bokföringspliktiga nämnder i bokföringsarbetet
 
@@ -629,7 +629,8 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   följa upp den kontinuerliga bokföringen
 
--   ansvara för att attesterade utlägg betalas och bokförs•ha ett nära samarbete med Kassör.
+-   ansvara för att attesterade utlägg betalas och bokförs
+-   ha ett nära samarbete med Kassör.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
