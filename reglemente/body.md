@@ -555,7 +555,7 @@ Redaqtionen ska ge ut sektionstidningen dbuggen fysiskt och/eller digitalt. De s
 
 -   fånga upp ansvar som inte direkt faller på någon annan funktionär på sektionen
 
--   stödja kassören i det ekonomiska arbetet och ha en god överblick av sektionens ekonomi.
+-   ha en god överblick av sektionens ekonomi.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
@@ -613,11 +613,28 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   se efter att rutinerna för sektionens likvida medel följs
 
--   ekonomisk lägesrapportering ska presenteras på SM.
+-   ekonomisk lägesrapportering ska presenteras på SM
+
+-   ha ett nära samarbete med Vice kassör.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §4.1.5 Ledamot för näringsliv och kommunikation
+### §4.1.5 Vice kassör
+
+Är ledamot i sektionsstyrelsen, D-rektoratet. Är tillsammans med Kassör ansvarig för sektionens ekonomi. Vice kassör ansvarar för det operativa arbetet med sektionens ekonomi. Detta innebär ansvar för den löpande bokföringen samt ut- och inbetalningar. Dessa ansvarsområden inkluderar även att
+
+-   arbetsleda övriga bokföringspliktiga nämnder i bokföringsarbetet
+
+-   fungera som ett stöd för sektionens funktionärer i ekonomiska frågor
+
+-   följa upp den kontinuerliga bokföringen
+
+-   ansvara för att attesterade utlägg betalas och bokförs
+-   ha ett nära samarbete med Kassör.
+
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+
+### §4.1.6 Ledamot för näringsliv och kommunikation
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetar med och för i styrelsen de frågor som rör näringsliv och kommunikation, samt är kontaktperson för sektionens verksamhet som avser dessa områden. Dessa ansvarsområden inkluderar att
 
@@ -631,7 +648,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §4.1.6 Ledamot för studiesociala frågor
+### §4.1.7 Ledamot för studiesociala frågor
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Har frågor som rör medlemmarnas psykiska och fysiska miljö som ansvarsområde. Arbetar med att utveckla medlemmarnas studentliv. Dessa ansvarsområden inkluderar att
 
@@ -647,7 +664,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §4.1.7 Ledamot för utbildningsfrågor
+### §4.1.8 Ledamot för utbildningsfrågor
 
 Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för sektionens studentinflytande gentemot EECS och för sektionens utbildningspåverkan. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
 
@@ -1148,7 +1165,7 @@ Kassör
 
 #### §5.1.10.2 Suppleant
 
-Sektionsordförande
+Vice kassör
 
 ### §5.1.11 Lokalrådet
 
