@@ -1194,31 +1194,13 @@ Fattar beslut om bland annat budget och bokslut, samt de frågor som dekanen ans
 
 Bereder och lämnar förslag inför viktigare beslut som skall fattas på skolan.
 
-#### §5.2.2.3 Arbetsmiljögruppen
+#### §5.2.2.3 Rekryteringskommittén
 
-Arbetar för en bättre arbetsmiljö på skolan.
+Rekryteringskommittén har till uppgift att bereda och avge förslag beträffande vissa anställningar.
 
-I denna grupp sitter styrelseledamot för studiesociala frågor.
+#### §5.2.2.4 Skolråd
 
-#### §5.2.2.4 Grundutbildningsgruppen
-
-Arbetar för förbättring av grundutbildningen.
-
-I denna grupp sitter Programansvarig student som ordinarie, samt Studienämndens ordförande som suppleant.
-
-#### §5.2.2.5 Jämlikhet, mångfald och likabehandlingsgruppen
-
-Arbetar för att förbättra jämlikheten och mångfalden på skolan.
-
-I denna grupp sitter Jämlikhetsnämndens ordförande.
-
-#### §5.2.2.6 Tjänsteförslagsnämnden
-
-Tjänsteförslagsnämnden har till uppgift att bereda och avge förslag beträffande vissa anställningar.
-
-#### §5.2.2.7 Skolråd
-
-Skolrådet är öppet för alla studenter på Data och Media. Skolrådet väljer representanter till andra råd.
+Skolrådet är öppet för alla studenter på  Data, Media, IN och Elektro. Skolrådet väljer representanter till andra råd.
 
 §6 Ordinarie SM
 ============
