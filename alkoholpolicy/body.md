@@ -48,7 +48,7 @@ Ingen får sälja och servera alkohol till sig själv.
 
 ## §12 Alkohol bekostad av sektionen
 
-Högst 1/3 av pengarna spenderade vid ett tillfälle med en intern grupp får användas för att bekosta alkohol. Med detta menas att pengar under t.ex. en teambuilding läggs för att subventionera alkohol.
+Högst 1/3 av pengarna spenderade per person får vid ett tillfälle med en intern grupp användas för att bekosta alkohol. Det är inte tillåtet att ge personer som dricker alkohol större budget än de som inte gör det för att kunna bekosta mer alkohol. Med detta menas att pengar under t.ex. en teambuilding används för att subventionera alkohol.
 
 ## THS Alkohol- och drogpolicy
 
