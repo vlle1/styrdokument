@@ -996,7 +996,6 @@ Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och lju
 ### §4.3.8 Studerandeskyddsombud
 
 #### §4.3.8.1 Ändamål
-
 Har till uppgift att agera som studerandeskyddsombud för sektionen. Funktionären skall såväl proaktivt som reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
 
 #### §4.3.8.2 Verksamhet
