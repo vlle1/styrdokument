@@ -9,12 +9,18 @@ Detta dokument innehåller riktlinjer för hur informationsspridning inom sektio
 §2 Officiella informationskanaler
 ------------------------------
 
-Sektionens webbplats är dess officiella informationskanal. Därför ska information som kan intressera sektionens medlemmar i stort publiceras där först. Vidare ska dokument såsom kallelser, handlingar, protokoll och avtal som kan intressera sektionens medlemmar i stort fysiskt sättas upp i sektionslokalen i pappersformat, då minst i A4-format. Sådan information som kan presenteras väl i storbildsformat bör även publiceras på TV-skärmarna i sektionslokalen, om sådana finns.
+Sektionens webbplats är dess officiella informationskanal. Därför ska information som kan intressera sektionens medlemmar i stort publiceras där först. Vidare ska dokument såsom kallelser, handlingar, protokoll och avtal som kan intressera sektionens medlemmar i stort fysiskt sättas upp i sektionslokalen i pappersformat, då minst i A4-format. Sådan information som kan presenteras väl i storbildsformat bör även publiceras på TV-skärmarna i sektionslokalen, om sådana finns. Under force majeure-omständigheter (såsom pandemi, extrema väderförhållanden, naturkatastrof, mobilisering, etc.) behöver inte dokument sättas upp fysiskt i sektionslokalen.
 
 §3 Inofficiella informationskanaler
 --------------------------------
 
-Informatörer får använda egna informationskanaler utöver de officiella. Information i dessa inofficiella kanaler ska överensstämma med den som finns i de officiella. Datasektionen centralt ska ha representation i dominerande sociala medier. Information som inte bedöms som intressant för sektionens medlemmar i stort får publiceras i de inofficiella kanalerna utan att publiceras i de officiella kanalerna.
+Alla kanaler där informatörer sprider information som anses intressant för sektionens medlemmar i stort, utöver de officiella, klassas som inofficiella informationskanaler. I sådana informationskanaler ska följande regler följas: 
+
+* KTHs uppförandekod, EECS Hederskodex och Sektionens jämlikhetspolicy.
+* Användares för- och efternamn ska vara synligt.
+* Där möjligt ska användare verifieras via KTH-mail.
+
+Om dessa regler inte följs i ett forum kan D-rektoratet besluta om att forumet ska upphöra att användas som informationskanal. Informatörer har en skyldighet att inte sprida information i sådana kanaler som bedömts olämpliga. Information i dessa inofficiella kanaler ska överensstämma med den som finns i de officiella. Datasektionen centralt ska ha representation i dominerande sociala medier. Information som inte bedöms som intressant för sektionens medlemmar i stort får publiceras i de inofficiella kanalerna utan att publiceras i de officiella kanalerna.
 
 §4 Information på engelska
 -----------------------
@@ -34,5 +40,5 @@ Personliga uppgifter och handlingar som kan anses känsliga för enskilda indivi
 §7 Närvaro i informationskanaler
 -----------------------------
 
-Sektionens informatörer bör vara medvetna om sin närvaro som representanter i officiella och inofficiella sammanhang - exempelvis Datasektionens hemsida såväl som i kommentarsfält och mailinglistor. Alla medlemmar bör också uppmärksamma att våra mailinglistor bör vara fria från exempelvis personangrepp, hot, hets mot folkgrupp och sexuella trakasserier, samt att grovt opassande beteende i dessa vid behov kan följas upp med tillfällig avstängning från dem. Vid beslut om avstängning av medlem från informationskanal måste revisorerna alltid meddelas.
+Sektionens informatörer bör vara medvetna om sin närvaro som representanter i officiella och inofficiella sammanhang - exempelvis Datasektionens hemsida såväl som i kommentarsfält och mailinglistor. Alla medlemmar bör också uppmärksamma att våra digitala forum ska följa KTHs uppförandekod, EECS Hederskodex, Sektionens jämlikhetspolicy samt att grovt opassande beteende i dessa vid behov kan följas upp med tillfällig avstängning från dem. Vid beslut om avstängning av medlem från informationskanal måste revisorerna alltid meddelas.
 
