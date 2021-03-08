@@ -537,6 +537,26 @@ Redaqtionen leds av Chefredaqtören, internt benämnd Chefred. Övriga medlemmar
 ### §3.19.3 Verksamhet
 Redaqtionen ska ge ut sektionstidningen dbuggen fysiskt och/eller digitalt. De ska även ska specifikt uppdatera och ge ut exakt en nØlledbuggen till varje mottagning. Priset för ett exemplar av dbuggen eller nØlledbuggen ska vara noll prisbasbelopp.
 
+§3.20 Datasladden
+--------------
+
+### §3.20.1 Ändamål
+Datasladden har till uppgift att ansvara över sektionsbilen.
+
+### §3.20.2 Organisation
+Datasladden leds av Mulle Schmeck. Övriga medlemmar utses av Mulle/Mullerina Schmeck. Övriga medlemmar måste även besitta det förarbevis som krävs för att framföra den
+nuvarande sektionsbilen.
+
+### §3.20.3 Verksamhet
+Datasladden ansvarar för att
+* Administrera bokningar av sektionsbilen
+* Sköta reparation och underhåll av sektionsbilen
+* Se till så att parkeringstillståndet befinner sig i sektionsbilen.
+* Utforma samt upprätthålla regler för sektionsbilen
+* Se till så att körjounralen befinner sig i sektionsbilen och används av alla som brukar den.
+* Sköta annat som hör bilen till
+
+
 §4 Funktionärer
 ============
 
@@ -846,6 +866,14 @@ Leder Informationsorganet. Ansvarar tillsammans med Informationsorganet över se
 #### §4.2.21.2 Mandatperiod
 Väljs på Val-SM. Har läsår som mandatperiod.
 
+### §4.2.22 Mulle/Mullerina Schmeck
+
+#### §4.2.22.1 Ändamål
+Leder Datasladden. Ansvarar tillsammans med Datasladden över sektionsbilen.
+
+#### §4.2.22.2 Mandatperiod
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+
 §4.3 Övriga funktionärer
 -------------------
 
@@ -965,33 +993,13 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning.
 
-### §4.3.8 Mulle/Mullerina Schmeck
+### §4.3.8 Studerandeskyddsombud
 
 #### §4.3.8.1 Ändamål
 
-Har till uppgift att ansvara över sektionens bil och tillhörande ekonomi.
-
-#### §4.3.8.2 Verksamhet
-
-Hanterar bokning, regler för bilen, reparation/underhåll, parkeringstillstånd, försäkringar och annat som hör bilen till.
-
-Kan besluta att utdela medaljer, kallade Crashmedaljer, till de personer som orsakat bilen skada. Crashmedaljer får inte utdelas vid allvarlig skada på bilen, olovlig körning, rattfylleri eller personskada.
-
-#### §4.3.8.3 Organisation
-
-I det fall att posten är vakantsatt har Konglig Öfverdrif ansvar för bilen.
-
-#### §4.3.8.4 Mandatperiod
-
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
-
-### §4.3.9 Studerandeskyddsombud
-
-#### §4.3.9.1 Ändamål
-
 Har till uppgift att agera som studerandeskyddsombud för sektionen. Funktionären skall såväl proaktivt som reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
 
-#### §4.3.9.2 Verksamhet
+#### §4.3.8.2 Verksamhet
 
 Studerandeskyddsombudet ska
 
@@ -1007,26 +1015,25 @@ Studerandeskyddsombudet ska
 
 -   inventera sjukvårdslådan en gång per period.
 
-#### §4.3.9.3 Organisation
+#### §4.3.8.3 Organisation
 
 I det fall att posten är vakantsatt är Ledamot för studiesociala frågor ställföreträdande studerandeskyddsombud.
 
-#### §4.3.9.4 Mandatperiod
+#### §4.3.8.4 Mandatperiod
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
+### §4.3.9 D-Fest
 
-### §4.3.10 D-Fest
-
-#### §4.3.10.1 Ändamål
+#### §4.3.9.1 Ändamål
 
 D-Fest ska verka för att öka sammanhållningen bland sektionens funktionärer.
 
-#### §4.3.10.2 Organisation
+#### §4.3.9.2 Organisation
 
 Funktionären ska samarbeta med D-Rektoratet kring sin verksamhet och d-Rektoratet ska bistå funktionären med arbetskraft. Vid behov kan funktionären anlita en mindre mängd sektionsmedlemmar för att bedriva verksamhet.
 
-#### §4.3.10.3 Verksamhet
+#### §4.3.9.3 Verksamhet
 
 Till funktionärens uppgifter hör att
 
@@ -1036,33 +1043,33 @@ Till funktionärens uppgifter hör att
 
 - Eventuellt anordna andra sittningar och evenemang tillsammans med andra sektioner och studentkårer för att representera sektionen utåt.
 
-#### §4.3.10.4 Mandatperiod
+#### §4.3.9.4 Mandatperiod
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §4.3.11 Kommunikatör
+### §4.3.10 Kommunikatör
 
-#### § 4.3.11.1 Ändamål
+#### § 4.3.10.1 Ändamål
 
 Kommunikatören är ansvarig för sektionens kommunikation utåt och inåt. Kommunikatören ansvarar för sektionens övergripande kommunikationsstrategi och bistår andra nämnder, funktionärer och projekt med deras kommunikation.
 
 Vidare har kommunikatören som ansvar att upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm i syfte att främja kulturellt utbyte och nätverkande.
 
-#### §4.3.11.2 Organisation
+#### §4.3.10.2 Organisation
 
 Kommunikatören kan tillsätta kortvariga projektgrupper vars uppgift är att möjliggöra för sektionens medlemmar att delta i aktiviteter med studenter från andra universitet. Detta kan inkludera, men är inte begränsat till: marknadsföra event från andra universitet, ansvara för logistiken kring deltagande på event vid andra universitet samt ansvara för logistiken kring att bjuda in gäster från andra universitet att delta på våra event.
 
-#### §4.3.11.3 Mandatperiod
+#### §4.3.10.3 Mandatperiod
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §4.3.14 Valberedningsledamöter
+### §4.3.11 Valberedningsledamöter
 
-#### §4.3.14.1 Ändamål
+#### §4.3.11.1 Ändamål
 
 Valberedningens ledamöter bereder val tillsammans med Valberedningens Ordförande.
 
-#### §4.3.14.2 Mandatperiod
+#### §4.3.11.2 Mandatperiod
 
 Tre ledamöter väljs på Val-SM och har läsår som mandatperiod. Ytterligare tre ledamöter
 väljs på Glögg-SM och har kalenderår som mandatperiod.
