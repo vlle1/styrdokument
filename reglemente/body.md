@@ -549,13 +549,13 @@ nuvarande sektionsbilen.
 
 ### §3.20.3 Verksamhet
 Datasladden ansvarar för att
-* Administrera bokningar av sektionsbilen
-* Sköta reparation och underhåll av sektionsbilen
-* Se till så att parkeringstillståndet befinner sig i sektionsbilen.
-* Utforma samt upprätthålla regler för sektionsbilen
-* Se till så att körjounralen befinner sig i sektionsbilen och används av alla som brukar den.
-* Sköta annat som hör bilen till
 
+-   Administrera bokningar av sektionsbilen
+-   Sköta reparation och underhåll av sektionsbilen.
+-   Se till så att parkeringstillståndet befinner sig i sektionsbilen.
+-   Utforma samt upprätthålla regler för sektionsbilen.
+-   Se till så att körjounralen befinner sig i sektionsbilen och används av alla som brukar den.
+-   Sköta annat som hör bilen till.
 
 §4 Funktionärer
 ============
