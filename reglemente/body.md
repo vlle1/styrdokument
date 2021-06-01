@@ -56,6 +56,10 @@ Sektionslokalsgruppen ansvarar för
 
 -   att upprätta och underhålla ett dokument med gällande regler för sektionslokalen.
 
+### §3.1.4 Bokföringsplikt
+
+Sektionslokalsgruppen är bokföringspliktigt.
+
 §3.2 Idrottsnämnden
 --------------
 
@@ -463,10 +467,6 @@ Prylmångleriet skall regelbundet ordna tillfällen där sektionens medlemmar ka
 Prylmångleriet skall under Mottagningen göra sig synlig bland nØllan och arrangera tillfällen då nØllan får prova overaller. Prylmånglaren har som ansvar att överse införskaffandet av ettans overaller. Prylmångleriet skall också hjälpa ettan att utforma och beställa årskursmärken.
 
 Vid jubileum och andra större händelser på sektionen bör Prylmångleriet i samarbete med ansvariga för händelsen utforma och beställa prylar relaterade till händelsen.
-
-### §3.14.4 Bokföringsplikt
-
-Prylmångleriet är bokföringspliktigt.
 
 §3.15 Baknämnden
 --------------
