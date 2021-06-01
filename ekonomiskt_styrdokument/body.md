@@ -70,7 +70,7 @@ Profilkläder får maximalt subventioneras till 50% av inköpspriset. Summan som
 Undantaget är ifall man fått profilkläderna sponsrade. Sponsringen dras då av från summan som inte subventioneras av sektionen. Alltså kan hela tröjan betalas genom att man får 50% eller mer av tröjan sponsrad och sektionen går in och betalar resterande belopp från budgeten.
 
 ##§11 Accesser##
-Firmatecknare har tillgång till att se och hantera sektionens samtliga tillgångar och transaktioner på banken.
+Firmatecknare och vice kassör har tillgång till att se och hantera sektionens samtliga tillgångar och transaktioner på banken.
 Revisorer har tillgång till att se sektionens samtliga tillgångar och transaktioner på banken.
 Nämndordförande och projektledare för bokföringspliktiga nämnder och projekt ska ha tillgång till att se och hantera tillgångarna som ligger på sin egen nämnds bankkonto.
 Bokföringsansvariga utsedda av nämndordförande eller projektledare har rätt till att se tillgångar och transaktioner på nämndens/projektets bankkonto.
@@ -78,7 +78,7 @@ Bokföringsansvariga utsedda av nämndordförande eller projektledare har rätt 
 Utöver dessa bankaccesser kan D-rektoratet, genom beslut på DM, besluta om att ge andra personer tillgång till att se och/eller hantera sektionens tillgångar. Firmatecknare äger även rätten att dra in personers accesser, det ska därefter prövas på nästföljande DM.
 
 ##§12 Attestering##
-Alla utgifter skall attesteras. De som äger rätten att attestera/avslå en utgift är i stigande ordning nämndordförande/projektledare för bokföringspliktiga nämnder/projekt och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Avslag kan överklagas enligt ordningen i §A. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. MUTA till en själv).
+Alla utgifter skall attesteras. De som äger rätten att attestera/avslå en utgift är i stigande ordning nämndordförande/projektledare för bokföringspliktiga nämnder/projekt, vice kassör och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Avslag kan överklagas enligt ordningen i §A. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. MUTA till en själv).
 Utöver dessa rättigheter så kan D-rektoratet i samråd med nämndordförande/projektledare besluta om extra attesträttigheter på DM.
 Ett utlägg attesteras genom sektionens system för det syftet. En faktura attesteras antingen genom sektionens system för det syftet eller genom att godkänna fakturabetalningen på banken.
 
