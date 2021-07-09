@@ -14,13 +14,13 @@ Sektionens webbplats är dess officiella informationskanal. Därför ska informa
 §3 Inofficiella informationskanaler
 --------------------------------
 
-Alla kanaler där informatörer sprider information som anses intressant för sektionens medlemmar i stort, utöver de officiella, klassas som inofficiella informationskanaler. I sådana informationskanaler ska följande regler följas: 
+Alla kanaler där informatörer sprider information som anses intressant försektionens medlemmar i stort, utöver de officiella, klassas som inofficiella in-formationskanaler. I sådana informationskanaler ska KTHs uppförandekod,EECS Hederskodex och Sektionens jämlikhetspolicy följas. Informationskanalen ska modereras kontinuerligt enligt dessa dokument.
 
-* KTHs uppförandekod, EECS Hederskodex och Sektionens jämlikhetspolicy.
-* Användares för- och efternamn ska vara synligt.
-* Där möjligt ska användare verifieras via KTH-mail.
+Om dessa regler inte följs i ett forum kan D-rektoratet besluta om att forumet ska upphöra att användas som informationskanal. Informatörer har enskyldighet att inte bedriva sektionsverksamhet, exempelvis rekrytering eller marknadsföring, i de kanaler som bedömts olämpliga.
 
-Om dessa regler inte följs i ett forum kan D-rektoratet besluta om att forumet ska upphöra att användas som informationskanal. Informatörer har en skyldighet att inte sprida information i sådana kanaler som bedömts olämpliga. Information i dessa inofficiella kanaler ska överensstämma med den som finns i de officiella. Datasektionen centralt ska ha representation i dominerande sociala medier. Information som inte bedöms som intressant för sektionens medlemmar i stort får publiceras i de inofficiella kanalerna utan att publiceras i de officiella kanalerna.
+För att uppnå dessa regler rekommenderas att alla användare är identifierbara för moderatorerna, eller använder sitt för- och efternamn i kanalen.
+
+Information i inofficiella kanaler ska överensstämma med den som finns i de officiella. Datasektionen centralt ska ha representation i dominerande sociala medier. Information som inte bedöms som intressant för sektionens medlemmar i stort får publiceras i de inofficiella kanalerna utan att publiceras i de officiella kanalerna.
 
 §4 Information på engelska
 -----------------------
@@ -30,7 +30,7 @@ Information som går ut till sektionens medlemmar ska i största möjliga mån �
 §5 Anmälningar till arrangemang
 ----------------------------
 
-Arrangemang ordnade av informatör får inte kräva att tilltänkta gäster måste logga in på någon extern tjänst (KTH-inloggning är dock ett tillåtet alternativ) för tillgång till anmälan eller information om arrangemanget. Anmälan till arrangemang som är riktade till sektionens medlemmar i stort måste öppnas samtidigt för samtliga sektionsmedlemmar. Det är dock tillåtet att reservera ett bestämt antal platser till personer som har hedersplats på arrangemanget. En sådan reservation måste då framgå vid anmälan till arrangemanget.
+Arrangemang anordnade av informatör får inte kräva att tilltänkta gäster måste logga in på någon extern tjänst (KTH-inloggning är dock ett tillåtet alternativ) för tillgång till anmälan eller information om arrangemanget. Anmälan till arrangemang som är riktade till sektionens medlemmar i stort måste öppnas samtidigt för samtliga sektionsmedlemmar. Det är dock tillåtet att reservera ett bestämt antal platser till personer som har hedersplats på arrangemanget. En sådan reservation måste då framgå vid anmälan till arrangemanget.
 
 §6 Känsliga uppgifter
 ------------------
