@@ -333,7 +333,7 @@ DEMON förespråkar även att man tillsammans ska gå på konserter/festivaler/s
 
 ### §3.12.1 Ändamål
 
-Valberedningen har till uppgift att opartiskt administrera och bereda de val som genomförs vid sektionen utan att göra bedömningar av kandidaters lämplighet. Valberedningens Ordförande ansvarar för att Valberedningens uppdrag utförs i enlighet med sektionens och THS stadgar samt reglemente. Det är lämpligt att minst en medlem i Valberedningen nomineras till THS Kårfullmäktiges valnämnd.
+Valberedningen har till uppgift att opartiskt administrera och bereda de val som genomförs vid sektionen samt göra bedömningar av kandidaters lämplighet. Valberedningens Ordförande ansvarar för att Valberedningens uppdrag utförs i enlighet med sektionens och THS stadgar samt reglemente. Det är lämpligt att minst en medlem i Valberedningen nomineras till THS Kårfullmäktiges valnämnd.
 
 ### §3.12.2 Organisation
 
