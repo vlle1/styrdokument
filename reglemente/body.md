@@ -24,7 +24,7 @@ Sektionsplagget är studentoverall i samma färg som sektionsfärgen. Sektionsme
 §2 Andra styrande dokument
 =======================
 
-Sektionen har utöver stadgar och reglemente även ett ekonomiskt styrdokument, samt ett antal policydokument. Sektionens policydokument består av dFunkpolicyn, jämlikhetspolicyn, alkoholpolicyn, rekryteringspolicyn, informationsspridningspolicyn och klimatpolicyn. Dessa dokument reglerar sektionens verksamhet och kompletterar stadgar och reglemente. Beslut om ändringar i dessa dokument tas på SM.
+Sektionen har utöver stadgar och reglemente även ett ekonomiskt styrdokument, samt ett antal policydokument. Sektionens policydokument består av dFunkpolicyn, jämlikhetspolicyn, alkoholpolicyn, rekryteringspolicyn, informationsspridningspolicyn, informationshanteringspolicyn och klimatpolicyn. Dessa dokument reglerar sektionens verksamhet och kompletterar stadgar och reglemente. Beslut om ändringar i dessa dokument tas på SM.
 
 §3 Nämnder
 =======
