@@ -481,6 +481,17 @@ Det åligger revisorerna
 
 -   att senast 5 läsdagar före de SM vid vilka fråga om ansvarsfrihet behandlas anslå revisionberättelse enligt §[1.8] samt inlämna revisionberättelse till D-rektoratet.
 
+### §8.1.3 Revisionssed
+
+Revisorerna är skyldiga att
+
+- inte vara nämndansvarig för en bokföringspliktig nämnd eller projekt.
+
+- inte vara bokföringsansvarig för en nämnd eller projekt.
+
+- inte ha något ansvar inom sektionens styrelse eller valberedning.
+
+
 §8.2 Verksamhetsberättelse och årsbokslut
 ------------------------------------
 
