@@ -14,9 +14,9 @@ Sektionens webbplats är dess officiella informationskanal. Därför ska informa
 §3 Inofficiella informationskanaler
 --------------------------------
 
-Alla kanaler där informatörer sprider information som anses intressant för sektionens medlemmar i stort, utöver de officiella, klassas som inofficiella in-formationskanaler. I sådana informationskanaler ska KTHs uppförandekod,EECS Hederskodex och Sektionens jämlikhetspolicy följas. Informationskanalen ska modereras kontinuerligt enligt dessa dokument.
+Alla kanaler där informatörer sprider information som anses intressant för sektionens medlemmar i stort, utöver de officiella, klassas som inofficiella informationskanaler. I sådana informationskanaler ska KTHs uppförandekod, EECS Hederskodex och Sektionens jämlikhetspolicy följas. Informationskanalen ska modereras kontinuerligt enligt dessa dokument.
 
-Om dessa regler inte följs i ett forum kan D-rektoratet besluta om att forumet ska upphöra att användas som informationskanal. Informatörer har enskyldighet att inte bedriva sektionsverksamhet, exempelvis rekrytering eller marknadsföring, i de kanaler som bedömts olämpliga.
+Om dessa regler inte följs i ett forum kan D-rektoratet besluta om att forumet ska upphöra att användas som informationskanal. Informatörer har en skyldighet att inte bedriva sektionsverksamhet, exempelvis rekrytering eller marknadsföring, i de kanaler som bedömts olämpliga.
 
 För att uppnå dessa regler rekommenderas att alla användare är identifierbara för moderatorerna, eller använder sitt för- och efternamn i kanalen.
 
@@ -25,7 +25,7 @@ Information i inofficiella kanaler ska överensstämma med den som finns i de of
 §4 Information på engelska
 -----------------------
 
-Information som går ut till sektionens medlemmar ska i största möjliga mån översättas till engelska. Dessutom ska information som bedöms vara av stor vikt för samtliga av sektionens medlemmar att kunna ta del av ska alltid sammanfattas på engelska. Exempel på när detta är tillämpbart är beslut som fattats på SM och information som rör sektionslokalen.
+Information som går ut till sektionens medlemmar ska i största möjliga mån översättas till engelska. Dessutom ska information som bedöms vara av stor vikt för samtliga av sektionens medlemmar att kunna ta del av alltid sammanfattas på engelska. Exempel på när detta är tillämpbart är beslut som fattats på SM och information som rör sektionslokalen.
 
 §5 Anmälningar till arrangemang
 ----------------------------
@@ -40,5 +40,5 @@ Personliga uppgifter och handlingar som kan anses känsliga för enskilda indivi
 §7 Närvaro i informationskanaler
 -----------------------------
 
-Sektionens informatörer bör vara medvetna om sin närvaro som representanter i officiella och inofficiella sammanhang - exempelvis Datasektionens hemsida såväl som i kommentarsfält och mailinglistor. Alla medlemmar bör också uppmärksamma att våra digitala forum ska följa KTHs uppförandekod, EECS Hederskodex, Sektionens jämlikhetspolicy samt att grovt opassande beteende i dessa vid behov kan följas upp med tillfällig avstängning från dem. Vid beslut om avstängning av medlem från informationskanal måste revisorerna alltid meddelas.
+Sektionens informatörer bör vara medvetna om sin närvaro som representanter i officiella och inofficiella sammanhang - exempelvis på Datasektionens hemsida såväl som i kommentarsfält och mailinglistor. Alla medlemmar bör också uppmärksamma att våra digitala forum ska följa KTHs uppförandekod, EECS Hederskodex, Sektionens jämlikhetspolicy samt att grovt opassande beteende i dessa vid behov kan följas upp med tillfällig avstängning från dem. Vid beslut om avstängning av medlem från informationskanal måste revisorerna alltid meddelas.
 
