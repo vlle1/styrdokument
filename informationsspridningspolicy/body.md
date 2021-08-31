@@ -14,7 +14,7 @@ Sektionens webbplats är dess officiella informationskanal. Därför ska informa
 §3 Inofficiella informationskanaler
 --------------------------------
 
-Alla kanaler där informatörer sprider information som anses intressant försektionens medlemmar i stort, utöver de officiella, klassas som inofficiella in-formationskanaler. I sådana informationskanaler ska KTHs uppförandekod,EECS Hederskodex och Sektionens jämlikhetspolicy följas. Informationskanalen ska modereras kontinuerligt enligt dessa dokument.
+Alla kanaler där informatörer sprider information som anses intressant för sektionens medlemmar i stort, utöver de officiella, klassas som inofficiella in-formationskanaler. I sådana informationskanaler ska KTHs uppförandekod,EECS Hederskodex och Sektionens jämlikhetspolicy följas. Informationskanalen ska modereras kontinuerligt enligt dessa dokument.
 
 Om dessa regler inte följs i ett forum kan D-rektoratet besluta om att forumet ska upphöra att användas som informationskanal. Informatörer har enskyldighet att inte bedriva sektionsverksamhet, exempelvis rekrytering eller marknadsföring, i de kanaler som bedömts olämpliga.
 
