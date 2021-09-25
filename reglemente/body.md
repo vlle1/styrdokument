@@ -101,7 +101,7 @@ Jämlikhetsnämnden skall värna och upplysa om jämlikhet och mångfald på sek
 
 ### §3.4.2 Organisation
 
-Nämnden leds av Jämlikhetsnämndens ordförande. Styrelseledamoten för studiesociala frågor skall också ingå i nämnden tillsammans med övriga intresserade sektionsmedlemmar.
+Nämnden leds av Jämlikhetsnämndens ordförande. Styrelseledamoten för utbildningsfrågor skall också ingå i nämnden tillsammans med övriga intresserade sektionsmedlemmar.
 
 ### §3.4.3 Verksamhet
 
@@ -678,9 +678,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 -   upprätthålla och förvalta kontakten med andra sektioner och organisationer
 
--   verka för en god sammanhållning mellan sektionens engagerade medlemmar
-
--   från styrelsen arbeta med frågor som berör jämlikhet, mångfald och likabehandling på sektionen.
+-   verka för en god sammanhållning mellan sektionens engagerade medlemmar.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -694,7 +692,9 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 -   strategiskt arbeta med utvecklingen av sektionens utbildningspåverkan
 
--   från styrelsen samordna sektionen i frågor som rör utbildningspåverkan.
+-   från styrelsen samordna sektionen i frågor som rör utbildningspåverkan
+
+-   från styrelsen arbeta med frågor som berör jämlikhet, mångfald och likabehandling på sektionen.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -1125,7 +1125,7 @@ Jämlikhetsnämndens ordförande
 
 #### §5.1.5.2 Suppleant
 
-Styrelseledamot för Studiesociala frågor
+Styrelseledamot för Utbildningsfrågor
 
 ### §5.1.6 Pubrådet
 
