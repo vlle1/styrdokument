@@ -557,6 +557,18 @@ Datasladden ansvarar för att
 -   Se till så att körjounralen befinner sig i sektionsbilen och används av alla som brukar den.
 -   Sköta annat som hör bilen till.
 
+§3.21 Scala
+--------------
+
+### §3.21.1 Ändamål
+Scalas syfte är att kultivera studenters musikaliska talang genom att regelbundet anordna körrep. Målet är att låta studenter ha kul tillsammans genom sång och trevligt häng. Vidare ska nämnden skapa gemenskap mellan Konglig Datasektionen och Sektionen för Medieteknik genom att rekrytera från båda sektioner.
+
+### §3.21.2 Organisation
+Scala leds av Körmästare. Övriga medlemmar utses av Körmästare.
+
+### §3.21.3 Verksamhet
+Scala ska regelbundet anordna körrep där medlemmar får sjunga tillsammans. Nämnden ska bistå annan sektionsverksamhet genom uppträdanden på exempelvis Vårbalen eller liknande evenemang. Verksamheten i övrigt bestäms i samråd med medlemmarna i början av varje läsår.
+
 §4 Funktionärer
 ============
 
@@ -873,6 +885,14 @@ Leder Datasladden. Ansvarar tillsammans med Datasladden över sektionsbilen.
 
 #### §4.2.22.2 Mandatperiod
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+
+### §4.2.23 Körmästare
+
+#### §4.2.23.1 Ändamål
+Leder Scala.
+
+#### §4.2.23.2 Mandatperiod
+Väljs på Val-SM. Har läsår som mandatperiod.
 
 §4.3 Övriga funktionärer
 -------------------
