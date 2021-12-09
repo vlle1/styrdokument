@@ -142,7 +142,16 @@ Alumnimedlem har rätt att
 
 Endast för nyligen antagen till Datateknikprogrammet. Medlemskapet gäller från uppropet och två månader framåt. Juniormedlem har närvarorätt och yttranderätt på SM.
 
-§2.5 Medlemsavgift
+§2.5 Gästmedlemskap
+-------------
+Gästmedlemskap kan tilldelas personer vars utbildning faller under EECS skolan samt är medlemmar i THS och som vill engagera sig i sektionens verksamhet. Gästmedlemskap tilldelas genom beslut av D-rektoratet, där medlemsskapets period samt omfång i sektionens verksamhet är del av beslutet.
+
+Gästmedlemmar har rätt att
+- delta med närvaro- och yttrande-rätt på SM
+- närvara på DM såvida det inte beslutats om lyckta dörrar
+- delta i samtliga aktiviteter som arrangeras av de delar i sektionen som medlemsskapet omfattar
+
+§2.6 Medlemsavgift
 -------------
 
 Medlemsavgift för ordinarie medlemmar och alumnimedlemmar fastställs av THS centralt. Hedersmedlemmar är befriade från medlemsavgift.
