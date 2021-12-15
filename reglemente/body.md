@@ -316,7 +316,7 @@ Ordförande för DEMON är ÄrkeDEMON som väljs på Val-SM, har läsår som man
 
 ### §3.11.3 Verksamhet
 
-DEMON verkar för att främja musikintresset på sektionen genom att anordna regelbunda träffar där man bland annat kan få
+DEMON verkar för att främja musikintresset på sektionen genom att anordna regelbundna träffar där man bland annat kan få
 
 -   repa i sektionslokalen
 
@@ -544,7 +544,7 @@ Redaqtionen ska ge ut sektionstidningen dbuggen fysiskt och/eller digitalt. De s
 Datasladden har till uppgift att ansvara över sektionsbilen.
 
 ### §3.20.2 Organisation
-Datasladden leds av Mulle Schmeck. Övriga medlemmar utses av Mulle/Mullerina Schmeck. Övriga medlemmar måste även besitta det förarbevis som krävs för att framföra den
+Datasladden leds av Mulle/Mullerina Schmeck. Övriga medlemmar utses av Mulle/Mullerina Schmeck. Övriga medlemmar måste även besitta det förarbevis som krävs för att framföra den
 nuvarande sektionsbilen.
 
 ### §3.20.3 Verksamhet
@@ -554,7 +554,7 @@ Datasladden ansvarar för att
 -   Sköta reparation och underhåll av sektionsbilen.
 -   Se till så att parkeringstillståndet befinner sig i sektionsbilen.
 -   Utforma samt upprätthålla regler för sektionsbilen.
--   Se till så att körjounralen befinner sig i sektionsbilen och används av alla som brukar den.
+-   Se till så att körjournalen befinner sig i sektionsbilen och används av alla som brukar den.
 -   Sköta annat som hör bilen till.
 
 §3.21 Scala
