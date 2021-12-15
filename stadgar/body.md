@@ -104,6 +104,8 @@ Sektionsmedlem är
 
 -   juniormedlem enligt §[2.4].
 
+-   Gästmedlem enligt §[2.5].
+
 §2.1 Ordinarie sektionsmedlem
 ------------------------
 
