@@ -194,7 +194,7 @@ Näringslivsgruppen har till uppgift att informera näringslivet om sektionen oc
 
 ### §3.7.2 Organisation
 
-Näringslivsgruppen leds av Näringslivsansvarig och D-Dagenansvariga. Inom Näringslivsgruppen är D-Dagenansvariga ytterst ansvarig för sektionens arbetsmarknadsdag och Näringslivsansvarig är ytterst ansvarig för all annan verksamhet. D-Dagens projektgrupps sammansättning utses av D-Dagenansvariga och övriga medlemmar utses av Näringslivsansvarig. Näringslivsgruppen utom D-Dagen och D-Dagen budgeteras separat. Näringslivsansvarig och D-Dagenansvariga har båda attesträtt för verksamheten i hela nämnden Näringslivsgruppen.
+Näringslivsgruppen leds av Näringslivsansvarig. Medlemmar utses av Näringslivsansvarig.
 
 ### §3.7.3 Verksamhet
 
@@ -212,7 +212,7 @@ Näringslivsgruppen skall
 
 ### §3.7.4 Avtal
 
-Näringslivsansvarig och D-Dagenansvariga har rätt att förhandla fram avtal med företag och organisationer. Firmatecknare har rätt att utfärda en fullmakt till Näringslivsansvarig samt D-Dagenansvariga för att dessa ska kunna ingå i sagda avtal
+Näringslivsansvarig har rätt att förhandla fram avtal med företag och organisationer. Firmatecknare har rätt att utfärda en fullmakt till Näringslivsansvarig för att denne ska kunna ingå i sagda avtal.
 
 ### §3.7.5 Bokföringsplikt
 
@@ -569,6 +569,29 @@ Scala leds av Körmästare. Övriga medlemmar utses av Körmästare.
 ### §3.21.3 Verksamhet
 Scala ska regelbundet anordna körrep där medlemmar får sjunga tillsammans. Nämnden ska bistå annan sektionsverksamhet genom uppträdanden på exempelvis Vårbalen eller liknande evenemang. Verksamheten i övrigt bestäms i samråd med medlemmarna i början av varje läsår.
 
+§3.22 D-Dagen
+--------------
+
+### §3.22.1 Ändamål
+D-Dagen har till uppgift att informera näringslivet om sektionen och datateknikprogrammet, att informera sektionens medlemmar om näringslivet, att främja sektionsmedlemmarnas status på arbetsmarknaden samt att inbringa sponsorpengar till sektionen.Detta görs genom en årlig arbetsmarknadsdag och mindre evenemang arrangerade intilliggande mässan.
+
+### §3.22.2 Organisation
+D-Dagen leds av D-Dagenansvariga. D-Dagens medlemmar utses av D-Dagenansvariga
+
+### §3.22.3 Verksamhet
+D-Dagen skall
+- göra reklam för arbetsmarknadsdagen gentemot berörda studenter
+- hålla och ständigt förbättra kontakten med näringslivet och dess deltagande på arbetsmarknadsdagen
+- arrangera en arbetsmarknadsmässa och tillhörande sittning som främjar mötet mellan berörda studenter och näringslivet
+- sköta D-Dagens faktureringar
+- se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
+
+### §3.22.4 Avtal
+D-Dagenansvariga har rätt att förhandla fram avtal med företag och organisationer. Firmatecknare har rätt att utfärda en fullmakt till D-Dagenansvariga för att dessa ska kunna ingå i sagda avtal.
+
+### §3.22.5 Bokföringsplikt
+D-Dagen är bokföringspliktigt.
+
 §4 Funktionärer
 ============
 
@@ -739,7 +762,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §4.2.5 Näringslivsansvarig
 
-Är ordförande för Näringslivsgruppen tillsammans med D-Dagenansvariga. Ansvarar för kontakter med näringslivet. I händelsen att posten som D-Dagenansvariga är vakantsatt ansvarar Näringslivsansvarig även för D-Dagen tills dess att posten som D-Dagenansvariga kan fyllnadsväljas.
+Är ordförande för Näringslivsgruppen. Ansvarar för kontakter med näringslivet.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -807,7 +830,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §4.2.15 D-Dagenansvariga
 
-SM ska välja två D-Dagenansvariga. Ansvarar för sektionens arbetsmarknadsdag D-Dagen. Är tillsammans med Näringslivsansvarig ordförande för Näringslivsgruppen. I händelsen att posten som Näringslivsansvarig är vakantsatt ansvarar D-Dagenansvariga även för Näringslivsgruppen tills dess att posten som Näringslivsansvarig kan fyllnadsväljas.
+SM ska välja två D-Dagenansvariga. Ansvarar för sektionens arbetsmarknadsdag D-Dagen.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
