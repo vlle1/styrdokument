@@ -516,6 +516,7 @@ Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisore
 [2.2]: #2-2-hedersmedlem
 [2.3]: #2-3-alumnimedlem
 [2.4]: #2-4-juniormedlem
+[3.13.1]: #3-13-1-nomineringar
 [3.3]: #3-4-kallelse
 [3.10]: #3-9-1-ordinarie-sm
 [3.12]: #3-10-ajournering
