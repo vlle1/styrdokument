@@ -179,7 +179,7 @@ Sektionsordförande bör inte inneha något annat uppdrag inom Mottagningen än 
 
 ### §3.6.5 Verksamhet
 
-Mottagningen ansvarar för att aktiviteter som främjar Mottagningens ändamål anordnas. Dessa aktiviteter avslutas sedan med nØlleGasquen och nØllans eventuella upphöjelse till Ettan. För planeringen av verksamheten ansvarar Titelgruppen.
+Mottagningen ansvarar för att aktiviteter som främjar Mottagningens ändamål anordnas. Dessa aktiviteter avslutas sedan med nØlleGasquen och nØllans eventuella upphöjelse till Ettan. Mottagningen ansvarar för valet av årskursnamn som utfärdas i samband med upphöjelsen. För planeringen av verksamheten ansvarar Titelgruppen.
 
 ### §3.6.6 Bokföringsplikt
 
