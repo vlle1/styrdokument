@@ -52,4 +52,4 @@ Högst 1/3 av pengarna spenderade per person får vid ett tillfälle med en inte
 
 ## THS Alkohol- och drogpolicy
 
-Datasektionen följer THS Alkohol- och drogpolicy. Policyn kan hittas [här.](https://ths.kth.se/general/ths-central/policy-documents-and-meeting-protocols)
+Datasektionen följer THS Alkohol- och drogpolicy. Policyn kan hittas [här.](https://dsekt.se/thsdrogpolicy)
