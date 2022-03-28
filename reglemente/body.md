@@ -288,20 +288,20 @@ Studienämnden skall hålla möte minst en gång per månad under terminstid. M�
 
 Studienämndens dokument skall i så stor utsträckning som möjligt finnas tillgängliga i elektronisk form.
 
-§3.10 GEEK - Girls: Empowered, Encouraged, Knowledgable
+§3.10 GEEK
 -----------------------
 
 ### §3.10.1 Ändamål
 
-Nämndens syfte är att främja tjejer och icke-binäras intressen på Datasektionen.
+Nämndens syfte är att främja tjejer och icke-binäras intressen på Datasektionen. 
 
 ### §3.10.2 Organisation
 
-Ordförande för GEEK är Öfvermatronan, som väljs på SM.
+Ordförande för GEEK är Öfvermatronan, som väljs på SM. Övriga medlemmar utses av Öfvermatrona.
 
 ### §3.10.3 Verksamhet
 
-GEEK ska verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna middag för alla tjejer och icke-binära två gånger per termin samt anordna en tjejgasque en gång per år. Nämnden ska medverka under mottagningen för att få fler tjejer och icke-binära att känna sig välkomna och även anordna företags/inspirations-events under året. Nämnden ska även varje termin anordna ett event där främst tjejer och icke-binära från Datateknik får chansen att nätverka under avslappnade former. Nämnden ska varje år dessutom utse en hedersdam.
+GEEK ska verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna middag för alla tjejer och icke-binära två gånger per termin samt anordna en tjejgasque en gång per år. Nämnden ska medverka under mottagningen för att få fler tjejer och icke-binära att känna sig välkomna och även anordna företags/inspirations-events under året. Nämnden ska även varje termin anordna ett event där främst tjejer och icke-binära från Datateknik får chansen att nätverka under avslappnade former.
 
 §3.11 DEMON - Datas Eminenta MusikOrganisationsNämnd
 ----------------------------------------------
