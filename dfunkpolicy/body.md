@@ -26,7 +26,7 @@ Till varje Sektionsmöte förväntas du som δ-funktionär skriva en rapport om 
 §1.5 Gå på utbildning
 ----------------
 
-Vi anordnar två stycken funktionärsutbildningar per år. Om du verkligen inte kan gå på den första har du ett halvår på dig att försöka kunna gå den andra. Det är din skyldighet att gå på minst en av dessa.
+Varje termin anordnas det en funktionärsutbildning och en JML-utbildning. Som funktionär är det din skyldighet att gå på båda dessa en gång under din mandatperiod.
 
 §1.6 D-råd
 -----------------
