@@ -468,6 +468,8 @@ Prylmångleriet skall under Mottagningen göra sig synlig bland nØllan och arra
 
 Vid jubileum och andra större händelser på sektionen bör Prylmångleriet i samarbete med ansvariga för händelsen utforma och beställa prylar relaterade till händelsen.
 
+Projekt och nämnder kan ta hjälp av Prylmångleriet för att sälja märken eller motsvarande föremål. Prylmångleriet sköter inköp och övrig administration men kan i samråd med nämnden eller projektet komma överens om övriga lösningar. Nämnden eller projektet bestämmer vem som får köpa märket eller föremålet.
+
 §3.15 Baknämnden
 --------------
 
