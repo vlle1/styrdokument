@@ -149,8 +149,11 @@ Endast för nyligen antagen till Datateknikprogrammet. Medlemskapet gäller frå
 Gästmedlemskap kan tilldelas personer vars utbildning faller under EECS skolan samt är medlemmar i THS och som vill engagera sig i sektionens verksamhet. Gästmedlemskap tilldelas genom beslut av D-rektoratet, där medlemsskapets period samt omfång i sektionens verksamhet är del av beslutet.
 
 Gästmedlemmar har rätt att
+
 - delta med närvaro- och yttrande-rätt på SM
+
 - närvara på DM såvida det inte beslutats om lyckta dörrar
+
 - delta i samtliga aktiviteter som arrangeras av de delar i sektionen som medlemsskapet omfattar
 
 §2.6 Medlemsavgift
@@ -220,7 +223,7 @@ Varje röstberättigad deltagare på SM kan reservera sig mot fattat beslut. Res
 §3.7 Protokoll
 ---------
 
-Vid SM ska diskussionsprotokoll föras av mötessekreterare och justeras av mötesordföranden jämte två av mötet utsedda justerare. Protokoll ska i justerat skick anslås enligt §1.8 inom 14 dagar, samt på begäran
+Vid SM ska diskussionsprotokoll föras av mötessekreterare och justeras av mötesordföranden jämte två av mötet utsedda justerare. Protokoll ska i justerat skick anslås enligt §[1.8] inom 14 dagar, samt på begäran
 tillsändas THS styrelse.
 
 §3.8 Interpellation, motion och proposition
@@ -518,10 +521,11 @@ Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisore
 [2.2]: #2-2-hedersmedlem
 [2.3]: #2-3-alumnimedlem
 [2.4]: #2-4-juniormedlem
+[2.5]: #2-5-gästmedlemskap
 [3.13.1]: #3-13-1-nomineringar
-[3.3]: #3-4-kallelse
+[3.3]: #3-3-kallelse
 [3.10]: #3-9-1-ordinarie-sm
-[3.12]: #3-10-ajournering
-[4.2]: #4-3-d-rektoratsmöte
+[3.12]: #3-12-ajournering
+[4.2]: #4-2-d-rektoratsmöte
 [5]: #5-nämnder
 [8.1]: #8-1-revisorer
