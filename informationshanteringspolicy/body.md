@@ -19,7 +19,7 @@ Dessa rutiner gäller för sektionen och samtliga som engagerar sig inom dess ve
 §1.4 Ansvar
 -----------------------
 
-Styrelsen är personuppgiftsansvarig för sektionen och kan kontaktas pådrek@d.kth.se.
+Styrelsen är personuppgiftsansvarig för sektionen och kan kontaktas på [drek@d.kth.se](mailto:drek@d.kth.se).
 
 §2 Bakgrund
 --------------------------------
