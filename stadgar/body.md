@@ -206,7 +206,7 @@ Kallelse ska innehålla information om en reservtid och lokal där mötet återu
 §3.4 Beslutsmässighet
 ----------------
 
-SM är beslutsmässigt när mötet är behörigt utlyst enligt §[3.3] och minst 10 sektionsmedlemmar är närvarande.
+SM är beslutsmässigt när mötet är behörigt utlyst enligt §[3.3] och minst 17 sektionsmedlemmar är närvarande.
 
 §3.5 Beslut
 ------
