@@ -1137,7 +1137,7 @@ Sångansvarig ska samarbeta med Prylmångleriet vid inköp av sångböcker och m
 
 #### §5.3.12.3 Verksamhet
 
-Sångansvarig ansvarar för att sånger i sångboken och /dev/audio är uppdaterade, samt att nya revisioner av sångboken skapas vid behov. Sångansvarig ska även, vid behov, vara tillgänglig som toastmaster eller kunna tillsätta en lämplig sådan vid sittningar inom sektionen. Sångansvarig ska även hålla i en årlig sittning för att främja sångkulturen på sektionen. Ytterligar ska sångansvarig även sträva för att vara en upplyst resurs för sektionens medlemmar, när det kommer till frågor om sång, sånger, att vara toastmaster och liknande.
+Sångansvarig ansvarar för att sånger i sångboken och /dev/audio är uppdaterade, samt att nya revisioner av sångboken skapas vid behov. Sångansvarig ska även, vid behov, vara tillgänglig som toastmaster eller kunna tillsätta en lämplig sådan vid sittningar inom sektionen. Sångansvarig ska även hålla i en årlig sittning för att främja sångkulturen på sektionen. Ytterligare ska sångansvarig även sträva för att vara en upplyst resurs för sektionens medlemmar, när det kommer till frågor om sång, sånger, att vara toastmaster och liknande.
 
 #### §5.3.12.4 Mandatperiod
 
