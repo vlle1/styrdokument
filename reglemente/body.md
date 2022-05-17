@@ -1125,6 +1125,24 @@ Valberedningens ledamöter bereder val tillsammans med Valberedningens Ordföran
 Tre ledamöter väljs på Val-SM och har läsår som mandatperiod. Ytterligare tre ledamöter
 väljs på Glögg-SM och har kalenderår som mandatperiod.
 
+### §5.3.12 Sångansvarig
+
+#### §5.3.12.1 Ändamål
+
+Sångansvarig ska verka för att sångkulturen inom sektionen lever vidare och ansvarar för Sångboken och /dev/audio samt ser till att dessa kontinuerligt revideras. Sångansvarig ska även vara en resurs för övrig verksamhet på sektionen för att hjälpa till att tillsätta lämpliga toastmasters på sittningar.
+
+#### §5.3.12.2 Organisation
+
+Sångansvarig ska samarbeta med Prylmångleriet vid inköp av sångböcker och med jämlikhetsnämnden för att se till att sånger i sångboken och på /dev/audio är i linje med sektionens jämlikhetspolicy. När sångansvarig anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten. I det fall att posten är vakantsatt är Prylmånglaren ställföreträdande Sångansvarig.
+
+#### §5.3.12.3 Verksamhet
+
+Sångansvarig ansvarar för att sånger i sångboken och /dev/audio är uppdaterade, samt att nya revisioner av sångboken skapas vid behov. Sångansvarig ska även, vid behov, vara tillgänglig som toastmaster eller kunna tillsätta en lämplig sådan vid sittningar inom sektionen. Sångansvarig ska även hålla i en årlig sittning för att främja sångkulturen på sektionen. Ytterligar ska sångansvarig även sträva för att vara en upplyst resurs för sektionens medlemmar, när det kommer till frågor om sång, sånger, att vara toastmaster och liknande.
+
+#### §5.3.12.4 Mandatperiod
+
+Väljs på Val-SM. Har läsår som mandatperiod.
+
 §6 Externa representanter
 ======================
 
