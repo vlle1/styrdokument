@@ -26,7 +26,7 @@ Till varje Sektionsmöte förväntas du som δ-funktionär skriva en rapport om 
 §1.5 Gå på utbildning
 ----------------
 
-Varje termin anordnas det en funktionärsutbildning och en JML-utbildning. Som funktionär är det din skyldighet att gå på båda dessa en gång under din mandatperiod.
+Varje termin anordnas det en funktionärsutbildning och en JML-utbildning. Som funktionär är det din skyldighet att gå på funktionärutbildningen en gång under din mandatperiod såvida du inte redan har gått utbildningen under en tidigare mandatperiod. D-rektoratet har alltid rätt att begära att du går på funktionärsutbildningen under en specifik mandatperiod, vilket då är din skyldighet. Du har en skyldighet att gå på JML-utbildningen en gång under din mandatperiod.
 
 §1.6 D-råd
 -----------------
