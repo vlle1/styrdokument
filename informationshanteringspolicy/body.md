@@ -19,7 +19,7 @@ Dessa rutiner gäller för sektionen och samtliga som engagerar sig inom dess ve
 §1.4 Ansvar
 -----------------------
 
-Styrelsen är personuppgiftsansvarig för sektionen och kan kontaktas på [drek@d.kth.se](mailto:drek@d.kth.se).
+Styrelsen är personuppgiftsansvarig för sektionen och kan kontaktas på [drek@datasektionen.se](mailto:drek@datasektionen.se).
 
 §2 Bakgrund
 --------------------------------
@@ -40,12 +40,12 @@ Genom bestämmelser i högskolelagen och studentkårsförordningenär det i sven
 §3.1 Tillgång till hanterade uppgifter
 --------------------------------
 
-För att få insikt i vilka uppgifter sektionen hanterar om dig kan du alltid begära ut dessa i form av ett registerutdrag. Denna information lämnas ut med angivande av ändamål för hantering av uppgifter, lagringsperiod och var informationen inhämtats från. För att begära ut denna information kan du kontakta sektionens styrelse på drek@d.kth.se. Information ska lämnas ut utan onödigt dröjsmål och inom en månad från mottagen begäran. Om din begäran inte kan fullföljas inom den tiden kommer du informeras om förseningen med en motivering.
+För att få insikt i vilka uppgifter sektionen hanterar om dig kan du alltid begära ut dessa i form av ett registerutdrag. Denna information lämnas ut med angivande av ändamål för hantering av uppgifter, lagringsperiod och var informationen inhämtats från. För att begära ut denna information kan du kontakta sektionens styrelse på drek@datasektionen.se. Information ska lämnas ut utan onödigt dröjsmål och inom en månad från mottagen begäran. Om din begäran inte kan fullföljas inom den tiden kommer du informeras om förseningen med en motivering.
 
 §3.2 Rättelse av hanterade uppgifter
 --------------------------------
 
-I det fall att sektionen hanterar felaktiga uppgifter relaterade till dig har du rätt att begära rättelse av dessa. Du har även rätt att komplettera ofullständiga uppgifter. Om du vill göra detta kan du kontakta sektionens styrelse på drek@d.kth.se.
+I det fall att sektionen hanterar felaktiga uppgifter relaterade till dig har du rätt att begära rättelse av dessa. Du har även rätt att komplettera ofullständiga uppgifter. Om du vill göra detta kan du kontakta sektionens styrelse på drek@datasektionen.se.
 
 §3.3 Borttagning av hanterade uppgifter
 --------------------------------
@@ -58,7 +58,7 @@ Sektionen sparar inte uppgifter längre än vad som är nödvändigt för respek
 * Uppgifter behandlas på ett felaktigt sätt.
 * Uppgifter måste raderas för att uppfylla en rättslig förpliktelse som sektionen omfattas om.
 
-Sektionen kan ha rätt att neka en begäran om borttagning om det finns lagliga grunder som förhindrar omedelbar borttagning eller om uppgifterna är nödvändiga för pågående utredning. I det fallet kommer sektionen istället blockera användning av uppgifterna i andra syften än det som förhindrar borttagning. Om du vill begära att sektionen tar bort uppgifter relaterade till dig kan du kontakta datasektionens styrelse på drek@d.kth.se.
+Sektionen kan ha rätt att neka en begäran om borttagning om det finns lagliga grunder som förhindrar omedelbar borttagning eller om uppgifterna är nödvändiga för pågående utredning. I det fallet kommer sektionen istället blockera användning av uppgifterna i andra syften än det som förhindrar borttagning. Om du vill begära att sektionen tar bort uppgifter relaterade till dig kan du kontakta datasektionens styrelse på drek@datasektionen.se.
 
 §3.4 Anmälan av felaktig hantering
 --------------------------------
