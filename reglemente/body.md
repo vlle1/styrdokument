@@ -288,7 +288,7 @@ Studienämnden skall hålla möte minst en gång per månad under terminstid. M�
 
 Studienämndens dokument skall i så stor utsträckning som möjligt finnas tillgängliga i elektronisk form.
 
-§3.10 GEEK
+§3.10 Ada
 -----------------------
 
 ### §3.10.1 Ändamål
@@ -297,11 +297,11 @@ Nämndens syfte är att främja tjejer och icke-binäras intressen på Datasekti
 
 ### §3.10.2 Organisation
 
-Ordförande för GEEK är Öfvermatronan, som väljs på SM. Övriga medlemmar utses av Öfvermatrona.
+Ada leds av Adas ordförande, som väljs på SM. Övriga medlemmar utses av Adas ordförande.
 
 ### §3.10.3 Verksamhet
 
-GEEK ska verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna middag för alla tjejer och icke-binära två gånger per termin samt anordna en tjejgasque en gång per år. Nämnden ska medverka under mottagningen för att få fler tjejer och icke-binära att känna sig välkomna och även anordna företags/inspirations-events under året. Nämnden ska även varje termin anordna ett event där främst tjejer och icke-binära från Datateknik får chansen att nätverka under avslappnade former.
+Ada ska verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna middag för alla tjejer och icke-binära två gånger per termin samt anordna en tjejgasque en gång per år. Nämnden ska medverka under mottagningen för att få fler tjejer och icke-binära att känna sig välkomna och även anordna företags/inspirations-events under året. Nämnden ska även varje termin anordna ett event där främst tjejer och icke-binära från Datateknik får chansen att nätverka under avslappnade former.
 
 §3.11 DEMON - Datas Eminenta MusikOrganisationsNämnd
 ----------------------------------------------
@@ -807,9 +807,9 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §5.2.10 Öfvermatrona
+### §5.2.10 Adas ordförande
 
-Är ordförande för GEEK.
+Är ordförande för Ada.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
