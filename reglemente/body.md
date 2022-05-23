@@ -301,7 +301,7 @@ Ada leds av Adas ordförande, som väljs på SM. Övriga medlemmar utses av Adas
 
 ### §3.10.3 Verksamhet
 
-Ada ska verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna middag för alla tjejer och icke-binära två gånger per termin samt anordna en tjejgasque en gång per år. Nämnden ska medverka under mottagningen för att få fler tjejer och icke-binära att känna sig välkomna och även anordna företags/inspirations-events under året. Nämnden ska även varje termin anordna ett event där främst tjejer och icke-binära från Datateknik får chansen att nätverka under avslappnade former.
+Nämnden ska verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna flertalet event av olika slag för att uppnå detta, bland annat minst två sittningar per läsår som då endast är ämnade för tjejer och ickebinära. Utöver det bör nämnden även arbeta för att synliggöra behovet av denna och liknande satsningar inom sektionen samt ingenjörsutbildningar på det stora hela.
 
 §3.11 DEMON - Datas Eminenta MusikOrganisationsNämnd
 ----------------------------------------------
