@@ -64,10 +64,10 @@ Det yttersta ansvaret för att policyn efterlevs har Sektionsordförande, Jämli
 * [KTHs uppförandekod för studenter](https://www.kth.se/student/studentliv/studentratt/uppforandekod-for-studenter-1.796562)
 
 ## Kontakt ##
-* Sektionsordförande [ordf@d.kth.se](mailto:ordf@d.kth.se)
-* Jämlikhetsnämndens ordförande [jamlikordf@d.kth.se](mailto:jamlikordf@d.kth.se)
-* D-rektoratet (Konglig Datasektionens styrelse) [drek@d.kth.se](mailto:drek@d.kth.se)
-* Studerandeskyddsombud [sso@d.kth.se](mailto:sso@d.kth.se)
+* Sektionsordförande [ordf@datasektionen.se](mailto:ordf@datasektionen.se)
+* Jämlikhetsnämndens ordförande [jno@datasektionen.se](mailto:jno@datasektionen.se)
+* D-rektoratet (Konglig Datasektionens styrelse) [drek@datasektionen.se](mailto:drek@datasektionen.se)
+* Studerandeskyddsombud [sso@datasektionen.se](mailto:sso@datasektionen.se)
 * THS Studiesocialt [studiesocialt@ths.kth.se](mailto:studiesocialt@ths.kth.se)
 * EECS Kanslichef [marianlu@kth.se](mailto:marianlu@kth.se)
 * KTH Equality Office [equalityoffice@kth.se](mailto:qualityoffice@kth.se)
