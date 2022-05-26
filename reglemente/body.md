@@ -382,7 +382,7 @@ Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna di
 
 ### §3.12.7 Urnval
 
-Vid urnval ska Valberedningen hålla valperiod under minst fem läsdagar direkt innan sektionsmötet. Resultatet av urnvalet skall redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska senast fem dagar i förväg annonseras enligt sektionens informationsspridningspolicy.
+Vid urnval ska Valberedningen hålla valperiod under minst 7 dagar direkt innan sektionsmötet. Resultatet av urnvalet skall redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska senast fem dagar i förväg annonseras enligt sektionens informationsspridningspolicy.
 
 Vid urnval används alternativomröstning. Väljarna rankar kandidaterna, där vakans och blankröst skall vara alternativ som kan rankas. Om ingen av kandidaterna uppnår enkel majoritet blir bottenkandidaten eliminerad, dock ej vakans, och dennes röster blir omfördelade till väljarnas nästahandsval av kandidat. Denna process upprepas tills dess att en kandidat uppnår enkel majoritet, varpå valet skall godkännas av SM enligt stadgarnas §[1.7](../stadgar#1-7-beslutsnivåer).
 
@@ -418,7 +418,7 @@ Valhandlingarna skall publiceras via officiella informationskanaler enligt Stadg
 
 #### §3.12.8.3 Publiceringstid
 
-Valhandlingarna skall inför ordinarie val publiceras senast 5 läsdagar före det SM där valet sker. Inför fyllnadsval och val vid extra SM skall Valhandlingarna i största möjliga mån publiceras senast en (1) läsdag före det SM där valet sker.
+Valhandlingarna skall inför ordinarie val publiceras senast 7 dagar före det SM där valet sker. Inför fyllnadsval och val vid extra SM skall Valhandlingarna i största möjliga mån publiceras senast 1 dag före det SM där valet sker.
 
 #### §3.12.8.4 Sekretessbeläggning
 
