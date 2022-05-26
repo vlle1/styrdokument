@@ -193,7 +193,7 @@ Det åligger SM
 
 D-rektoratet kallar till ordinarie och extra SM.
 
-Kallelse till ordinarie SM ska anslås enligt §[1.8] samt tillsändas THS styrelse och THS sakrevisorer senast 15 läsdagar före mötet för att mötet ska anses vara behörigt utlyst.
+Kallelse till ordinarie SM ska anslås enligt §[1.8] samt tillsändas THS styrelse, THS sakrevisorer och skolans kansli senast 21 dagar före mötet för att mötet ska anses vara behörigt utlyst.
 
 Kallelse till extra SM ska anslås enligt §[1.8] samt tillsändas THS styrelse och THS sakrevisorer senast 8 läsdagar före mötet för att mötet ska anses vara behörigt utlyst.
 
