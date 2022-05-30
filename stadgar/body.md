@@ -79,14 +79,7 @@ Beslut fattas med enkel majoritet om inget annat är föreskrivet.
 
 Information som kan intressera sektionens medlemmar i stort ska göras tillgänglig för samtliga sektionsmedlemmar på det sätt som beskrivs i sektionens informationsspridningspolicy.
 
-§1.9 Definitioner
------------------
-
-### §1.9.1 Läsdag
-
-Definitionen av läsdagar som benämns i sektionens styrdokument är måndag till och med fredag under terminstid, inklusive tentamensperiod, dock ej helgdagar.
-
-§1.10 Firmatecknare
+§1.9 Firmatecknare
 -------------
 
 Ordförande och kassör tecknar firman var för sig. D-rektoratet kan fatta beslut om ytterligare firmatecknare. Ett sådant beslut ska meddelas på nästa sektionsmöte.
@@ -193,15 +186,15 @@ Det åligger SM
 
 D-rektoratet kallar till ordinarie och extra SM.
 
-Kallelse till ordinarie SM ska anslås enligt §[1.8] samt tillsändas THS styrelse och THS sakrevisorer senast 15 läsdagar före mötet för att mötet ska anses vara behörigt utlyst.
+Kallelse till ordinarie SM ska anslås enligt §[1.8] samt tillsändas THS styrelse och THS sakrevisorer senast 21 dagar före mötet för att mötet ska anses vara behörigt utlyst.
 
-Kallelse till extra SM ska anslås enligt §[1.8] samt tillsändas THS styrelse och THS sakrevisorer senast 8 läsdagar före mötet för att mötet ska anses vara behörigt utlyst.
+Kallelse till extra SM ska anslås enligt §[1.8] samt tillsändas THS styrelse och THS sakrevisorer senast 11 dagar före mötet för att mötet ska anses vara behörigt utlyst.
 
-Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 5 läsdagar före mötet.
+Föredragningslista och övriga handlingar ska anslås jämte kallelse senast 7 dagar före mötet.
 
-Om minst 30 sektionsmedlemmar, sektionsrevisor enligt §[8.1] eller THS styrelse så begär hos D-rektoratet, ska extra SM hållas inom 20 läsdagar.
+Om minst 30 sektionsmedlemmar, sektionsrevisor enligt §[8.1] eller THS styrelse så begär hos D-rektoratet, ska extra SM hållas inom 28 dagar.
 
-Kallelse ska innehålla information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §[3.12]. Reservtiden ska vara senast fem (5) läsdagar efter den ordinarie tiden för mötet.
+Kallelse ska innehålla information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §[3.12]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet.
 
 §3.4 Beslutsmässighet
 ----------------
@@ -229,7 +222,7 @@ tillsändas THS styrelse.
 §3.8 Interpellation, motion och proposition
 --------------------------------------
 
-Motion eller interpellation till SM ska vara D-rektoratet tillhanda senast 10 läsdagar före SM. D-rektoratet ska skriftligen besvara samtliga motioner.
+Motion eller interpellation till SM ska vara D-rektoratet tillhanda senast 14 dagar före SM. D-rektoratet ska skriftligen besvara samtliga motioner.
 
 Förslag från D-rektoratet benämns proposition.
 
@@ -240,7 +233,7 @@ D-rektoratet ansvarar för att motioner, interpellationer, svar på dessa samt p
 §3.9 Sammanträden
 ------------
 
-Det ska förflyta minst fem läsdagar mellan två på varandra följande SM. SM får inte hållas under tentamensperiod eller ferie.
+Det ska förflyta minst 7 dagar mellan två på varandra följande SM. SM får inte hållas under tentamensperiod eller ferie.
 
 §3.10 Ordinarie SM
 ------------
@@ -268,19 +261,19 @@ Valberedningen ska tillfråga de nominerade huruvida de vill acceptera nominerin
 
 ### §3.13.2 Ordinarie val
 
-Nomineringslistan ska anslås enligt §[3.13.1] senast 25 läsdagar före SM då ordinarie val sker. Nominering till funktionärspost måste lämnas in senast 15 läsdagar före det SM där valet sker. Nominering till funktionärspost måste accepteras senast 10 läsdagar före det SM där valet sker för att kandidaturen ska vara giltig.
+Nomineringslistan ska anslås enligt §[3.13.1] senast 35 dagar före SM då ordinarie val sker. Nominering till funktionärspost måste lämnas in senast 21 dagar före det SM där valet sker. Nominering till funktionärspost måste accepteras senast 14 dagar före det SM där valet sker för att kandidaturen ska vara giltig.
 
-Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 5 läsdagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 5 läsdagar och därefter ska acceptansstoppet vara 1 dag innan SM. Detta gäller inte sektionsordförande, kassör samt vice sektionsordförande för att möjliggöra urnval.
+Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 7 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 7 dagar och därefter ska acceptansstoppet vara 1 dag innan SM. Detta gäller inte sektionsordförande, kassör samt vice sektionsordförande för att möjliggöra urnval.
 
 ### §3.13.3 Fyllnadsval
 
 Om en funktionärspost blir vakantsatt ska Valberedningen lysa fyllnadsval till nästkommande SM.
 
-Inför fyllnadsval ska nomineringslistan anslås enligt §[3.13.1] senast 15 läsdagar före det SM då fyllnadsvalet sker. Nominering till funktionärspost måste lämnas in senast 5 läsdagar före det SM där fyllnadsvalet sker. Nominering till funktionärspost måste accepteras senast 1 läsdag före det SM där fyllnadsvalet sker för att kandidaturen ska vara giltig.
+Inför fyllnadsval ska nomineringslistan anslås enligt §[3.13.1] senast 21 dagar före det SM då fyllnadsvalet sker. Nominering till funktionärspost måste lämnas in senast 7 dagar före det SM där fyllnadsvalet sker. Nominering till funktionärspost måste accepteras senast 1 dag före det SM där fyllnadsvalet sker för att kandidaturen ska vara giltig.
 
 ### §3.13.4 Val vid extra SM
 
-Nomineringslistan ska anslås enligt §[3.13.1] senast 8 läsdagar före det extra SM då ett val sker. Nominering till funktionärspost måste lämnas in senast en (1) läsdag före det extra SM där valet sker. Nominering till funktionärspost måste accepteras innan öppnandet av det extra SM där valet sker för att kandidaturen ska vara giltig.
+Nomineringslistan ska anslås enligt §[3.13.1] senast 11 dagar före det extra SM då ett val sker. Nominering till funktionärspost måste lämnas in senast 1 dag före det extra SM där valet sker. Nominering till funktionärspost måste accepteras innan öppnandet av det extra SM där valet sker för att kandidaturen ska vara giltig.
 
 ### §3.13.5 Kandidatur under SM
 
@@ -290,7 +283,7 @@ Då ingen kandidat finns till en post under sektionsmöte vartill val till poste
 
 Sektionsordförande, vice sektionsordförande och kassör väljs med urnval i enlighet med reglementet.
 
-Vid urnval under extra-SM ska Valberedningen hålla valperiod under minst 3 läsdagar direkt innan sektionsmötet. Nomineringar för posterna ska lämnas in samt accepteras senast 4 läsdagar innan det extrainsatta sektionsmötet.
+Vid urnval under extra-SM ska Valberedningen hålla valperiod under minst 4 dagar direkt innan sektionsmötet. Nomineringar för posterna ska lämnas in samt accepteras senast 5 dagar innan det extrainsatta sektionsmötet.
 
 Ledamöter och suppleanter till THS Kårfullmäktige väljs i enlighet med THS styrdokument.
 
@@ -329,9 +322,9 @@ Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revis
 
 ### §4.2.1 Kallelse
 
-Styrelsen kallar till D-rektoratsmöte, DM. Kallelsen ska anslås enligt §[1.8] samt skickas med e-post till D-rektoratets ledamöter och sektionens funktionärer senast 5 läsdagar före mötet.
+Styrelsen kallar till D-rektoratsmöte, DM. Kallelsen ska anslås enligt §[1.8] samt skickas med e-post till D-rektoratets ledamöter och sektionens funktionärer senast 7 dagar före mötet.
 
-Föredragningslista och övriga handlingar ska anslås senast 1 läsdag innan DM. Kompletterande handlingar kan skickas ut samma dag som mötet hålls.
+Föredragningslista och övriga handlingar ska anslås senast 1 dag innan DM. Kompletterande handlingar kan skickas ut samma dag som mötet hålls.
 
 ### §4.2.2 Beslut
 
@@ -496,7 +489,7 @@ Det åligger revisorerna
 
 -   att fortlöpande granska sektionens förvaltning och verksamhet
 
--   att senast 5 läsdagar före de SM vid vilka fråga om ansvarsfrihet behandlas anslå revisionberättelse enligt §[1.8] samt inlämna revisionberättelse till D-rektoratet.
+-   att senast 7 dagar före de SM vid vilka fråga om ansvarsfrihet behandlas anslå revisionberättelse enligt §[1.8] samt inlämna revisionberättelse till D-rektoratet.
 
 ### §8.1.3 Revisionssed
 
@@ -512,7 +505,7 @@ Revisorerna är skyldiga att
 §8.2 Verksamhetsberättelse och årsbokslut
 ------------------------------------
 
-Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisorerna senast 15 läsdagar före det SM på vilka de ska granskas, samt anslås enligt §[1.8] senast 10 läsdagar före samma SM.
+Sektionens verksamhetsberättelse och årsbokslut ska överlämnas till revisorerna senast 21 dagar före det SM på vilka de ska granskas, samt anslås enligt §[1.8] senast 14 dagar före samma SM.
 
 [1.1]: #1-1-namn
 [1.6]: #1-6-styrdokument
