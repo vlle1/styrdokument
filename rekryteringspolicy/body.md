@@ -22,9 +22,19 @@ Ansvarig funktionär ska, tillsammans med eventuell rekryterande grupp, efter va
 
 Hur sektionsmedlemmar kan deltaga i nämnd eller projekt bör vara öppet och tydligt annonserat i sektionens officiella informationskanaler när rekrytering pågår. För de nämnder och projekt som inte utgörs av en fast grupp medlemmar bör istället aktiviteter som tar plats annonseras.
 
+1. Valberedningen ska hållas utbildad inom rekrytering och är Sektionens huvudsakliga resurs och auktoritet gällande inval.
+2. Valberedningen ska vara en resurs för nämnder och projekt i deras rekryteringsarbete.
+3. Valberedningen har ett övergripande ansvar för att rekrytering och inval sker på rätt sätt inom Sektionen.
+    - Inför varje inval är ansvarig funktionär skyldig att höra av sig till Valberedningen med en plan för sin invalsprocess.
+    - Om Valberedningen anser det nödvändigt har de rätt att begära ändringar i planen.
+4. Valberedningen har rätten att när som helst begära information om nämnders och projekts inval.
+    - En sådan begäran kan endast utföras med godkännande av Valberedningens Ordförande eller efter majoritetsbeslut inom Valberedningen.
+    - Valberedare som ställt upp i ett inval har inte rätt att rösta om en sådan begäran eller ta del av specifik information om det invalet.
+    - Ansvarig rekryterande funktionär ska alltid kunna motivera sina invalsbeslut.
+    - Denna information ska beläggas med sekretess och enbart sittande valberedning samt revisorer får ta del av den.
+
 ##§5 Intern rekrytering##
 Inom nämnder och projekt kan det finnas interna ansvarsområden som fördelas mellan de engagerade medlemmarna. Exempel på interna ansvarsområden kan vara städskri i METAdorerna och barmästare i DKM. Möjligheten för en medlem att ansvara för ett internt ansvarsområde ska i dessa fall kommuniceras öppet inom nämnden eller projektet.
 
 ##§6 Transparens##
 För att bidra till ökad transparens vid inval och rekrytering ska nämndordförande och projektledare varje SM presentera det underlag som legat till grund för inval och rekryteringar som gjorts sedan föregående SM ifall inval eller rekrytering till nämnden eller projektet skett. Underlaget ska styrka att gjorda rekryteringar och inval gjorts på ett jämlikt och meritbaserat sätt. Detta innebär inte att rekryteringar eller inval ska rättfärdigas på individnivå utan kan i praktiken betyda att man till exempel presenterar vilken erfarenhet och/eller vilka personliga egenskaper man generellt premierat hos kandidater.
-
