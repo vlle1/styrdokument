@@ -582,10 +582,15 @@ D-Dagen leds av D-Dagenansvariga. D-Dagens medlemmar utses av D-Dagenansvariga
 
 ### §3.22.3 Verksamhet
 D-Dagen skall
+
 - göra reklam för arbetsmarknadsdagen gentemot berörda studenter
+
 - hålla och ständigt förbättra kontakten med näringslivet och dess deltagande på arbetsmarknadsdagen
+
 - arrangera en arbetsmarknadsmässa och tillhörande sittning som främjar mötet mellan berörda studenter och näringslivet
+
 - sköta D-Dagens faktureringar
+
 - se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
 
 ### §3.22.4 Avtal
