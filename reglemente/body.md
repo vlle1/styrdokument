@@ -1313,7 +1313,7 @@ Ett SM skall hållas efter Revisions-SM senast 31 maj och benämnas Val-SM.
 §8.1 Hedersdeltat
 ------------
 
-Sektionens finaste förtjänsttecken heter Hedersdeltat och utgörs av en nål med ett delta inramat av en eklövskrans.
+Sektionens finaste förtjänsttecken heter Hedersdeltat och utgörs av en nål eller motsvarande med ett delta inramat av en eklövskrans.
 
 ### §8.1.1 Syfte
 
