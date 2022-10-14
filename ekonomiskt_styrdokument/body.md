@@ -9,19 +9,12 @@ Detta dokument ska fylla två funktioner. Dels ska det ange de för sektionen g�
 §2 Bokföringsplikt
 ---------------
 
-Bokföringspliktiga nämnder såsom DKM, Mottagningen och Prylmångleriet samt vissa projekt sköter sin egen bokföring. Bokföring skall skötas löpande med målsättningen att vara färdig senast nästföljande månadsskifte då det ej är sommarferie. Utöver denna målsättning kan kassören sätta krav på bokföringsdeadlines. Om en nämnd eller ett projekt inte håller utsatta deadlines äger D-rektoratet rätten att applicera restriktioner på dess verksamhet såsom att förbjuda bruk av sektionens alkoholtillstånd.
-Om en nämnd eller ett projekt bokför kontinuerligt och arbetar mot tidsmålet ovan så kan nämnden/projektet belönas. Man kan få extra pengar till bokförings-MUTA/fika/teambuilding från en för ändamålet reserverad budgetpost. Bedömning av detta och utdelning av dessa pengar sker av kassör.
+Bokföringspliktiga nämnder såsom DKM och Mottagningen, samt vissa projekt sköter sin egen bokföring. Bokföring skall skötas löpande med målsättningen att vara färdig senast nästföljande månadsskifte då det ej är sommarferie. Utöver denna målsättning kan kassören sätta krav på bokföringsdeadlines. Om en nämnd eller ett projekt inte håller utsatta deadlines äger D-rektoratet rätten att applicera restriktioner på dess verksamhet såsom att förbjuda bruk av sektionens alkoholtillstånd. Om en nämnd eller ett projekt bokför kontinuerligt och arbetar mot tidsmålet ovan så kan nämnden/projektet belönas. Man kan få extra pengar till fika/teambuilding från en för ändamålet reserverad budgetpost. Bedömning av detta och utdelning av dessa pengar sker av kassör.
 
 §3 Skulder till engagerade
 ---------------
 
 Kvitton för inköp åt sektionen skall senast lämnas in 30 dagar efter då inköpet gjordes för att skulden ska betalas tillbaka, därefter kan den nekas. Skulder ska betalas tillbaka till engagerade inom 5 veckor (ej under ferie) under förutsättning att alla uppgifter är rätt registrerade och det framgår i vilket syfte inköpet är gjort.
-
-§4 Hantering av kontanter
----------------
-
-Sektionen har en handkassa benämnd centralt, denna används av Mottagningen, DKM och sektionen i stort. Överföringar mellan handkassor bokförs av källan för överföringen.
-Summor över 1000 kronor får inte förvaras i sektionslokalen längre än över natten och då endast i låst utrymme. Undantaget från detta är pengar som förvaras i depositionsskåpet.
 
 §5 Lager
 ---------------
@@ -54,11 +47,7 @@ Fakturor utställda av sektionen ska skapas genom av kassör anvisad metod. Näm
 §8 Budget
 ---------------
 
-Budgeten är ett instrument för att försöka planera och förutspå hur verksamhetsårets ekonomi kommer se ut. Budgeten ska följas i den mån som går, men om verkligheten inte tillåter detta så kan man behöva bortse från budgeten. Om en budgetöverträdelse behöver göras måste kassör informeras innan överträdelsen har skett.
-I den rambudget som beslutas om på SM finns posterna: Intäkter, Utgifter, Extern balans och Intern balans. Utöver detta krävs det att det för varje nämnd och projekt på SM kan uppvisas en detaljbudget vars externa och interna balans överensstämmer eller har ett bättre resultat än Extern balans och Intern balans i rambudgeten. Funktionärer som handhar en detaljbudget kan i samråd med sektionsstyrelse revidera denna under eller inför ett verksamhetsår. Sådana ändringar skall redovisas på styrelsemöte (DM).
-
-### §8.1 Förklaring
-Intäkter är nämndens totala intäkter under året. Utgifter är nämndens totala utgifter under året. Extern balans är balansen för de event och budgetposter som gagnar hela sektionen. Exempel på detta är sittningar hela sektionen är bjuden till, inventarier till META, pubar mm. Intern balans är balansen på event och budgetposter som gagnar en liten grupp inom sektionen, såsom styrelsen, DKM, andra nämnder med evenemang där alla inte är inbjudna. Exempel på denna typ av event och budgetposter är mat vid arbete (MUTA), teambuilding, fika, fest, bungyjump, paintball, kryssning, thailandsresa mm. Det är särskilt viktigt att denna kostnad inte överstiger budgeten. Vad som är externt och internt bedöms av instanserna i §A.
+Budgeten är ett instrument för att försöka planera och förutspå hur verksamhetsårets ekonomi kommer se ut. Budgeten ska följas i den mån som går, men om verkligheten inte tillåter detta så kan man behöva bortse från budgeten. Om en budgetöverträdelse behöver göras måste kassör informeras innan överträdelsen har skett. I den rambudget som beslutas om på SM finns posterna: Intäkter, Utgifter. Utöver detta krävs det att det för varje nämnd och projekt på SM kan uppvisas en detaljbudget vars balans överensstämmer, eller har ett bättre resultat än rambudgeten. Funktionärer som handhar en detaljbudget kan i samråd med sektionsstyrelse revidera denna under eller inför ett verksamhetsår. Sådana ändringar skall redovisas på styrelsemöte(DM).
 
 ### §8.2 Skyldighet
 Denna frihet som ges att få forma sin egen budget kräver fortfarande att pengar läggs på rätt saker och de med rätt att betala ut utgifter har rätt att neka utbetalningen om det bryter mot detta dokument. Beslutet kan överklagas enligt nämnda ordning i §A.
