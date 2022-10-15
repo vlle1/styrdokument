@@ -1313,7 +1313,7 @@ Nämnder och funktionärer ska inte planera in evenemang eller andra aktiviteter
 §8.1 Hedersdeltat
 ------------
 
-Sektionens finaste förtjänsttecken heter Hedersdeltat och utgörs av en nål med ett delta inramat av en eklövskrans.
+Sektionens finaste förtjänsttecken heter Hedersdeltat och utgörs av en nål eller motsvarande med ett delta inramat av en eklövskrans.
 
 ### §8.1.1 Syfte
 
