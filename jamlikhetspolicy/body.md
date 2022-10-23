@@ -4,7 +4,7 @@ Jämlikhetspolicy
 Bakgrund
 ---------------
 
-Detta dokument har tagits fram som ett tillägg till THS JML-policy. Detta är för att det ska bli tydligt hur vi jobbar med JML på Konglig Datasektionen. Dokumentet är skapat så att varje paragraf är kopplad till en paragraf i THS-policy och det första stycket i varje paragraf är hela policypunkten. Därefter följer underparagrafer som specificerar hur vi på Konglig Datasektionen arbetar med huvudpunkterna. För begreppsdefinitioner hänvisar vi till [THS JML-policy](http://mit-kth.se/wp-content/uploads/2017/01/THS-JML-policy_reviderad.pdf).
+Detta dokument har tagits fram som ett tillägg till THS JML-policy. Detta är för att det ska bli tydligt hur vi jobbar med JML på Konglig Datasektionen. Dokumentet är skapat så att varje paragraf är kopplad till en paragraf i THS-policy och det första stycket i varje paragraf är hela policypunkten. Därefter följer underparagrafer som specificerar hur vi på Konglig Datasektionen arbetar med huvudpunkterna. För begreppsdefinitioner hänvisar vi till [THS JML-policy](https://drive.google.com/drive/folders/1Yg90ggSuvpP_9858ByotplhSgR01l6aX?usp=sharing).
 
 §1 Inkludering och Mångfald
 ---------------
@@ -83,9 +83,9 @@ Det yttersta ansvaret för att policyn efterlevs har Sektionsordförande, Jämli
 Andra dokument
 ---------------
 
-* [THS JML-policy](http://mit-kth.se/wp-content/uploads/2017/01/THS-JML-policy_reviderad.pdf)
-* [THS Sångpolicy](https://cdn.thskth.se/wp-content/uploads/2016/07/THS_Policy-sang_161215.pdf)
-* [KTHs uppförandekod för studenter](https://www.kth.se/student/studentliv/studentratt/uppforandekod-for-studenter-1.796562)
+* [THS JML-policy](https://drive.google.com/drive/folders/1Yg90ggSuvpP_9858ByotplhSgR01l6aX?usp=sharing)
+* [THS Sångpolicy](https://drive.google.com/drive/folders/15GQMVeBq5oZzjLipTbLVJlSUqhQ4Nf_g?usp=sharing)
+* [KTHs uppförandekod för studenter](https://www.kth.se/student/studier/rattigheter-och-skyldigheter/uppforandekod-1.796562)
 
 Kontakt
 ---------------
