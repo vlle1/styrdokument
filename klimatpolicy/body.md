@@ -4,7 +4,7 @@ Klimatpolicy
 Bakgrund
 ---------------
 
-THS kårfullmäktige har tagit fram ett policydokument för att förenkla klimat- och miljöarbetet inom THS. För att ytterligare hjälpa Datasektionens funktionärer att i sitt vardagliga arbete jobba utifrån den policyn så har det här dokumentet tagits fram. För att se orginaldokumentet, se [THS Policy för Klimat och Miljö](https://cdn.thskth.se/wp-content/uploads/2020/12/ths-policy-fr-klimat-och-milj_1920-kf-06.pdf).
+THS kårfullmäktige har tagit fram ett policydokument för att förenkla klimat- och miljöarbetet inom THS. För att ytterligare hjälpa Datasektionens funktionärer att i sitt vardagliga arbete jobba utifrån den policyn så har det här dokumentet tagits fram. För att se orginaldokumentet, se [THS Policy för Klimat och Miljö](https://drive.google.com/drive/folders/11rBxjveYLkQ-NyzJIg0KEuDqdQrqpYNJ).
 
 §1 Minska nykonsumtion
 ---------------
