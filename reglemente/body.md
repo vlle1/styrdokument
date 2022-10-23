@@ -303,26 +303,26 @@ Ada leds av Adas ordförande, som väljs på SM. Övriga medlemmar utses av Adas
 
 Nämnden ska verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna flertalet event av olika slag för att uppnå detta, bland annat minst två sittningar per läsår som då endast är ämnade för tjejer och ickebinära. Utöver det bör nämnden även arbeta för att synliggöra behovet av denna och liknande satsningar inom sektionen samt ingenjörsutbildningar på det stora hela.
 
-§3.11 DEMON - Datas Eminenta MusikOrganisationsNämnd
+§3.11 DEMON - Data Et Medias OrquesterNämnd
 ----------------------------------------------
 
 ### §3.11.1 Ändamål
 
-Nämndens syfte är att främja musikintresset på sektionen.
+Nämndens syfte är att främja musikintresset på Datasektionen och Sektionen för Medieteknik.
 
 ### §3.11.2 Organisation
 
-Ordförande för DEMON är ÄrkeDEMON som väljs på Val-SM, har läsår som mandatperiod. Övriga medlemmar är intresserade sektionsmedlemmar.
+DEMON leds av ÄrkeDEMON tillsammans med motsvarande funktionär på Sektionen för Medieteknik. ÄrkeDEMON väljs på Glögg-SM och har kalenderår som mandatperiod. Övriga medlemmar är intresserade sektionsmedlemmar.
 
 ### §3.11.3 Verksamhet
 
-DEMON verkar för att främja musikintresset på sektionen genom att anordna regelbundna träffar där man bland annat kan få
+DEMON verkar för att främja musikintresset på Datasektionen och Sektionen för Medieteknik genom att anordna regelbundna träffar där man bland annat kan få
 
--   repa i sektionslokalen
+-   repa i sektionslokalen,
 
--   dela med sig av musik
+-   dela med sig av musik,
 
--   gå på DJ-kurs
+-   gå på DJ-kurs,
 
 -   umgås med likasinnade människor.
 
