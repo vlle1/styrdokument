@@ -571,7 +571,7 @@ Scala ska regelbundet anordna körrep där medlemmar får sjunga tillsammans. N�
 --------------
 
 ### §3.22.1 Ändamål
-D-Dagen har till uppgift att informera näringslivet om sektionen och datateknikprogrammet, att informera sektionens medlemmar om näringslivet, att främja sektionsmedlemmarnas status på arbetsmarknaden samt att inbringa sponsorpengar till sektionen.Detta görs genom en årlig arbetsmarknadsdag och mindre evenemang arrangerade intilliggande mässan.
+D-Dagen har till uppgift att informera näringslivet om sektionen och datateknikprogrammet, att informera sektionens medlemmar om näringslivet, att främja sektionsmedlemmarnas status på arbetsmarknaden samt att inbringa sponsorpengar till sektionen. Detta görs genom en årlig arbetsmarknadsdag och mindre evenemang arrangerade intilliggande mässan.
 
 ### §3.22.2 Organisation
 D-Dagen leds av D-Dagenansvariga. D-Dagens medlemmar utses av D-Dagenansvariga
