@@ -345,7 +345,7 @@ Valberedningen ska uppmuntra till sektionsengagemang och bistå med information 
 
 ### §3.12.4 Utlåtande
 
-Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Valberedningen, Revisorer, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig Öfverdrif, Klubbmästare, Studienämndens Ordförande, Studerandeskyddsom bud, Jämlikhetsnämndens Ordförande, samt Konglig Lokalchef, hädanefter omnämnt som intervjuposter. Det bör vara 2 personer närvarande vid en intervju med en kandidat. Med hjälp av det material som insamlats under intervjun skall Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur.
+Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Valberedningen, Revisorer, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig Öfverdrif, Klubbmästare, Studienämndens Ordförande, Studerandeskyddsombud, Jämlikhetsnämndens Ordförande, samt Konglig Lokalchef, hädanefter omnämnt som intervjuposter. Det bör vara 2 personer närvarande vid en intervju med en kandidat. Med hjälp av det material som insamlats under intervjun skall Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur.
 
 -  redogörelse för kandidatens egenskaper i relation till posten ifråga
 
