@@ -31,7 +31,7 @@ Sektionen har utöver stadgar och reglemente även ett ekonomiskt styrdokument, 
 
 Det åligger samtliga nämnder, funktionärer, samt projektledare att följa de dokument som tas upp i §2. D-rektoratet ansvarar för att samtliga nämnder har en kontaktperson i D-rektoratet, samt att nämndordförande vet vem denna är.
 
-Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd att lämna en avslutad bokföring till revisorerna. Bokföringen skall vara revisorerna tillhanda innan första SM på nästkommande verksamhetsår, om inte starka skäl föreligger däremot.
+Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd att lämna en avslutad bokföring till revisorerna. Bokföringen skall vara revisorerna tillhandahållen innan första ordinarie SM på nästkommande verksamhetsår, om inte starka skäl föreligger däremot.
 
 Det åligger även de ekonomiskt ansvariga att på ett professionellt och strukturerat sätt inventera lager och kassa vid överlämnandet till nästa förtroendevald på posterna. Överlämningsdokumentet skall finnas revisorerna tillhanda tillsammans med bokföringen.
 
