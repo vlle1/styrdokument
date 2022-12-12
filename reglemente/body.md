@@ -1127,6 +1127,24 @@ Sångansvarig ansvarar för att sånger i sångboken och /dev/audio är uppdater
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
+### §5.3.13 Talman
+
+#### §5.3.13.1 Ändamål
+
+Talmannens uppgift är att arrangera samt leda sektionsmötet.
+
+#### §5.3.13.2 Organisation
+
+Ifall posten skulle vara vakantsatt faller ansvaret på D-rektoratet.
+
+#### §5.3.13.3 Verksamhet
+
+Talmannen ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet. Talman är neutral och uttalar inte sin personliga ståndpunkt i sakfrågor.
+
+#### §5.3.13.4 Mandatperiod
+
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+
 §6 Externa representanter
 ======================
 
