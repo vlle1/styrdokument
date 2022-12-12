@@ -499,18 +499,6 @@ Internationella Nämnden skall
 - Fungera som kontaktperson för utländska studenter på sektionerna
 - Genomföra minst två event per termin speciellt för internationella studenter, varav ett ska vara ett välkomstevent direkt efter THS internationella mottagning.
 
-§3.17 Stack Overbowl
---------------
-
-### §3.17.1 Ändamål
-Stack Overbowl ska verka för att sektionsmedlemmarna får tillfälle att bowla tillsammans.
-
-### §3.17.2 Organisation
-Stack Overbowl leds av Kingping. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
-
-### §3.17.3 Verksamhet
-Nämndens verksamhet planeras i början av varje verksamhetsår av Kingpin, i samråd med medlemmarna.
-
 §3.18 Tag Monkeys
 --------------
 
@@ -879,11 +867,6 @@ ISC ska
 -   främja informationsspridning på engelska inom sektionen.
 
 #### §5.2.17.4 Mandatperiod
-
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
-
-### §5.2.18 Kingpin
-Är ordförande för Stack Overbowl.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
