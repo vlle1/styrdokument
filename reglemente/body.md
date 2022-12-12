@@ -736,9 +736,13 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §5.2.1 Jämlikhetsnämndens ordförande
 
+Väljs på Val-SM. Har läsår som mandatperiod.
+
 Är ordförande för Jämlikhetsnämnden.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Har även till uppgift att agera som studerandeskyddsombud för sektionen,
+med fokus på Jämlikhetsfrågor.
+
 
 ### §5.2.2 Klubbmästare
 
@@ -1032,7 +1036,7 @@ Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och lju
 ### §5.3.8 Studerandeskyddsombud
 
 #### §5.3.8.1 Ändamål
-Har till uppgift att agera som studerandeskyddsombud för sektionen. Funktionären skall såväl proaktivt som reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
+Har till uppgift att agera som studerandeskyddsombud för sektionen, med fokus på studiemiljö. Ska såväl proaktivt som reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
 
 #### §5.3.8.2 Verksamhet
 
