@@ -1135,7 +1135,7 @@ Talmannens uppgift är att arrangera samt leda sektionsmötet.
 
 #### §5.3.13.2 Organisation
 
-Ifall posten skulle vara vakantsatt faller ansvaret på D-rektoratet.
+I det fall att posten är vakantsatt faller ansvaret på D-rektoratet.
 
 #### §5.3.13.3 Verksamhet
 
