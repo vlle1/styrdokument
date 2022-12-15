@@ -315,6 +315,8 @@ D-rektoratet består av
 
 -   ledamot för utbildningsfrågor.
 
+-   ledamot för studiemiljö och likabehandling
+
 Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revisorer enligt §[8.1] har närvaro-, yttrande- och yrkanderätt vid DM. Samtliga sektionsmedlemmar har närvaro- och yttranderätt vid DM. Därutöver äger D-rektoratet rätt att adjungera person med närvaro- eller närvaro- och yttranderätt för viss fråga eller helt möte. D-rektoratet äger vidare, om synnerliga skäl föreligger, rätt att besluta om lyckta dörrar, vilket utestänger samtliga utan yrkanderätt.
 
 §4.2 D-rektoratsmöte
