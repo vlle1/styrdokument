@@ -101,7 +101,7 @@ Jämlikhetsnämnden skall värna och upplysa om jämlikhet och mångfald på sek
 
 ### §3.4.2 Organisation
 
-Nämnden leds av Jämlikhetsnämndens ordförande. Styrelseledamoten för utbildningsfrågor skall också ingå i nämnden tillsammans med övriga intresserade sektionsmedlemmar.
+Nämnden leds av Jämlikhetsnämndens ordförande. Styrelseledamoten för Studiemiljö och Likabehandling skall också ingå i nämnden tillsammans med övriga intresserade sektionsmedlemmar.
 
 ### §3.4.3 Verksamhet
 
@@ -703,11 +703,11 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §5.1.7 Ledamot för studiesociala frågor
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Har frågor som rör medlemmarnas psykiska och fysiska miljö som ansvarsområde. Arbetar med att utveckla medlemmarnas studentliv. Dessa ansvarsområden inkluderar att
+Är ledamot i sektionsstyrelsen, D-rektoratet. Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. Arbetar med att utveckla medlemmarnas studentliv. Dessa ansvarsområden inkluderar att
 
 -   strategiskt arbeta med utvecklingen av sektionens studiesociala verksamhet
 
--   verka för en god studiemiljö
+-   verka för att möjliggöra rekreation utanför skoltid
 
 -   upprätthålla och förvalta kontakten med andra sektioner och organisationer
 
@@ -727,6 +727,15 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 -   från styrelsen samordna sektionen i frågor som rör utbildningspåverkan
 
+Väljs på Val-SM. Har läsår som mandatperiod.
+
+### §5.1.9 Ledamot för studiemiljö och likabehandling
+
+Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för alla frågor kopplade till den fysiska och psykiska studiemiljön. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
+
+-   verka för en god studiemiljö
+-   ha en samordnade roll tillsammans med D-UF för de som arbetar med studentinflytande gentemot EECS på sektionen
+-   hantera JML-incidenter och leda kontakten med externa resurser
 -   från styrelsen arbeta med frågor som berör jämlikhet, mångfald och likabehandling på sektionen.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
@@ -1056,7 +1065,7 @@ Studerandeskyddsombudet ska
 
 #### §5.3.8.3 Organisation
 
-I det fall att posten är vakantsatt är Ledamot för studiesociala frågor ställföreträdande studerandeskyddsombud.
+I det fall att posten är vakantsatt är Ledamot för Studiemiljö och likabehandling ställföreträdande studerandeskyddsombud
 
 #### §5.3.8.4 Mandatperiod
 
