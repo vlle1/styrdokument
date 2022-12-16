@@ -14,7 +14,7 @@ Sektionens symbol är den grekiska bokstaven lilla delta. Deltat får icke glöm
 §1.3 Grafisk profil
 --------------
 
-Sektionens grafiska profil regleras av D-rektoratet.
+Sektionens grafiska profil regleras av Kommunikatör och Datas Art Director i samråd med D-rektoratet.
 
 §1.4 Sektionsklädsel
 --------------
