@@ -186,7 +186,7 @@ Det åligger SM
 
 D-rektoratet kallar till ordinarie och extra SM.
 
-Kallelse till ordinarie SM ska anslås enligt §[1.8] samt tillsändas THS styrelse, THS sakrevisorer och skolans kansli senast 21 dagar före mötet för att mötet ska anses vara behörigt utlyst.
+Kallelse till ordinarie SM ska anslås enligt §[1.8] samt tillsändas THS styrelse, THS sakrevisorer och skolans kansli senast 35 dagar före mötet för att mötet ska anses vara behörigt utlyst.
 
 Kallelse till extra SM ska anslås enligt §[1.8] samt tillsändas THS styrelse och THS sakrevisorer senast 11 dagar före mötet för att mötet ska anses vara behörigt utlyst.
 
@@ -314,6 +314,8 @@ D-rektoratet består av
 -   ledamot för studiesociala frågor
 
 -   ledamot för utbildningsfrågor.
+
+-   ledamot för studiemiljö och likabehandling
 
 Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revisorer enligt §[8.1] har närvaro-, yttrande- och yrkanderätt vid DM. Samtliga sektionsmedlemmar har närvaro- och yttranderätt vid DM. Därutöver äger D-rektoratet rätt att adjungera person med närvaro- eller närvaro- och yttranderätt för viss fråga eller helt möte. D-rektoratet äger vidare, om synnerliga skäl föreligger, rätt att besluta om lyckta dörrar, vilket utestänger samtliga utan yrkanderätt.
 

@@ -561,23 +561,6 @@ Internationella Nämnden ska
 
 - Verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
 
-§3.17 Stack Overbowl
---------------
-
-### §3.17.1 Ändamål
-
-Stack Overbowl ska verka för att sektionsmedlemmarna får tillfälle att bowla tillsammans.
-
-### §3.17.2 Organisation
-
-Stack Overbowl leds av Kingping.
-
-Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
-
-### §3.17.3 Verksamhet
-
-Nämndens verksamhet planeras i början av varje verksamhetsår av Kingpin, i samråd med medlemmarna.
-
 §3.18 Tag Monkeys
 --------------
 
@@ -801,11 +784,11 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §5.1.7 Ledamot för studiesociala frågor
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Har frågor som rör medlemmarnas psykiska och fysiska miljö som ansvarsområde. Arbetar med att utveckla medlemmarnas studentliv. Dessa ansvarsområden inkluderar att
+Är ledamot i sektionsstyrelsen, D-rektoratet. Har frågor som rör medlemmarnas rekreationella sektionsaktivitet som ansvar. Arbetar med att utveckla medlemmarnas studentliv. Dessa ansvarsområden inkluderar att
 
 -   strategiskt arbeta med utvecklingen av sektionens studiesociala verksamhet
 
--   verka för en god studiemiljö
+-   verka för att möjliggöra rekreation utanför skoltid
 
 -   upprätthålla och förvalta kontakten med andra sektioner och organisationer
 
@@ -825,6 +808,15 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 -   från styrelsen samordna sektionen i frågor som rör utbildningspåverkan
 
+Väljs på Val-SM. Har läsår som mandatperiod.
+
+### §5.1.9 Ledamot för studiemiljö och likabehandling
+
+Är ledamot i sektionsstyrelsen, D-rektoratet. Har det övergripande ansvaret för alla frågor kopplade till den fysiska och psykiska studiemiljön. Är styrelsens kontakt för frågor som rör dessa områden. Dessa ansvarsområden inkluderar att
+
+-   verka för en god studiemiljö
+-   ha en samordnade roll tillsammans med D-UF för de som arbetar med studentinflytande gentemot EECS på sektionen
+-   hantera JML-incidenter och leda kontakten med externa resurser
 -   från styrelsen arbeta med frågor som berör jämlikhet, mångfald och likabehandling på sektionen.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
@@ -834,9 +826,13 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §5.2.1 Jämlikhetsnämndens ordförande
 
+Väljs på Val-SM. Har läsår som mandatperiod.
+
 Är ordförande för Jämlikhetsnämnden.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Har även till uppgift att agera som studerandeskyddsombud för sektionen,
+med fokus på Jämlikhetsfrågor.
+
 
 ### §5.2.2 Klubbmästare
 
@@ -935,12 +931,6 @@ Internationell Studentkoordinator, ISK, är ordförande för den Internationella
 International Student Coordinator, förkortat ISC, är det engelska namnet.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod
-
-### §5.2.18 Kingpin
-
-Är ordförande för Stack Overbowl.
-
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.2.19 Datas Art Director
 
@@ -1109,13 +1099,15 @@ Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och lju
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-
 ### §5.3.7 Studerandeskyddsombud
 
 #### §5.3.7.1 Ändamål
+
 Har till uppgift att agera som studerandeskyddsombud för sektionen. Funktionären ska såväl proaktivt som reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
 
 #### §5.3.7.2 Organisation
+
+Har till uppgift att agera som studerandeskyddsombud för sektionen, med fokus på studiemiljö. Ska såväl proaktivt som reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
 
 I det fall att posten är vakantsatt är Ledamot för studiesociala frågor ställföreträdande studerandeskyddsombud.
 
@@ -1138,6 +1130,8 @@ Studerandeskyddsombudet ska
 -   arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
 
 #### §5.3.7.4 Mandatperiod
+
+I det fall att posten är vakantsatt är Ledamot för Studiemiljö och likabehandling ställföreträdande studerandeskyddsombud
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
@@ -1209,6 +1203,24 @@ Sångledaren ansvarar för att sånger i sångboken och /dev/audio är uppdatera
 #### §5.3.11.4 Mandatperiod
 
 Väljs på Val-SM. Har läsår som mandatperiod.
+
+### §5.3.13 Talman
+
+#### §5.3.13.1 Ändamål
+
+Talmannens uppgift är att arrangera samt leda sektionsmötet.
+
+#### §5.3.13.2 Organisation
+
+I det fall att posten är vakantsatt faller ansvaret på D-rektoratet.
+
+#### §5.3.13.3 Verksamhet
+
+Talmannen ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet. Talman är neutral och uttalar inte sin personliga ståndpunkt i sakfrågor.
+
+#### §5.3.13.4 Mandatperiod
+
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 §6 Externa representanter
 ======================
