@@ -196,6 +196,8 @@ Om minst 30 sektionsmedlemmar, sektionsrevisor enligt §[8.1] eller THS styrelse
 
 Kallelse ska innehålla information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §[3.12]. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet.
 
+Kallelse ska innehålla tid och lokal för mötet samt även information om en reservtid och lokal där mötet återupptas om ajournering beslutas enligt §3.12. Reservtiden ska vara senast 7 dagar efter den ordinarie tiden för mötet. Ifall lokalen för mötet och/eller lokalen för reservtiden av någon anledning skulle vara otillgänglig vid tiden för mötet kan en ny lokal utses. Information om detta ska då anslås enligt §1.8, samt tillsändas samma instanser som kallelsen senast vid mötets starttid respektive återupptagande.
+
 §3.4 Beslutsmässighet
 ----------------
 
