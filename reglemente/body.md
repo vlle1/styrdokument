@@ -948,7 +948,9 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 Är ordförande för Informationsorganet.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+#### §5.2.21.2 Mandatperiod
+
+Väljs på Val-SM. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
 
 ### §5.2.22 Mulle/Mullerina Schmeck
 
