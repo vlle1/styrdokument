@@ -94,8 +94,7 @@ Informationsorganet, IOR, ska ansvara för sektionens datasystem och drift av de
 
 ### §3.3.2 Organisation
 
-Informationsorganet leds av Systemansvarig, internt
-benämnd Chefsåsnan. Internfunktionärer utses av Systemansvarig.
+Informationsorganet leds av Systemansvarig, internt benämnd Chefsåsnan. Internfunktionärer utses av Systemansvarig.
 
 Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
 
@@ -398,24 +397,15 @@ Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet,
 
 -  annan information som bedöms vara relevant för SM:s beslutsfattande
 
-När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av
-utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd.
-Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar
-tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska
-denne även få ta del av materialet som samlats in under intervjun. Överklaganden kan
-riktas till sektionens revisorer eller högre instanser.
+När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska denne även få ta del av materialet som samlats in under intervjun. Överklaganden kan riktas till sektionens revisorer eller högre instanser.
 
 I de fall där kandidaten inte intervjuas ska Valberedningen tillhandahålla ett frågeformulär. Om kandidaten ger sitt godkännande får intervjun även spelas in.
 
 ### §3.12.5 Lämplighetsbedömning
 
-I de fall där en kandidat intervjuats ska Valberedningen utföra en lämplighetsbedömning. Lämplighetsbedömningen ska utföras på ett av Valberedningens möten och fastslås med enkel majoritet. För att detta möte ska vara beslutsmässigt ska 2/3 av Valberedningens sittande ledamöter närvara, avrundat nedåt. Samtliga medlemmar i Valberedningen ska erbjudas chansen att delta på detta möte. Lämplighetsbedömningen ska
-publiceras i samband med Valberedningens utlåtande om kandidaten.
+I de fall där en kandidat intervjuats ska Valberedningen utföra en lämplighetsbedömning. Lämplighetsbedömningen ska utföras på ett av Valberedningens möten och fastslås med enkel majoritet. För att detta möte ska vara beslutsmässigt ska 2/3 av Valberedningens sittande ledamöter närvara, avrundat nedåt. Samtliga medlemmar i Valberedningen ska erbjudas chansen att delta på detta möte. Lämplighetsbedömningen ska publiceras i samband med Valberedningens utlåtande om kandidaten.
 
-I de fall då en kandidat för en intervjupost inte har deltagit på en intervju utan istället
-svarat på ett frågeformulär ska en lämplighetsbedömning utföras ifall Valberedningen
-anser sig ha tillräckligt med underlag för att utföra en sådan. Om så inte är fallet ska
-anledningen till detta noteras i valhandlingarna.
+I de fall då en kandidat för en intervjupost inte har deltagit på en intervju utan istället svarat på ett frågeformulär ska en lämplighetsbedömning utföras ifall Valberedningen anser sig ha tillräckligt med underlag för att utföra en sådan. Om så inte är fallet ska anledningen till detta noteras i valhandlingarna.
 
 ### §3.12.6 Sekretess
 
@@ -830,9 +820,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 Är ordförande för Jämlikhetsnämnden.
 
-Har även till uppgift att agera som studerandeskyddsombud för sektionen,
-med fokus på Jämlikhetsfrågor.
-
+Har även till uppgift att agera som studerandeskyddsombud för sektionen, med fokus på Jämlikhetsfrågor.
 
 ### §5.2.2 Klubbmästare
 
@@ -1370,11 +1358,7 @@ Sektionslokalen kan endast bokas/hyras av sektionernas styrelser, nämnder och f
 §9.1 Samboendeavtal
 -------
 
-Samboendeavtalet beskriver vilka regler som gäller för sektionslokalen samt förtydligar
-hur verksamheten i lokalen ska hanteras. Avtalet skrivs för att stärka samarbetet mellan
-Konglig Datasektionen och Sektionen för Medieteknik. Samboendeavtalet revideras
-årligen av respektive sektions styrelser i samråd med de sektionslokalsansvariga och
-med synpunkter från de båda sektionernas engagerade.
+Samboendeavtalet beskriver vilka regler som gäller för sektionslokalen samt förtydligar hur verksamheten i lokalen ska hanteras. Avtalet skrivs för att stärka samarbetet mellan Konglig Datasektionen och Sektionen för Medieteknik. Samboendeavtalet revideras årligen av respektive sektions styrelser i samråd med de sektionslokalsansvariga och med synpunkter från de båda sektionernas engagerade.
 
 §10 Stipendier
 ======
