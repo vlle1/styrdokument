@@ -284,6 +284,8 @@ Studienämnden leds av Studienämndens ordförande.
 
 -   årskursrepresentanter för de tre första årskurserna
 
+- Masterrepresentanter för masterprogram tillhörande Datasektionen
+
 -   kursnämndsrepresentanter för alla aktuella kurser
 
 -   övriga intresserade THS-medlemmar.
@@ -306,7 +308,7 @@ Masterrepresentanterna ska dokumentera synpunkter och kritik för uppföljning p
 
 På varje kurs som ingår i sektionens utbildning ska det finnas en eller flera kursnämndsrepresentanter. En kursnämndsrepresentant är en student som går kursen och väljs för en kursomgång i samband med kursstart av Kursansvarig. Om inga kursnämndrepresentanter tillsätts är det Årskursrepresentantens alternativt Masterrepresentantens ansvar att se till att kursnämndsrepresentanter blir tillsatta.
 
-Kursnämndsrepresentanten ska fungera som kontakten mellan Årskursrepresentanter, Kursansvarig och studenterna som läser kursen och därigenom framföra synpunkter och lösa problem som kan dyka upp under kursens gång
+Kursnämndsrepresentanten ska fungera som kontakten mellan Årskursrepresentanter, Kursansvarig och studenterna som läser kursen och därigenom framföra synpunkter och lösa problem som kan dyka upp under kursens gång.
 
 ### §3.9.3 Verksamhet
 
@@ -341,7 +343,7 @@ Ada leds av Adas ordförande.
 
 Nämnden ska verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna flertalet event av olika slag för att uppnå detta, bland annat minst två sittningar per läsår som då endast är ämnade för tjejer och ickebinära.
 
-Utöver det bör Ada även arbeta för att synliggöra behovet av nämnden och liknande satsningar inom sektionen samt ingenjörsutbildningar på det stora hela
+Utöver det bör Ada även arbeta för att synliggöra behovet av nämnden och liknande satsningar inom sektionen samt ingenjörsutbildningar på det stora hela.
 
 §3.11 Data Et Medias OrquesterNämnd
 ----------------------------------------------
@@ -1121,7 +1123,7 @@ Studerandeskyddsombudet ska
 
 #### §5.3.7.4 Mandatperiod
 
-I det fall att posten är vakantsatt är Ledamot för Studiemiljö och likabehandling ställföreträdande studerandeskyddsombud
+I det fall att posten är vakantsatt är Ledamot för Studiemiljö och likabehandling ställföreträdande studerandeskyddsombud.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
@@ -1184,11 +1186,11 @@ Sångledaren ska verka för att sångkulturen inom sektionen lever vidare och an
 
 #### §5.3.11.2 Organisation
 
-Sångledaren ska samarbeta med Prylmångleriet vid inköp av sångböcker och med jämlikhetsnämnden för att se till att sånger i sångboken och på /dev/audio är i linje med sektionens jämlikhetspolicy. När sångledaren anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten. I det fall att posten är vakantsatt är Prylmånglaren ställföreträdande Sångledare.
+Sångledaren ska samarbeta med Prylmångleriet vid inköp av sångböcker och med jämlikhetsnämnden för att se till att sånger i sångboken och på /dev/audio är i linje med sektionens jämlikhetspolicy. När Sångledare anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten. I det fall att posten är vakantsatt är Prylmånglaren ställföreträdande Sångledare.
 
 #### §5.3.11.3 Verksamhet
 
-Sångledaren ansvarar för att sånger i sångboken och /dev/audio är uppdaterade, samt att nya revisioner av sångboken skapas vid behov. Sångledaren ska även, vid behov, vara tillgänglig som toastmaster eller kunna tillsätta en lämplig sådan vid sittningar inom sektionen. Sångledaren ska även hålla i en årlig sittning för att främja sångkulturen på sektionen. Ytterligare ska sångledaren även sträva för att vara en upplyst resurs för sektionens medlemmar, när det kommer till frågor om sång, sånger, att vara toastmaster och liknande.
+Sångledare ansvarar för att sånger i sångboken och /dev/audio är uppdaterade, samt att nya revisioner av sångboken skapas vid behov. Sångledare ska även, vid behov, vara tillgänglig som toastmaster eller kunna tillsätta en lämplig sådan vid sittningar inom sektionen. Sångledare ska även hålla i en årlig sittning för att främja sångkulturen på sektionen. Ytterligare ska Sångledare även sträva för att vara en upplyst resurs för sektionens medlemmar, när det kommer till frågor om sång, sånger, att vara toastmaster och liknande.
 
 #### §5.3.11.4 Mandatperiod
 
