@@ -1097,11 +1097,9 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 #### §5.3.7.1 Ändamål
 
-Har till uppgift att agera som studerandeskyddsombud för sektionen. Funktionären ska såväl proaktivt som reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
+Har till uppgift att agera som studerandeskyddsombud för sektionen, med fokus på studiemiljö. Ska såväl proaktivt som reaktivt verka för att sektions medlemmarnas studiemiljö är så bra som möjligt.
 
 #### §5.3.7.2 Organisation
-
-Har till uppgift att agera som studerandeskyddsombud för sektionen, med fokus på studiemiljö. Ska såväl proaktivt som reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
 
 I det fall att posten är vakantsatt är Ledamot för studiesociala frågor ställföreträdande studerandeskyddsombud.
 
