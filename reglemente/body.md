@@ -539,19 +539,21 @@ Internationella Nämnden leds tillsammans av Internationell Studentkoordinator o
 
 Internationella Nämnden ska
 
-- Samordna sektionens internationella verksamhet. Detta inkluderar att hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna
+- samordna sektionens internationella verksamhet
 
-- Hålla sektionsmedlemmarna informerade om den internationella verksamheten på sektionerna
+- hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna
 
-- Genomföra mottagningsverksamhet för utländska studenter. Detta inkluderar att rekrytera faddrar och koordinera fadderverksamheten
+- hålla sektionsmedlemmarna informerade om den internationella verksamheten på sektionerna
 
-- Fungera som kontaktperson för utländska studenter på sektionerna
+- genomföra mottagningsverksamhet för utländska studenter. Detta inkluderar att rekrytera faddrar och koordinera fadderverksamheten
 
-- Genomföra minst två event per termin speciellt för internationella studenter, varav ett ska vara ett välkomstevent direkt efter THS internationella mottagning
+- fungera som kontaktperson för utländska studenter på sektionerna
 
-- Främja informationsspridning på engelska inom sektionen
+- genomföra minst två event per termin speciellt för internationella studenter, varav ett ska vara ett välkomstevent direkt efter THS internationella mottagning
 
-- Verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
+- främja informationsspridning på engelska inom sektionen
+
+- verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
 
 §3.18 Tag Monkeys
 --------------
@@ -599,12 +601,12 @@ nuvarande sektionsbilen.
 
 Datasladden ansvarar för att
 
--   Administrera bokningar av sektionsbilen
--   Sköta reparation och underhåll av sektionsbilen.
--   Se till att parkeringstillståndet befinner sig i sektionsbilen.
--   Utforma samt upprätthålla regler för sektionsbilen.
--   Se till att körjournalen befinner sig i sektionsbilen och används av alla som brukar den.
--   Sköta annat som hör bilen till.
+-   administrera bokningar av sektionsbilen
+-   sköta reparation och underhåll av sektionsbilen
+-   se till att parkeringstillståndet befinner sig i sektionsbilen
+-   utforma samt upprätthålla regler för sektionsbilen
+-   se till att körjournalen befinner sig i sektionsbilen och används av alla som brukar den
+-   sköta annat som hör bilen till.
 
 §3.21 Scala
 --------------
