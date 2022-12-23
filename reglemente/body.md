@@ -995,17 +995,17 @@ Såväl Kårfullmäktigeledamöter som -suppleanter ska delta på så många sam
 
 ### §5.3.3 Programansvarig student
 
-#### §5.3.4.1 Ändamål
+#### §5.3.3.1 Ändamål
 
 Programansvarig student ansvarar för sektionens utbildningspåverkan på programnivå från studentsidan samt kontakt med KTH och EECS-skolan i utbildningsfrågor.
 
-#### §5.3.4.2 Organisation
+#### §5.3.3.2 Organisation
 
 Programansvarig student bör ha god kunskap om programmets uppbyggnad och kurserna som ingår.
 
 I det fall att posten är vakantsatt är Ledamot för utbildningsfrågor ställföreträdande Programansvarig student.
 
-#### §5.3.4.3 Verksamhet
+#### §5.3.3.3 Verksamhet
 
 Programansvarig student ska
 
@@ -1017,7 +1017,7 @@ Programansvarig student ska
 
 - arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
 
-#### §5.3.4.4 Mandatperiod
+#### §5.3.3.4 Mandatperiod
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
@@ -1061,11 +1061,11 @@ Revisorn väljs på Glögg-SM till sakrevisor för sektionen under ett verksamhe
 
 ### §5.3.5 Sektionshistoriker
 
-#### §5.3.6.1 Ändamål
+#### §5.3.5.1 Ändamål
 
 Sektionshistorikern skall se till att sektionens ärorika historia inte faller i glömska.
 
-#### §5.3.6.2 Verksamhet
+#### §5.3.5.2 Verksamhet
 
 Sektionshistorikern ska
 
@@ -1079,7 +1079,7 @@ Sektionshistorikern ska
 
 Sektionshistorikern har som kunskapskälla tillgång till GUDAR-gruppen, Gamla Uvar på Data med Anrika Redogörelser.
 
-#### §5.3.6.3 Mandatperiod
+#### §5.3.5.3 Mandatperiod
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -1089,7 +1089,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning.
 
-#### §5.3.7.2 Mandatperiod
+#### §5.3.6.2 Mandatperiod
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
@@ -1196,21 +1196,21 @@ Sångledare ansvarar för att sånger i sångboken och /dev/audio är uppdaterad
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §5.3.13 Talman
+### §5.3.12 Talman
 
-#### §5.3.13.1 Ändamål
+#### §5.3.12.1 Ändamål
 
 Talmannens uppgift är att arrangera samt leda sektionsmötet.
 
-#### §5.3.13.2 Organisation
+#### §5.3.12.2 Organisation
 
 I det fall att posten är vakantsatt faller ansvaret på D-rektoratet.
 
-#### §5.3.13.3 Verksamhet
+#### §5.3.12.3 Verksamhet
 
 Talmannen ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet. Talman är neutral och uttalar inte sin personliga ståndpunkt i sakfrågor.
 
-#### §5.3.13.4 Mandatperiod
+#### §5.3.12.4 Mandatperiod
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
