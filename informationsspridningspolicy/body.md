@@ -10,6 +10,7 @@ Detta dokument innehåller riktlinjer för hur informationsspridning inom sektio
 ------------------------------
 
 Sektionens webbplats är dess officiella informationskanal. Därför ska information som kan intressera sektionens medlemmar i stort publiceras där först.
+
 Sådan information som kan presenteras väl i storbildsformat bör även publiceras på TV-skärmarna i sektionslokalen, om sådana finns.
 
 §3 Inofficiella informationskanaler
@@ -42,4 +43,3 @@ Personliga uppgifter och handlingar som kan anses känsliga för enskilda indivi
 -----------------------------
 
 Sektionens informatörer bör vara medvetna om sin närvaro som representanter i officiella och inofficiella sammanhang - exempelvis på Datasektionens hemsida såväl som i kommentarsfält och mailinglistor. Alla medlemmar bör också uppmärksamma att våra digitala forum ska följa KTHs uppförandekod, EECS Hederskodex, Sektionens jämlikhetspolicy samt att grovt opassande beteende i dessa vid behov kan följas upp med tillfällig avstängning från dem. Vid beslut om avstängning av medlem från informationskanal måste revisorerna alltid meddelas.
-
