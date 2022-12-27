@@ -11,13 +11,13 @@ Föreningens namn är Konglig Datasektionen, nedan benämnd sektionen.
 
 Sektionen har till ändamål att främja sina medlemmars studier och vad som har sammanhang med dessa.
 
-Sektionens uppgifter är
+Sektionens uppgifter är att
 
--   att utveckla och upprätthålla kamratskap och sammanhållning bland sektionens medlemmar
+-   utveckla och upprätthålla kamratskap och sammanhållning bland sektionens medlemmar
 
--   att skapa och upprätthålla goda kontakter med närstående personer och organisationer
+-   skapa och upprätthålla goda kontakter med närstående personer och organisationer
 
--   att aktivt motverka diskriminering inom sektionen.
+-   aktivt motverka diskriminering inom sektionen.
 
 §1.3 Säte
 ----------
@@ -82,7 +82,7 @@ Information som kan intressera sektionens medlemmar i stort ska göras tillgäng
 §1.9 Firmatecknare
 -------------
 
-Ordförande och kassör tecknar firman var för sig. D-rektoratet kan fatta beslut om ytterligare firmatecknare. Ett sådant beslut ska meddelas på nästa sektionsmöte.
+Ordförande och Kassör tecknar firman var för sig. D-rektoratet kan fatta beslut om ytterligare firmatecknare. Ett sådant beslut ska meddelas på nästa sektionsmöte.
 
 §2 Medlemskap
 ==========
@@ -97,7 +97,7 @@ Sektionsmedlem är
 
 -   juniormedlem enligt §[2.4].
 
--   Gästmedlem enligt §[2.5].
+-   gästmedlem enligt §[2.5].
 
 §2.1 Ordinarie sektionsmedlem
 ------------------------
@@ -167,19 +167,19 @@ Vid SM har samtliga ordinarie sektionsmedlemmar närvarorätt, yttranderätt, yr
 §3.2 Uppgifter
 ---------
 
-Det åligger SM
+Det åligger SM att
 
--   att fastställa riktlinjer och budget för sektionens verksamhet
+-   fastställa riktlinjer och budget för sektionens verksamhet
 
--   att granska funktionärers och revisorers berättelser samt sektionens ekonomiska redovisning
+-   granska funktionärers och revisorers berättelser samt sektionens ekonomiska redovisning
 
--   att ta ställning till ansvarsfrihet för D-rektoratet
+-   ta ställning till ansvarsfrihet för D-rektoratet
 
--   att om sektionsmedlem så önskar granska protokoll från DM
+-   om sektionsmedlem så önskar granska protokoll från DM
 
--   att välja funktionärer, med undantag av de som har avvikande valprocesser enligt §3.13.6
+-   välja funktionärer, med undantag av de som har avvikande valprocesser enligt §3.13.6
 
--   att genomföra fyllnadsval vid behov, även till poster som vanligen väljs vid urnval.
+-   genomföra fyllnadsval vid behov, även till poster som vanligen väljs vid urnval.
 
 §3.3 Kallelse
 --------
@@ -248,7 +248,7 @@ D-rektoratet kan, själv eller på anmodan, kalla till extra SM. Extra SM kan en
 §3.12 Ajournering
 -----------
 
-Mötets ordförande äger rätt att ajournera mötet till den, enligt §[3.3] i kallelsen angivna reservtiden.
+Mötesordförande äger rätt att ajournera mötet till den, enligt §[3.3] i kallelsen angivna reservtiden.
 
 §3.13 Val
 ------------
@@ -263,7 +263,7 @@ Valberedningen ska tillfråga de nominerade huruvida de vill acceptera nominerin
 
 Nomineringslistan ska anslås enligt §[3.13.1] senast 35 dagar före SM då ordinarie val sker. Nominering till funktionärspost måste lämnas in senast 21 dagar före det SM där valet sker. Nominering till funktionärspost måste accepteras senast 14 dagar före det SM där valet sker för att kandidaturen ska vara giltig.
 
-Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 7 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 7 dagar och därefter ska acceptansstoppet vara 1 dag innan SM. Detta gäller inte sektionsordförande, kassör samt vice sektionsordförande för att möjliggöra urnval.
+Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 7 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 7 dagar och därefter ska acceptansstoppet vara 1 dag innan SM. Detta gäller inte Sektionsordförande, Vice sektionsordförande samt Kassör för att möjliggöra urnval.
 
 ### §3.13.3 Fyllnadsval
 
@@ -281,7 +281,7 @@ Då ingen kandidat finns till en post under sektionsmöte vartill val till poste
 
 ### §3.13.6 Avvikande valprocesser
 
-Sektionsordförande, vice sektionsordförande och kassör väljs med urnval i enlighet med reglementet.
+Sektionsordförande, Vice sektionsordförande och Kassör väljs med urnval i enlighet med reglementet.
 
 Vid urnval under extra-SM ska Valberedningen hålla valperiod under minst 4 dagar direkt innan sektionsmötet. Nomineringar för posterna ska lämnas in samt accepteras senast 5 dagar innan det extrainsatta sektionsmötet.
 
@@ -299,23 +299,23 @@ D-rektoratet är sektionens styrelse och högsta verkställande organ.
 
 D-rektoratet består av
 
--   sektionsordförande
+-   Sektionsordförande
 
--   vice sektionsordförande
+-   Vice sektionsordförande
 
--   kassör
+-   Kassör
 
--   vice kassör
+-   Vice kassör
 
--   sekreterare
+-   Sekreterare
 
--   ledamot för näringsliv och kommunikation
+-   Ledamot för näringsliv och kommunikation
 
--   ledamot för studiesociala frågor
+-   Ledamot för studiesociala frågor
 
--   ledamot för utbildningsfrågor.
+-   Ledamot för utbildningsfrågor.
 
--   ledamot för studiemiljö och likabehandling
+-   Ledamot för studiemiljö och likabehandling
 
 Dessa har närvaro-, yttrande-, yrkande- och rösträtt vid DM. Sektionens revisorer enligt §[8.1] har närvaro-, yttrande- och yrkanderätt vid DM. Samtliga sektionsmedlemmar har närvaro- och yttranderätt vid DM. Därutöver äger D-rektoratet rätt att adjungera person med närvaro- eller närvaro- och yttranderätt för viss fråga eller helt möte. D-rektoratet äger vidare, om synnerliga skäl föreligger, rätt att besluta om lyckta dörrar, vilket utestänger samtliga utan yrkanderätt.
 
@@ -330,7 +330,7 @@ Föredragningslista och övriga handlingar ska anslås senast 1 dag innan DM. Ko
 
 ### §4.2.2 Beslut
 
-DM är beslutsmässigt om minst hälften av dess ledamöter är närvarande, och mötet är behörigt utlyst enligt §[4.2] Vid lika röstetal har mötesordförande utslagsröst.
+DM är beslutsmässigt om minst hälften av dess ledamöter är närvarande, och mötet är behörigt utlyst enligt §[4.2.1] Vid lika röstetal har mötesordförande utslagsröst.
 
 ### §4.2.3 Protokoll
 
@@ -339,42 +339,42 @@ På DM ska protokoll föras. Protokollet ska justeras av mötesordföranden jäm
 §4.3 Uppgifter
 ---------
 
-Det åligger D-rektoratet
+Det åligger D-rektoratet att
 
--   att sköta sektionens löpande förvaltning
+-   sköta sektionens löpande förvaltning
 
--   att verkställa av SM fattade beslut
+-   verkställa av SM fattade beslut
 
--   att i brådskande fall utöva SM:s befogenheter. Sådant fall ska dock alltid prövas på nästkommande SM
+-   i brådskande fall utöva SM:s befogenheter. Sådant fall ska dock alltid prövas på nästkommande SM
 
--   att efter skriftlig begäran från en av SM vald funktionär entlediga densamme
+-   efter skriftlig begäran från en av SM vald funktionär entlediga densamme
 
--   att vid behov och efter majoritetsbeslut vid DM tillförordna intresserad sektionsmedlem till vakant post inom sektionen. D-rektoratet får dock ej tillförordna D-rektoratsledamot, sektionsrevisor, ledamot eller suppleant i kårfullmäktige eller valberedare
+-   vid behov och efter majoritetsbeslut vid DM tillförordna intresserad sektionsmedlem till vakant post inom sektionen. D-rektoratet får dock ej tillförordna D-rektoratsledamot, sektionsrevisor, ledamot eller suppleant i kårfullmäktige eller Valberedare
 
--   att vid behov och efter majoritetsbeslut vid DM utöva ordförandeskap för nämnd i dess ordförandes ställe
+-   vid behov och efter majoritetsbeslut vid DM utöva ordförandeskap för nämnd i dess ordförandes ställe
 
--   att svara för att verksamhetsplan, budget, verksamhetsberättelse och årsbokslut upprättas
+-   svara för att verksamhetsplan, budget, verksamhetsberättelse och årsbokslut upprättas
 
--   att, om så anses nödvändigt, avsätta en av sektionen vald funktionär, dock ej styrelseledamot, revisor, kårfullmäktigesuppleant, kårfullmäktigeledamot eller valberedare. En sådan avsättning ska dock alltid prövas på nästkommande SM
+-    om så anses nödvändigt, avsätta en av sektionen vald funktionär, dock ej styrelseledamot, revisor, Kårfullmäktigesuppleant, Kårfullmäktigeledamot eller Valberedare. En sådan avsättning ska dock alltid prövas på nästkommande SM
 
--   att besluta om uppstartade projekt ska vara bokföringspliktiga.
+-   besluta om uppstartade projekt ska vara bokföringspliktiga.
 
 §4.4 Brådskande ärenden
 ------------------
 
 I brådskande fall äger D-rektoratet rätt att utöva SM:s befogenheter. D-rektoratet äger dock ej därigenom rätt att ändra stadgar eller reglemente eller att bevilja dispens från stadgarna. Beslut enligt detta stycke ska prövas på nästföljande SM.
 
-I brådskande fall äger sektionsordförande rätt att utöva D-rektoratets befogenheter. Sektionsordförande äger dock ej därigenom rätt att utöva SM:s befogenheter enligt första stycket eller att besluta om utgifter överstigande 2000 SEK. Vid beslut enligt detta stycke ska styrelsen samt revisorer informeras och beslutet prövas med 2/3-majoritet på nästföljande DM.
+I brådskande fall äger Sektionsordförande rätt att utöva D-rektoratets befogenheter. Sektionsordförande äger dock ej därigenom rätt att utöva SM:s befogenheter enligt första stycket eller att besluta om utgifter överstigande 2000 SEK. Vid beslut enligt detta stycke ska styrelsen samt revisorer informeras och beslutet prövas med 2/3-majoritet på nästföljande DM.
 
 §4.5 Beslutsrätt gällande mindre summor
 ----------------------------------
 
 D-rektoratet äger rätt ta beslut gällande summor under 30 000 SEK vilket belastar budgetposten Styrelsens dispositionsfond. Vid summor över 10 000 SEK ska revisorerna informeras. Om beslutet inte är brådskande och måste tas innan nästa SM föredras beslut på nästa SM istället.
 
-§4.6 Ställföreträdande sektionsordförande
+§4.6 Ställföreträdande Sektionsordförande
 ------------------------------------
 
-Om sektionsordförande är oförmögen att göra så, utövar vice sektionsordförande dennes befogenheter, och fullgör dennes plikter.
+Om Sektionsordförande är oförmögen att göra så, utövar Vice sektionsordförande dennes befogenheter, och fullgör dennes plikter.
 
 §4.7 Per capsulam-beslut
 -------------------
@@ -475,33 +475,33 @@ SM ska utse två revisorer.
 
 ### §8.1.1 Befogenheter
 
-Revisorerna har rätt
+Revisorerna har rätt att
 
--   att närhelst de så önskar ta del av samtliga räkenskaper, protokoll och andra handlingar
+-   närhelst de så önskar ta del av samtliga räkenskaper, protokoll och andra handlingar
 
--   att begära och erhålla upplysningar rörande verksamhet och förvaltning
+-   begära och erhålla upplysningar rörande verksamhet och förvaltning
 
--   att bevaka samtliga sektionsorgans sammanträden med närvaro-, yttrande- och yrkanderätt
+-   bevaka samtliga sektionsorgans sammanträden med närvaro-, yttrande- och yrkanderätt
 
--   att kalla till möte med samtliga sektionsorgan.
+-   kalla till möte med samtliga sektionsorgan.
 
 ### §8.1.2 Uppgifter
 
-Det åligger revisorerna
+Det åligger revisorerna att
 
--   att fortlöpande granska sektionens förvaltning och verksamhet
+-   fortlöpande granska sektionens förvaltning och verksamhet
 
--   att senast 7 dagar före de SM vid vilka fråga om ansvarsfrihet behandlas anslå revisionberättelse enligt §[1.8] samt inlämna revisionberättelse till D-rektoratet.
+-   senast 7 dagar före de SM vid vilka fråga om ansvarsfrihet behandlas anslå revisionberättelse enligt §[1.8] samt inlämna revisionberättelse till D-rektoratet.
 
 ### §8.1.3 Revisionssed
 
-Revisorerna är skyldiga att
+Revisorerna är skyldiga att inte
 
-- inte vara nämndansvarig för en bokföringspliktig nämnd eller projekt.
+- vara nämndansvarig för en bokföringspliktig nämnd eller projekt.
 
-- inte vara bokföringsansvarig för en nämnd eller projekt.
+- vara bokföringsansvarig för en nämnd eller projekt.
 
-- inte ha något ansvar inom sektionens styrelse eller valberedning.
+- ha något ansvar inom sektionens styrelse eller valberedning.
 
 
 §8.2 Verksamhetsberättelse och årsbokslut
