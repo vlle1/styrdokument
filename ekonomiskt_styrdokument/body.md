@@ -1,23 +1,18 @@
-Ekonomiskt styrdokument
-=============
+# Ekonomiskt styrdokument
 
-§1 Bakgrund
----------------
+## §1 Bakgrund
 
 Detta dokument ska fylla två funktioner. Dels ska det ange de för sektionen gällande regler för hur ekonomin sköts. Dokumentet ska även fungera som en snabb utbildning i hur funktionärer och nämnder ska sköta sin ekonomi och ekonomiska redovisning.
 
-§2 Bokföringsplikt
----------------
+## §2 Bokföringsplikt
 
 Bokföringspliktiga nämnder såsom DKM och Mottagningen, samt vissa projekt sköter sin egen bokföring. Bokföring skall skötas löpande med målsättningen att vara färdig senast nästföljande månadsskifte då det ej är sommarferie. Utöver denna målsättning kan Kassör sätta krav på bokföringsdeadlines. Om en nämnd eller ett projekt inte håller utsatta deadlines äger D-rektoratet rätten att applicera restriktioner på dess verksamhet såsom att förbjuda bruk av sektionens alkoholtillstånd. Om en nämnd eller ett projekt bokför kontinuerligt och arbetar mot tidsmålet ovan så kan nämnden/projektet belönas. Man kan få extra pengar till fika/teambuilding från en för ändamålet reserverad budgetpost. Bedömning av detta och utdelning av dessa pengar sker av kassör.
 
-§3 Skulder till engagerade
----------------
+## §3 Skulder till engagerade
 
 Kvitton för inköp åt sektionen skall senast lämnas in 30 dagar efter då inköpet gjordes för att skulden ska betalas tillbaka, därefter kan den nekas. Skulder ska betalas tillbaka till engagerade inom 5 veckor (ej under ferie) under förutsättning att alla uppgifter är rätt registrerade och det framgår i vilket syfte inköpet är gjort.
 
-§4 Lager
----------------
+## §4 Lager
 
 ### §4.1 Förvaltning av dryckeslager
 
@@ -33,13 +28,11 @@ När en nämnd eller ett projekt har fest och använder sektionens dryckeslager 
 
 Andra lager (till exempel ovvelager) ska inventeras minst en gång per år. Sådan inventering skall komma kassören till handa så snart som möjligt efter att den skett.
 
-§5 Kvitton
----------------
+## §5 Kvitton
 
 Kvitto alternativt faktura ska erbjudas i någon form för all försäljning.
 
-§6 Fakturor
----------------
+## §6 Fakturor
 
 ### §6.1 Inköp via faktura
 
@@ -55,7 +48,7 @@ Fakturor utställda av sektionen ska skapas genom av Kassör anvisad metod. Näm
 
 # §7 Budget
 
-Budgeten är ett instrument för att försöka planera och förutspå hur verksamhetsårets ekonomi kommer se ut. Budgeten ska följas i den mån som går, men om verkligheten inte tillåter detta så kan man behöva bortse från budgeten. Om en budgetöverträdelse behöver göras måste Kassör informeras innan överträdelsen har skett. I den rambudget som beslutas om på SM finns posterna *Intäkter* och *Utgifter*. Utöver detta krävs det att det för varje nämnd och projekt på SM kan uppvisas en detaljbudget vars balans överensstämmer, eller har ett bättre resultat än rambudgeten. Funktionärer som handhar en detaljbudget kan i samråd med sektionsstyrelse revidera denna under eller inför ett verksamhetsår. Sådana ändringar skall redovisas på DM.
+Budgeten är ett instrument för att försöka planera och förutspå hur verksamhetsårets ekonomi kommer se ut. Budgeten ska följas i den mån som går, men om verkligheten inte tillåter detta så kan man behöva bortse från budgeten. Om en budgetöverträdelse behöver göras måste Kassör informeras innan överträdelsen har skett. I den rambudget som beslutas om på SM finns posterna _Intäkter_ och _Utgifter_. Utöver detta krävs det att det för varje nämnd och projekt på SM kan uppvisas en detaljbudget vars balans överensstämmer, eller har ett bättre resultat än rambudgeten. Funktionärer som handhar en detaljbudget kan i samråd med sektionsstyrelse revidera denna under eller inför ett verksamhetsår. Sådana ändringar skall redovisas på DM.
 
 ### §7.1 Skyldighet
 
@@ -65,8 +58,7 @@ Denna frihet som ges att få forma sin egen budget kräver fortfarande att penga
 
 Fikabudget ska gå till inköp av ﬁka på möten eller andra aktiviteter. Det är inte nödvändigt att erbjuda ﬁka på alla aktiviteter, men i de fall då ﬁka erbjuds ska den vara tillgänglig för samtliga deltagare på aktiviteten. Minst två personer ska förväntas närvara på en aktivitet för att pengar ska få tas från ﬁka budgeten. Fika ska ej ersätta måltid.
 
-§8 Fonder
----------------
+## §8 Fonder
 
 Datasektionen har utöver de fonder som regleras i stadgarna två andra fonder, lokalfonden och jubileumsfonden. Hur fonderna får användas regleras nedan, övrigt nyttjande av fondernas medel får beslutas av SM.
 
@@ -88,8 +80,7 @@ Avsättningar till jubileumsfonden bör vara av sådan storlek så att fonden up
 
 50 års jubileumsfondens syfte är att möjliggöra ett större evenemang vid Datasektionens 50 års Jubileum. Denna fond är tänkt att användas tillsammans med Jubileumsfonden (se §8.2 Jubileumsfonden) och utgör därför extra resurser som tillgängliggörs för att fira Datasektionens 50 års jubileum. Dessa pengar får tas i anspråk till jubileumsfirande efter Styrelsebeslut. Då fondens pengar inte är ämnade att användas varje år är det lämpligt att pengarna placeras med detta i åtanke. Avsättningar till 50 års jubileumsfonden bör vara av sådan storlek så att fonden uppnår en summa av 5 prisbasbelopp när 50 års jubileet infaller.
 
-§9 Subventionering av profilkläder
----------------
+## §9 Subventionering av profilkläder
 
 Kläder som tillfaller medlemmen, t.ex. hoodies med personligt tryck eller mottagningströjorna, delas in i två grupper, uniform och profilkläder. Vad som faller in under uniform bedöms av DM och ska motiveras med externa bestämmelser från till exempel Tillståndsenheten eller THS.
 
@@ -97,8 +88,7 @@ Profilkläder får maximalt subventioneras till 50% av inköpspriset. Summan som
 
 Undantaget är ifall man fått profilkläderna sponsrade. Sponsringen dras då av från summan som inte subventioneras av sektionen. Alltså kan hela tröjan betalas genom att man får 50% eller mer av tröjan sponsrad och sektionen går in och betalar resterande belopp från budgeten.
 
-§10 Accesser
----------------
+## §10 Accesser
 
 Firmatecknare och Vice kassör har tillgång till att se och hantera sektionens samtliga tillgångar och transaktioner på banken.
 Revisorer har tillgång till att se sektionens samtliga tillgångar och transaktioner på banken.
@@ -109,8 +99,7 @@ Bokföringsansvariga utsedda av nämndordförande eller projektledare har rätt 
 
 Utöver dessa bankaccesser kan D-rektoratet, genom beslut på DM, besluta om att ge andra personer tillgång till att se och/eller hantera sektionens tillgångar. Firmatecknare äger även rätten att dra in personers accesser, det ska därefter prövas på nästföljande DM.
 
-§11 Attestering
----------------
+## §11 Attestering
 
 Alla utgifter skall attesteras. De som äger rätten att attestera/avslå en utgift är i stigande ordning nämndordförande/projektledare för bokföringspliktiga nämnder/projekt, Vice kassör och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Avslag kan överklagas enligt ordningen i §A. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. fika till en själv).
 
@@ -118,12 +107,10 @@ Utöver dessa rättigheter så kan D-rektoratet i samråd med nämndordförande/
 
 Ett utlägg attesteras genom sektionens system för det syftet. En faktura attesteras antingen genom sektionens system för det syftet eller genom att godkänna fakturabetalningen på banken.
 
-§12 Avtal
----------------
+## §12 Avtal
 
 Avtal kan enligt svensk lag endast undertecknas av firmatecknare eller innehavare av fullmakt. Den som önskar skriva på ett avtal i sektionens namn ska så snabbt som möjligt kontakta firmatecknare för att utreda möjligheten till att göra det. Avtal eller utfärdande av fullmakt beslutas om att skrivas under antingen genom DM, med stöd i styrdokument eller med standardavtal. Avtal kan i undantagsfall skrivas under retroaktivt. Den som med fullmakt skriver under ett avtal i sektionens namn ansvarar för att original omgående kommer firmatecknare tillhanda. Firmatecknare ansvarar för att förvara sektionens alla gällande avtal ordnat och samlat.
 
-§A Beslutsordning
----------------
+## §A Beslutsordning
 
 För att ha en organisation där vi kan ta snabba beslut men samtidigt ha en rättsäkerhet sker bedömning av de delar som refererar till denna paragraf av följande instanser i stigande ordning: Kassör, styrelse, Revisorer, SM. Om man anser att ett beslut är felaktigt kan man alltså överklaga till en högre instans.
