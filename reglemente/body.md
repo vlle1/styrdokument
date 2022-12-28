@@ -282,11 +282,11 @@ Studienämnden leds av Studienämndens ordförande.
 
 -   Ledamot för utbildningsfrågor
 
--   årskursrepresentanter för de tre första årskurserna
+-   Årskursrepresentanter för de tre första årskurserna
 
-- Masterrepresentanter för masterprogram tillhörande Datasektionen
+-    Masterrepresentanter för masterprogram tillhörande Datasektionen
 
--   kursnämndsrepresentanter för alla aktuella kurser
+-   Kursnämndsrepresentanter för alla aktuella kurser
 
 -   övriga intresserade THS-medlemmar.
 
