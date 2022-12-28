@@ -1101,7 +1101,7 @@ Har till uppgift att agera som studerandeskyddsombud för sektionen, med fokus p
 
 #### §5.3.7.2 Organisation
 
-I det fall att posten är vakantsatt är Ledamot för studiesociala frågor ställföreträdande studerandeskyddsombud.
+I det fall att posten är vakantsatt är Ledamot för Studiemiljö och likabehandling ställföreträdande Studerandeskyddsombud.
 
 #### §5.3.7.3 Verksamhet
 
@@ -1122,8 +1122,6 @@ Studerandeskyddsombudet ska
 -   arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
 
 #### §5.3.7.4 Mandatperiod
-
-I det fall att posten är vakantsatt är Ledamot för Studiemiljö och likabehandling ställföreträdande studerandeskyddsombud.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
