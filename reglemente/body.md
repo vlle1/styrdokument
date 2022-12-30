@@ -9,12 +9,12 @@ Sektionens färg är cerise.
 §1.2 Symbol
 ------
 
-Sektionens symbol är den grekiska bokstaven lilla delta. Deltat får icke glömmas. Utformningen och användandet av sektionens symbol regleras närmare av Informationsorganet i samråd med D-rektoratet.
+Sektionens symbol är den grekiska bokstaven lilla delta. Deltat får icke glömmas. Utformningen och användandet av sektionens symbol regleras närmare av D-rektoratet.
 
 §1.3 Grafisk profil
 --------------
 
-Sektionens grafiska profil regleras av Informationsorganet i samråd med D-rektoratet.
+Sektionens grafiska profil regleras av Kommunikatör och Datas Art Director i samråd med D-rektoratet.
 
 §1.4 Sektionsklädsel
 --------------
@@ -31,6 +31,10 @@ Sektionen har utöver stadgar och reglemente även ett ekonomiskt styrdokument, 
 
 Det åligger samtliga nämnder, funktionärer, samt projektledare att följa de dokument som tas upp i §2. D-rektoratet ansvarar för att samtliga nämnder har en kontaktperson i D-rektoratet, samt att nämndordförande vet vem denna är.
 
+Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd att lämna en avslutad bokföring till revisorerna. Bokföringen skall vara revisorerna tillhandahållen innan första ordinarie SM på nästkommande verksamhetsår, om inte starka skäl föreligger däremot.
+
+Det åligger även de ekonomiskt ansvariga att på ett professionellt och strukturerat sätt inventera lager och kassa vid överlämnandet till nästa förtroendevald på posterna. Överlämningsdokumentet skall finnas revisorerna tillhanda tillsammans med bokföringen.
+
 §3.1 Sektionslokalsgruppen
 ---------------------
 
@@ -40,7 +44,11 @@ Sektionslokalsgruppens syfte är att sköta, underhålla och utveckla sektionslo
 
 ### §3.1.2 Organisation
 
-Sektionslokalsgruppen kallas för METAdorerna och leds av sektionslokalsansvariga, en från Sektionen för Medieteknik och en från Konglig Datasektionen, som väljs av respektive sektion. Funktionären från Datateknik kallas för Konglig Lokalchef. Beslut som fattas av de sektionslokalsansvariga måste vara enhälligt, och i de fall som sektionslokalsansvariga är oense åligger det respektive sektionsordförande att komma överens om och besluta i frågan. Sektionslokalsansvariga utser resten av gruppen efter ansökningar och efter att de ansökande en gång har lagat middag åt nämnden, sig själva inkluderade. Sektionslokalsgruppen bestämmer internt organisation och planering.
+Sektionslokalsgruppen leds av Konglig Lokalchef tillsammans med motsvarande ansvarig på Sektionen för Medieteknik och kallas för METAdorerna.
+
+Övriga medlemmar utses av nämndansvariga efter ansökningar samt efter att de ansökande en gång har lagat middag åt nämndens medlemmar, sig själva inkluderade.
+
+Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektionsordförande att komma överens om och besluta i frågan.
 
 ### §3.1.3 Verksamhet
 
@@ -65,49 +73,51 @@ Sektionslokalsgruppen är bokföringspliktigt.
 
 ### §3.2.1 Ändamål
 
-Idrottsnämnden skall verka för att sektionsmedlemmarna får tillfälle att idrotta tillsammans.
+Idrottsnämnden ska verka för att sektionsmedlemmarna får tillfälle att idrotta tillsammans.
 
 ### §3.2.2 Organisation
 
-Idrottsnämnden leds av Sektionsidrottsledaren. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
+Idrottsnämnden leds av Sektionsidrottsledaren.
+
+Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
 
 ### §3.2.3 Verksamhet
 
-Nämndens verksamhet planeras i början av varje verksamhetsår av Sektionsidrottsledaren i samråd med medlemmarna.
+Idrottsnämnden ska annordna olika typer av idrottsaktiviteter för sektionens medlemmar.
 
 §3.3 Informationsorganet
 -------------------
 
 ### §3.3.1 Ändamål
 
-Informationsorganet (förkortat Ior) ansvarar för alla
-sektionens datasystem, inklusive servrar som drivs för sektionens räkning.
+Informationsorganet, IOR, ska ansvara för sektionens datasystem och drift av dessa.
 
 ### §3.3.2 Organisation
 
-Informationsorganet leds av Systemansvarig, internt
-benämnd Chefsåsnan. Internfunktionärer utses av Systemansvarig. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
+Informationsorganet leds av Systemansvarig, internt benämnd Chefsåsnan. Internfunktionärer utses av Systemansvarig.
+
+Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
 
 ### §3.3.3 Verksamhet
 
-Informationsorganet ska underhålla och utveckla sektionens webbplats samt ansvara för drift och underhåll av sektionens datorresurser.
+Informationsorganet ska underhålla och utveckla sektionens datasystem samt ansvara för drift och underhåll av sektionens servrar. Informationsorganet ska även engagera sektionsmedlemmar i underhåll av sektionens system och konstruktionen av nya.
 
 §3.4 Jämlikhetsnämnden
 -----------------
 
 ### §3.4.1 Ändamål
 
-Jämlikhetsnämnden skall värna och upplysa om jämlikhet och mångfald på sektionen.
+Jämlikhetsnämnden ska värna och upplysa om jämlikhet och mångfald på sektionen.
 
 ### §3.4.2 Organisation
 
-Nämnden leds av Jämlikhetsnämndens ordförande. Styrelseledamoten för Studiemiljö och Likabehandling skall också ingå i nämnden tillsammans med övriga intresserade sektionsmedlemmar.
+Jämlikhetsnämnden leds av Jämlikhetsnämndens ordförande. Ledamot för Studiemiljö och Likabehandling ska också ingå i nämnden tillsammans med övriga intresserade sektionsmedlemmar.
 
 ### §3.4.3 Verksamhet
 
-Jämlikhetsnämnden skall
+Jämlikhetsnämnden ska
 
--   göra sektionsmedlemmarna medvetna om vad de har för rättigheter och vart de skall vända sig om de känner sig kränkta eller trakasserade
+-   göra sektionsmedlemmarna medvetna om vad de har för rättigheter och vart de ska vända sig om de känner sig kränkta eller trakasserade
 
 -   arbeta för att öka jämlikheten och mångfalden på sektionen, i dess nämnder och funktionärsposter
 
@@ -117,7 +127,11 @@ Jämlikhetsnämnden skall
 
 -   assistera D-rektoratet med att ta fram, följa upp och vid behov revidera en handlingsplan mot trakasserier
 
--   ha löpande samarbete med KTH, EECS och THS om jämlikhetsarbeten.
+-   ha löpande samarbete med KTH, EECS och THS om jämlikhetsarbeten
+
+-   synliggöra sitt arbete för resten av sektionen
+
+-   annordna en JML-utbildning per termin för sektionens funktionärer.
 
 §3.5 Klubbmästeriet
 --------------
@@ -128,7 +142,9 @@ Klubbmästeriet, DKM, anordnar fester och andra sociala arrangemang för sektion
 
 ### §3.5.2 Organisation
 
-DKM leds av klubbmästaren. Övriga medlemmar utses av DKM.
+DKM leds av klubbmästaren.
+
+Övriga medlemmar utses av DKM.
 
 ### §3.5.3 Verksamhet
 
@@ -140,9 +156,7 @@ Det åligger DKM att
 
 -   skicka ut inbjudningar till övriga sektioner och andra högskolor till av DKM arrangerade evenemang
 
--   i sektionens informationskanaler informera om till klubbmästeriet inkomna inbjudningar till externa evenemang, samt fördela platser och biljetter om antalet aspiranter överstiger platsantalet
-
--   skicka ut skriftlig inbjudan till Vårbalen till medlemmar av sektionens ordnar.
+-   i sektionens informationskanaler informera om till klubbmästeriet inkomna inbjudningar till externa evenemang, samt fördela platser och biljetter om antalet aspiranter överstiger platsantalet.
 
 ### §3.5.4 Bokföringsplikt
 
@@ -153,7 +167,7 @@ DKM är bokföringspliktigt.
 
 ### §3.6.1 Ändamål
 
-Mottagningen har som syfte att ta hand om och roa de nyantagna på till sektionen hörande program, främst på grundnivå men i tillämplig utsträckning även på avancerad nivå, och få dem att lära känna varandra och äldre sektionsmedlemmar. Vidare syftar Mottagningen till att lära nØllan hur KTH, THS och sektionen fungerar och är uppbyggda utifrån ett studentperspektiv. Mottagningen skall även sträva efter att ge nØllan bästa möjliga introduktion till deras studier, till sektionen och till studentliv i allmänhet.
+Mottagningen har som syfte att ta hand om och roa de nyantagna på till sektionen hörande program, främst på grundnivå men i tillämplig utsträckning även på avancerad nivå, och få dem att lära känna varandra och äldre sektionsmedlemmar. Vidare syftar Mottagningen till att lära nØllan hur KTH, THS och sektionen fungerar och är uppbyggda utifrån ett studentperspektiv. Mottagningen ska även sträva efter att ge nØllan bästa möjliga introduktion till deras studier, till sektionen och till studentliv i allmänhet.
 
 ### §3.6.2 Organisation
 
@@ -167,19 +181,25 @@ Mottagningens sammansättning beslutas gemensamt av hela Titel.
 
 ### §3.6.3 Rekrytering till Mottagningen
 
-Titelgruppen skall utlysa platserna i höstens mottagning under våren. Alla sökande skall erbjudas intervjuer innan mottagningens sammansättning fastslås. De sökandes egna prioriteringar av sökta uppdrag inom Mottagningen skall respekteras.
+Titelgruppen ska utlysa platserna i höstens mottagning under våren. Alla sökande ska erbjudas intervjuer innan mottagningens sammansättning fastslås. De sökandes egna prioriteringar av sökta uppdrag inom Mottagningen ska respekteras.
 
 ### §3.6.4 Sektionsordförandes roll
 
-Sektionsordförande är genom KTH:s och THS regler för Mottagningen ytterst ansvarig för denna. Presidiet skall därför löpande hålla sektionsordförande informerad om verksamheten och samråda med denne i frågor av principiell vikt. Sektionsordförande skall å sin sida fungera som stöd åt Presidiet och bistå dem i deras ledningsfunktion.
+Sektionsordförande är genom KTH:s och THS regler för Mottagningen ytterst ansvarig för denna. Presidiet ska därför löpande hålla sektionsordförande informerad om verksamheten och samråda med denne i frågor av principiell vikt. Sektionsordförande ska å sin sida fungera som stöd åt Presidiet och bistå dem i deras ledningsfunktion.
 
-Sektionsordförande äger alltid rätt att fatta de beslut och vidta de åtgärder som denne finner vara nödvändiga för att KTH:s och THS regler för Mottagningen skall upprätthållas. I den mån det är möjligt skall dock samråd alltid ske med Presidiet inför ett sådant beslut eller åtgärd.
+Sektionsordförande äger alltid rätt att fatta de beslut och vidta de åtgärder som denne finner vara nödvändiga för att KTH:s och THS regler för Mottagningen ska upprätthållas. I den mån det är möjligt ska dock samråd alltid ske med Presidiet inför ett sådant beslut eller åtgärd.
 
 Sektionsordförande bör inte inneha något annat uppdrag inom Mottagningen än det som följer av ordförandeskapet.
 
 ### §3.6.5 Verksamhet
 
 Mottagningen ansvarar för att aktiviteter som främjar Mottagningens ändamål anordnas. Dessa aktiviteter avslutas sedan med nØlleGasquen och nØllans eventuella upphöjelse till Ettan. Mottagningen ansvarar för valet av årskursnamn som utfärdas i samband med upphöjelsen. För planeringen av verksamheten ansvarar Titelgruppen.
+
+Mottagningen ska även se till att internationella studenter med anknytning till datateknikprogrammet blir introducerade till sektionen.
+
+De nyantagna studenterna ska även introduceras till sektionens jämlikhet- och likabehandlingsarbete
+
+Mottagningen ska involvera resten av sektionens nämnder, projekt och funktionärer i ett flertal event.
 
 ### §3.6.6 Bokföringsplikt
 
@@ -194,11 +214,13 @@ Näringslivsgruppen har till uppgift att informera näringslivet om sektionen oc
 
 ### §3.7.2 Organisation
 
-Näringslivsgruppen leds av Näringslivsansvarig. Medlemmar utses av Näringslivsansvarig.
+Näringslivsgruppen leds av Näringslivsansvarig.
+
+Medlemmar utses av Näringslivsansvarig.
 
 ### §3.7.3 Verksamhet
 
-Näringslivsgruppen skall
+Näringslivsgruppen ska
 
 -   göra reklam för sektionen och datateknikprogrammet
 
@@ -223,25 +245,23 @@ Näringslivsgruppen är bokföringspliktig.
 
 ### §3.8.1 Ändamål
 
-Qulturnämnden skall verka för att anordna sociala evenemang för intresserade medlemmar ifrån Datasektionen och Mediasektionen. Detta kan innefatta allt från qulturella aktiviteter till aktiviteter som enligt normen klassas som nördiga. QN skall även förse sektionen med sällskapsspel samt ett rikt kulturutbud för sektionens medlemmar att kunna ta del av.
+Qulturnämnden, QN, har som syfte att anordna sociala evenemang med fokus på kultur för intresserade medlemmar ifrån Datasektionen och Sektionen för Medieteknik.
 
 ### §3.8.2 Organisation
 
-Qulturnämnden benämns vanligtvis QN. QN leds av Qulturattachén tillsammans med motsvarande ansvarig funktionär ifrån Mediasektionen. QN har inget medlemsskap utan alla intresserade är välkomna att delta.
+Qulturnämnden leds av Qulturattaché tillsammans med motsvarande ansvarig funktionär från Sektionen för Medieteknik.
+
+Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
 
 ### §3.8.3 Verksamhet
 
-QN bör
+Qulturnämnden bör
 
 -   anordna regelbundna aktiviteter som höjer den kulturella nivån på sektionen, såsom filmvisningar, spelkvällar och andra underhållande aktiviteter
 
 -   tillhandahålla spel och annat kulturellt i sektionslokalen. Detta kan innefatta böcker, uråldriga tv-spel samt brädspel som inte går att finna längre
 
--   årligen utse och Q-märka en person, ett ting, en företeelse eller något annat som man anser är ett gott exempel på god qultur. Q-märkningen skall lämpligen förevigas i form av ett tygmärke.
-
-### §3.8.4 Budget
-
-Qulturnämnden har en gemensam budget, som fastställs av respektive sektionsmöte. Kostnader och intäkter delas ej lika mellan sektionerna utan ansvarig funktionär från varje sektion avgör själv, eller i samråd med ansvarig funktionär ifrån den andra sektionen, hur dennes sektions del av budgeten ska användas.
+-   årligen utse och Q-märka en person, ett ting, en företeelse eller något annat som man anser är ett gott exempel på god qultur. Q-märkningen ska lämpligen förevigas i form av ett tygmärke.
 
 §3.9 Studienämnden
 -------------
@@ -252,17 +272,21 @@ Studienämndens syfte är att bevaka och förbättra utbildningskvaliteten och s
 
 ### §3.9.2 Organisation
 
-Studienämnden leds av Studienämndens ordförande. Övriga medlemmar är
+Studienämnden leds av Studienämndens ordförande.
+
+Övriga medlemmar är
 
 -   Programansvarig student
 
--   studerandeskyddsombud
+-   Studerandeskyddsombud
 
--   ledamot för utbildningsfrågor
+-   Ledamot för utbildningsfrågor
 
--   årskursrepresentanter för de tre första årskurserna
+-   Årskursrepresentanter för de tre första årskurserna
 
--   kursansvariga studenter för alla aktuella kurser
+-    Masterrepresentanter för masterprogram tillhörande Datasektionen
+
+-   Kursnämndsrepresentanter för alla aktuella kurser
 
 -   övriga intresserade THS-medlemmar.
 
@@ -270,15 +294,25 @@ Studienämnden leds av Studienämndens ordförande. Övriga medlemmar är
 
 Årskursrepresentanter väljs av Studienämndens ordförande varje läsår. Årskursrepresentanterna är årskursernas representanter och kontakter i Studienämnden. Årskursrepresentanterna ansvarar för att det finns Kursansvarig student för kurserna årskursen läser och ska samordna och stötta dem i sitt arbete.
 
-#### §3.9.2.2 Kursansvarig student
+Årskursrepresentanterna ska dokumentera synpunkter och kritik för uppföljning på länkmöten och framtida kursomgångar samt bilda sig en uppfattning om hur kursen sett ut tidigare och uppfölja om eventuell tidigare kritik på kursen åtgärdats.
 
-På varje kurs som ingår i sektionens utbildning ska det finnas en från Studienämnden utnämnd Kursansvarig student (KAS). KAS är en student som går kursen och väljs för en kursomgång i samband med kursstart.
+#### §3.9.2.2 Masterrepresentant
 
-KAS ska fungera som kontakten mellan Studienämnden, Kursansvarig och studenterna som läser kursen och därigenom framföra synpunkter och lösa problem som kan dyka upp under kursens gång. Under kursen ska KAS dokumentera synpunkter och kritik för uppföljning på länkmöten och framtida kursomgångar samt bilda sig en uppfattning om hur kursen sett ut tidigare och uppfölja om eventuell tidigare kritik på kursen åtgärdats.
+Masterrepresentanter väljs av Studienämndens ordförande för varje årsgång av masterprogrammet.
+
+Masterrepresentanterna är masterprogrammets representanter och kontakter för deras specifika årsgång i Studienämnden. Masterrepresentanterna ansvarar för att det finns Kursnämndsrepresentanter för kurserna deras årsgång i masterprogrammet läser och ska samordna och stötta dem i sitt arbete.
+
+Masterrepresentanterna ska dokumentera synpunkter och kritik för uppföljning på Masterlänkmöten och framtida kursomgångar samt bilda sig en uppfattning om hur kursen sett ut tidigare och uppfölja om eventuell tidigare kritik på kursen åtgärdats.
+
+#### §3.9.2.3 Kursnämndsrepresentant
+
+På varje kurs som ingår i sektionens utbildning ska det finnas en eller flera kursnämndsrepresentanter. En kursnämndsrepresentant är en student som går kursen och väljs för en kursomgång i samband med kursstart av Kursansvarig. Om inga kursnämndrepresentanter tillsätts är det Årskursrepresentantens alternativt Masterrepresentantens ansvar att se till att kursnämndsrepresentanter blir tillsatta.
+
+Kursnämndsrepresentanten ska fungera som kontakten mellan Årskursrepresentanter, Kursansvarig och studenterna som läser kursen och därigenom framföra synpunkter och lösa problem som kan dyka upp under kursens gång.
 
 ### §3.9.3 Verksamhet
 
-Studienämnden skall hålla möte minst en gång per månad under terminstid. Mötena skall vara öppna för alla THS-medlemmar. Den huvudsakliga verksamheten skall vara att
+Studienämnden ska hålla möte minst en gång per månad under terminstid. Mötena ska vara öppna för alla THS-medlemmar. Den huvudsakliga verksamheten ska vara att
 
 -   både proaktivt och reaktivt inhämta studenternas åsikter om studiesituationen och med dessa som utgångspunkt arbeta för att förbättra kvaliteten på utbildningen
 
@@ -286,43 +320,53 @@ Studienämnden skall hålla möte minst en gång per månad under terminstid. M�
 
 -   bevaka och söka förbättra den fysiska och psykosociala studiemiljön
 
-Studienämndens dokument skall i så stor utsträckning som möjligt finnas tillgängliga i elektronisk form.
+-   verka för att alla sektionsmedlemmar är representerade i Studienämnden
+
+-   verka för att sektionsmedlemmar ska känna till Studienämnden, dess syfte och hur man kan påverka sin utbildning genom den.
+
+Studienämndens dokument ska i så stor utsträckning som möjligt finnas tillgängliga i elektronisk form.
 
 §3.10 Ada
 -----------------------
 
 ### §3.10.1 Ändamål
 
-Nämndens syfte är att främja tjejer och icke-binäras intressen på Datasektionen. 
+Nämndens syfte är att främja tjejer och icke-binäras intressen på Datasektionen.
 
 ### §3.10.2 Organisation
 
-Ada leds av Adas ordförande, som väljs på SM. Övriga medlemmar utses av Adas ordförande.
+Ada leds av Adas ordförande.
+
+Övriga medlemmar utses av Adas ordförande.
 
 ### §3.10.3 Verksamhet
 
-Nämnden ska verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna flertalet event av olika slag för att uppnå detta, bland annat minst två sittningar per läsår som då endast är ämnade för tjejer och ickebinära. Utöver det bör nämnden även arbeta för att synliggöra behovet av denna och liknande satsningar inom sektionen samt ingenjörsutbildningar på det stora hela.
+Nämnden ska verka för att ge tjejer och icke-binära på Datasektionen en möjlighet att nätverka med varandra. Nämnden ska anordna flertalet event av olika slag för att uppnå detta, bland annat minst två sittningar per läsår som då endast är ämnade för tjejer och ickebinära.
 
-§3.11 DEMON - Data Et Medias OrquesterNämnd
+Utöver det bör Ada även arbeta för att synliggöra behovet av nämnden och liknande satsningar inom sektionen samt ingenjörsutbildningar på det stora hela.
+
+§3.11 Data Et Medias OrquesterNämnd
 ----------------------------------------------
 
 ### §3.11.1 Ändamål
 
-Nämndens syfte är att främja musikintresset på Datasektionen och Sektionen för Medieteknik.
+Data Et Medias OrquesterNämnd, DEMON, har som syfte att främja musikintresset på Datasektionen och Sektionen för Medieteknik.
 
 ### §3.11.2 Organisation
 
-DEMON leds av ÄrkeDEMON tillsammans med motsvarande funktionär på Sektionen för Medieteknik. ÄrkeDEMON väljs på Glögg-SM och har kalenderår som mandatperiod. Övriga medlemmar är intresserade sektionsmedlemmar.
+DEMON leds av ÄrkeDEMON tillsammans med motsvarande funktionär på Sektionen för Medieteknik.
+
+Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
 
 ### §3.11.3 Verksamhet
 
 DEMON verkar för att främja musikintresset på Datasektionen och Sektionen för Medieteknik genom att anordna regelbundna träffar där man bland annat kan få
 
--   repa i sektionslokalen,
+-   repa i sektionslokalen
 
--   dela med sig av musik,
+-   dela med sig av musik
 
--   gå på DJ-kurs,
+-   gå på DJ-kurs
 
 -   umgås med likasinnade människor.
 
@@ -341,11 +385,13 @@ Valberedningen leds av Valberedningens Ordförande. Valberedningen består av Or
 
 ### §3.12.3 Verksamhet
 
-Valberedningen ska uppmuntra till sektionsengagemang och bistå med information och vägledning om detta bland sektionens medlemmar. Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. Om en kandidat tackar ja skall Valberedningen informera denne om valprocessen.
+Valberedningen ska uppmuntra till sektionsengagemang och bistå med information och vägledning om detta bland sektionens medlemmar. Valberedningen ska utlysa samtliga val och erbjuda samtliga sektionsmedlemmar möjlighet att nominera och nomineras till de poster som utlysts. Om en kandidat tackar ja ska Valberedningen informera denne om valprocessen.
+
+Valberedningen ska även annordna ett event per termin vars syfte är att skapa insyn i funktionärer och organs verksamhet för sektionens medlemmar.
 
 ### §3.12.4 Utlåtande
 
-Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Valberedningen, Revisorer, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig Öfverdrif, Klubbmästare, Studienämndens Ordförande, Studerandeskyddsombud, Jämlikhetsnämndens Ordförande, samt Konglig Lokalchef, hädanefter omnämnt som intervjuposter. Det bör vara 2 personer närvarande vid en intervju med en kandidat. Med hjälp av det material som insamlats under intervjun skall Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur.
+Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet, Valberedningen, Revisor, Näringslivsansvarig, D-Dagenansvarig, Storasyskon, Konglig Öfverdrif, Klubbmästare, Studienämndens ordförande, Studerandeskyddsombud, Jämlikhetsnämndens ordförande, samt Konglig Lokalchef, hädanefter benämnda intervjuposter. Det bör vara 2 personer närvarande vid en intervju med en kandidat. Med hjälp av det material som insamlats under intervjun ska Valberedningen formulera ett skriftligt, objektivt utlåtande om kandidatens kandidatur.
 
 -  redogörelse för kandidatens egenskaper i relation till posten ifråga
 
@@ -353,38 +399,29 @@ Det bör hållas intervjuer med samtliga kandidater som sökt till D-rektoratet,
 
 -  annan information som bedöms vara relevant för SM:s beslutsfattande
 
-När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av
-utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd.
-Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar
-tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska
-denne även få ta del av materialet som samlats in under intervjun. Överklaganden kan
-riktas till sektionens revisorer eller högre instanser.
+När detta utlåtande är formulerat ska den kandidat som utlåtandet gäller få ta del av utlåtandet, och ges tillfälle att påpeka till exempel stavfel, tolkningsfel och missförstånd. Däremot behövs inte kandidatens godkännande för publicering. Om kandidaten drar tillbaka sin kandidatur kommer utlåtandet inte publiceras. Om kandidaten vill ska denne även få ta del av materialet som samlats in under intervjun. Överklaganden kan riktas till sektionens revisorer eller högre instanser.
 
 I de fall där kandidaten inte intervjuas ska Valberedningen tillhandahålla ett frågeformulär. Om kandidaten ger sitt godkännande får intervjun även spelas in.
 
 ### §3.12.5 Lämplighetsbedömning
 
-I de fall där en kandidat intervjuats ska Valberedningen utföra en lämplighetsbedömning. Lämplighetsbedömningen ska utföras på ett av Valberedningens möten och fastslås med enkel majoritet. För att detta möte ska vara beslutsmässigt ska 2/3 av Valberedningens sittande ledamöter närvara, avrundat nedåt. Samtliga medlemmar i Valberedningen ska erbjudas chansen att delta på detta möte. Lämplighetsbedömningen ska
-publiceras i samband med Valberedningens utlåtande om kandidaten.
+I de fall där en kandidat intervjuats ska Valberedningen utföra en lämplighetsbedömning. Lämplighetsbedömningen ska utföras på ett av Valberedningens möten och fastslås med enkel majoritet. För att detta möte ska vara beslutsmässigt ska 2/3 av Valberedningens sittande ledamöter närvara, avrundat nedåt. Samtliga medlemmar i Valberedningen ska erbjudas chansen att delta på detta möte. Lämplighetsbedömningen ska publiceras i samband med Valberedningens utlåtande om kandidaten.
 
-I de fall då en kandidat för en intervjupost inte har deltagit på en intervju utan istället
-svarat på ett frågeformulär ska en lämplighetsbedömning utföras ifall Valberedningen
-anser sig ha tillräckligt med underlag för att utföra en sådan. Om så inte är fallet ska
-anledningen till detta noteras i valhandlingarna.
+I de fall då en kandidat för en intervjupost inte har deltagit på en intervju utan istället svarat på ett frågeformulär ska en lämplighetsbedömning utföras ifall Valberedningen anser sig ha tillräckligt med underlag för att utföra en sådan. Om så inte är fallet ska anledningen till detta noteras i valhandlingarna.
 
 ### §3.12.6 Sekretess
 
-Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som Valberedningen har inför formulerandet av skriftliga utlåtanden skall beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i Valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom den valberedning som är inblandad i valprocessen, den intervjuade kandidaten och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
+Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna diskussioner som Valberedningen har inför formulerandet av skriftliga utlåtanden ska beläggas med sekretess. Endast valberedare och revisorer får närvara vid dessa interna diskussioner. Detta är till för att skydda de som är med i Valberedningen, de kandidater som diskuteras och valprocessen som helhet. Det innebär att det som är sekretessbelagt kommer hållas hemligt från alla, i all framtid, utom den valberedning som är inblandad i valprocessen, den intervjuade kandidaten och revisorerna. Ingen annan får ta del av detta, exempelvis D-rektoratet och framtida valberedare.
 
 ### §3.12.7 Urnval
 
-Vid urnval ska Valberedningen hålla valperiod under minst 7 dagar direkt innan sektionsmötet. Resultatet av urnvalet skall redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska senast fem dagar i förväg annonseras enligt sektionens informationsspridningspolicy.
+Vid urnval ska Valberedningen hålla valperiod under minst 7 dagar direkt innan sektionsmötet. Resultatet av urnvalet ska redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska senast fem dagar i förväg annonseras enligt sektionens informationsspridningspolicy.
 
-Vid urnval används alternativomröstning. Väljarna rankar kandidaterna, där vakans och blankröst skall vara alternativ som kan rankas. Om ingen av kandidaterna uppnår enkel majoritet blir bottenkandidaten eliminerad, dock ej vakans, och dennes röster blir omfördelade till väljarnas nästahandsval av kandidat. Denna process upprepas tills dess att en kandidat uppnår enkel majoritet, varpå valet skall godkännas av SM enligt stadgarnas §[1.7](../stadgar#1-7-beslutsnivåer).
+Vid urnval används alternativomröstning. Väljarna rankar kandidaterna, där vakans och blankröst ska vara alternativ som kan rankas. Om ingen av kandidaterna uppnår enkel majoritet blir bottenkandidaten eliminerad, dock ej vakans, och dennes röster blir omfördelade till väljarnas nästahandsval av kandidat. Denna process upprepas tills dess att en kandidat uppnår enkel majoritet, varpå valet ska godkännas av SM enligt stadgarnas §[1.7](../stadgar#1-7-beslutsnivåer).
 
 ### §3.12.8 Valhandlingar
 
-Valhandlingarna är det dokument som sammanställs och publiceras av Valberedningen enligt följande paragrafer. Valhandlingarna skall destrueras efter det SM där valet sker.
+Valhandlingarna är det dokument som sammanställs och publiceras av Valberedningen enligt följande paragrafer. Valhandlingarna ska destrueras efter det SM där valet sker.
 
 #### §3.12.8.1 Innehåll
 
@@ -404,40 +441,40 @@ Valhandlingarna ska innehålla
 
 - samtliga svar från de frågeformulär som kandidaterna har fått svara på
 
-- samtliga lämplighetsbedömningar som utförts
+- samtliga lämplighetsbedömningar som utförts.
 
-Då urnval anordnats ska även information om hur urnvalets röstprocess gått till inkluderas. 
+Då urnval anordnats ska även information om hur urnvalets röstprocess gått till inkluderas.
 
 #### §3.12.8.2 Publiceringsplats
 
-Valhandlingarna skall publiceras via officiella informationskanaler enligt Stadgarnas §1.8.
+Valhandlingarna ska publiceras via officiella informationskanaler enligt Stadgarnas §1.8.
 
 #### §3.12.8.3 Publiceringstid
 
-Valhandlingarna skall inför ordinarie val publiceras senast 7 dagar före det SM där valet sker. Inför fyllnadsval och val vid extra SM skall Valhandlingarna i största möjliga mån publiceras senast 1 dag före det SM där valet sker.
+Valhandlingarna ska inför ordinarie val publiceras senast 7 dagar före det SM där valet sker. Inför fyllnadsval och val vid extra SM ska Valhandlingarna i största möjliga mån publiceras senast 1 dag före det SM där valet sker.
 
 #### §3.12.8.4 Sekretessbeläggning
 
-Valhandlingarna skall beläggas med sekretess om någon av kandidaterna, någon av Valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att Valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM där valet i fråga sker.
+Valhandlingarna ska beläggas med sekretess om någon av kandidaterna, någon av Valberedningens ledamöter, Valberedningens ordförande eller någon av Revisorerna begär det. Sekretessbeläggningen innebär att Valhandlingarna endast blir tillgängliga till personer som har närvarorätt på SM där valet i fråga sker.
 
 §3.13 Datasektionens E-Sports Community
 ---------------------------------
 
 ### §3.13.1 Ändamål
 
-Datasektionens E-Sports Community, DESC, ansvarar för att stilla sektionens medlemmars törst efter ett rikt utbud av e-sportsevenemang.
+Datasektionens E-Sports Community, DESC, syfte är att släcka Sektionens datorspels- och e-sportstörst.
 
 ### §3.13.2 Organisation
 
-DESC leds av Desctopen. Övriga medlemmar är intresserade sektionsmedlemmar.
+Datasektionens E-Sports Community leds av DESCtop.
+
+Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
 
 ### §3.13.3 Verksamhet
 
-DESC bör
+Datasektionens E-Sports Community bör
 
 -   anordna ett flertal e-sportsevenemang per kalenderår, såsom hemmakommenterade barcrafts, tävlings-LAN eller nybörjarevenemang
-
--   tillhandahålla en godtycklig mängd spelarkonton i ledande e-sporter
 
 -   samarbeta med utomstående företag och/eller organisationer i syfte att sektionens medlemmar ska få utöva e-sport på en högre nivå
 
@@ -452,15 +489,17 @@ Prylmångleriets ändamål är att förse sektionens medlemmar med balla prylar,
 
 ### §3.14.2 Organisation
 
-Prylmångleriet leds av Prylmånglaren. Övriga medlemmar utses av Prylmånglaren från intresserade sektionsmedlemmar.
+Prylmångleriet leds av Prylmånglaren.
+
+Övriga medlemmar utses av Prylmånglaren från intresserade sektionsmedlemmar.
 
 ### §3.14.3 Verksamhet
 
-Prylmångleriet skall kontinuerligt se till att det finns prylar och dylikt till hands. Om något skulle ta slut skall det, om efterfrågan finns, beställas nytt.
+Prylmångleriet ska kontinuerligt se till att det finns prylar och dylikt till hands. Om något skulle ta slut ska det, om efterfrågan finns, beställas nytt.
 
-Prylmångleriet skall regelbundet ordna tillfällen där sektionens medlemmar kan köpa prylar. Sådana tillfällen skall ordnas inför större fester och evenemang.
+Prylmångleriet ska regelbundet ordna tillfällen där sektionens medlemmar kan köpa prylar. Sådana tillfällen ska ordnas inför större fester och evenemang.
 
-Prylmångleriet skall under Mottagningen göra sig synlig bland nØllan och arrangera tillfällen då nØllan får prova overaller. Prylmånglaren har som ansvar att överse införskaffandet av ettans overaller. Prylmångleriet skall också hjälpa ettan att utforma och beställa årskursmärken.
+Prylmångleriet ska under Mottagningen göra sig synlig bland nØllan och arrangera tillfällen då nØllan får prova overaller. Prylmånglaren har som ansvar att överse införskaffandet av ettans overaller. Prylmångleriet ska också hjälpa ettan att utforma och beställa årskursmärken.
 
 Vid jubileum och andra större händelser på sektionen bör Prylmångleriet i samarbete med ansvariga för händelsen utforma och beställa prylar relaterade till händelsen.
 
@@ -471,101 +510,135 @@ Projekt och nämnder kan ta hjälp av Prylmångleriet för att sälja märken el
 
 ### §3.15.1 Ändamål
 
-Baknämndens syfte är att minska sektionens medlemmars sötsug samt bredda varianten av sötsaker som förtärs på sektionen.
+Baknämndens syfte är att ge sektionsmedlemmar möjligheten att utveckla sina färdigheter inom bakning samt att förse Sektionens medlemmar med bakverk.
 
 ### §3.15.2 Organisation
 
-Ordförande för Baknämnden är Bakis. Övriga medlemmar är sektionsmedlemmar och utses av Bakis.
+Ordförande för Baknämnden är Bakis.
+
+Övriga medlemmar är sektionsmedlemmar och utses av Bakis.
 
 ### §3.15.3 Verksamhet
 
-Baknämnden skall förse sina medlemmar med möjligheter att utöva och utveckla sina färdigheter inom bakning. Nämnden skall eftersträva att under sektionsmöten kunna bjuda på fika, en tjänst som även skall vara öppen för övriga nämnder på sektionen, så att de när tillfälle ges kan beställa bakverk av Baknämnden. Vidare skall nämndens recept dokumenteras så att kommande årgångar skall kunna ta del av dem.
+Baknämnden ska under sektionsmöten bjuda på fika till sötsugna sektionsmedlemmar. Andra delar av Sektionen ska ha möjlighet att samarbeta med Baknämnden om fikabehov finns. Vidare ska nämndens recept dokumenteras så att kommande årgångar ska kunna ta del av dem.
 
 §3.16 Internationella Nämnden
 --------------
 
 ### §3.16.1 Ändamål
-Den Internationella Nämnden, på engelska the International Group, är en delad nämnd mellan Datasektionen och Sektionen för Medieteknik och skall verka för att främja internationellt utbyte på sektionerna och ansvarar för mottagningen av utländska studenter.
+
+Internationella Nämnden, på engelska the International Group, är en delad nämnd mellan Datasektionen och Sektionen för Medieteknik och ska verka för att främja internationellt utbyte på sektionerna och ansvarar för mottagningen av utländska studenter.
 
 ### §3.16.2 Organisation
-Internationella Nämnden leds tillsammans av Internationell Studentkoordinator och motsvarande på Sektionen för Medieteknik. Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektionsordförande att komma överens om och besluta i frågan. Övriga medlemmar är alla intresserade medlemmar.
+
+Internationella Nämnden leds tillsammans av Internationell Studentkoordinator och motsvarande på Sektionen för Medieteknik. Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektionsordförande att komma överens om och besluta i frågan.
+
+Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
 
 ### §3.16.3 Verksamhet
-Internationella Nämnden skall
 
-- Samordna sektionens internationella verksamhet. Detta inkluderar att hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna.
-- Hålla sektionsmedlemmarna informerade om internationell verksamhet på sektionerna
-- Genomföra mottagningsverksamhet för utländska studenter. Detta inkluderar att rekrytera faddrar och koordinera fadderverksamheten
-- Fungera som kontaktperson för utländska studenter på sektionerna
-- Genomföra minst två event per termin speciellt för internationella studenter, varav ett ska vara ett välkomstevent direkt efter THS internationella mottagning.
+Internationella Nämnden ska
+
+- samordna sektionens internationella verksamhet
+
+- hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna
+
+- hålla sektionsmedlemmarna informerade om den internationella verksamheten på sektionerna
+
+- genomföra mottagningsverksamhet för utländska studenter. Detta inkluderar att rekrytera faddrar och koordinera fadderverksamheten
+
+- fungera som kontaktperson för utländska studenter på sektionerna
+
+- genomföra minst två event per termin speciellt för internationella studenter, varav ett ska vara ett välkomstevent direkt efter THS internationella mottagning
+
+- främja informationsspridning på engelska inom sektionen
+
+- verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
 
 §3.18 Tag Monkeys
 --------------
 
 ### §3.18.1 Ändamål
-Tag Monkeys ansvarar för sektionens grafiska utveckling och arbete.
+
+Tag Monkeys ansvarar för sektionens grafiska utveckling och arbete samt att det finns möjlighet för sektionsmedlemmar att engagera sig inom det.
 
 ### §3.18.2 Organisation
+
 Tag Monkeys leds av Datas Art Director. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
 
 ### §3.18.3 Verksamhet
-Tag Monkeys ska fortlöpande arbeta med sektionens grafisk profil och bistå annan sektionsverksamhet som kräver grafiska resurser såsom logotyper eller märken. Tag Monkeys ska även engagera sektionens medlemmar kring grafisk utveckling.
+
+Tag Monkeys ska regelbundet arrangera aktiviteter med fokus på konst och design samt ge möjlighet för sektionsmedlemmar att fördjupa sig inom det. Tag Monkeys ska även synliggöra sektionens funktionärer i sektionslokalen.
 
 §3.19 Redaqtionen
 --------------
 
 ### §3.19.1 Ändamål
+
 Redaqtionen ansvarar för skriverier, nyhetsutskick och att ge ut sektionstidningen dbuggen.
 
 ### §3.19.2 Organisation
+
 Redaqtionen leds av Chefredaqtören, internt benämnd Chefred. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
 
 ### §3.19.3 Verksamhet
+
 Redaqtionen ska ge ut sektionstidningen dbuggen fysiskt och/eller digitalt. De ska även ska specifikt uppdatera och ge ut exakt en nØlledbuggen till varje mottagning. Priset för ett exemplar av dbuggen eller nØlledbuggen ska vara noll prisbasbelopp.
 
 §3.20 Datasladden
 --------------
 
 ### §3.20.1 Ändamål
+
 Datasladden har till uppgift att ansvara över sektionsbilen.
 
 ### §3.20.2 Organisation
+
 Datasladden leds av Mulle/Mullerina Schmeck. Övriga medlemmar utses av Mulle/Mullerina Schmeck. Övriga medlemmar måste även besitta det förarbevis som krävs för att framföra den
 nuvarande sektionsbilen.
 
 ### §3.20.3 Verksamhet
+
 Datasladden ansvarar för att
 
--   Administrera bokningar av sektionsbilen
--   Sköta reparation och underhåll av sektionsbilen.
--   Se till så att parkeringstillståndet befinner sig i sektionsbilen.
--   Utforma samt upprätthålla regler för sektionsbilen.
--   Se till så att körjournalen befinner sig i sektionsbilen och används av alla som brukar den.
--   Sköta annat som hör bilen till.
+-   administrera bokningar av sektionsbilen
+-   sköta reparation och underhåll av sektionsbilen
+-   se till att parkeringstillståndet befinner sig i sektionsbilen
+-   utforma samt upprätthålla regler för sektionsbilen
+-   se till att körjournalen befinner sig i sektionsbilen och används av alla som brukar den
+-   sköta annat som hör bilen till.
 
 §3.21 Scala
 --------------
 
 ### §3.21.1 Ändamål
-Scalas syfte är att kultivera studenters musikaliska talang genom att regelbundet anordna körrep. Målet är att låta studenter ha kul tillsammans genom sång och trevligt häng. Vidare ska nämnden skapa gemenskap mellan Konglig Datasektionen och Sektionen för Medieteknik genom att rekrytera från båda sektioner.
+
+Scalas syfte är att kultivera studenters musikaliska talang genom att regelbundet anordna körrep. Målet är att låta studenter ha kul tillsammans genom sång och trevligt häng.
 
 ### §3.21.2 Organisation
-Scala leds av Körmästare. Övriga medlemmar utses av Körmästare.
+
+Scala leds av Körmästare.
+
+Övriga medlemmar utses av Körmästare.
 
 ### §3.21.3 Verksamhet
+
 Scala ska regelbundet anordna körrep där medlemmar får sjunga tillsammans. Nämnden ska bistå annan sektionsverksamhet genom uppträdanden på exempelvis Vårbalen eller liknande evenemang. Verksamheten i övrigt bestäms i samråd med medlemmarna i början av varje läsår.
 
 §3.22 D-Dagen
 --------------
 
 ### §3.22.1 Ändamål
+
 D-Dagen har till uppgift att informera näringslivet om sektionen och datateknikprogrammet, att informera sektionens medlemmar om näringslivet, att främja sektionsmedlemmarnas status på arbetsmarknaden samt att inbringa sponsorpengar till sektionen. Detta görs genom en årlig arbetsmarknadsdag och mindre evenemang arrangerade intilliggande mässan.
 
 ### §3.22.2 Organisation
-D-Dagen leds av D-Dagenansvariga. D-Dagens medlemmar utses av D-Dagenansvariga
+
+D-Dagen leds av D-Dagenansvariga. D-Dagens medlemmar utses av D-Dagenansvariga.
 
 ### §3.22.3 Verksamhet
-D-Dagen skall
+
+D-Dagen ska
 
 - göra reklam för arbetsmarknadsdagen gentemot berörda studenter
 
@@ -578,9 +651,11 @@ D-Dagen skall
 - se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
 
 ### §3.22.4 Avtal
+
 D-Dagenansvariga har rätt att förhandla fram avtal med företag och organisationer. Firmatecknare har rätt att utfärda en fullmakt till D-Dagenansvariga för att dessa ska kunna ingå i sagda avtal.
 
 ### §3.22.5 Bokföringsplikt
+
 D-Dagen är bokföringspliktigt.
 
 §4 Delad verksamhet
@@ -598,7 +673,7 @@ För all delad verksamhet ska det finnas ett avtal som avgör hur verksamheten s
 
 ### §5.1.1 Sektionsordförande
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Dessa ansvarsområden inkluderar att
+Är ledamot i sektionsstyrelsen, D-rektoratet. Arbetsleder D-rektoratet och företräder organisationen utåt. Är firmatecknare tillsammans med kassören. Har det övergripande ansvaret för sektionens avtalshantering och serveringstillstånd. Ansvarar även för att det upprättas en verksamhetsberättelse varje år som talar om vad som hänt under året. Denna verksamhetsberättelse ska, åtminstone, innehålla en verksamhetsberättelse från varje bokföringspliktig nämnd. Dessa ansvarsområden inkluderar att
 
 -   förmedla kontakt utifrån till delar av organisationen och verka för givande samarbeten
 
@@ -614,13 +689,13 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.1.2 Vice sektionsordförande
 
-Är ledamot i sektionsstyrelsen, D-rektoratet. Har kontakten med funktionärerna som huvudsakligt ansvarsområde. Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära ordförande. Dessa ansvarsområden inkluderar att
+Är ledamot i sektionsstyrelsen, D-rektoratet. Har kontakten med funktionärerna som huvudsakligt ansvarsområde. Fungerar som stöd för resterande styrelseledamöter och arbetar speciellt nära Sektionsordförande. Dessa ansvarsområden inkluderar att
 
 -   arbetsleda ledamöterna i deras arbete och kommunikation med funktionärerna
 
 -   delegera och följa upp på beslutsuppföljning inom styrelsen
 
--   kunna företräda organisationen tillsammans med ordförande
+-   kunna företräda organisationen tillsammans med Sektionsordförande
 
 -   se efter avtal som upprättas inom sektionen, såsom nyckelavtal och accesser.
 
@@ -749,9 +824,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 Är ordförande för Jämlikhetsnämnden.
 
-Har även till uppgift att agera som studerandeskyddsombud för sektionen,
-med fokus på Jämlikhetsfrågor.
-
+Har även till uppgift att agera som studerandeskyddsombud för sektionen, med fokus på Jämlikhetsfrågor.
 
 ### §5.2.2 Klubbmästare
 
@@ -761,7 +834,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §5.2.3 Konglig Lokalchef
 
-Konglig Lokalchef är sektionslokalsansvarig och leder sektionslokalsgruppen tillsammmans med motsvarande post vid Sektionen för Medieteknik.
+Är ordförande för Sektionslokalsgruppen. 
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -773,7 +846,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.2.5 Näringslivsansvarig
 
-Är ordförande för Näringslivsgruppen. Ansvarar för kontakter med näringslivet.
+Är ordförande för Näringslivsgruppen.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -797,15 +870,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.2.9 Studienämndens ordförande
 
-Är ordförande för Studienämnden. Arbetsleder Studienämnden och är sammankallande för dess möten. Har det övergripande ansvaret för nämndens verksamhet. Dessa ansvarsområden inkluderar att
-
--   verka för att alla sektionsmedlemmar är representerade i Studienämnden
-
--   synpunkter och förslag på förbättringar från sektionsmedlemmarna samlas in och förs fram till skolan och kursansvariga i de kurser som medlemmarna läser
-
--   verka för att alla sektionsmedlemmar känner till Studienämnden, dess syfte och hur man kan påverka sin utbildning genom den
-
--   Studienämndens arbete bevaras och dokumenteras för uppföljning av framtida medlemmar.
+Är ordförande för Studienämnden.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
@@ -817,9 +882,9 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §5.2.11 ÄrkeDEMON
 
-Är ordförande för DEMON.
+Är ordförande för Data Et Medias OrquesterNämnd.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.2.12 Valberedningens ordförande
 
@@ -841,7 +906,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.2.15 D-Dagenansvariga
 
-SM ska välja två D-Dagenansvariga. Ansvarar för sektionens arbetsmarknadsdag D-Dagen.
+Är ordförande för D-Dagen. SM ska välja två D-Dagenansvariga.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
@@ -853,73 +918,44 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.2.17 Internationell Studentkoordinator
 
-#### §5.2.17.1 Ändamål
+Internationell Studentkoordinator, ISK, är ordförande för den Internationella nämnden.
 
-Internationella Studentkoordinatorn, på engelska "International Student Coordinator" (ISC), är ordförande för den Internationella nämnden.
+International Student Coordinator, förkortat ISC, är det engelska namnet.
 
-ISC ska tillsammans med motsvarande post på Sektionen för Medieteknik verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
-
-#### §5.2.17.2 Organisation
-
-Samtliga intresserade sektionsmedlemmar får hjälpa till med den internationella verksamheten på sektionen.
-
-#### §5.2.17.3 Verksamhet
-
-ISC ska
-
--   samordna sektionens internationella verksamhet. Detta inkluderar att hålla kontakten med huvudansvarig för sociala och internationella relationer på THS och de ansvariga för utbytesstudier på EECS:s kansli och institutionerna
-
--   fungera som kontaktperson för internationella studenter på sektionen
-
--   samarbeta med motsvarande post på Sektionen för Medieteknik för att verka för ökad integration mellan nationella och internationella studenter på EECS-skolan
-
--   dela information till de internationella studenterna på EECS-skolan om händelser och nämnder på Datasektionen
-
--   hålla sektionsmedlemmarna informerade om internationell verksamhet på sektionen
-
--   främja informationsspridning på engelska inom sektionen.
-
-#### §5.2.17.4 Mandatperiod
-
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs på Glögg-SM. Har kalenderår som mandatperiod
 
 ### §5.2.19 Datas Art Director
 
-#### §5.2.19.1 Ändamål
-Leder Tag Monkeys. Ansvarar tillsammans med Tag Monkeys för sektionens grafiska utveckling och arbete. Datas Art Director ansvarar även för att sätta upp en funktionärstavla i sektionslokalen efter Val- och Glögg-SM.
+Är ordförande för Tag Monkeys.
 
-#### §5.2.19.2 Mandatperiod
 Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §5.2.20 Chefredaqtör
 
-#### §5.2.20.1 Ändamål
-Leder Redaqtionen. Ansvarar tillsammans med Redaqtionen för skriverier och nyhetsutskick inom Informationsorganet samt för sektionstidningen dbuggen.
+Är ordförande för Redaqtionen.
 
-#### §5.2.20.2 Mandatperiod
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.2.21 Systemansvarig
 
-#### §5.2.21.1 Ändamål
-Leder Informationsorganet. Ansvarar tillsammans med Informationsorganet över sektionens datasystem.
+Är ordförande för Informationsorganet.
 
 #### §5.2.21.2 Mandatperiod
+
 Väljs på Val-SM. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
+
 ### §5.2.22 Mulle/Mullerina Schmeck
 
-#### §5.2.22.1 Ändamål
-Leder Datasladden. Ansvarar tillsammans med Datasladden över sektionsbilen.
+Är ordförande för Datasladden.
 
-#### §5.2.22.2 Mandatperiod
+Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framföra den nuvarande sektionsbilen.
+
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.2.23 Körmästare
 
-#### §5.2.23.1 Ändamål
-Leder Scala.
+Är ordförande för Scala.
 
-#### §5.2.23.2 Mandatperiod
 Väljs på Val-SM. Har läsår som mandatperiod.
 
 §5.3 Övriga funktionärer
@@ -927,126 +963,147 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §5.3.1 Fanbärare
 
-Fanbärarna försvarar sektionens ära genom att bära dess fana vid olika högtidliga tillfällen. Observera att fanan skall hållas högt.
+#### §5.3.1.1 Ändamål
 
-Att vara Fanbärare är en mycket hedersfylld post på sektionen.
+Fanbärare är ett mycket hedersfylld uppdrag inom sektionen. Fanbärare försvarar sektionens ära genom att bära dess fana vid olika högtidliga tillfällen. Fanan skall hållas högt.
 
-Fanbärarna skall närvara på så många som möjligt av de tillställningar till vilka de inbjuds av THS, samt i andra sammanhang efter beslut av D-rektoratet.
+#### §5.3.1.2 Organisation
 
-Sektionen bekostar fanbärarnas alkoholfria deltagaravgift för de evenemang där fanan bärs.
+SM ska välja en Fanbärare och en Vice fanbärare. Sektionsordförande är ställföreträdande Vice fanbärare. Vid arrangemang med begränsat deltagarantal har Fanbärare företräde framför Vice fanbärare.
 
-Fanbärarna bär huvudansvaret för att sektionens fana hålls i gott skick.
+#### §5.3.1.3 Verksamhet
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Fanbärare skall närvara på så många som möjligt av de tillställningar till vilka de inbjuds av THS, samt i andra sammanhang efter beslut av D-rektoratet. Fanbärare bär huvudansvaret för att sektionens fana hålls i gott skick.
 
-### §5.3.2 Vice fanbärare
+#### §5.3.1.4 Mandatperiod
 
-Vice fanbärare försvarar sektionens ära när ordinarie fanbärare ej har möjlighet att göra det. Vid arrangemang med begränsat deltagarantal har fanbäraren företräde framför vice fanbäraren.
+Fanbärare och Vice fanbärare väljs på Glögg-SM och har kalenderår som mandatperiod.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+### §5.3.2 Kårfullmäktigeledamöter
 
-### §5.3.3 Kårfullmäktigeledamöter
-
-#### §5.3.3.1 Ändamål
+#### §5.3.2.1 Ändamål
 
 Kårfullmäktigeledamöterna och -suppleanterna representerar sina väljare i THS Kårfullmäktige. Sektionen fungerar som en valkrets och såväl ordinarie ledamöter som suppleanter är valda på personligt mandat vid THS. Dessa antas även som funktionärer vid Datasektionen i syfte att föra THS Kårfullmäktiges arbete närmare den egna valkretsen.
 
-#### §5.3.3.2 Organisation
+#### §5.3.2.2 Organisation
 
 Sektionen har en ordinarie ledamot och en suppleant för varje mandat i THS Kårfullmäktige som sektionen tilldelats i enlighet med THS styrdokument. Mandatperioden för samtliga ordinarie ledamöter och suppleanter regleras i THS styrdokument.
 
+#### §5.3.2.3 Verksamhet
+
+Såväl Kårfullmäktigeledamöter som -suppleanter ska delta på så många sammanträden av THS Kårfullmäktige som möjligt. De är solidariskt ansvariga för att sektionen är fulltalig vid samtliga Kårfullmäktigesammanträden. En ledamot eller injusterad suppleant har inget ansvar att rösta i sektionens intresse, utan ska rösta så som den själv finner lämpligast. I egenskap av funktionärer har dessa även ett ansvar att förmedla information från THS Kårfullmäktige till sektionens medlemmar.
+
+### §5.3.3 Programansvarig student
+
+#### §5.3.3.1 Ändamål
+
+Programansvarig student ansvarar för sektionens utbildningspåverkan på programnivå från studentsidan samt kontakt med KTH och EECS-skolan i utbildningsfrågor.
+
+#### §5.3.3.2 Organisation
+
+Programansvarig student bör ha god kunskap om programmets uppbyggnad och kurserna som ingår.
+
+I det fall att posten är vakantsatt är Ledamot för utbildningsfrågor ställföreträdande Programansvarig student.
+
 #### §5.3.3.3 Verksamhet
 
-Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många sammanträden av THS Kårfullmäktige som möjligt. De är solidariskt ansvariga för att sektionen är fulltalig vid samtliga Kårfullmäktigesammanträden. En ledamot eller injusterad suppleant har inget ansvar att rösta i sektionens intresse, utan ska rösta så som den själv finner lämpligast. I egenskap av funktionärer har dessa även ett ansvar att förmedla information från THS Kårfullmäktige till sektionens medlemmar.
+Programansvarig student ska
 
-### §5.3.4 Programansvarig student
+- ansvara för sektionens utbildningspåverkan på programnivå
 
-Är ansvarig för sektionens utbildningspåverkan på programnivå och arbetar från studentsidan med utbildningsprogrammets utformning. Är ansvarig för kontakten gentemot EECS-skolan samt KTH i frågor gällande den långsiktiga utvecklingen av programmet och dess kurser i sin helhet. Bör ha god kunskap om programmets uppbyggnad och kurserna som ingår.
+- arbeta från studentsidan med utbildningsprogrammets utformning
+
+- ansvara för kontakten gentemot EECS-skolan samt KTH i frågor gällande den långsiktiga utvecklingen av programmet och dess kurser i sin helhet
+
+- arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
+
+#### §5.3.3.4 Mandatperiod
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §5.3.5 Revisorer
+### §5.3.4 Revisorer
 
-#### §5.3.5.1 Ändamål
+#### §5.3.4.1 Ändamål
 
-Revisorernas uppgift är att övervaka D-rektoratet och nämndernas arbete.
+Revisorernas uppgift är att övervaka D-rektoratet och övriga sektionsorgans arbete.
 
-#### §5.3.5.2 Organisation
+#### §5.3.4.2 Organisation
 
-Enligt sektionens stadgar finns två revisorer, utsedda av SM. De skall
+Enligt sektionens stadgar finns två av SM utsedda revisorer.
 
--   övervaka D-rektoratet och nämndernas arbete i sektionens namn
-
--   övervaka den löpande bokföringen och, om så anses behövas, kräva att en delårsrapport presenteras
-
--   revidera ekonomisk bokföring från sektionens organ
-
--   övervaka upprättandet av verksamhetsberättelsen för sektionen
-
--   vara skiljemän vid tvister inom sektionen där parterna inte behöver använda sig av SM eller THS styrelse, revisorsgrupp eller Kårfullmäktige.
+Revisorerna ska vara skiljemän vid tvister inom sektionen där parterna inte behöver använda sig av SM eller THS styrelse, revisorsgrupp eller Kårfullmäktige.
 
 Tvister där sektionens revisorer inte kan vara skiljemän inkluderar, men är inte begränsat till, tvister där revisorerna kan anses jäviga.
 
-#### §5.3.5.3 Verksamhet
+#### §5.3.4.3 Verksamhet
 
-Revisorerna för ett verksamhetsår är ålagda att revidera samtliga av sektionens verksamheter för det året, samt att i samråd med tidigare och senare revisorer revidera löpande verksamhet som löper över flera år. Det åligger de senast valda revisorerna att ansvara för att revisionerna genomförs.
+Revisorerna är ålagda att övervaka och revidera sektionens verksamhet under det verksamhetsår de valts för. De ska även, i samråd med tidigare och senare revisorer övervaka och revidera verksamhet som löper över flera år. Det åligger de senast valda revisorerna att ansvara för att revisionerna genomförs.
 
-##### §5.3.5.3.1 Revisionsberättelse
+##### §5.3.4.3.1 Revisionsberättelse
 
 Revisionsberättelsen är det dokument som presenteras för SM vid fråga angående ansvarsfrihet. Revisionsberättelsen är en kort sammanfattning av revisionen, med avslutande rekommendation att tillstyrka eller avstyrka beviljande av ansvarsfrihet. Rekommendationen kan utelämnas då särskilda skäl föreligger det emot.
 
-##### §5.3.5.3.2 SM
+##### §5.3.4.3.2 SM
 
-Vid ett SM där en revisionsberättelse skall läsas, kan revisorerna, enligt föregående avsnitt, ge en rekommendation till SM angående beviljande av ansvarsfrihet. SM bör beakta revisorernas samlade arbete vid efterföljande omröstning.
+Vid ett SM där en revisionsberättelse ska läsas, kan revisorerna, enligt föregående avsnitt, ge en rekommendation till SM angående beviljande av ansvarsfrihet. SM bör beakta revisorernas samlade arbete vid efterföljande omröstning.
 
-Innan fråga angående ansvarsfrihet tas upp på SM skall revisorerna ansvara för att de berörda ekonomiskt ansvariga inbjuds till SM.
+Innan fråga angående ansvarsfrihet tas upp på SM ska revisorerna ansvara för att de berörda ekonomiskt ansvariga inbjuds till SM.
 
 Till varje SM ska Revisorerna ha upprättat en förvaltningsrevisionsrapport som de redogör för under mötet.
 
-##### §5.3.5.3.3 Normativa rekommendationer
+##### §5.3.4.3.3 Bokföring
 
-De rekommendationer som ges nedan bör följas för att förenkla och accelerera revisionsförfarandet.
+Revisorerna ska övervaka den löpande bokföringen och, om så anses behövas, kräva att en delårsrapport presenteras. De ska även revidera ekonomisk bokföring från sektionens organ.
 
-##### §5.3.5.3.4 Verksamhetsberättelse
+#### §5.3.4.4 Mandatperiod
 
-Det åligger sektionsordförande att ansvara för att en verksamhetsberättelse (VB) uppförs efter (eller i samband med) avslutat verksamhetsår. Denna VB skall (som ett minimum) innehålla en berättelse från varje ordförande för bokföringspliktig nämnd samt bokföringspliktiga funktionärer. VB skall vara revisorerna tillhanda innan första SM på nästkommande verksamhetsår.
+Revisorn väljs på Glögg-SM till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1:a januari till 30:e juni nästkommande år.
 
-##### §5.3.5.3.5 Bokföring
+### §5.3.5 Sektionshistoriker
 
-Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd att lämna en avslutad bokföring till revisorerna. Bokföringen skall vara revisorerna tillhanda innan första SM på nästkommande verksamhetsår, om inte starka skäl föreligger däremot.
+#### §5.3.5.1 Ändamål
 
-Det åligger även de ekonomiskt ansvariga att på ett professionellt och strukturerat sätt inventera lager och kassa vid överlämnandet till nästa förtroendevald på posterna. Överlämningsdokumentet skall finnas revisorerna tillhanda tillsammans med bokföringen.
+Sektionshistorikern skall se till att sektionens ärorika historia inte faller i glömska.
 
-#### §5.3.5.4 Mandatperiod
+#### §5.3.5.2 Verksamhet
 
-Revisorn väljs på Glögg-SM till sakrevisor för sektionen under ett verksamhetsår samt till funktionärsposten revisor under perioden 1 januari till 30 juni nästkommande år.
+Sektionshistorikern ska
 
-### §5.3.6 Sektionshistoriker
+- samla in och dokumentera historisk information och historiska föremål med anknytning till sektionen
 
-Sektionshistorikern skall se till att sektionens ärorika historia inte faller i glömska, dels genom att samla in historisk information och historiska föremål och dels genom att föra sagda information vidare till och visa upp sagda föremål för sektionsmedlemmarna i lämpliga sammanhang.
+- vid lämpliga tillfällen ska visa upp och informera om insamlade föremål
 
-Sektionshistorikern ansvarar även för sektionens alumniverksamhet.
+- ansvara för sektionens alumniverksamhet
 
-Sektionshistorikern avgör själv hur hen bäst uppfyller ändamålet. Sektionshistorikern har som kunskapskälla tillgång till GUDAR-gruppen, Gamla Uvar på Data med Anrika Redogörelser.
+- varje år upprätta en årskrönika.
 
-Sektionshistorikern ansvarar för att varje år upprätta en årskrönika.
+Sektionshistorikern har som kunskapskälla tillgång till GUDAR-gruppen, Gamla Uvar på Data med Anrika Redogörelser.
+
+#### §5.3.5.3 Mandatperiod
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §5.3.7 Ljud- och ljusansvarig
+### §5.3.6 Ljud- och ljusansvarig
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
-
-#### §5.3.7.1 Ändamål
+#### §5.3.6.1 Ändamål
 
 Ljud- och ljusansvarig har till uppgift att underhålla sektionens ljud- och ljusutrustning.
 
-### §5.3.8 Studerandeskyddsombud
+#### §5.3.6.2 Mandatperiod
 
-#### §5.3.8.1 Ändamål
-Har till uppgift att agera som studerandeskyddsombud för sektionen, med fokus på studiemiljö. Ska såväl proaktivt som reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-#### §5.3.8.2 Verksamhet
+### §5.3.7 Studerandeskyddsombud
+
+#### §5.3.7.1 Ändamål
+
+Har till uppgift att agera som studerandeskyddsombud för sektionen, med fokus på studiemiljö. Ska såväl proaktivt som reaktivt verka för att sektions medlemmarnas studiemiljö är så bra som möjligt.
+
+#### §5.3.7.2 Organisation
+
+I det fall att posten är vakantsatt är Ledamot för Studiemiljö och likabehandling ställföreträdande Studerandeskyddsombud.
+
+#### §5.3.7.3 Verksamhet
 
 Studerandeskyddsombudet ska
 
@@ -1060,27 +1117,25 @@ Studerandeskyddsombudet ska
 
 -   regelbundet kontrollera de brandsläckare som finns i sektionslokalen
 
--   inventera sjukvårdslådan en gång per period.
+-   inventera sjukvårdslådan en gång per period
 
-#### §5.3.8.3 Organisation
+-   arbeta aktivt för att öka medlemmarnas förståelse för sin roll och vad rollen fyller för funktion för studenterna.
 
-I det fall att posten är vakantsatt är Ledamot för Studiemiljö och likabehandling ställföreträdande studerandeskyddsombud
-
-#### §5.3.8.4 Mandatperiod
+#### §5.3.7.4 Mandatperiod
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §5.3.9 D-Fest
+### §5.3.8 D-Fest
 
-#### §5.3.9.1 Ändamål
+#### §5.3.8.1 Ändamål
 
 D-Fest ska verka för att öka sammanhållningen bland sektionens funktionärer.
 
-#### §5.3.9.2 Organisation
+#### §5.3.8.2 Organisation
 
-Funktionären ska samarbeta med D-Rektoratet kring sin verksamhet och d-Rektoratet ska bistå funktionären med arbetskraft. Vid behov kan funktionären anlita en mindre mängd sektionsmedlemmar för att bedriva verksamhet.
+Funktionären ska samarbeta med D-rektoratet kring sin verksamhet och D-rektoratet ska bistå funktionären med arbetskraft. Vid behov kan funktionären anlita en mindre mängd sektionsmedlemmar för att bedriva verksamhet.
 
-#### §5.3.9.3 Verksamhet
+#### §5.3.8.3 Verksamhet
 
 Till funktionärens uppgifter hör att
 
@@ -1090,70 +1145,70 @@ Till funktionärens uppgifter hör att
 
 - Eventuellt anordna andra sittningar och evenemang tillsammans med andra sektioner och studentkårer för att representera sektionen utåt.
 
-#### §5.3.9.4 Mandatperiod
+#### §5.3.8.4 Mandatperiod
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §5.3.10 Kommunikatör
+### §5.3.9 Kommunikatör
 
-#### § 5.3.10.1 Ändamål
+#### § 5.3.9.1 Ändamål
 
 Kommunikatören är ansvarig för sektionens kommunikation utåt och inåt. Kommunikatören ansvarar för sektionens övergripande kommunikationsstrategi och bistår andra nämnder, funktionärer och projekt med deras kommunikation.
 
 Vidare har kommunikatören som ansvar att upprätthålla och vidareutveckla kontakter med sektioner vid andra universitet utanför Stockholm i syfte att främja kulturellt utbyte och nätverkande.
 
-#### §5.3.10.2 Organisation
+#### §5.3.9.2 Organisation
 
 Kommunikatören kan tillsätta kortvariga projektgrupper vars uppgift är att möjliggöra för sektionens medlemmar att delta i aktiviteter med studenter från andra universitet. Detta kan inkludera, men är inte begränsat till: marknadsföra event från andra universitet, ansvara för logistiken kring deltagande på event vid andra universitet samt ansvara för logistiken kring att bjuda in gäster från andra universitet att delta på våra event.
 
-#### §5.3.10.3 Mandatperiod
+#### §5.3.9.3 Mandatperiod
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §5.3.11 Valberedningsledamöter
+### §5.3.10 Valberedningsledamöter
 
-#### §5.3.11.1 Ändamål
+#### §5.3.10.1 Ändamål
 
 Valberedningens ledamöter bereder val tillsammans med Valberedningens Ordförande.
 
-#### §5.3.11.2 Mandatperiod
+#### §5.3.10.2 Mandatperiod
 
 Tre ledamöter väljs på Val-SM och har läsår som mandatperiod. Ytterligare tre ledamöter
 väljs på Glögg-SM och har kalenderår som mandatperiod.
 
-### §5.3.12 Sångansvarig
+### §5.3.11 Sångledare
 
-#### §5.3.12.1 Ändamål
+#### §5.3.11.1 Ändamål
 
-Sångansvarig ska verka för att sångkulturen inom sektionen lever vidare och ansvarar för Sångboken och /dev/audio samt ser till att dessa kontinuerligt revideras. Sångansvarig ska även vara en resurs för övrig verksamhet på sektionen för att hjälpa till att tillsätta lämpliga toastmasters på sittningar.
+Sångledaren ska verka för att sångkulturen inom sektionen lever vidare och ansvarar för Sångboken och /dev/audio samt ser till att dessa kontinuerligt revideras. Sångledaren ska även vara en resurs för övrig verksamhet på sektionen för att hjälpa till att tillsätta lämpliga toastmasters på sittningar.
 
-#### §5.3.12.2 Organisation
+#### §5.3.11.2 Organisation
 
-Sångansvarig ska samarbeta med Prylmångleriet vid inköp av sångböcker och med jämlikhetsnämnden för att se till att sånger i sångboken och på /dev/audio är i linje med sektionens jämlikhetspolicy. När sångansvarig anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten. I det fall att posten är vakantsatt är Prylmånglaren ställföreträdande Sångansvarig.
+Sångledaren ska samarbeta med Prylmångleriet vid inköp av sångböcker och med jämlikhetsnämnden för att se till att sånger i sångboken och på /dev/audio är i linje med sektionens jämlikhetspolicy. När Sångledare anordnar sittning så ska denne anlita en mindre mängd sektionsmedlemmar för att bedriva verksamheten. I det fall att posten är vakantsatt är Prylmånglaren ställföreträdande Sångledare.
 
-#### §5.3.12.3 Verksamhet
+#### §5.3.11.3 Verksamhet
 
-Sångansvarig ansvarar för att sånger i sångboken och /dev/audio är uppdaterade, samt att nya revisioner av sångboken skapas vid behov. Sångansvarig ska även, vid behov, vara tillgänglig som toastmaster eller kunna tillsätta en lämplig sådan vid sittningar inom sektionen. Sångansvarig ska även hålla i en årlig sittning för att främja sångkulturen på sektionen. Ytterligare ska sångansvarig även sträva för att vara en upplyst resurs för sektionens medlemmar, när det kommer till frågor om sång, sånger, att vara toastmaster och liknande.
+Sångledare ansvarar för att sånger i sångboken och /dev/audio är uppdaterade, samt att nya revisioner av sångboken skapas vid behov. Sångledare ska även, vid behov, vara tillgänglig som toastmaster eller kunna tillsätta en lämplig sådan vid sittningar inom sektionen. Sångledare ska även hålla i en årlig sittning för att främja sångkulturen på sektionen. Ytterligare ska Sångledare även sträva för att vara en upplyst resurs för sektionens medlemmar, när det kommer till frågor om sång, sånger, att vara toastmaster och liknande.
 
-#### §5.3.12.4 Mandatperiod
+#### §5.3.11.4 Mandatperiod
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §5.3.13 Talman
+### §5.3.12 Talman
 
-#### §5.3.13.1 Ändamål
+#### §5.3.12.1 Ändamål
 
 Talmannens uppgift är att arrangera samt leda sektionsmötet.
 
-#### §5.3.13.2 Organisation
+#### §5.3.12.2 Organisation
 
 I det fall att posten är vakantsatt faller ansvaret på D-rektoratet.
 
-#### §5.3.13.3 Verksamhet
+#### §5.3.12.3 Verksamhet
 
 Talmannen ser till att nödvändiga arrangemang är genomförda inför ett sektionsmöte i samråd med D-rektoratet. Talman är neutral och uttalar inte sin personliga ståndpunkt i sakfrågor.
 
-#### §5.3.13.4 Mandatperiod
+#### §5.3.12.4 Mandatperiod
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
@@ -1163,7 +1218,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 §6.1 Representation i råd på THS
 ---------------------------
 
-Sektionen skall ha representanter inom råd inom THS och där om möjligt deltaga på varje sammanträdande. Det är D-rektoratets uppgift att upplysa en vald funktionär om vilka råd som berör den.
+Sektionen ska ha representanter inom råd inom THS och där om möjligt deltaga på varje sammanträdande. Det är D-rektoratets uppgift att upplysa en vald funktionär om vilka råd som berör den.
 
 §6.2 Representation inom organ på KTH
 --------------------------------
@@ -1176,11 +1231,11 @@ Representanter till många av dessa organ väljs inte direkt av sektionen, utan 
 
 #### §6.2.2.1 Strategiska rådet
 
-Fattar beslut om bland annat budget och bokslut, samt de frågor som dekanen anser att styrelsen skall besluta om.
+Fattar beslut om bland annat budget och bokslut, samt de frågor som dekanen anser att styrelsen ska besluta om.
 
 #### §6.2.2.2 Ledningsgruppen
 
-Bereder och lämnar förslag inför viktigare beslut som skall fattas på skolan.
+Bereder och lämnar förslag inför viktigare beslut som ska fattas på skolan.
 
 #### §6.2.2.3 Rekryteringskommittén
 
@@ -1188,7 +1243,7 @@ Rekryteringskommittén har till uppgift att bereda och avge förslag beträffand
 
 #### §6.2.2.4 Skolråd
 
-Skolrådet är öppet för alla studenter på  Data, Media, IN och Elektro. Skolrådet väljer representanter till andra råd.
+Skolrådet är öppet för alla studenter som studerar vid EECS-skolan. Skolrådet väljer representanter till andra råd.
 
 §7 Ordinarie SM
 ============
@@ -1198,21 +1253,21 @@ Skolrådet är öppet för alla studenter på  Data, Media, IN och Elektro. Skol
 
 ### §7.1.1 Budget-SM
 
-Ett SM skall hållas på hösten senast 15 november och benämnas Budget-SM. Budget-SM skall speciellt behandla frågan om budget för nästkommande verksamhetsår.
+Ett SM ska hållas på hösten senast 15 november och benämnas Budget-SM. Budget-SM ska speciellt behandla frågan om budget för nästkommande verksamhetsår.
 
 ### §7.1.2 Glögg-SM
 
-Ett SM skall hållas efter Budget-SM, tidigast 15 november och senast 31 december och benämnas Glögg-SM.
+Ett SM ska hållas efter Budget-SM, tidigast 15 november och senast 31 december och benämnas Glögg-SM.
 
-Mötesordföranden skall på Glögg-SM bära cerise tomteluva. Detta för att försäkra sig om att ingen sektionsmedlem blir sittande i Cerise eller motsvarande terminalinrättning på julafton.
+Mötesordföranden ska på Glögg-SM bära cerise tomteluva. Detta för att försäkra sig om att ingen sektionsmedlem blir sittande i Cerise eller motsvarande terminalinrättning på julafton.
 
 ### §7.1.3 Revisions-SM
 
-Ett SM skall hållas på våren senast 31 mars och benämnas Revisions-SM. Revisions-SM skall speciellt granska D-rektoratets, nämndernas och funktionärernas berättelser samt frågan om ansvarsfrihet för D-rektoratet och nämnder med bokföringsplikt.
+Ett SM ska hållas på våren senast 31 mars och benämnas Revisions-SM. Revisions-SM ska speciellt granska D-rektoratets, nämndernas och funktionärernas berättelser samt frågan om ansvarsfrihet för D-rektoratet och nämnder med bokföringsplikt.
 
 ### §7.1.4 Val-SM
 
-Ett SM skall hållas efter Revisions-SM senast 31 maj och benämnas Val-SM.
+Ett SM ska hållas efter Revisions-SM senast 31 maj och benämnas Val-SM.
 
 ### §7.2 Övrig verksamhet
 
@@ -1224,7 +1279,7 @@ Nämnder och funktionärer ska inte planera in evenemang eller andra aktiviteter
 §8.1 Hedersdeltat
 ------------
 
-Sektionens finaste förtjänsttecken heter Hedersdeltat och utgörs av en nål eller motsvarande med ett delta inramat av en eklövskrans.
+Sektionens finaste förtjänsttecken heter Hedersdeltat och utgörs av en nål eller motsvarande med ett litet delta inramat av en eklövskrans.
 
 ### §8.1.1 Syfte
 
@@ -1303,11 +1358,7 @@ Sektionslokalen kan endast bokas/hyras av sektionernas styrelser, nämnder och f
 §9.1 Samboendeavtal
 -------
 
-Samboendeavtalet beskriver vilka regler som gäller för sektionslokalen samt förtydligar
-hur verksamheten i lokalen ska hanteras. Avtalet skrivs för att stärka samarbetet mellan
-Konglig Datasektionen och Sektionen för Medieteknik. Samboendeavtalet revideras
-årligen av respektive sektions styrelser i samråd med de sektionslokalsansvariga och
-med synpunkter från de båda sektionernas engagerade.
+Samboendeavtalet beskriver vilka regler som gäller för sektionslokalen samt förtydligar hur verksamheten i lokalen ska hanteras. Avtalet skrivs för att stärka samarbetet mellan Konglig Datasektionen och Sektionen för Medieteknik. Samboendeavtalet revideras årligen av respektive sektions styrelser i samråd med de sektionslokalsansvariga och med synpunkter från de båda sektionernas engagerade.
 
 §10 Stipendier
 ======
