@@ -1,4 +1,3 @@
-# Rekryteringspolicy
 
 ## §1 Syfte och mål
 
