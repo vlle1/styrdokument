@@ -500,21 +500,21 @@ Ordförande för Baknämnden är Bakis.
 
 Baknämnden ska under sektionsmöten bjuda på fika till sötsugna sektionsmedlemmar. Andra delar av Sektionen ska ha möjlighet att samarbeta med Baknämnden om fikabehov finns. Vidare ska nämndens recept dokumenteras så att kommande årgångar ska kunna ta del av dem.
 
-## §3.16 Internationella Nämnden
+## §3.16 Internationella nämnden
 
 ### §3.16.1 Ändamål
 
-Internationella Nämnden, på engelska the International Group, är en delad nämnd mellan Datasektionen och Sektionen för Medieteknik och ska verka för att främja internationellt utbyte på sektionerna och ansvarar för mottagningen av utländska studenter.
+Internationella nämnden, på engelska the International Group, är en delad nämnd mellan Datasektionen och Sektionen för Medieteknik och ska verka för att främja internationellt utbyte på sektionerna och ansvarar för mottagningen av utländska studenter.
 
 ### §3.16.2 Organisation
 
-Internationella Nämnden leds tillsammans av Internationell Studentkoordinator och motsvarande på Sektionen för Medieteknik. Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektionsordförande att komma överens om och besluta i frågan.
+Internationella nämnden leds tillsammans av Internationell studentkoordinator och motsvarande på Sektionen för Medieteknik. Beslut som fattas av de två nämndansvariga måste vara enhälligt, och i de fall som de nämndansvariga är oense åligger det respektive sektionsordförande att komma överens om och besluta i frågan.
 
 Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
 
 ### §3.16.3 Verksamhet
 
-Internationella Nämnden ska
+Internationella nämnden ska
 
 -   samordna sektionens internationella verksamhet
 
@@ -893,11 +893,11 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §5.2.17 Internationell Studentkoordinator
+### §5.2.17 Internationell studentkoordinator
 
-Internationell Studentkoordinator, ISK, är ordförande för Internationella nämnden.
+Internationell studentkoordinator, ISK, är ordförande för Internationella nämnden.
 
-International Student Coordinator, förkortat ISC, är det engelska namnet.
+International student coordinator, förkortat ISC, är det engelska namnet.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod
 
