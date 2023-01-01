@@ -24,9 +24,9 @@ Sektionen har utöver stadgar och reglemente även ett ekonomiskt styrdokument, 
 
 Det åligger samtliga nämnder, funktionärer, samt projektledare att följa de dokument som tas upp i §2. D-rektoratet ansvarar för att samtliga nämnder har en kontaktperson i D-rektoratet, samt att nämndordförande vet vem denna är.
 
-Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd att lämna en avslutad bokföring till revisorerna. Bokföringen skall vara revisorerna tillhandahållen innan första ordinarie SM på nästkommande verksamhetsår, om inte starka skäl föreligger däremot.
+Det åligger de ekonomiskt ansvariga i varje bokföringspliktig nämnd att lämna en avslutad bokföring till revisorerna. Bokföringen ska vara revisorerna tillhandahållen innan första ordinarie SM på nästkommande verksamhetsår, om inte starka skäl föreligger däremot.
 
-Det åligger även de ekonomiskt ansvariga att på ett professionellt och strukturerat sätt inventera lager och kassa vid överlämnandet till nästa förtroendevald på posterna. Överlämningsdokumentet skall finnas revisorerna tillhanda tillsammans med bokföringen.
+Det åligger även de ekonomiskt ansvariga att på ett professionellt och strukturerat sätt inventera lager och kassa vid överlämnandet till nästa förtroendevald på posterna. Överlämningsdokumentet ska finnas revisorerna tillhanda tillsammans med bokföringen.
 
 ## §3.1 Sektionslokalsgruppen
 
@@ -939,7 +939,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 #### §5.3.1.1 Ändamål
 
-Fanbärare är ett mycket hedersfylld uppdrag inom sektionen. Fanbärare försvarar sektionens ära genom att bära dess fana vid olika högtidliga tillfällen. Fanan skall hållas högt.
+Fanbärare är ett mycket hedersfylld uppdrag inom sektionen. Fanbärare försvarar sektionens ära genom att bära dess fana vid olika högtidliga tillfällen. Fanan ska hållas högt.
 
 #### §5.3.1.2 Organisation
 
@@ -947,7 +947,7 @@ SM ska välja en Fanbärare och en Vice fanbärare. Sektionsordförande är stä
 
 #### §5.3.1.3 Verksamhet
 
-Fanbärare skall närvara på så många som möjligt av de tillställningar till vilka de inbjuds av THS, samt i andra sammanhang efter beslut av D-rektoratet. Fanbärare bär huvudansvaret för att sektionens fana hålls i gott skick.
+Fanbärare ska närvara på så många som möjligt av de tillställningar till vilka de inbjuds av THS, samt i andra sammanhang efter beslut av D-rektoratet. Fanbärare bär huvudansvaret för att sektionens fana hålls i gott skick.
 
 #### §5.3.1.4 Mandatperiod
 
@@ -1037,7 +1037,7 @@ Revisorn väljs på Glögg-SM till sakrevisor för sektionen under ett verksamhe
 
 #### §5.3.5.1 Ändamål
 
-Sektionshistorikern skall se till att sektionens ärorika historia inte faller i glömska.
+Sektionshistorikern ska se till att sektionens ärorika historia inte faller i glömska.
 
 #### §5.3.5.2 Verksamhet
 

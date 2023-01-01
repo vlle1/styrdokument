@@ -6,11 +6,11 @@ Detta dokument ska fylla två funktioner. Dels ska det ange de för sektionen g�
 
 ## §2 Bokföringsplikt
 
-Bokföringspliktiga nämnder såsom DKM och Mottagningen, samt vissa projekt sköter sin egen bokföring. Bokföring skall skötas löpande med målsättningen att vara färdig senast nästföljande månadsskifte då det ej är sommarferie. Utöver denna målsättning kan Kassör sätta krav på bokföringsdeadlines. Om en nämnd eller ett projekt inte håller utsatta deadlines äger D-rektoratet rätten att applicera restriktioner på dess verksamhet såsom att förbjuda bruk av sektionens alkoholtillstånd. Om en nämnd eller ett projekt bokför kontinuerligt och arbetar mot tidsmålet ovan så kan nämnden/projektet belönas. Man kan få extra pengar till fika/teambuilding från en för ändamålet reserverad budgetpost. Bedömning av detta och utdelning av dessa pengar sker av kassör.
+Bokföringspliktiga nämnder såsom DKM och Mottagningen, samt vissa projekt sköter sin egen bokföring. Bokföring ska skötas löpande med målsättningen att vara färdig senast nästföljande månadsskifte då det ej är sommarferie. Utöver denna målsättning kan Kassör sätta krav på bokföringsdeadlines. Om en nämnd eller ett projekt inte håller utsatta deadlines äger D-rektoratet rätten att applicera restriktioner på dess verksamhet såsom att förbjuda bruk av sektionens alkoholtillstånd. Om en nämnd eller ett projekt bokför kontinuerligt och arbetar mot tidsmålet ovan så kan nämnden/projektet belönas. Man kan få extra pengar till fika/teambuilding från en för ändamålet reserverad budgetpost. Bedömning av detta och utdelning av dessa pengar sker av kassör.
 
 ## §3 Skulder till engagerade
 
-Kvitton för inköp åt sektionen skall senast lämnas in 30 dagar efter då inköpet gjordes för att skulden ska betalas tillbaka, därefter kan den nekas. Skulder ska betalas tillbaka till engagerade inom 5 veckor (ej under ferie) under förutsättning att alla uppgifter är rätt registrerade och det framgår i vilket syfte inköpet är gjort.
+Kvitton för inköp åt sektionen ska senast lämnas in 30 dagar efter då inköpet gjordes för att skulden ska betalas tillbaka, därefter kan den nekas. Skulder ska betalas tillbaka till engagerade inom 5 veckor (ej under ferie) under förutsättning att alla uppgifter är rätt registrerade och det framgår i vilket syfte inköpet är gjort.
 
 ## §4 Lager
 
@@ -26,7 +26,7 @@ När en nämnd eller ett projekt har fest och använder sektionens dryckeslager 
 
 ### §4.3 Andra lager
 
-Andra lager (till exempel ovvelager) ska inventeras minst en gång per år. Sådan inventering skall komma kassören till handa så snart som möjligt efter att den skett.
+Andra lager (till exempel ovvelager) ska inventeras minst en gång per år. Sådan inventering ska komma kassören till handa så snart som möjligt efter att den skett.
 
 ## §5 Kvitton
 
@@ -48,7 +48,7 @@ Fakturor utställda av sektionen ska skapas genom av Kassör anvisad metod. Näm
 
 # §7 Budget
 
-Budgeten är ett instrument för att försöka planera och förutspå hur verksamhetsårets ekonomi kommer se ut. Budgeten ska följas i den mån som går, men om verkligheten inte tillåter detta så kan man behöva bortse från budgeten. Om en budgetöverträdelse behöver göras måste Kassör informeras innan överträdelsen har skett. I den rambudget som beslutas om på SM finns posterna _Intäkter_ och _Utgifter_. Utöver detta krävs det att det för varje nämnd och projekt på SM kan uppvisas en detaljbudget vars balans överensstämmer, eller har ett bättre resultat än rambudgeten. Funktionärer som handhar en detaljbudget kan i samråd med sektionsstyrelse revidera denna under eller inför ett verksamhetsår. Sådana ändringar skall redovisas på DM.
+Budgeten är ett instrument för att försöka planera och förutspå hur verksamhetsårets ekonomi kommer se ut. Budgeten ska följas i den mån som går, men om verkligheten inte tillåter detta så kan man behöva bortse från budgeten. Om en budgetöverträdelse behöver göras måste Kassör informeras innan överträdelsen har skett. I den rambudget som beslutas om på SM finns posterna _Intäkter_ och _Utgifter_. Utöver detta krävs det att det för varje nämnd och projekt på SM kan uppvisas en detaljbudget vars balans överensstämmer, eller har ett bättre resultat än rambudgeten. Funktionärer som handhar en detaljbudget kan i samråd med sektionsstyrelse revidera denna under eller inför ett verksamhetsår. Sådana ändringar ska redovisas på DM.
 
 ### §7.1 Skyldighet
 
@@ -101,7 +101,7 @@ Utöver dessa bankaccesser kan D-rektoratet, genom beslut på DM, besluta om att
 
 ## §11 Attestering
 
-Alla utgifter skall attesteras. De som äger rätten att attestera/avslå en utgift är i stigande ordning nämndordförande/projektledare för bokföringspliktiga nämnder/projekt, Vice kassör och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Avslag kan överklagas enligt ordningen i §A. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. fika till en själv).
+Alla utgifter ska attesteras. De som äger rätten att attestera/avslå en utgift är i stigande ordning nämndordförande/projektledare för bokföringspliktiga nämnder/projekt, Vice kassör och firmatecknare. Nämndordförande/projektledare äger endast rätten att attestera utlägg som belastar budgeten de är ansvariga för. Avslag kan överklagas enligt ordningen i §A. Man får dock inte attestera några utlägg där man själv lagt ut pengar eller starkt gagnas av utläggets natur (t.ex. fika till en själv).
 
 Utöver dessa rättigheter så kan D-rektoratet i samråd med nämndordförande/projektledare besluta om extra attesträttigheter på DM.
 
