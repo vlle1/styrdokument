@@ -1,3 +1,5 @@
+<!-- Konglig Datasektionens reglemente -->
+
 # §1 Insignia
 
 ## §1.1 Färg

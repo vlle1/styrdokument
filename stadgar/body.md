@@ -1,3 +1,5 @@
+<!-- Konglig Datasektionens stadgar -->
+
 # §1 Allmänt
 
 ## §1.1 Namn
