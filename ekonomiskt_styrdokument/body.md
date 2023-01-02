@@ -74,11 +74,11 @@ Lokalfonden bör vara av sådan storlek att sektionen kan bekosta en lokalflytt 
 
 Jubileumsfondens syfte är undvika att ett enskilt års budget belastas onödigt hårt de år då Datasektionen firar ett jubileum. Dessa pengar får tas i anspråk till jubileumsfirande efter Styrelsebeslut. Då fondens pengar inte är ämnade att användas varje år är det lämpligt att pengarna placeras med detta i åtanke.
 
-Avsättningar till jubileumsfonden bör vara av sådan storlek så att fonden uppnår en summa på 10 prisbasbelopp när ett jubileum infaller.
+Avsättningar till Jubileumsfonden bör vara av sådan storlek så att fonden uppnår en summa på 10 prisbasbelopp när ett jubileum infaller.
 
-## §8.3 Jubileumsfonden
+## §8.3 50-år jubileumsfonden
 
-50-års jubileumsfondens syfte är att möjliggöra ett större evenemang vid Datasektionens 50-års Jubileum. Denna fond är tänkt att användas tillsammans med Jubileumsfonden (se §8.2 Jubileumsfonden) och utgör därför extra resurser som tillgängliggörs för att fira Datasektionens 50-års jubileum. Dessa pengar får tas i anspråk till jubileumsfirande efter Styrelsebeslut. Då fondens pengar inte är ämnade att användas varje år är det lämpligt att pengarna placeras med detta i åtanke. Avsättningar till 50-års jubileumsfonden bör vara av sådan storlek så att fonden uppnår en summa av 5 prisbasbelopp när 50-års jubileet infaller.
+50-år jubileumsfondens syfte är att möjliggöra ett större evenemang vid Datasektionens 50-års jubileum. Denna fond är tänkt att användas tillsammans med Jubileumsfonden (se §8.2 Jubileumsfonden) och utgör därför extra resurser som tillgängliggörs för att fira Datasektionens 50-års jubileum. Dessa pengar får tas i anspråk till jubileumsfirande efter Styrelsebeslut. Då fondens pengar inte är ämnade att användas varje år är det lämpligt att pengarna placeras med detta i åtanke. Avsättningar till 50-år jubileumsfonden bör vara av sådan storlek så att fonden uppnår en summa av 5 prisbasbelopp när ett 50-års jubileum infaller.
 
 # §9 Subventionering av profilkläder
 
