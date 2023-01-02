@@ -271,11 +271,11 @@ D-rektoratet består av
 
 -   Vice sektionsordförande
 
+-   Sekreterare
+
 -   Kassör
 
 -   Vice kassör
-
--   Sekreterare
 
 -   Ledamot för näringsliv och kommunikation
 

@@ -6,7 +6,7 @@ Detta dokument ska fylla två funktioner. Dels ska det ange de för sektionen g�
 
 ## §2 Bokföringsplikt
 
-Bokföringspliktiga nämnder såsom DKM och Mottagningen, samt vissa projekt sköter sin egen bokföring. Bokföring ska skötas löpande med målsättningen att vara färdig senast nästföljande månadsskifte då det ej är sommarferie. Utöver denna målsättning kan Kassör sätta krav på bokföringsdeadlines. Om en nämnd eller ett projekt inte håller utsatta deadlines äger D-rektoratet rätten att applicera restriktioner på dess verksamhet såsom att förbjuda bruk av sektionens alkoholtillstånd. Om en nämnd eller ett projekt bokför kontinuerligt och arbetar mot tidsmålet ovan så kan nämnden/projektet belönas. Man kan få extra pengar till fika/teambuilding från en för ändamålet reserverad budgetpost. Bedömning av detta och utdelning av dessa pengar sker av kassör.
+Bokföringspliktiga nämnder såsom DKM och Mottagningen, samt vissa projekt sköter sin egen bokföring. Bokföring ska skötas löpande med målsättningen att vara färdig senast nästföljande månadsskifte då det ej är sommarferie. Utöver denna målsättning kan Kassör sätta krav på bokföringsdeadlines. Om en nämnd eller ett projekt inte håller utsatta deadlines äger D-rektoratet rätten att applicera restriktioner på dess verksamhet såsom att förbjuda bruk av sektionens alkoholtillstånd. Om en nämnd eller ett projekt bokför kontinuerligt och arbetar mot tidsmålet ovan så kan nämnden/projektet belönas. Man kan få extra pengar till fika/teambuilding från en för ändamålet reserverad budgetpost. Bedömning av detta och utdelning av dessa pengar sker av Kassör.
 
 ## §3 Skulder till engagerade
 
@@ -22,11 +22,11 @@ Dryckeslagren ska inventeras minst en gång varannan månad samt innan och efter
 
 ### §4.2 Dryckeslager vid festtillfällen
 
-När en nämnd eller ett projekt har fest och använder sektionens dryckeslager ska det bokföras av bokföringsansvariga för nämnden eller projektet som festen ligger under. Nämnden/projektet ska både belastas för inköp av drycken och tilldelas försäljningen av den. Kostnaden för inköpet får beräknas enligt av kassören tillhandahållna schablonbelopp. Serveringsansvarig för festtillfället är ansvarig för att betalning och dagsavslut görs efter sektionens standarder. Serveringsansvarig är även ansvarig för att eventuella handkassor hanteras enligt §4 i detta dokument. Serveringsansvarig ska i skälig tid innan festtillfället kontakta den nämnd som förvaltar dryckeslagren och informera sig om gällande bestämmelser för sektionen.
+När en nämnd eller ett projekt har fest och använder sektionens dryckeslager ska det bokföras av bokföringsansvariga för nämnden eller projektet som festen ligger under. Nämnden/projektet ska både belastas för inköp av drycken och tilldelas försäljningen av den. Kostnaden för inköpet får beräknas enligt av Kassör tillhandahållna schablonbelopp. Serveringsansvarig för festtillfället är ansvarig för att betalning och dagsavslut görs efter sektionens standarder. Serveringsansvarig är även ansvarig för att eventuella handkassor hanteras enligt §4 i detta dokument. Serveringsansvarig ska i skälig tid innan festtillfället kontakta den nämnd som förvaltar dryckeslagren och informera sig om gällande bestämmelser för sektionen.
 
 ### §4.3 Andra lager
 
-Andra lager (till exempel ovvelager) ska inventeras minst en gång per år. Sådan inventering ska komma kassören till handa så snart som möjligt efter att den skett.
+Andra lager (till exempel ovvelager) ska inventeras minst en gång per år. Sådan inventering ska komma Kassör till handa så snart som möjligt efter att den skett.
 
 ## §5 Kvitton
 

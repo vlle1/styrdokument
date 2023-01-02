@@ -100,7 +100,7 @@ Jämlikhetsnämnden ska värna och upplysa om jämlikhet och mångfald på sekti
 
 ### §3.4.2 Organisation
 
-Jämlikhetsnämnden leds av Jämlikhetsnämndens ordförande. Ledamot för Studiemiljö och Likabehandling ska också ingå i nämnden tillsammans med övriga intresserade sektionsmedlemmar.
+Jämlikhetsnämnden leds av Jämlikhetsnämndens ordförande. Ledamot för studiemiljö och likabehandling ska också ingå i nämnden tillsammans med övriga intresserade sektionsmedlemmar.
 
 ### §3.4.3 Verksamhet
 
@@ -1075,7 +1075,7 @@ Har till uppgift att agera som studerandeskyddsombud för sektionen, med fokus p
 
 #### §5.3.7.2 Organisation
 
-I det fall att posten är vakantsatt är Ledamot för Studiemiljö och likabehandling ställföreträdande Studerandeskyddsombud.
+I det fall att posten är vakantsatt är Ledamot för studiemiljö och likabehandling ställföreträdande Studerandeskyddsombud.
 
 #### §5.3.7.3 Verksamhet
 
