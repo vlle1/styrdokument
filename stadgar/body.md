@@ -28,7 +28,7 @@ Sektionen tillhör Tekniska Högskolans Studentkår, THS.
 
 ## §1.5 Verksamhetsår
 
-Sektionens verksamhetsår löper från 1 januari till 31 december.
+Sektionens verksamhetsår löper från 1:a januari till 31:a december.
 
 ## §1.6 Styrdokument
 
