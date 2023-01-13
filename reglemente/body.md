@@ -991,7 +991,7 @@ Sektionen har en andel av det totala antalet stolar i THS kårfullmäktige speci
 
 #### §5.3.2.3 Verksamhet
 
-Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många sammanträden av THS Kårfullmäktige som möjligt. De är solidariskt ansvariga för att sektionen är fulltalig vid samtliga Kårfullmäktigesammanträden. En ledamot eller injusterad har inget ansvar att följa samma linje utan röstar som de personligen finner lämpligast. I egenskap av funktionärer har dessa även ett ansvar att förmedla information från THS Kårfullmäktige till sektionens medlemmar.
+Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många sammanträden av THS Kårfullmäktige som möjligt. De är solidariskt ansvariga för att sektionen är fulltalig vid samtliga Kårfullmäktigesammanträden. En ledamot, suppleant eller injusterad har inget ansvar att följa samma linje utan röstar som de personligen finner lämpligast. I egenskap av funktionärer har dessa även ett ansvar att förmedla information från THS Kårfullmäktige till sektionens medlemmar.
 
 #### §5.3.2.4 Mandatperiod
 
