@@ -377,7 +377,7 @@ DEMON förespråkar även att man tillsammans ska gå på konserter/festivaler/s
 
 ### §3.12.1 Ändamål
 
-Valberedningen har till uppgift att opartiskt administrera och bereda de val som genomförs vid sektionen samt göra bedömningar av kandidaters lämplighet. Valberedningens Ordförande ansvarar för att Valberedningens uppdrag utförs i enlighet med sektionens och THS stadgar samt reglemente. Det är lämpligt att minst en medlem i Valberedningen nomineras till THS Kårfullmäktiges valnämnd.
+Valberedningen har till uppgift att opartiskt administrera och bereda de val som genomförs vid sektionen samt göra bedömningar av kandidaters lämplighet. Valberedningens Ordförande ansvarar för att Valberedningens uppdrag utförs i enlighet med sektionens och THS stadgar samt reglemente.
 
 ### §3.12.2 Organisation
 
@@ -983,15 +983,19 @@ Fanbärare och Vice fanbärare väljs på Glögg-SM och har kalenderår som mand
 
 #### §5.3.2.1 Ändamål
 
-Kårfullmäktigeledamöterna och -suppleanterna representerar sina väljare i THS Kårfullmäktige. Sektionen fungerar som en valkrets och såväl ordinarie ledamöter som suppleanter är valda på personligt mandat vid THS. Dessa antas även som funktionärer vid Datasektionen i syfte att föra THS Kårfullmäktiges arbete närmare den egna valkretsen.
+Kårfullmäktigeledamöterna och -suppleanterna representerar sina väljare i THS Kårfullmäktige. Såväl ledamöter som suppleanter är valda på personligt mandat.
 
 #### §5.3.2.2 Organisation
 
-Sektionen har en ordinarie ledamot och en suppleant för varje mandat i THS Kårfullmäktige som sektionen tilldelats i enlighet med THS styrdokument. Mandatperioden för samtliga ordinarie ledamöter och suppleanter regleras i THS styrdokument.
+Sektionen har en andel av det totala antalet stolar i THS kårfullmäktige specificerat i THS styrdokument.
 
 #### §5.3.2.3 Verksamhet
 
-Såväl Kårfullmäktigeledamöter som -suppleanter ska delta på så många sammanträden av THS Kårfullmäktige som möjligt. De är solidariskt ansvariga för att sektionen är fulltalig vid samtliga Kårfullmäktigesammanträden. En ledamot eller injusterad suppleant har inget ansvar att rösta i sektionens intresse, utan ska rösta så som den själv finner lämpligast. I egenskap av funktionärer har dessa även ett ansvar att förmedla information från THS Kårfullmäktige till sektionens medlemmar.
+Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många sammanträden av THS Kårfullmäktige som möjligt. De är solidariskt ansvariga för att sektionen är fulltalig vid samtliga Kårfullmäktigesammanträden. En ledamot eller injusterad har inget ansvar att följa samma linje utan röstar som de personligen finner lämpligast. I egenskap av funktionärer har dessa även ett ansvar att förmedla information från THS Kårfullmäktige till sektionens medlemmar.
+
+#### §5.3.2.4 Mandatperiod
+
+Alla mandat tilldelade sektionen väljs på Val-SM och har läsår som mandatperiod.
 
 ### §5.3.3 Programansvarig student
 
