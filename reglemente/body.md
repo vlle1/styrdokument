@@ -490,7 +490,7 @@ Projekt och nämnder kan ta hjälp av Prylmångleriet för att sälja märken el
 
 ### §3.15.1 Ändamål
 
-Baknämndens syfte är att ge sektionsmedlemmar möjligheten att utveckla sina färdigheter inom bakning samt att förse Sektionens medlemmar med bakverk.
+Baknämndens syfte är att ge sektionsmedlemmar möjligheten att utveckla sina färdigheter inom bakning samt att förse sektionens medlemmar med bakverk.
 
 ### §3.15.2 Organisation
 
@@ -500,7 +500,7 @@ Ordförande för Baknämnden är Bakis.
 
 ### §3.15.3 Verksamhet
 
-Baknämnden ska under sektionsmöten bjuda på fika till sötsugna sektionsmedlemmar. Andra delar av Sektionen ska ha möjlighet att samarbeta med Baknämnden om fikabehov finns. Vidare ska nämndens recept dokumenteras så att kommande årgångar ska kunna ta del av dem.
+Baknämnden ska under sektionsmöten bjuda på fika till sötsugna sektionsmedlemmar. Andra delar av sektionen ska ha möjlighet att samarbeta med Baknämnden om fikabehov finns. Vidare ska nämndens recept dokumenteras så att kommande årgångar ska kunna ta del av dem.
 
 ## §3.16 Internationella nämnden
 

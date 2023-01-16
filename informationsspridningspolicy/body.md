@@ -12,7 +12,7 @@ Sådan information som kan presenteras väl i storbildsformat bör även publice
 
 # §3 Inofficiella informationskanaler
 
-Alla kanaler där informatörer sprider information som anses intressant för sektionens medlemmar i stort, utöver de officiella, klassas som inofficiella informationskanaler. I sådana informationskanaler ska KTHs uppförandekod, EECS Hederskodex och Sektionens jämlikhetspolicy följas. Informationskanalen ska modereras kontinuerligt enligt dessa dokument.
+Alla kanaler där informatörer sprider information som anses intressant för sektionens medlemmar i stort, utöver de officiella, klassas som inofficiella informationskanaler. I sådana informationskanaler ska KTHs uppförandekod, EECS Hederskodex och sektionens jämlikhetspolicy följas. Informationskanalen ska modereras kontinuerligt enligt dessa dokument.
 
 Om dessa regler inte följs i ett forum kan D-rektoratet besluta om att forumet ska upphöra att användas som informationskanal. Informatörer har en skyldighet att inte bedriva sektionsverksamhet, exempelvis rekrytering eller marknadsföring, i de kanaler som bedömts olämpliga.
 
@@ -34,4 +34,4 @@ Personliga uppgifter och handlingar som kan anses känsliga för enskilda indivi
 
 # §7 Närvaro i informationskanaler
 
-Sektionens informatörer bör vara medvetna om sin närvaro som representanter i officiella och inofficiella sammanhang - exempelvis på Datasektionens hemsida såväl som i kommentarsfält och mailinglistor. Alla medlemmar bör också uppmärksamma att våra digitala forum ska följa KTHs uppförandekod, EECS Hederskodex, Sektionens jämlikhetspolicy samt att grovt opassande beteende i dessa vid behov kan följas upp med tillfällig avstängning från dem. Vid beslut om avstängning av medlem från informationskanal måste revisorerna alltid meddelas.
+Sektionens informatörer bör vara medvetna om sin närvaro som representanter i officiella och inofficiella sammanhang - exempelvis på Datasektionens hemsida såväl som i kommentarsfält och mailinglistor. Alla medlemmar bör också uppmärksamma att våra digitala forum ska följa KTHs uppförandekod, EECS Hederskodex, sektionens jämlikhetspolicy samt att grovt opassande beteende i dessa vid behov kan följas upp med tillfällig avstängning från dem. Vid beslut om avstängning av medlem från informationskanal måste revisorerna alltid meddelas.
