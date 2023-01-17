@@ -1,4 +1,4 @@
-#Datasektionens styrdokument
+# Datasektionens styrdokument
 
 ## Om Konglig Datasektionen
 
