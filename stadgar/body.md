@@ -200,6 +200,7 @@ tillsändas THS styrelse.
 ## §3.8 Interpellation, motion och proposition
 
 Motion eller interpellation till SM ska vara D-rektoratet tillhanda senast 14 dagar före SM. D-rektoratet ska skriftligen besvara samtliga motioner, såvida inte motionen dras tillbaka av motionären innan SM.
+Motion kan även behandla begäran av misstroendeförklaring mot förtroendevald.
 
 Förslag från D-rektoratet benämns proposition.
 
