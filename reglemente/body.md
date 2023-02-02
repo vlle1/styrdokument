@@ -534,46 +534,46 @@ Internationella nämnden ska
 
 -   verka för ökad integration mellan nationella och internationella studenter på EECS-skolan.
 
-## §3.18 Tag Monkeys
+## §3.17 Tag Monkeys
 
-### §3.18.1 Ändamål
+### §3.17.1 Ändamål
 
 Tag Monkeys ansvarar för sektionens grafiska utveckling och arbete samt att det finns möjlighet för sektionsmedlemmar att engagera sig inom det.
 
-### §3.18.2 Organisation
+### §3.17.2 Organisation
 
 Tag Monkeys leds av Datas Art Director. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
 
-### §3.18.3 Verksamhet
+### §3.17.3 Verksamhet
 
 Tag Monkeys ska regelbundet arrangera aktiviteter med fokus på konst och design samt ge möjlighet för sektionsmedlemmar att fördjupa sig inom det. Tag Monkeys ska även synliggöra sektionens funktionärer i sektionslokalen.
 
-## §3.19 Redaqtionen
+## §3.18 Redaqtionen
 
-### §3.19.1 Ändamål
+### §3.18.1 Ändamål
 
 Redaqtionen ansvarar för skriverier, nyhetsutskick och att ge ut sektionstidningen dbuggen.
 
-### §3.19.2 Organisation
+### §3.18.2 Organisation
 
 Redaqtionen leds av Chefredaqtören, internt benämnd Chefred. Övriga medlemmar är samtliga intresserade sektionsmedlemmar.
 
-### §3.19.3 Verksamhet
+### §3.18.3 Verksamhet
 
 Redaqtionen ska ge ut sektionstidningen dbuggen fysiskt och/eller digitalt. De ska även ska specifikt uppdatera och ge ut exakt en nØlledbuggen till varje mottagning. Priset för ett exemplar av dbuggen eller nØlledbuggen ska vara noll prisbasbelopp.
 
-## §3.20 Datasladden
+## §3.19 Datasladden
 
-### §3.20.1 Ändamål
+### §3.19.1 Ändamål
 
 Datasladden har till uppgift att ansvara över sektionsbilen.
 
-### §3.20.2 Organisation
+### §3.19.2 Organisation
 
 Datasladden leds av Mulle/Mullerina Schmeck. Övriga medlemmar utses av Mulle/Mullerina Schmeck. Övriga medlemmar måste även besitta det förarbevis som krävs för att framföra den
 nuvarande sektionsbilen.
 
-### §3.20.3 Verksamhet
+### §3.19.3 Verksamhet
 
 Datasladden ansvarar för att
 
@@ -589,33 +589,33 @@ Datasladden ansvarar för att
 
 -   sköta annat som hör bilen till.
 
-## §3.21 Scala
+## §3.20 Scala
 
-### §3.21.1 Ändamål
+### §3.20.1 Ändamål
 
 Scalas syfte är att kultivera studenters musikaliska talang genom att regelbundet anordna körrep. Målet är att låta studenter ha kul tillsammans genom sång och trevligt häng.
 
-### §3.21.2 Organisation
+### §3.20.2 Organisation
 
 Scala leds av Körmästare.
 
 Övriga medlemmar utses av Körmästare.
 
-### §3.21.3 Verksamhet
+### §3.20.3 Verksamhet
 
 Scala ska regelbundet anordna körrep där medlemmar får sjunga tillsammans. Nämnden ska bistå annan sektionsverksamhet genom uppträdanden på exempelvis Vårbalen eller liknande evenemang. Verksamheten i övrigt bestäms i samråd med medlemmarna i början av varje läsår.
 
-## §3.22 D-Dagen
+## §3.21 D-Dagen
 
-### §3.22.1 Ändamål
+### §3.21.1 Ändamål
 
 D-Dagen har till uppgift att informera näringslivet om sektionen och datateknikprogrammet, att informera sektionens medlemmar om näringslivet, att främja sektionsmedlemmarnas status på arbetsmarknaden samt att inbringa sponsorpengar till sektionen. Detta görs genom en årlig arbetsmarknadsdag och mindre evenemang arrangerade intilliggande mässan.
 
-### §3.22.2 Organisation
+### §3.21.2 Organisation
 
 D-Dagen leds av D-Dagenansvariga. D-Dagens medlemmar utses av D-Dagenansvariga.
 
-### §3.22.3 Verksamhet
+### §3.21.3 Verksamhet
 
 D-Dagen ska
 
@@ -629,11 +629,11 @@ D-Dagen ska
 
 -   se till att sektionen uppfyller avtal framförhandlade av D-Dagen.
 
-### §3.22.4 Avtal
+### §3.21.4 Avtal
 
 D-Dagenansvariga har rätt att förhandla fram avtal med företag och organisationer. Firmatecknare har rätt att utfärda en fullmakt till D-Dagenansvariga för att dessa ska kunna ingå i sagda avtal.
 
-### §3.22.5 Bokföringsplikt
+### §3.21.5 Bokföringsplikt
 
 D-Dagen är bokföringspliktigt.
 
@@ -903,25 +903,25 @@ International student coordinator, förkortat ISC, är det engelska namnet.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod
 
-### §5.2.19 Datas Art Director
+### §5.2.18 Datas Art Director
 
 Är ordförande för Tag Monkeys.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
 
-### §5.2.20 Chefredaqtör
+### §5.2.19 Chefredaqtör
 
 Är ordförande för Redaqtionen.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §5.2.21 Systemansvarig
+### §5.2.20 Systemansvarig
 
 Är ordförande för Informationsorganet.
 
 Väljs på Val-SM. Har mandatperiod från 1:a juli till 30:e december nästkommande år.
 
-### §5.2.22 Mulle/Mullerina Schmeck
+### §5.2.21 Mulle/Mullerina Schmeck
 
 Är ordförande för Datasladden.
 
@@ -929,7 +929,7 @@ Mulle/Mullerina Schmeck bör besitta det förarbevis som krävs för att framfö
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
-### §5.2.23 Körmästare
+### §5.2.22 Körmästare
 
 Är ordförande för Scala.
 
