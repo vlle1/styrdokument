@@ -236,7 +236,7 @@ Valberedningen ska tillfråga de nominerade huruvida de vill acceptera nominerin
 
 Nomineringslistan ska anslås enligt §[3.13.1] senast 35 dagar före SM då ordinarie val sker. Nominering till funktionärspost måste lämnas in senast 21 dagar före det SM där valet sker. Nominering till funktionärspost måste accepteras senast 14 dagar före det SM där valet sker för att kandidaturen ska vara giltig.
 
-Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 7 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 7 dagar och därefter ska acceptansstoppet vara 1 dag innan SM. Detta gäller inte Sektionsordförande, Vice sektionsordförande Kassör, samt Kårfullmäktigeledamöter och -suppleanter för att möjliggöra urnval.
+Om inga nomineringar lämnats in vid sista nomineringsdag kan Valberedningens ordförande flytta fram nomineringsstopp samt acceptansstopp 7 dagar för den specifika posten. I händelse att det finns färre kandidater än antalet som ska väljas efter acceptansstopp ska Valberedningens ordförande ha möjlighet att öppna upp ytterligare en nomineringsperiod för den givna posten på 7 dagar och därefter ska acceptansstoppet vara 1 dag innan SM. Detta gäller inte Sektionsordförande, Vice sektionsordförande, Kassör samt Kårfullmäktigeledamöter och -suppleanter för att möjliggöra urnval.
 
 ### §3.13.3 Fyllnadsval
 

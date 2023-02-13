@@ -400,7 +400,11 @@ Allt intervjumaterial, exempelvis anteckningarna från dessa, samt de interna di
 
 Vid urnval ska Valberedningen hålla valperiod under minst 7 dagar direkt innan sektionsmötet. Resultatet av urnvalet ska redovisas på sektionsmötet där valet hålls och där protokollföras. Urnval kan hållas digitalt varpå det ska övervakas av sektionens revisorer med hjälp av systemansvarig. Vid icke-digitalt urnval ska valurnan hållas tillgänglig för sektionens medlemmar i sektionslokalen eller annan likvärdig plats minst en timme per dag, i första hand under lunchtid. Dessa tider ska senast fem dagar i förväg annonseras enligt sektionens informationsspridningspolicy.
 
-Vid urnval används alternativomröstning. Väljarna rankar kandidaterna, där vakans och blankröst ska vara alternativ som kan rankas. Om ingen av kandidaterna uppnår enkel majoritet blir bottenkandidaten eliminerad, dock ej vakans, och dennes röster blir omfördelade till väljarnas nästahandsval av kandidat. Denna process upprepas tills dess att en kandidat uppnår enkel majoritet, varpå valet ska godkännas av SM enligt stadgarnas §[1.7](../stadgar#1-7-beslutsnivåer).
+Vid urnval röstar man genom att rangordna alla alternativ i valet, där vakans ska vara ett alternativ som kan rangordnas. För rösträkning används Schultze-metoden, vilket producerar en sammanställd rangordning. Alla kandidater som i denna rangordning är rangordnade under vakans kan inte bli valda.
+
+Om fler än ett mandat ska fördelas med samma urnval så sker detta i nedstigande ordning enligt den rangordning som producerats av rösträkningen. Om även mandat för suppleanter, vice eller liknande ska delas ut i samma val så sker detta i nedstigande ordning enligt samma rangordning, bland de kandidater som inte blev tilldelade ett ordinarie mandat. Om flera kandidater skulle vara lika rangordnade avgörs deras ordning genom slump.
+
+Resultat av urnval ska godkännas av SM enligt stadgarnas §[1.7](../stadgar#1-7-beslutsnivåer).
 
 ### §3.12.8 Valhandlingar
 
@@ -971,7 +975,7 @@ Såväl Kårfullmäktigeledamöter som -suppleanter skall delta på så många s
 
 #### §5.3.2.4 Mandatperiod
 
-Alla mandat tilldelade sektionen väljs på Val-SM och har läsår som mandatperiod.
+Alla mandat tilldelade sektionen väljs på Revisions-SM och har läsår som mandatperiod.
 
 ### §5.3.3 Programansvarig student
 
