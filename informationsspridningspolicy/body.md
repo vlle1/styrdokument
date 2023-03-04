@@ -1,38 +1,37 @@
-Informationsspridningspolicy
-================================
+<!-- Konglig Datasektionens informationsspridningspolicy -->
 
-§1 Om det här dokumentet
----------------------
+# §1 Om det här dokumentet
 
 Detta dokument innehåller riktlinjer för hur informationsspridning inom sektionen ska ske. Ordet informatör nedan betyder Datasektionen, dess nämnder och/eller dess funktionärer.
 
-§2 Officiella informationskanaler
-------------------------------
+# §2 Officiella informationskanaler
 
-Sektionens webbplats är dess officiella informationskanal. Därför ska information som kan intressera sektionens medlemmar i stort publiceras där först. Vidare ska dokument såsom kallelser, handlingar, protokoll och avtal som kan intressera sektionens medlemmar i stort fysiskt sättas upp i sektionslokalen i pappersformat, då minst i A4-format. Sådan information som kan presenteras väl i storbildsformat bör även publiceras på TV-skärmarna i sektionslokalen, om sådana finns.
+Sektionens webbplats är dess officiella informationskanal. Därför ska information som kan intressera sektionens medlemmar i stort publiceras där först.
 
-§3 Inofficiella informationskanaler
---------------------------------
+Sådan information som kan presenteras väl i storbildsformat bör även publiceras på TV-skärmarna i sektionslokalen, om sådana finns.
 
-Informatörer får använda egna informationskanaler utöver de officiella. Information i dessa inofficiella kanaler ska överensstämma med den som finns i de officiella. Datasektionen centralt ska ha representation i dominerande sociala medier. Information som inte bedöms som intressant för sektionens medlemmar i stort får publiceras i de inofficiella kanalerna utan att publiceras i de officiella kanalerna.
+# §3 Inofficiella informationskanaler
 
-§4 Information på engelska
------------------------
+Alla kanaler där informatörer sprider information som anses intressant för sektionens medlemmar i stort, utöver de officiella, klassas som inofficiella informationskanaler. I sådana informationskanaler ska KTHs uppförandekod, EECS Hederskodex och sektionens jämlikhetspolicy följas. Informationskanalen ska modereras kontinuerligt enligt dessa dokument.
 
-Information som går ut till sektionens medlemmar ska i största möjliga mån översättas till engelska. Dessutom ska information som bedöms vara av stor vikt för samtliga av sektionens medlemmar att kunna ta del av ska alltid sammanfattas på engelska. Exempel på när detta är tillämpbart är beslut som fattats på SM och information som rör sektionslokalen.
+Om dessa regler inte följs i ett forum kan D-rektoratet besluta om att forumet ska upphöra att användas som informationskanal. Informatörer har en skyldighet att inte bedriva sektionsverksamhet, exempelvis rekrytering eller marknadsföring, i de kanaler som bedömts olämpliga.
 
-§5 Anmälningar till arrangemang
-----------------------------
+För att uppnå dessa regler rekommenderas att alla användare är identifierbara för moderatorerna, eller använder sitt för- och efternamn i kanalen.
 
-Arrangemang ordnade av informatör får inte kräva att tilltänkta gäster måste logga in på någon extern tjänst (KTH-inloggning är dock ett tillåtet alternativ) för tillgång till anmälan eller information om arrangemanget. Anmälan till arrangemang som är riktade till sektionens medlemmar i stort måste öppnas samtidigt för samtliga sektionsmedlemmar. Det är dock tillåtet att reservera ett bestämt antal platser till personer som har hedersplats på arrangemanget. En sådan reservation måste då framgå vid anmälan till arrangemanget.
+Information i inofficiella kanaler ska överensstämma med den som finns i de officiella. Datasektionen centralt ska ha representation i dominerande sociala medier. Information som inte bedöms som intressant för sektionens medlemmar i stort får publiceras i de inofficiella kanalerna utan att publiceras i de officiella kanalerna.
 
-§6 Känsliga uppgifter
-------------------
+# §4 Information på engelska
+
+Information som går ut till sektionens medlemmar ska i största möjliga mån översättas till engelska. Dessutom ska information som bedöms vara av stor vikt för samtliga av sektionens medlemmar att kunna ta del av alltid sammanfattas på engelska. Exempel på när detta är tillämpbart är beslut som fattats på SM och information som rör sektionslokalen.
+
+# §5 Anmälningar till arrangemang
+
+Arrangemang anordnade av informatör får inte kräva att tilltänkta gäster måste logga in på någon extern tjänst (KTH-inloggning är dock ett tillåtet alternativ) för tillgång till anmälan eller information om arrangemanget. Anmälan till arrangemang som är riktade till sektionens medlemmar i stort måste öppnas samtidigt för samtliga sektionsmedlemmar. Det är dock tillåtet att reservera ett bestämt antal platser till personer som har hedersplats på arrangemanget. En sådan reservation måste då framgå vid anmälan till arrangemanget.
+
+# §6 Känsliga uppgifter
 
 Personliga uppgifter och handlingar som kan anses känsliga för enskilda individer ska hanteras med varsamhet och respekt. Dessa får endast spridas eller publiceras i interna, skyddade informationskanaler och med berörda individers uttryckliga godkännande.
 
-§7 Närvaro i informationskanaler
------------------------------
+# §7 Närvaro i informationskanaler
 
-Sektionens informatörer bör vara medvetna om sin närvaro som representanter i officiella och inofficiella sammanhang - exempelvis Datasektionens hemsida såväl som i kommentarsfält och mailinglistor. Alla medlemmar bör också uppmärksamma att våra mailinglistor bör vara fria från exempelvis personangrepp, hot, hets mot folkgrupp och sexuella trakasserier, samt att grovt opassande beteende i dessa vid behov kan följas upp med tillfällig avstängning från dem. Vid beslut om avstängning av medlem från informationskanal måste revisorerna alltid meddelas.
-
+Sektionens informatörer bör vara medvetna om sin närvaro som representanter i officiella och inofficiella sammanhang - exempelvis på Datasektionens hemsida såväl som i kommentarsfält och mailinglistor. Alla medlemmar bör också uppmärksamma att våra digitala forum ska följa KTHs uppförandekod, EECS Hederskodex, sektionens jämlikhetspolicy samt att grovt opassande beteende i dessa vid behov kan följas upp med tillfällig avstängning från dem. Vid beslut om avstängning av medlem från informationskanal måste revisorerna alltid meddelas.
