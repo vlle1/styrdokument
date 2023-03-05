@@ -1,7 +1,6 @@
-#Recruitment Policy
-
-## The document’s validity ##
-The contents in this document does not regulate the CS chapter. This document is meant as an english interpretation of its swedish counterpart.
+> NOTE: This document is an english interpretation of its swedish counterpart. The chapter is solely regulated by the contents of the swedish version. 
+> 
+> In case of unclear translations or other discrepancies please contact [the chapter's board](mailto:drek@datasektionen.se).
 
 ## §1 Purpose and goals ##
 The purpose of this document is to describe how selection and recruitment to both committees and projects at the CS chapter is to take place. One goal for the CS chapter is that all members have equal opportunities to get involved in all parts of the organization. All members must always have the opportunity to apply for positions elected by the chapter meeting, as well as for the positions that in turn can be appointed by elected representatives. This document aims to describe how those responsible in all contexts related to selection and recruitment should strive to have open and transparent processes, and how this can be achieved.

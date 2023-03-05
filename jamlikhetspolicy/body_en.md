@@ -1,7 +1,6 @@
-#Equality Policy #
-
-## The document’s validity ##
-The contents in this document does not regulate the CS chapter. This document is meant as an english interpretation of its swedish counterpart.
+> NOTE: This document is an english interpretation of its swedish counterpart. The chapter is solely regulated by the contents of the swedish version. 
+> 
+> In case of unclear translations or other discrepancies please contact [the chapter's board](mailto:drek@datasektionen.se).
 
 ## Background ##
 This document has been developed as a supplement to THS equality, diversity and equal treatment (JML) policy. This is to make it clear how we work with Equality, diversity and equal treatment at the Chapter of computer science. The document is created so that each section is linked to a section in THS policy, the first paragraph of each section is the entire policy item. This is followed by subsections that specify how we at the Chapter of computer science work with the policy item. For word definitions, we refer to [THS Equality policy] (https://cdn.thskth.se/wp-content/uploads/2019/04/ths_jml-policy_english.pdf).

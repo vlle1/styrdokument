@@ -1,8 +1,11 @@
+TODO update from 2019
+> NOTE: This document is an english interpretation of its swedish counterpart. The chapter is solely regulated by the contents of the swedish version. 
+> 
+> In case of unclear translations or other discrepancies please contact [the chapter's board](mailto:drek@datasektionen.se).
+
 §1 Responsibilities
 ============
 
-## The document’s validity ##
-The contents in this document does not regulate the CS chapter. This document is meant as an english interpretation of its swedish counterpart.
 
 
 For those that assume elected office as δ-officer it will not just be a simple cake walk. As a δ-officer one has responsibilities and there are a number of obligations that we in the D-directorate want all δ-officers to follow. The purpose of this text is to try to give clarity in what these obligations are and what one can get by following them.

@@ -1,7 +1,7 @@
-
-
-## The document’s validity ##
-The contents in this document does not regulate the CS chapter. This document is meant as an english interpretation of its swedish counterpart.
+TODO update from 2019
+> NOTE: This document is an english interpretation of its swedish counterpart. The chapter is solely regulated by the contents of the swedish version. 
+> 
+> In case of unclear translations or other discrepancies please contact [the chapter's board](mailto:drek@datasektionen.se).
 
 ## §1 Relation to other regulations
 
