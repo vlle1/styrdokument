@@ -1,0 +1,132 @@
+swedish_standardised_term, english_standardised_term, swedish_alternatives, english_alternatives, comments
+,,,, POSITIONS and GROUPS
+Vice ...,Vice ...
+...ordförande,Head of ...,
+
+funktionär,official, , ,
+funktionärspost,officer post,,,SUGGESTION: change eng. to official post (funktionär=official)
+nämnd ,committee
+Ordförande,Chairperson,,"Chair,Chairman,Chairwoman"
+förtroendevald,elected representative
+projektledare,project manager
+Återkommande projekt,Recurring projects
+
+Styrelse,Board,"d-Rektorat,Ledningsgrupp","d-Directorate, Directorate",
+Sektionsordförande,Chapter President,
+Kassör,Treasurer,
+Sekreterare,Secretary,
+Ledamot för ..., Board member of ...,,commissioner for,
+Ledamot för utbildningsfrågor,Board member of Educational issues,d-UF
+Ledamot för studiesociala frågor,Board member of Student issues,,,d-SFOR old name?
+Ledamot för studiemiljöfrågor,Board member for work environment,d-SMF,,outdated?
+Ledamot för näringsliv och kommunikaion,Board member of business relations,
+Revisor,Accountant,,Statury auditor
+Justeringsperson,Attestator and teller
+Kårfullmäktige delegater,Student union assembly delegates,
+Kommunikatör,Head of Communication
+Konglig lokalchef,Royal chief of halls
+Sektionshistoriker,Chapter historian
+Valberedningen,Election Committee
+,Safety officer,,,SSO???
+
+programansvarig student,,,program responsible student,??
+servingsansvarig,Serving manager
+utrymningsansvarig,,,,????
+,,,,POSITIONS and GROUPS > Clubs (nämnder)
+Studienämnden,Education committee,,study board,isn't study board used more often??
+Idrottsledare,Chapter Sports leader
+Klubbmästare,Head Bartender
+Ärkedemon,Arch demon
+Chefredaqtör,Chief editor
+D-dagenansvarig,Chapter business fair officer
+,Chapter systems officer,,,d-SYS
+Datas art director,Data's art director,DAD
+internationella nämnden,international committee,
+Desctop,Desctop
+Jämlikhetsnämnden,Equality committee
+Näringslivsansvarig,Head of Business Relations
+Näringslivsgruppen,Industrial Contact committee,NLG
+prylmångleriet,prylmångleriet
+Qulturattaché,Cultural attaché
+Öfvermatrona,Head matron
+Mottagning,Reception, orientation
+
+,,,,DOCUMENTS
+Kallelse,Summons,,Invitation
+Protokoll,Minutes,,Protocols
+Mötesprotokoll,meeting minutes
+Handlingar,Agenda,Dagordning,,DIFFERENCE handlingar+dagordning?
+Valhandlingar,Election Documents
+Motion,Motion,,Resolution
+Proposition,Proposal
+bilaga,appendix
+revisionsberättelse,auditor's report
+
+verksamhetsavstämning,operation record
+Verksamhetsberättelse,Operational report
+verksamhetsberättelse,operational plan
+Verksamhetsplan,Operational plan
+
+Stadgar,Statutes,,,not to be confused with By-laws
+Reglemente,By-laws,,,not to be confused with Statutes
+Samboendeavtal,cohabitation agreement
+Alkoholpolicy,Alcohol policy
+Dfunkpolicy,D-official policy
+Ekonomiska Styrdokument,Economic regulation documents
+Informationshanteringspolicy,Information handling policy
+Informationsspridningspolicy,Information distribution policy
+Jämligheitspolicy,Equality policy,JML policy
+Klimatpolicy,Climate Policy
+Rekryteringspolicy,Recruitment policy
+
+,,,,MEETINGS
+Sektionsmöte,Chapter meeting,SM
+Direktionsmöte,Board meeting,DM
+närvarolista,list of attendance
+beslut,decision,,resolve
+Årsredovisning,financial report,,Financial statement
+Fyllnadsval,By-election,
+Formalia,Formalities
+söka,apply,kandidera,candidate
+inval,selection,,,
+rösträknare,teller
+andra läsningen, second reading
+Omarbetning,revision
+övriga frågor,,,any other business,???
+Prövning,Review
+revidera,audit,,revise
+Revision,Audit
+
+,,,,PLACES
+Sektionslokal,Chapter hall
+alkohollager,beverage stores,dryckeslager
+depositionsskåpet,safe deposit box
+
+,,,,MONEY and LEGAL STUFF
+Bokföring,Accounting
+bokslut,financial statement
+Dispositionsfond,Dispositional fund
+handkassa,hand box
+inköp ,purchasing
+Subventionera,Subsidize
+Schablonbelopp,flat rate
+
+,,,,LEGAL STUFF
+Fullmakt,Power of attorney,,"POA,Letter of attorney"
+serveringstillstånd,serving license
+Entledigande,Dismissal
+Sprit,Spirit
+Firmatecknare,,,Authorised Signatory,???
+Ansvarsbefrielse,Freedom from liability,,,???nånting om discharge
+
+,,,,OTHER
+Extrainsatt,extraordinary
+fika,fika,,coffee break
+hedersdelta,Delta of Honor
+sektion,chapter
+Datasektionen,Chapter of computer science,"Data,D",CS chapter,
+
+,,,,DONT KNOW
+Adjungeringar,,,Cooptations,???
+Utfärdande,issuance,,,????
+fastslå,adjudge
