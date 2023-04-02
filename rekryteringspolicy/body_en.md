@@ -29,12 +29,13 @@ How chapter members can participate in a club or project should be openly and cl
     - Prior to each selection, the responsible officer is required to contact the Election Committee with a plan for their selection process.
     - If the Election Commitee deems it necessary, they have the right to request changes to the plan.
 4. The Election Committee has the right to request information on the selections of clubs and projects at any time.
-
--- TODO from here --
-
+    - Such a request can only be made with the approval of the Chair of the Election Committee or by majority vote of the Election Committee.
+    - Members of the Election Committee who are standing for election are not entitled to vote on such a request or to receive specific information on that election.
+    - The responsible Election Committee member should always be able to justify his/her selection decisions.
+    - This information shall be kept confidential and only the current Election Committee and auditors may access it.
 
 # §5 Internal recruitment
-Within committees and projects, there may be internal areas of responsibility that are distributed between the committed members. Examples of internal areas of responsibility can be städskri in METAdorerna and barmasters in DKM. The opportunity for a member to be responsible for an internal area of responsibility must in these cases be communicated openly within the committee or the project.
+Within committees and projects, there may be internal areas of responsibility that are distributed between the engaged members. Examples of internal areas of responsibility can be Städskri in METAdorerna and the Head Bartender in DKM. The opportunity for a member to be responsible for an internal area of responsibility must in these cases be communicated openly within the committee or the project.
 
 # §6 Transparency
-In order to contribute to increased transparency in selection and recruitment, the committee chairman and project manager must present to each SM the basis for selection and recruitment made since the previous SM if selection or recruitment to the committee or project has taken place. The documentation must prove that recruitments and selections have been made in an equal and merit-based manner. This does not mean that recruitment or selection must be justified at the individual level, but can in practice mean that you present, for example, what experience and / or which personal qualities have generally been sought after in candidates.
+In order to contribute to increased transparency in selection ("inval") and recruitment ("rekrytering"), the committee chairman and project manager must present to each SM the basis for selection and recruitment made since the previous SM if selection or recruitment to the committee or project has taken place. The documentation must prove that recruitments and selections have been made in an equal and merit-based manner. This does not mean that recruitment or selection must be justified at the individual level, but can in practice mean that you present, for example, what experience and / or which personal qualities have generally been sought after in candidates.
