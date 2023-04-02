@@ -22,11 +22,11 @@ Till varje Sektionsmöte förväntas du som δ-funktionär skriva en rapport om 
 
 ## §1.5 Gå på utbildning
 
-Varje termin anordnas det en funktionärsutbildning och en JML-utbildning. Som funktionär är det din skyldighet att gå på funktionärutbildningen en gång under din mandatperiod såvida du inte redan har gått utbildningen under en tidigare mandatperiod. D-rektoratet har alltid rätt att begära att du går på funktionärsutbildningen under en specifik mandatperiod, vilket då är din skyldighet. Du har en skyldighet att gå på JML-utbildningen en gång under din mandatperiod.
+Varje termin anordnas det en funktionärsutbildning och en JML-utbildning. Som funktionär är det din skyldighet att gå på funktionärsutbildningen en gång under din mandatperiod såvida du inte redan har gått utbildningen under en tidigare mandatperiod. D-rektoratet har alltid rätt att begära att du går på funktionärsutbildningen under en specifik mandatperiod, vilket då är din skyldighet. Du har en skyldighet att gå på JML-utbildningen en gång under din mandatperiod.
 
 ## §1.6 D-råd
 
-De flesta funktionärer tillhör ett av de ämnesspecifika råd som finns internt på sektionen. Målet med råden är att tillhandahålla en plattform för kommunikation och samverkan inom ett visst område såsom näringslivs-, utbildnings- och lokalfrågor som berör sektionen; och träffas cirka fyra gånger per år. Ett råd koordineras av någon i D-rektoratet och det är funktionärernas skyldighet att delta i möjligaste mån. D-rektoratet beslutar om vilka råd som finns, och deras sammansättning. Funktionärer som inte ingår i ett råd, har istället individuella utvecklingssamtal med någon i styrelsen.
+De flesta funktionärer tillhör ett av de ämnesspecifika råd som finns internt på sektionen. Målet med råden är att tillhandahålla en plattform för kommunikation och samverkan inom ett visst area such as business, education and local issues. som berör sektionen; och träffas cirka fyra gånger per år. Ett råd koordineras av någon i D-rektoratet och det är funktionärernas skyldighet att delta i möjligaste mån. D-rektoratet beslutar om vilka råd som finns, och deras sammansättning. Funktionärer som inte ingår i ett råd, har istället individuella utvecklingssamtal med någon i styrelsen.
 
 ## §1.7 Teambuilding
 

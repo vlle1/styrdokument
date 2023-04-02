@@ -5,7 +5,7 @@ TODO update from 2019
 
 # §1 About this document
 
-This document contains guidelines for how information is to be disseminated within the chapter. The word informant below means the CS chapter, its committees and / or its officers.
+This document contains guidelines for how information is to be disseminated within the chapter. The word informant below means the CS chapter, its committees and / or its officials.
 
 # §2 Official information channels
 

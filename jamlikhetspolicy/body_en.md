@@ -28,7 +28,7 @@ All premises that the Chapter of computer science uses at its events must be phy
 
 ## §2.2
 
-Officers and the board must take into account the members' workload and be sensitive to potential overtime, and if such arises, make changes to relieve them.
+Officials and the board must take into account the members' workload and be sensitive to potential overtime, and if such arises, make changes to relieve them.
 
 ## §3 Equal terms
 
@@ -64,7 +64,7 @@ THS shall be actively norm critical and self-investigative.
 
 ## §5.1
 
-At each selection, a self-evaluation must be made by the responsible officer to ensure that no bias has affected the decision as specified in the [Recruitment policy] (https://styrdokument.datasektionen.se/rekryteringspolicy).
+At each selection, a self-evaluation must be made by the responsible official to ensure that no bias has affected the decision as specified in the [Recruitment policy] (https://styrdokument.datasektionen.se/rekryteringspolicy).
 
 ## §5.2
 
@@ -83,7 +83,7 @@ Selection must be transparent and presented as specified in §6 of the [Recruitm
 Material must be made available in the languages ​​and to the extent specified in the [Information dissemination policy] (https://styrdokument.datasektionen.se/informationsspridningspolicy).
 Responsibility
 
-The ultimate responsibility for compliance with the policy lies on the chapter president, the Chairman of the Equality Committee, the Safety officer and the Board.
+The ultimate responsibility for compliance with the policy lies on the chapter president, the Chairman of the Equality Committee, the Safety official and the Board.
 Other documents
 
 [THS JML-policy] (http://mit-kth.se/wp-content/uploads/2017/01/THS-JML-policy_reviderad.pdf)
@@ -95,7 +95,7 @@ Contact
 chapter president[ordf@d.kth.se](mailto: ordf@d.kth.se)
 Chairman of the Equality Committee [jamlikordf@d.kth.se](mailto: jamlikordf@d.kth.se)
 D-directorate (Royal Data chapter Board) [drek@d.kth.se](mailto: drek@d.kth.se)
-Safety officer [sso@d.kth.se](mailto: sso@d.kth.se)
+Safety official [sso@d.kth.se](mailto: sso@d.kth.se)
 THS social relations [studiesocialt@ths.kth.se](mailto: studiesocialt@ths.kth.se)
 EECS Chief of Staff [marianlu@kth.se](mailto: marianlu@kth.se)
 KTH Equality Office [equalityoffice@kth.se](mailto: qualityoffice@kth.se)

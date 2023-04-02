@@ -4,7 +4,7 @@ Vice ...,Vice ...
 ...ordförande,Head of ...,
 
 funktionär,official, , ,
-funktionärspost,officer post,,,SUGGESTION: change eng. to official post (funktionär=official)
+funktionärspost,official post,,,new - old was "officer"
 nämnd ,club
 Ordförande,Chairperson,,"Chair,Chairman,Chairwoman"
 förtroendevald,elected representative
@@ -27,7 +27,7 @@ Kommunikatör,Head of Communication
 Konglig lokalchef,Royal chief of halls
 Sektionshistoriker,Chapter historian
 Valberedningen,Election Committee
-studerandeskyddsombud,Safety officer,SSO
+studerandeskyddsombud,student-safety ombudsman,SSO,,ny!
 
 programansvarig student,,,program responsible student,??
 servingsansvarig,Serving manager
@@ -38,8 +38,8 @@ Idrottsledare,Chapter Sports leader
 Klubbmästare,Head Bartender
 Ärkedemon,Arch demon
 Chefredaqtör,Chief editor
-D-dagenansvarig,Chapter business fair officer
-,Chapter systems officer,,,d-SYS
+D-dagenansvarig,D-day responsible,,,ny - todo: change in reglemente
+,Chapter systems official,d-SYS,,
 Datas art director,Data's art director,DAD
 internationella nämnden,international committee,
 Desctop,Desctop
@@ -83,6 +83,9 @@ Rekryteringspolicy,recruitment policy
 ,,,,MEETINGS
 Sektionsmöte,Chapter meeting,SM
 Direktionsmöte,Board meeting,DM
+JML-utbildning, equality training,,equality training seminar,NY - används i dfunktpolicy!
+funktionärsutbildning, general training,, training for officials,NY - används i dfunktpolicy!
+
 närvarolista,list of attendance
 beslut,decision,,resolve
 Årsredovisning,financial report,,Financial statement
@@ -98,6 +101,9 @@ Prövning,Review
 revidera,audit,,revise
 Revision,Audit
 
+,,,,EVENTS
+D-dagen,D-day,datasektionens arbetsmässa,the CS chapter's career fair,
+skiftesgasque,shift-gasque,,
 ,,,,PLACES
 Sektionslokal,Chapter hall
 alkohollager,beverage stores,dryckeslager

@@ -5,7 +5,7 @@ TODO outdated :/
 
 # §1 Background
 
-This document shall have two different purposes. Firstly, it shall contain the regulations regarding how the chapter’s economy is managed. Secondly, the document shall function as a quick educational resource for how D-officers and committees shall take care of their economy and economic accounting.
+This document shall have two different purposes. Firstly, it shall contain the regulations regarding how the chapter’s economy is managed. Secondly, the document shall function as a quick educational resource for how D-officials and committees shall take care of their economy and economic accounting.
 
 # §2 Accounting duty
 
@@ -38,7 +38,7 @@ A receipt or alternatively an invoice shall be offered in some form for all sale
 # §7 invoices
 ## §7.1 Purchase by invoice
 
-Purchases by invoice implies for the most part that one uses one of the chapter’s credit agreements. This can be done by the chapter’s officers, both directly (the officer uses the credit agreement) or indirectly (by order of an officer, a person uses the credit agreement). The officer shall see to that there’s enough budget for the costs. When purchasing wares for an agency within the chapter, credit agreements written by other agencies within the chapter can be used. However, the buyer is responsible for being informed on the limits of the credit agreement. As soon as it is known, the Treasurer shall be informed of purchases which exceed 50000 kr that can affect the chapter’s economy at large. All invoices in the chapter’s name shall be sent to the chapter’s current invoice address.
+Purchases by invoice implies for the most part that one uses one of the chapter’s credit agreements. This can be done by the chapter’s officials, both directly (the official uses the credit agreement) or indirectly (by order of an official, a person uses the credit agreement). The official shall see to that there’s enough budget for the costs. When purchasing wares for an agency within the chapter, credit agreements written by other agencies within the chapter can be used. However, the buyer is responsible for being informed on the limits of the credit agreement. As soon as it is known, the Treasurer shall be informed of purchases which exceed 50000 kr that can affect the chapter’s economy at large. All invoices in the chapter’s name shall be sent to the chapter’s current invoice address.
 
 ## §7.2 sales by invoice
 
@@ -46,7 +46,7 @@ Invoices issued by the chapter shall be created through a method specified by th
 
 # §8 Budget
 
-The budget is an instrument used to attempt to plan and predict how the economy of the operation year will look like. The budget shall be followed as much as possible, although if reality won’t allow this, one will be forced to disregard the budget. If a budget violation has to be made, the Treasurer must be informed of this before the violation has occurred. In the overall budget that is determined on SM, the following posts are present: revenue, expenses, external balance and internal balance. In addition, it is required that each committee and project on SM can present a retail budget which corresponds to or is less than the external balance and internal balance in the overall budget. Officers that have a retail budget can counsel with the chapter board and together revise this budget in preparation for or during an operation year. Such changes shall be presented at a board meeting (DM).
+The budget is an instrument used to attempt to plan and predict how the economy of the operation year will look like. The budget shall be followed as much as possible, although if reality won’t allow this, one will be forced to disregard the budget. If a budget violation has to be made, the Treasurer must be informed of this before the violation has occurred. In the overall budget that is determined on SM, the following posts are present: revenue, expenses, external balance and internal balance. In addition, it is required that each committee and project on SM can present a retail budget which corresponds to or is less than the external balance and internal balance in the overall budget. Officials that have a retail budget can counsel with the chapter board and together revise this budget in preparation for or during an operation year. Such changes shall be presented at a board meeting (DM).
 
 ## §8.1 Explanation
 
@@ -78,7 +78,7 @@ Clothes that belong to the member, e.g. hoodies with personal print or the recep
 
 # §11 Access
 
-Signatories have access to view and manage all the chapter's assets and transactions at the bank. Auditors have access to see all the chapter's assets and transactions at the bank. The committee presidents and project leaders for committees and projects that have accounting duty must have access to see and manage the assets that are in their own committee's bank account. Accounting officers appointed by the committee president or project leader have the right to see assets and transactions in the committee's / project's bank account. In addition to these bank accesses, the D-directorate can, through a decision at DM, decide to give other people access to see and / or manage the chapter's assets. Signatories also have the right to withdraw people's accesses, which must then be tested at the next DM.
+Signatories have access to view and manage all the chapter's assets and transactions at the bank. Auditors have access to see all the chapter's assets and transactions at the bank. The committee presidents and project leaders for committees and projects that have accounting duty must have access to see and manage the assets that are in their own committee's bank account. Accounting officials appointed by the committee president or project leader have the right to see assets and transactions in the committee's / project's bank account. In addition to these bank accesses, the D-directorate can, through a decision at DM, decide to give other people access to see and / or manage the chapter's assets. Signatories also have the right to withdraw people's accesses, which must then be tested at the next DM.
 
 # §12 Certification
 
