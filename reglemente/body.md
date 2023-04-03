@@ -641,6 +641,27 @@ D-Dagenansvariga har rätt att förhandla fram avtal med företag och organisati
 
 D-Dagen är bokföringspliktigt.
 
+## §3.22 dJulkalendern
+
+### §3.22.1 Ändamål
+
+dJulkalenderns ändamål är att främja intresse för etisk hackning, problem-
+lösning och CTF-tävlingar inom Konglig Datasektionen.
+
+### §3.22.2 Organisation
+
+dJulkalendern leds av Tomtemor/-far.
+Övriga medlemmar utses av Tomtemor/-far.
+
+### §3.22.3 Verksamhet
+
+dJulkalendern ska varje december anordna en CTF-liknande tävling på den
+världsvida webben för Konglig Datasektionsns medlemmar samt övriga in-
+tresserade.
+dJulkalendern ska även anordna dHöstkalendern, en mindre variant av dJul-
+kalendern för nyantagna medlemmar till Konglig Datasektionen under mot-
+tagningen.
+
 # §4 Delad verksamhet
 
 Delad verksamhet är ett samlingsord för alla nämnder och projekt som delar verksamhet med en annan organisation. De som är ansvariga för delad verksamhet ska ta ansvar för att respektera och följa de interna regler och praxis som finns i andra parters organisation i den mån som är möjlig. Detta kan exempelvis innebära att inte publicera bilder eller information som anses vara hemliga för den andra organisationer, att respektera traditioner vid tillställningar eller att följa regler vid lån av utrustning från en av parterna.
@@ -938,6 +959,12 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 Är ordförande för Scala.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
+
+### §5.2.23 Tomtemor/-far
+
+Är ordförande för dJulkalendern.
+Väljs på Revisions-SM. Har mandatperiod från 1:a april till 31:a mars.
+
 
 ## §5.3 Övriga funktionärer
 
