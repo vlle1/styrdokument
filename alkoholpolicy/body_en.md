@@ -35,11 +35,11 @@ Staff working at the chapter's events should always be sober, regardless of cont
 
 # §8 Alcohol during sittings
 
-In the case of sittings that use the Chapter’s alcohol permit, the serving responsible is responsible for noting and reporting the drink served during the sitting in accordance with the routines instructed by the Treasurer.
+In the case of sittings that use the Chapter's alcohol permit, the serving responsible is responsible for noting and reporting the drink served during the sitting in accordance with the routines instructed by the Treasurer.
 
 # §9 Activities outside the permanent serving permit
 
-For events outside the Chapter's permanent serving permit, the necessary permits must be obtained. If a temporary alcohol permit has not been obtained, alcohol serving shall nevertheless only take place in accordance with the Alcohol law. This means, for example, that selling alcohol with a profit in Osqvik may only take place if a permit has been obtained. All alcohol served outside the Chapter's alcohol permit must be purchased from Systembolaget and may not be taken from the chapter's beverage stores.
+For events outside the Chapter's permanent serving permit, the necessary permits must be obtained. If a temporary alcohol permit has not been obtained, alcohol serving shall nevertheless only take place in accordance with the Alcohol law. This means, for example, that selling alcohol with a profit in Osqvik may only take place if a permit has been obtained. All alcohol served outside the Chapter's alcohol permit must be purchased from Systembolaget and may not be taken from the chapter's beverage storage.
 
 # §10 Alcohol behind bar counter
 

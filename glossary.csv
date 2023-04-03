@@ -1,21 +1,21 @@
-swedish_standardised_term, english_standardised_term, swedish_alternatives, english_alternatives, comments
-,,,, POSITIONS and GROUPS
+swedish_standardised_term,english_standardised_term,swedish_alternatives,english_alternatives,comments
+,,,,POSITIONS and GROUPS
 Vice ...,Vice ...
 ...ordförande,Head of ...,
 
-funktionär,official, , ,
+funktionär,official,,,
 funktionärspost,official post,,,new - old was "officer"
-nämnd ,club
+nämnd,club
 Ordförande,Chairperson,,"Chair,Chairman,Chairwoman"
 förtroendevald,elected representative
 projektledare,project manager
 Återkommande projekt,Recurring projects
 
-Styrelse,Board,"d-Rektorat,Ledningsgrupp","d-Directorate, Directorate",
+Styrelse,board,"d-Rektorat,Ledningsgrupp","d-Directorate,Directorate",
 Sektionsordförande,Chapter President,
 Kassör,Treasurer,
 Sekreterare,Secretary,
-Ledamot för ..., Board member of ...,,commissioner for,
+Ledamot för ...,Board member of ...,,commissioner for,
 Ledamot för utbildningsfrågor,Board member of Educational issues,d-UF
 Ledamot för studiesociala frågor,Board member of Student issues,,,d-SFOR old name?
 Ledamot för studiemiljöfrågor,Board member for work environment,d-SMF,,outdated?
@@ -30,11 +30,12 @@ Valberedningen,Election Committee
 studerandeskyddsombud,student-safety ombudsman,SSO,,ny!
 
 programansvarig student,,,program responsible student,??
-servingsansvarig,Serving manager
+serveringsansvarig,Serving manager
 utrymningsansvarig,,,,????
 ,,,,POSITIONS and GROUPS > Clubs (nämnder)
 Studienämnden,Education committee,,study board,isn't study board used more often??
 Idrottsledare,Chapter Sports leader
+Datas Klubbmästeri,Data's Bartenders,DKM
 Klubbmästare,Head Bartender
 Ärkedemon,Arch demon
 Chefredaqtör,Chief editor
@@ -49,7 +50,7 @@ Näringslivsgruppen,Industrial Contact committee,NLG
 prylmångleriet,prylmångleriet
 Qulturattaché,Cultural attaché
 Öfvermatrona,Head matron
-Mottagning,Reception, orientation
+Mottagning,Reception,orientation
 
 ,,,,DOCUMENTS
 Kallelse,Summons,,Invitation
@@ -62,10 +63,10 @@ Proposition,Proposal
 bilaga,appendix
 revisionsberättelse,auditor's report
 
-verksamhetsavstämning,operation record
-Verksamhetsberättelse,Operational report
-verksamhetsberättelse,operational plan
-Verksamhetsplan,Operational plan
+verksamhetsavstämning,operational reconciliation,,,old: operational record
+verksamhetsberättelse,annual report,,,old: operational report
+Verksamhetsplan,operational plan,,,
+verksamhetsår,financial year,,,new!
 
 Styrdokument,,,,suggestion: Governance documents
 Stadgar,Statutes,,,not to be confused with By-laws
@@ -80,21 +81,23 @@ Jämligheitspolicy,Equality policy,JML policy
 Klimatpolicy,Climate Policy
 Rekryteringspolicy,recruitment policy
 
+Årsredovisning,financial report,,Financial statement,this is a document right??
+Ekonomiska redovisning,financial accounts,,,!!! HOW TO DIFFERENTIATE FROM ÅRSREDOVISNING in english? Old and unchanged: financial accounts.
+
 ,,,,MEETINGS
 Sektionsmöte,Chapter meeting,SM
 Direktionsmöte,Board meeting,DM
-JML-utbildning, equality training,,equality training seminar,NY - används i dfunktpolicy!
-funktionärsutbildning, general training,, training for officials,NY - används i dfunktpolicy!
+JML-utbildning,equality training,,equality training seminar,NY - används i dfunktpolicy!
+funktionärsutbildning,general training,,training for officials,NY - används i dfunktpolicy!
 
 närvarolista,list of attendance
 beslut,decision,,resolve
-Årsredovisning,financial report,,Financial statement
 Fyllnadsval,By-election,
 Formalia,Formalities
 söka,apply,kandidera,candidate
 inval,selection,,,
 rösträknare,teller
-andra läsningen, second reading
+andra läsningen,second reading
 Omarbetning,revision
 övriga frågor,,,any other business,???
 Prövning,Review
@@ -104,9 +107,10 @@ Revision,Audit
 ,,,,EVENTS
 D-dagen,D-day,datasektionens arbetsmässa,the CS chapter's career fair,
 skiftesgasque,shift-gasque,,
+teambuilding,team-building,TB,,write together or separate?
 ,,,,PLACES
 Sektionslokal,Chapter hall
-alkohollager,beverage stores,dryckeslager
+alkohollager,beverage storage,dryckeslager
 depositionsskåpet,safe deposit box
 
 ,,,,MONEY
@@ -114,10 +118,13 @@ Bokföring,Accounting
 bokslut,financial statement
 Dispositionsfond,Dispositional fund
 handkassa,hand box
-inköp ,purchasing
+inköp,purchasing
 Subventionera,Subsidize
 Schablonbelopp,flat rate
-
+budget,budget
+rambudget,overall budget
+detaljbudget,detailed budget
+budgetpost,budget item
 ,,,,LEGAL STUFF
 Fullmakt,Power of attorney,,"POA,Letter of attorney"
 serveringstillstånd,serving license
@@ -125,6 +132,7 @@ Entledigande,Dismissal
 Sprit,Spirit
 Firmatecknare,,,Authorised Signatory,???
 Ansvarsbefrielse,Freedom from liability,,,???nånting om discharge
+alkoholtillstånd,serving license,
 
 ,,,,OTHER
 Extrainsatt,extraordinary

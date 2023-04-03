@@ -9,7 +9,7 @@ This document contains guidelines for how information is to be disseminated with
 
 # §2 Official information channels
 
-The chapter's website is its official information channel. Therefore, information that may interest the members of the chapter in general should be published there first. Furthermore, documents such as summons, agendas, protocols and agreements that may interest the chapter’s members must be physically displayed in the chapter hall in paper format, then at least in A4 format. Such information that can be presented well in large screen format should also be published on the TV screens in the chapter hall, if such screens exist.
+The chapter's website is its official information channel. Therefore, information that may interest the members of the chapter in general should be published there first. Furthermore, documents such as summons, agendas, protocols and agreements that may interest the chapter's members must be physically displayed in the chapter hall in paper format, then at least in A4 format. Such information that can be presented well in large screen format should also be published on the TV screens in the chapter hall, if such screens exist.
 
 # §3 Unofficial information channels
 

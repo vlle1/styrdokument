@@ -16,7 +16,7 @@ When your term of office ends someone else takes over. It's your obligation to b
 
 ## §1.3 Testament
 
-In order for no knowledge to be forgotten between you and your successor, and to avoid the same wheel having to be invented again, it’s your obligation as official to write a testament ("testamente") when your term of office has ended.
+In order for no knowledge to be forgotten between you and your successor, and to avoid the same wheel having to be invented again, it's your obligation as official to write a testament ("testamente") when your term of office has ended.
 
 ## §1.4 Reports
 

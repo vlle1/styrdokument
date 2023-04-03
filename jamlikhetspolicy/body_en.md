@@ -36,7 +36,7 @@ Within THS, all individuals shall be treated on equal terms and have the same op
 
 ## §3.1
 
-The events that the Chapter of computer science arranges must strive towards that all participants must be able to participate under the same conditions, regardless of the individual participant’s abilities.
+The events that the Chapter of computer science arranges must strive towards that all participants must be able to participate under the same conditions, regardless of the individual participant's abilities.
 
 ## §3.2
 
