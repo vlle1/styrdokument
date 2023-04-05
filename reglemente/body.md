@@ -825,7 +825,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 Är tillsammans med Storasyskon ansvarig för Mottagningen.
 
-Väljs på Budget-SM. Har mandatperiod från 1:a november till 31:e december nästkommande år.
+Väljs på Budget-SM. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §5.2.5 Näringslivsansvarig
 
@@ -849,7 +849,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 Är tillsammans med Konglig Öfverdrif ansvarig för Mottagningen.
 
-Väljs på Budget-SM. Har mandatperiod från 1:a november till 31:e december nästkommande år.
+Väljs på Budget-SM. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §5.2.9 Studienämndens ordförande
 
