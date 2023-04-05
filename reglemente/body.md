@@ -891,7 +891,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 Är ordförande för D-Dagen. SM ska välja två D-Dagenansvariga.
 
-Väljs på Budget-SM. Har mandatperiod från 1:a november till 31:e december nästkommande år.
+Väljs på Budget-SM. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §5.2.16 Bakis
 
