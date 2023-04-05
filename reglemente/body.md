@@ -803,11 +803,11 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §5.2.1 Jämlikhetsnämndens ordförande
 
-Väljs på Val-SM. Har läsår som mandatperiod.
-
 Är ordförande för Jämlikhetsnämnden.
 
-Har även till uppgift att agera som studerandeskyddsombud för sektionen, med fokus på Jämlikhetsfrågor.
+Är studerandeskyddsombud, med fokus på jämlikhetsfrågor, för sektionen.
+
+Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §5.2.2 Klubbmästare
 
@@ -1081,7 +1081,10 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 #### §5.3.7.1 Ändamål
 
-Har till uppgift att agera som studerandeskyddsombud för sektionen, med fokus på studiemiljö. Ska såväl proaktivt som reaktivt verka för att sektions medlemmarnas studiemiljö är så bra som möjligt.
+Är studerandeskyddsombud, med fokus på studiemiljö, för sektionen.
+
+Ska pro- och reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som
+möjligt.
 
 #### §5.3.7.2 Organisation
 
