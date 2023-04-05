@@ -773,7 +773,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   bistå Näringslivsgruppen i samordnandet av näringslivsfrågor på sektionen.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.1.7 Ledamot för studiesociala frågor
 
@@ -787,7 +787,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 -   verka för en god sammanhållning mellan sektionens engagerade medlemmar.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.1.8 Ledamot för utbildningsfrågor
 
@@ -801,7 +801,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 -   från styrelsen samordna sektionen i frågor som rör utbildningspåverkan
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.1.9 Ledamot för studiemiljö och likabehandling
 
@@ -815,7 +815,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 -   från styrelsen arbeta med frågor som berör jämlikhet, mångfald och likabehandling på sektionen.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ## §5.2 Nämndordförande
 
@@ -861,7 +861,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 Är ordförande för Idrottsnämnden.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.2.8 Storasyskon
 
