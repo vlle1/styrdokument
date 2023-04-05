@@ -655,13 +655,9 @@ dJulkalendern leds av Tomtemor/-far.
 
 ### §3.22.3 Verksamhet
 
-dJulkalendern ska varje december anordna en CTF-liknande tävling på den
-världsvida webben för Konglig Datasektionsns medlemmar samt övriga in-
-tresserade.
+dJulkalendern ska varje december anordna en CTF-liknande tävling på den världsvida webben för Konglig Datasektionsns medlemmar samt övriga intresserade.
 
-dJulkalendern ska även anordna dHöstkalendern, en mindre variant av dJul-
-kalendern för nyantagna medlemmar till Konglig Datasektionen under mot-
-tagningen.
+dJulkalendern ska även anordna dHöstkalendern, en mindre variant av dJulkalendern för nyantagna medlemmar till Konglig Datasektionen under mottagningen.
 
 # §4 Delad verksamhet
 
