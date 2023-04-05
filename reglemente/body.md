@@ -1083,8 +1083,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 Är studerandeskyddsombud, med fokus på studiemiljö, för sektionen.
 
-Ska pro- och reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som
-möjligt.
+Ska pro- och reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
 
 #### §5.3.7.2 Organisation
 
