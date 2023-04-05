@@ -697,9 +697,9 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   tidigt vara med i arbetet att ta fram utkast till verksamhetsplan och verksamhetsberättelse för sektionen
 
--   efter ett SM publicera ett beslutprotokoll inom 24 timmar från mötets avslutande
+-   efter ett SM publicera ett beslutprotokoll inom 48 timmar från mötets avslutande
 
--   efter ett DM publicera ett beslutprotokoll inom 24 timmar från mötets avslutande.
+-   efter ett DM publicera ett beslutprotokoll inom 48 timmar från mötets avslutande.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
