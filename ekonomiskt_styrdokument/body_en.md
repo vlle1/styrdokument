@@ -50,10 +50,9 @@ Invoices ("fakturor") issued by the chapter shall be created through a method sp
 
 The budget ("budget") is an instrument used to attempt to plan and predict how the economy of the financial year ("verksamhetsår") will look like. The budget shall be followed as much as possible, although if reality doesn't allow this, one may need to disregard the budget. If a budget needs to be breached, the Treasurer must be informed of this before the breach has occurred. The overall budget ("rambudget") decided by the chapter meeting ("Sektionsmöte", SM) includes the items _Income_ ("_Intänker_") and _Expenditure_ ("_Utgifter_"). In addition to this, it is required that for each committee and project, a detailed budget ("detaljbudget"), that balances or has a better result than the framework budget, can be presented  at the SM. Officials who manage a detailed budget may, in consultation with the board, revise it during or before a financial year. Such changes must be reported at the board meeting ("Direktionsmöte", DM).
 
----- #TODO from here: add brackets, make sure standardised terms were used and that it is up-to-date ----
 ## §7.1 Obligation
 
-This freedom to shape a budget still requires that money is laid on the right things and that those with the right to pay for the expenses can deny payment, if the regulations within this document are not followed. The decision can be appealed according to the order in §A.
+The budget still requires that money is laid on the right things (??) and that those with the right to pay for the expenses can deny payment, if the regulations within this document are not followed. The decision can be appealed according to the order in §[A].
 
 ## §7.2 Usage of fika budget
 
@@ -61,11 +60,17 @@ Fika budget shall go to purchases of fika on meetings or other activities. It is
 
 # §8 Funds
 
-The CS chapter has in addition to those funds that are regulated in the statutes two other funds, namely the hall fund and the jubilee fund. How these funds can be used is regulated below, other usage of fund assets shall be determined by SM.
+The CS chapter has in addition to those funds that are regulated in the statutes ("stardgar") two other funds, namely the hall fund ("lokalfonden") and the jubilee fund ("jubileumsfonden"). How these funds can be used is regulated below, other usage of fund assets shall be decided at the chapter metting ("sektionsmöte", SM).
 
 ## §8.1 Hall fund
 
-The hall fund assets shall be used to purchase larger products to the hall and to see to that the chapter has a buffer in case the chapter needs to change chapter hall. usage of the hall fund's assets is determined by the D-directorate at DM (board meeting). The fund's assets shall only be used to pay for products and renovations in the chapter hall. The hall fund shall have enough assets for the payment of a hall relocation.
+The assets of the hall fund ("lokalfonden") shall be used to purchase larger items for the hall and provide a buffer in case the chapter needs to move to a new chapter hall. 
+
+Usage of the hall fund's assets is determined by the board at board meetings ("direktionsmöte", DM). The fund's assets may only be used to pay for items and renovations to the chapter hall. 
+
+The size of the hall fund should be sufficient to pay for the relocation of the chapter hall ("sektionslokal").
+
+---- #TODO from here: add brackets, make sure standardised terms were used and that it is up-to-date ----
 
 ## §8.2 Jubilee fund
 
