@@ -1,6 +1,4 @@
-> NOTE: This document is an english interpretation of its swedish counterpart. The chapter is solely regulated by the contents of the swedish version. 
-> 
-> In case of unclear translations or other discrepancies please contact [the chapter's board](mailto:drek@datasektionen.se).
+> NOTE: This document is an english interpretation of its swedish counterpart. The chapter is solely regulated by the contents of the swedish version. In case of unclear translations or other discrepancies please contact [the chapter's board](mailto:drek@datasektionen.se).
 
 # §1 Background
 
@@ -15,6 +13,7 @@ Committees that have accounting duty ("bokförningsplikt") such as DKM and the R
 Any receipt ("Kvitto") for a purchase done for the chapter shall be at the latest handed in 30 days after the purchase, in order for the debt to be paid back. After that the repayment can be denied. Debts shall be paid back within 5 weeks (excluding holidays), provided that all information is correctly recorded and the purpose of the purchase is clear.
 
 # §4 Storage
+
 ## §4.1 Management of beverage storage
 
 Data's bartenders ("Datas Klubbmästeri", DKM) manage the chapter's beverage storage, except under the reception period where the Reception ("Mottagningen") takes over this responsibility. This implies that it's mainly DKM that will refill the storage and document the refilling. Spirits, wine, cider and beer served on pub and club activities shall be stocked.
@@ -23,7 +22,7 @@ Beverage stocks shall be inventoried at least once every two months and before a
 
 ## §4.2 beverage storage during parties
 
-When a committee or project throws a party and uses the chapter's beverage storage, it shall be entered into the accounts by the commitee's or project's responsible for accounting the party. The committee/project should be charged for the purchase of the drinks and allocated the sale of the drinks. The cost for the purchase shall be calculated according to the flat rate provided by the Treasurer. The serving manager ("serveringsansvarig") for the party is responsible for that payment and an end of day report ("dagsavslut") is made according to the chapter's standards. The serving manager is also responsible for the treatment of any possible cash boxes ("handkassor") according to §[4] in this document. The serving manager shall within a reasonable time before the party contact the committee that manages the beverage storage and inform oneself of the regulations currently applicable to the chapter.
+When a committee or project throws a party and uses the chapter's beverage storage, it shall be entered into the accounts by the commitee's or project's accounting responsible the party. The committee/project should be charged for the purchase of the drinks and allocated the sale of the drinks. The cost for the purchase shall be calculated according to the flat rate provided by the Treasurer. The serving manager ("serveringsansvarig") for the party is responsible for that payment and an end of day report ("dagsavslut") is made according to the chapter's standards. The serving manager is also responsible for the treatment of any possible cash boxes ("handkassor") according to §[4] in this document. The serving manager shall within a reasonable time before the party contact the committee that manages the beverage storage and inform oneself of the regulations currently applicable to the chapter.
 
 ## §4.3 Other storages
 
@@ -34,6 +33,7 @@ Other storages (the overall storage for instance) shall be taken stock of once e
 A receipt or alternatively an invoice shall be offered in some form for all sales.
 
 # §6 Invoices
+
 ## §6.1 Purchase by invoice
 
 Purchasing by invoice ("faktura") usually means using one of the chapter's credit agreements ("kreditavtal"). This may be done by chapter officials, both directly (the official using the credit agreement) or indirectly (another person using the credit agreement on the order of the official). It is the official's responsibility to ensure that there is room in the budget for the costs. As a rule, it is possible to use credit agreements written by other bodies within the chaptor than the one you are buying for, but the person making the purchase is responsible for being informed about the limits of the credit agreement.
@@ -70,32 +70,47 @@ Usage of the hall fund's assets is determined by the board at board meetings ("d
 
 The size of the hall fund should be sufficient to pay for the relocation of the chapter hall ("sektionslokal").
 
----- #TODO from here: add brackets, make sure standardised terms were used and that it is up-to-date ----
-
 ## §8.2 Jubilee fund
 
-The jubilee fund's purpose is to prevent a single year's budget being stressed unnecessarily heavily in those years where the CS chapter is celebrating its anniversary. This money shall be allowed to be used for anniversary celebrations if board decisions deem it so. Since the fund's assets are not meant to be used every year, it is appropriate that the assets are deposited with this in mind. Deposits to the jubilee fund shall be of such size that the fund shall reach a sum of 10 price base amount when an anniversary celebration occurs.
+The purpose of the Jubilee Fund ("Jubileumsfonden") is to avoid an unnecessary burden on a single year's budget in years when the CS chapter ("Datasektionen") celebrates an anniversary. This money may be used for jubilee celebrations by decision of the Board. As the fund's money is not intended to be used every year, it is appropriate that the money is invested with this in mind.
+
+Contributions to the Jubilee Fund should be such that the fund reaches a total of 10 price base amounts ("prisbasbelopp") when an anniversary occurs.
 
 ## §8.3 50th anniversary fund
 
-The purpose of the 50th Anniversary Fund is to enable a major event on the 50th anniversary of the Computer Chapter. This fund is intended to be used together with the Jubilee Fund (see §8.2 Jubilee Fund) and therefore constitutes additional resources made available to celebrate the Data Chapter's 50th anniversary. This money may be used for anniversary celebrations by decision of the Board. As the fund's money is not intended to be used every year, it is appropriate that the money is invested with this in mind. Provisions to the 50th anniversary fund should be of such a size that the fund reaches a sum of 5 price base amounts when a 50th anniversary occurs.
+The purpose of the 50th Anniversary Fund ("50-år jubileumsfonden") is to enable a major event on the occasion of the chapter's 50th anniversary. This fund is intended to be used together with the Jubilee Fund (see §[8.2] Jubilee Fund) and therefore constitutes additional resources made available to celebrate the CS chapter's 50th anniversary. This money may be used for anniversary celebrations by decision of the Board. As the fund's money is not intended to be used every year, it is appropriate that the money is invested with this in mind. Contributions to the 50th anniversary fund should be of such a size that the fund reaches a sum of 5 price base amounts ("prisbasbelopp") when a 50th anniversary occurs.
 
-# §9 Subsidy of profile clothing
+# §9 Subsidization of profile clothing
 
-Clothes that belong to the member, e.g. hoodies with personal print or the reception shirts, are divided into two groups, uniform and profile clothing. What falls under uniform is determined by DM and must be justified by external regulations from, for example, the Licensing Unit or THS. Profile clothing may be subsidized to a maximum of 50% of the purchase price. The amount to be subsidized must be budgeted and categorized as an internal cost. The exception is if you have received the profile clothes sponsored. Sponsorship is then used to pay for the amount not paid for by the chapter. Thus, the entire shirt can be paid for by getting 50% or more of the shirt sponsored and the chapter goes in and pays the remaining amount from the budget.
+Clothing belonging to members, e.g. hoodies with personalized print or the reception shirts, is divided into two groups, uniform ("uniform") and profile clothing ("profilkläder"). What falls under uniform is assessed by the board meeting ("direktionsmöte", DM) and must be justified by external regulations from, for example, the Licensing Authority ("Tillståndsenheten") or THS.
+
+Profile clothing may be subsidized to a maximum of 50% of the purchase price. The amount to be subsidized must be budgeted and categorized as an internal cost.
+
+The exception is if the profile clothing is sponsored. The sponsorship is then deducted from the amount that is not subsidized by the chapter. Thus, the entire shirt can be paid by getting 50% or more of the shirt sponsored and the chapter pays the remaining amount from the budget.
 
 # §10 Access
 
-Signatories have access to view and manage all the chapter's assets and transactions at the bank. Auditors have access to see all the chapter's assets and transactions at the bank. The committee presidents and project leaders for committees and projects that have accounting duty must have access to see and manage the assets that are in their own committee's bank account. Accounting officials appointed by the committee president or project leader have the right to see assets and transactions in the committee's / project's bank account. In addition to these bank accesses, the D-directorate can, through a decision at DM, decide to give other people access to see and / or manage the chapter's assets. Signatories also have the right to withdraw people's accesses, which must then be tested at the next DM.
+Signatories and the Vice Treasurer ("Vice kassör") have access to view and manage all the chapter's assets and transactions in the bank.
+Auditors ("Revisorer") have access to view all the chapters's assets and transactions in the bank.
+
+Committee chairs ("Nämndordförande") and project managers ("projektledare") for committees and projects with accounting duty ("bokföringspliktiga") shall have access to view and manage the assets held in their own committee's/project's bank account.
+
+Accounting officers appointed by the board chair or project manager have the right to view the assets and transactions on the board's/project's bank account.
+
+In addition to these bank accesses, the board may, by decision of the board meeting (DM), decide to give other persons access to view and/or manage the section's assets. Signatories also have the right to withdraw people's access, which must then be reviewed at the next DM.
 
 # §11 Certification
 
-All expenses must be certified. Those who have the right to certify / reject an expense are, in ascending order, committee president / project leader for committees / projects that are subject to accounting duty and signatories. The committee president / project leader only has the right to certify expenses that are charged to the budget for which they are responsible. Rejection can be appealed according to the procedure in §A. However, one may not certify any expenses where oneself have spent money or benefited greatly from the nature of the expense (eg MUTA to oneself). In addition to these rights, the D-directorate can, in consultation with the committee president / project leader, decide on extra certification rights at DM. An expense is certified through the chapter's system for that purpose. An invoice is certified either through the chapter's system for that purpose or by approving the invoice payment at the bank.
+All expenses must be certified. Those who have the right to certify/reject an expense are, in ascending order: committee chairs/project leaders for committees/projects with accounting duty, the Vice Treasurer ("Vice Kassör") and signatories. The committee president/project leader only has the right to certify expenses that are charged to the budget for which they are responsible. Rejection can be appealed according to the procedure in §[A]. However, one may not certify any expenses where oneself have spent money or benefited greatly from the nature of the expense (eg fika to oneself). 
+
+In addition to these rights, the board can, in consultation with the committee president/project leader, decide on extra certification rights at a board meeting (DM). 
+
+An expense ("utlägg") is certified through the chapter's dedicated system. An invoice ("faktura") is certified either through the chapter's dedicated system or by approving the invoice payment at the bank.
 
 # §12 Agreements
 
-According to Swedish law, agreements can only be signed by signatories or holders of a power of attorney. Anyone wishing to sign an agreement in the chapter's name must contact a signatory as soon as possible to investigate the possibility of doing so. Agreements or the issuance of a power of attorney are decided to be signed either through DM, with support in regulation documents or with standard agreements. Agreements can in exceptional cases be signed retroactively. The person who by proxy signs an agreement in the name of the chapter is responsible for the original agreement being sent and received by the signatory as soon as possible. Signatories are responsible for keeping all the chapter's current applied agreements in an orderly and collective manner.
+According to Swedish law, agreements ("avtal") can only be signed by signatories ("firmatecknare") or holders of a power of attorney ("fullmakt"). Anyone wishing to sign an agreement in the chapter's name must contact a signatory as soon as possible to investigate the possibility of doing so. Agreements or the issuance of a power of attorney are decided to be signed either through a board meeting (DM), with support in governance documents ("styrdokument") or with standard agreements. Agreements can in exceptional cases be signed retroactively. The person who by proxy signs an agreement in the name of the chapter is responsible for the original agreement being sent and received by the signatory as soon as possible. Signatories are responsible for storing all the chapter's current agreements collected and orderly.
 
 # §A Decision procedure
 
-In order to have an organization where we can make quick decisions but at the same time have legal certainty, the parts that refer to this paragraph are assessed by the following bodies in ascending order: Treasurer, board, auditors, SM. If you believe that a decision is incorrect, you can therefore appeal to a higher instance.
+In order to have an organization where we can make quick decisions but at the same time have legal certainty, the parts that refer to this paragraph are assessed by the following bodies in ascending order: Treasurer ("Kassör"), board ("styrelse"), auditors ("revisorer"), chapter meeting ("sektionsmöte", SM). If you believe that a decision is incorrect, you can therefore appeal to a higher instance.

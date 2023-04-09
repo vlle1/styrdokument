@@ -68,7 +68,7 @@ verksamhetsberättelse,annual report,,,old: operational report
 Verksamhetsplan,operational plan,,,
 verksamhetsår,financial year,,,new!
 
-Styrdokument,,,,suggestion: Governance documents
+Styrdokument,governance documents,,regulation documents,new!
 Stadgar,Statutes,,,not to be confused with By-laws
 Reglemente,By-laws,,,not to be confused with Statutes
 Samboendeavtal,cohabitation agreement
@@ -115,6 +115,8 @@ depositionsskåpet,safe deposit box
 
 ,,,,MONEY
 Bokföring,Accounting
+Bokföringsansvariga,accounting responsible
+Bokföringspliktiga nämnder/projekt, committees/projects with accounting duty
 bokslut,financial statement
 Dispositionsfond,Dispositional fund
 handkassa,hand box
@@ -125,6 +127,8 @@ budget,budget
 rambudget,overall budget
 detaljbudget,detailed budget
 budgetpost,budget item
+utlägg,expense,,expenses
+faktura,invoice
 ,,,,LEGAL STUFF
 Fullmakt,Power of attorney,,"POA,Letter of attorney"
 serveringstillstånd,serving license
@@ -132,7 +136,8 @@ Entledigande,Dismissal
 Sprit,Spirit
 Firmatecknare,,,Authorised Signatory,???
 Ansvarsbefrielse,Freedom from liability,,,???nånting om discharge
-alkoholtillstånd,serving license,
+alkoholtillstånd,serving permit,
+Tillståndsenheten, Licensing Authority,,,new - ok?
 
 ,,,,OTHER
 Extrainsatt,extraordinary
@@ -140,6 +145,9 @@ fika,fika,,coffee break
 hedersdelta,Delta of Honor
 sektion,chapter
 Datasektionen,Chapter of computer science,"Data,D",CS chapter,
+Tekniska Högskolans Studentkår, Student Union, THS
+
+profilkläder, profile clothing,,,NEW. in ekonomisk
 
 ,,,,DONT KNOW
 Adjungeringar,,,Cooptations,???
