@@ -641,6 +641,24 @@ D-Dagenansvariga har rätt att förhandla fram avtal med företag och organisati
 
 D-Dagen är bokföringspliktigt.
 
+## §3.22 dJulkalendern
+
+### §3.22.1 Ändamål
+
+dJulkalenderns ändamål är att främja intresse för etisk hackning, problemlösning och CTF-tävlingar inom Konglig Datasektionen.
+
+### §3.22.2 Organisation
+
+dJulkalendern leds av Tomtemor/-far.
+
+Övriga medlemmar utses av Tomtemor/-far.
+
+### §3.22.3 Verksamhet
+
+dJulkalendern ska varje december anordna en CTF-liknande tävling på den världsvida webben för Konglig Datasektionsns medlemmar samt övriga intresserade.
+
+dJulkalendern ska även anordna dHöstkalendern, en mindre variant av dJulkalendern för nyantagna medlemmar till Konglig Datasektionen under mottagningen.
+
 # §4 Delad verksamhet
 
 Delad verksamhet är ett samlingsord för alla nämnder och projekt som delar verksamhet med en annan organisation. De som är ansvariga för delad verksamhet ska ta ansvar för att respektera och följa de interna regler och praxis som finns i andra parters organisation i den mån som är möjlig. Detta kan exempelvis innebära att inte publicera bilder eller information som anses vara hemliga för den andra organisationer, att respektera traditioner vid tillställningar eller att följa regler vid lån av utrustning från en av parterna.
@@ -697,9 +715,9 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   tidigt vara med i arbetet att ta fram utkast till verksamhetsplan och verksamhetsberättelse för sektionen
 
--   efter ett SM publicera ett beslutprotokoll inom 24 timmar från mötets avslutande
+-   efter ett SM publicera ett beslutprotokoll inom 48 timmar från mötets avslutande
 
--   efter ett DM publicera ett beslutprotokoll inom 24 timmar från mötets avslutande.
+-   efter ett DM publicera ett beslutprotokoll inom 48 timmar från mötets avslutande.
 
 Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
@@ -755,7 +773,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 -   bistå Näringslivsgruppen i samordnandet av näringslivsfrågor på sektionen.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.1.7 Ledamot för studiesociala frågor
 
@@ -769,7 +787,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 -   verka för en god sammanhållning mellan sektionens engagerade medlemmar.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.1.8 Ledamot för utbildningsfrågor
 
@@ -783,7 +801,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 -   från styrelsen samordna sektionen i frågor som rör utbildningspåverkan
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.1.9 Ledamot för studiemiljö och likabehandling
 
@@ -797,17 +815,17 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 -   från styrelsen arbeta med frågor som berör jämlikhet, mångfald och likabehandling på sektionen.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ## §5.2 Nämndordförande
 
 ### §5.2.1 Jämlikhetsnämndens ordförande
 
-Väljs på Val-SM. Har läsår som mandatperiod.
-
 Är ordförande för Jämlikhetsnämnden.
 
-Har även till uppgift att agera som studerandeskyddsombud för sektionen, med fokus på Jämlikhetsfrågor.
+Är studerandeskyddsombud, med fokus på jämlikhetsfrågor, för sektionen.
+
+Väljs på Val-SM. Har läsår som mandatperiod.
 
 ### §5.2.2 Klubbmästare
 
@@ -825,7 +843,7 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 Är tillsammans med Storasyskon ansvarig för Mottagningen.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs på Budget-SM. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §5.2.5 Näringslivsansvarig
 
@@ -843,13 +861,13 @@ Väljs på Val-SM. Har läsår som mandatperiod.
 
 Är ordförande för Idrottsnämnden.
 
-Väljs på Val-SM. Har läsår som mandatperiod.
+Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 ### §5.2.8 Storasyskon
 
 Är tillsammans med Konglig Öfverdrif ansvarig för Mottagningen.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs på Budget-SM. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §5.2.9 Studienämndens ordförande
 
@@ -891,7 +909,7 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 Är ordförande för D-Dagen. SM ska välja två D-Dagenansvariga.
 
-Väljs på Glögg-SM. Har kalenderår som mandatperiod.
+Väljs på Budget-SM. Har mandatperiod från 1:a november till 31:a december nästkommande år.
 
 ### §5.2.16 Bakis
 
@@ -938,6 +956,13 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 Är ordförande för Scala.
 
 Väljs på Val-SM. Har läsår som mandatperiod.
+
+### §5.2.23 Tomtemor/-far
+
+Är ordförande för dJulkalendern.
+
+Väljs på Revisions-SM. Har mandatperiod från 1:a april till 31:a mars.
+
 
 ## §5.3 Övriga funktionärer
 
@@ -1081,7 +1106,9 @@ Väljs på Glögg-SM. Har kalenderår som mandatperiod.
 
 #### §5.3.7.1 Ändamål
 
-Har till uppgift att agera som studerandeskyddsombud för sektionen, med fokus på studiemiljö. Ska såväl proaktivt som reaktivt verka för att sektions medlemmarnas studiemiljö är så bra som möjligt.
+Är studerandeskyddsombud, med fokus på studiemiljö, för sektionen.
+
+Ska pro- och reaktivt verka för att sektionsmedlemmarnas studiemiljö är så bra som möjligt.
 
 #### §5.3.7.2 Organisation
 
