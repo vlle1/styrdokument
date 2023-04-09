@@ -6,13 +6,12 @@ Vice ...,Vice ...
 funktionär,official,,,
 funktionärspost,official post,,,new - old was "officer"
 nämnd,club
-Ordförande,Chairperson,,"Chair,Chairman,Chairwoman"
+Ordförande,Chairperson,Sektionsordförande,"Chair,Chairman,Chairwoman,Chapter President"
 förtroendevald,elected representative
 projektledare,project manager
 Återkommande projekt,Recurring projects
 
 Styrelse,board,"d-Rektorat,Ledningsgrupp","d-Directorate,Directorate",
-Sektionsordförande,Chapter President,
 Kassör,Treasurer,
 Sekreterare,Secretary,
 Ledamot för ...,Board member of ...,,commissioner for,
@@ -22,7 +21,8 @@ Ledamot för studiemiljöfrågor,Board member for work environment,d-SMF,,outdat
 Ledamot för näringsliv och kommunikaion,Board member of business relations,
 Revisor,Accountant,,Statury auditor
 Justeringsperson,Attestator and teller
-Kårfullmäktige delegater,Student union assembly delegates,
+Kårfullmäktige delegater,Student Union Concil delegates,
+Kårfullmäktige, Student Union Council
 Kommunikatör,Head of Communication
 Konglig lokalchef,Royal chief of halls
 Sektionshistoriker,Chapter historian
@@ -89,6 +89,8 @@ Sektionsmöte,Chapter meeting,SM
 Direktionsmöte,Board meeting,DM
 JML-utbildning,equality training,,equality training seminar,NY - används i dfunktpolicy!
 funktionärsutbildning,general training,,training for officials,NY - används i dfunktpolicy!
+STAD-utbildning,KTH's serving training,,,new
+FEST-utbildning,KTH's event training,,,new /meh. party training!? - see also festanmälan
 
 närvarolista,list of attendance
 beslut,decision,,resolve
@@ -108,6 +110,8 @@ Revision,Audit
 D-dagen,D-day,datasektionens arbetsmässa,the CS chapter's career fair,
 skiftesgasque,shift-gasque,,
 teambuilding,team-building,TB,,write together or separate?
+festanmälan,event registration
+
 ,,,,PLACES
 Sektionslokal,Chapter hall
 alkohollager,beverage storage,dryckeslager
