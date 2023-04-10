@@ -1,6 +1,6 @@
 swedish_standardised_term,english_standardised_term,swedish_alternatives,english_alternatives,comments
 ,,,,POSITIONS and GROUPS
-Vice ...,Vice ...
+vice ...,vice ...
 ...ordförande,Head of ...,
 
 funktionär,official,,,
@@ -11,7 +11,7 @@ förtroendevald,elected representative
 projektledare,project manager
 Återkommande projekt,Recurring projects
 
-Styrelse,board,"d-Rektorat,Ledningsgrupp","d-Directorate,Directorate",
+styrelse,board,"d-Rektorat,Ledningsgrupp","d-Directorate,Directorate",
 Kassör,Treasurer,
 Sekreterare,Secretary,
 Ledamot för ...,Board member of ...,,commissioner for,
@@ -147,8 +147,8 @@ Tillståndsenheten, Licensing Authority,,,new - ok?
 Extrainsatt,extraordinary
 fika,fika,,coffee break
 hedersdelta,Delta of Honor
-sektion,chapter
-Datasektionen,Chapter of computer science,"Data,D",CS chapter,
+sektion,chapter,
+Datasektionen,CS chapter,"Data",Chapter of computer science,
 Tekniska Högskolans Studentkår, Student Union, THS
 
 profilkläder, profile clothing,,,NEW. in ekonomisk
